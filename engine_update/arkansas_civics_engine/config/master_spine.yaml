@@ -1,0 +1,35 @@
+courses:
+  - slug: course_01_civic_awakening
+    title: Civic Awakening
+    description: Introduces the quiet civic crisis, how power works, Arkansas civic history, and the tools citizens already have.
+    chapters:
+      - slug: chapter_01_pulling_up_more_chairs
+        title: Pulling Up More Chairs
+      - slug: chapter_02_how_power_works
+        title: How Power Actually Works
+      - slug: chapter_03_arkansas_civic_story
+        title: The Arkansas Civic Story
+      - slug: chapter_04_tools_citizens_have
+        title: The Tools Citizens Already Have
+  - slug: course_02_shared_pain
+    title: Shared Pain
+  - slug: course_03_shared_purpose
+    title: Shared Purpose
+  - slug: course_04_shared_possibility
+    title: Shared Possibility
+  - slug: course_05_movement_narratives
+    title: Movement Narratives
+  - slug: course_06_coalitions_and_leadership
+    title: Coalitions and Leadership
+  - slug: course_07_recruiting_supporters
+    title: Recruiting Supporters
+  - slug: course_08_messaging_and_media
+    title: Messaging and Media
+  - slug: course_09_strategy_petitions_campaigns
+    title: Strategy, Petitions, and Campaigns
+  - slug: course_10_opposition_pushback_rule_changes
+    title: Opposition, Pushback, and Rule Changes
+  - slug: course_11_reader_becomes_the_organizer
+    title: The Reader Becomes the Organizer
+  - slug: course_12_sustaining_the_ecosystem
+    title: Sustaining the Ecosystem

@@ -1,0 +1,12 @@
+title: Voting Systems and Representation
+      course_number: 4
+      duration_minutes: 90
+      theme: "How the rules of elections shape power, exclusion, and civic confidence."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_plurality_runoffs_and_ranked_choice
+- chapter_02_at_large_systems_jim_crow_and_districts
+- chapter_03_approval_cumulative_and_limited_voting
+- chapter_04_redesigning_representation_in_arkansas

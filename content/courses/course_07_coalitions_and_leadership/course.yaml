@@ -1,0 +1,12 @@
+title: Coalitions and Leadership
+      course_number: 7
+      duration_minutes: 90
+      theme: "Servant leadership, coalition building, and trust restoration."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_servant_leadership_in_arkansas
+- chapter_02_building_coalitions_across_difference
+- chapter_03_the_arkansas_table_as_leadership_practice
+- chapter_04_when_leaders_pull_up_chairs

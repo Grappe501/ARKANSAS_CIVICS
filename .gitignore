@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Node / Netlify
+node_modules/
+.netlify/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Build caches and backups
+backups/
+*.log
+
+# Generated exports
+exports/book/
+exports/course/
+exports/course_factory/
+exports/facilitator/
+exports/project_map/
+exports/reader_site/
+exports/rise/
+exports/scorm/
+exports/workbook/
+exports/workshop/
+
+# Generated packages
+*.zip
+
+# Keep source content authoritative; dashboard content is generated mirror
+apps/editor-dashboard/content/
+apps/editor-dashboard/content-manifest.json

@@ -1,0 +1,12 @@
+title: Opposition, Pushback, and Rule Changes
+      course_number: 10
+      duration_minutes: 90
+      theme: "How institutions and entrenched power respond when citizens threaten the status quo."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_power_pushback_in_history
+- chapter_02_legislative_backlash_to_ballot_power
+- chapter_03_courts_secretaries_of_state_and_gatekeeping
+- chapter_04_how_movements_adapt_after_losses

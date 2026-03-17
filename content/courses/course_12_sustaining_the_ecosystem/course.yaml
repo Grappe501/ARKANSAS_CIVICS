@@ -1,0 +1,12 @@
+title: Sustaining the Ecosystem
+      course_number: 12
+      duration_minutes: 90
+      theme: "Build a living Arkansas civic platform that can grow forever."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_the_arkansas_civic_system
+- chapter_02_from_book_to_platform
+- chapter_03_the_long_tail_of_stories_data_and_training
+- chapter_04_the_future_appendices_and_spawned_courses

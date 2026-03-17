@@ -1,0 +1,12 @@
+title: The Reader Becomes the Organizer
+      course_number: 11
+      duration_minutes: 90
+      theme: "Move from reader insight to reusable organizing systems for real communities."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_local_campaigns_and_table_based_organizing
+- chapter_02_ballot_initiatives_union_drives_and_church_organizing
+- chapter_03_data_story_and_discipline
+- chapter_04_designing_for_replication

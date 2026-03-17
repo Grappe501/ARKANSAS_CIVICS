@@ -1,0 +1,12 @@
+title: Direct Democracy and the Ballot
+      course_number: 3
+      duration_minutes: 90
+      theme: "How Arkansans write law directly through initiatives and referendums."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_amendment_7_and_people_power
+- chapter_02_how_initiatives_and_referendums_work
+- chapter_03_modern_ballot_fights
+- chapter_04_learns_capes_and_the_summer_of_civic_engagement

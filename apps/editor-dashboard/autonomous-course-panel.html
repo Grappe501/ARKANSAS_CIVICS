@@ -1,0 +1,28 @@
+<div class="panel">
+
+<h2>Autonomous Course Generator</h2>
+
+<p>Create a complete civic course automatically.</p>
+
+<button id="generate-course">
+Generate New Course
+</button>
+
+<script type="module">
+
+import { generateCourse } from "./generate-course.js"
+
+document.getElementById("generate-course")
+.addEventListener("click", () => {
+
+    const brief = prompt(
+        "Optional course brief YAML path (leave blank for default)"
+    )
+
+    generateCourse(brief || null)
+
+})
+
+</script>
+
+</div>

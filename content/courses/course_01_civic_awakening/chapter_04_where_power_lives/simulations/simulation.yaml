@@ -1,0 +1,6 @@
+simulation_name: Where Power Lives in Arkansas Simulation
+mode: decision_tree
+decisions:
+  - identify_tension
+  - choose_story_frame
+  - choose_engagement_path

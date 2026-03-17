@@ -1,0 +1,6 @@
+simulation_name: Tenant Farmers, Unions, and Delta Organizing Simulation
+mode: decision_tree
+decisions:
+  - identify_tension
+  - choose_story_frame
+  - choose_engagement_path

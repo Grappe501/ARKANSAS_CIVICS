@@ -1,0 +1,6 @@
+simulation_name: Elaine and the Cost of Threatened Power Simulation
+mode: decision_tree
+decisions:
+  - identify_tension
+  - choose_story_frame
+  - choose_engagement_path

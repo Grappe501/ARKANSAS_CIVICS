@@ -1,0 +1,50 @@
+
+<manifest identifier="course_07_shared_purpose">
+
+<organizations default="org1">
+<organization identifier="org1">
+
+
+        <item identifier="lesson1" identifierref="res1">
+            <title>Lesson 1</title>
+        </item>
+        
+        <item identifier="lesson2" identifierref="res2">
+            <title>Lesson 2</title>
+        </item>
+        
+        <item identifier="lesson3" identifierref="res3">
+            <title>Lesson 3</title>
+        </item>
+        
+        <item identifier="lesson4" identifierref="res4">
+            <title>Lesson 4</title>
+        </item>
+        
+
+</organization>
+</organizations>
+
+<resources>
+
+
+        <resource identifier="res1" type="webcontent" href="lessons/lesson_1.html">
+            <file href="lessons/lesson_1.html"/>
+        </resource>
+        
+        <resource identifier="res2" type="webcontent" href="lessons/lesson_2.html">
+            <file href="lessons/lesson_2.html"/>
+        </resource>
+        
+        <resource identifier="res3" type="webcontent" href="lessons/lesson_3.html">
+            <file href="lessons/lesson_3.html"/>
+        </resource>
+        
+        <resource identifier="res4" type="webcontent" href="lessons/lesson_4.html">
+            <file href="lessons/lesson_4.html"/>
+        </resource>
+        
+
+</resources>
+
+</manifest>

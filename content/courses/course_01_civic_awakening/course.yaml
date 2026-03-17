@@ -1,0 +1,12 @@
+title: Civic Awakening
+      course_number: 1
+      duration_minutes: 90
+      theme: "Why Arkansas civic life grew quiet, and why the table matters."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_pull_up_more_chairs
+- chapter_02_when_the_table_went_quiet
+- chapter_03_the_quiet_crisis
+- chapter_04_where_power_lives

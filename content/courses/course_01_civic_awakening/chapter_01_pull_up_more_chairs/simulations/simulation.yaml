@@ -1,0 +1,6 @@
+simulation_name: Pulling Up More Chairs Simulation
+mode: decision_tree
+decisions:
+  - identify_tension
+  - choose_story_frame
+  - choose_engagement_path

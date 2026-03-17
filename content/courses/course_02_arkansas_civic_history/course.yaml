@@ -1,0 +1,12 @@
+title: Arkansas Civic History
+      course_number: 2
+      duration_minutes: 90
+      theme: "The long arc of organizing, backlash, reform, and renewal."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_reconstruction_and_backlash
+- chapter_02_elaine_and_the_cost_of_threatened_power
+- chapter_03_tenant_farmers_unions_and_delta_organizing
+- chapter_04_civil_rights_and_structural_change

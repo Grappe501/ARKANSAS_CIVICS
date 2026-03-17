@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arkansas Civics Editor Dashboard</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div id="app">
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <h1>Arkansas Civics</h1>
+        <p>Editor Dashboard</p>
+      </div>
+
+      <div class="sidebar-section">
+        <label for="courseSelect">Course</label>
+        <select id="courseSelect"></select>
+      </div>
+
+      <div class="sidebar-section">
+        <label for="chapterSelect">Chapter</label>
+        <select id="chapterSelect"></select>
+      </div>
+
+      <div class="sidebar-section">
+        <label for="segmentSelect">Segment</label>
+        <select id="segmentSelect"></select>
+      </div>
+
+      <div class="sidebar-section">
+        <button id="loadSegmentBtn">Load Segment</button>
+        <button id="loadContextBtn" class="secondary">Load Chapter Context</button>
+      </div>
+
+      <div class="sidebar-section">
+        <h3>Research Tools</h3>
+        <button id="researchBtn" class="secondary">Research</button>
+        <button id="suggestBtn" class="secondary">Suggest Rewrite</button>
+        <button id="storyBtn" class="secondary">Insert Story Ideas</button>
+      </div>
+
+      <div class="sidebar-section">
+        <h3>Course Factory</h3>
+        <button id="generateLessonBtn" class="secondary">Generate Lesson</button>
+        <button id="generateQuizBtn" class="secondary">Generate Quiz</button>
+        <button id="exportRiseBtn" class="secondary">Export Rise Lesson</button>
+      </div>
+    </aside>
+
+    <main class="workspace">
+      <header class="toolbar">
+        <div class="toolbar-left">
+          <span id="activePath">No segment loaded</span>
+        </div>
+        <div class="toolbar-right">
+          <button id="saveBtn">Save Draft</button>
+          <button id="rebuildBtn" class="secondary">Rebuild</button>
+          <button id="commitBtn" class="primary">Commit Universal</button>
+        </div>
+      </header>
+
+      <section class="split-layout">
+        <div class="panel review-panel">
+          <div class="panel-header">
+            <h2>Current Segment</h2>
+          </div>
+          <div id="currentSegmentView" class="panel-body markdown-view">
+            Select a segment to begin.
+          </div>
+        </div>
+
+        <div class="panel right-stack">
+          <div class="panel ai-panel">
+            <div class="panel-header">
+              <h2>AI Suggestions / Research</h2>
+            </div>
+            <div id="aiOutput" class="panel-body">
+              AI output will appear here.
+            </div>
+          </div>
+
+          <div class="panel editor-panel">
+            <div class="panel-header">
+              <h2>Writing Workspace</h2>
+            </div>
+            <textarea id="editor" class="panel-body editor-textarea" placeholder="Write here..."></textarea>
+          </div>
+        </div>
+      </section>
+
+      <section class="prompt-bar">
+        <div class="prompt-top">
+          <label for="instructionInput">Instruction / Prompt</label>
+        </div>
+        <div class="prompt-bottom">
+          <textarea id="instructionInput" placeholder="Ask for revisions, additions, deletions, personal stories, research, demographic overlays, movement examples, lesson generation, quizzes, or exports..."></textarea>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js" type="module"></script>
+</body>
+</html>

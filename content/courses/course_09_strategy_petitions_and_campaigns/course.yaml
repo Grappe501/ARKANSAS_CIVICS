@@ -1,0 +1,12 @@
+title: Strategy, Petitions, and Campaigns
+      course_number: 9
+      duration_minutes: 90
+      theme: "From issue selection to signatures, volunteer systems, and campaign sequencing."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_issue_selection_and_timing
+- chapter_02_petition_infrastructure_and_field_systems
+- chapter_03_county_strategy_demographics_and_targets
+- chapter_04_campaign_buildout_from_local_to_statewide

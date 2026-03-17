@@ -1,0 +1,6 @@
+simulation_name: Message Testing for Real People Simulation
+mode: decision_tree
+decisions:
+  - identify_tension
+  - choose_story_frame
+  - choose_engagement_path

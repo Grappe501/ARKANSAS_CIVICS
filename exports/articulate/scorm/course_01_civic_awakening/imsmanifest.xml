@@ -1,0 +1,82 @@
+
+<manifest identifier="course_01_civic_awakening">
+
+<organizations default="org1">
+<organization identifier="org1">
+
+
+        <item identifier="lesson1" identifierref="res1">
+            <title>Lesson 1</title>
+        </item>
+        
+        <item identifier="lesson2" identifierref="res2">
+            <title>Lesson 2</title>
+        </item>
+        
+        <item identifier="lesson3" identifierref="res3">
+            <title>Lesson 3</title>
+        </item>
+        
+        <item identifier="lesson4" identifierref="res4">
+            <title>Lesson 4</title>
+        </item>
+        
+        <item identifier="lesson5" identifierref="res5">
+            <title>Lesson 5</title>
+        </item>
+        
+        <item identifier="lesson6" identifierref="res6">
+            <title>Lesson 6</title>
+        </item>
+        
+        <item identifier="lesson7" identifierref="res7">
+            <title>Lesson 7</title>
+        </item>
+        
+        <item identifier="lesson8" identifierref="res8">
+            <title>Lesson 8</title>
+        </item>
+        
+
+</organization>
+</organizations>
+
+<resources>
+
+
+        <resource identifier="res1" type="webcontent" href="lessons/lesson_1.html">
+            <file href="lessons/lesson_1.html"/>
+        </resource>
+        
+        <resource identifier="res2" type="webcontent" href="lessons/lesson_2.html">
+            <file href="lessons/lesson_2.html"/>
+        </resource>
+        
+        <resource identifier="res3" type="webcontent" href="lessons/lesson_3.html">
+            <file href="lessons/lesson_3.html"/>
+        </resource>
+        
+        <resource identifier="res4" type="webcontent" href="lessons/lesson_4.html">
+            <file href="lessons/lesson_4.html"/>
+        </resource>
+        
+        <resource identifier="res5" type="webcontent" href="lessons/lesson_5.html">
+            <file href="lessons/lesson_5.html"/>
+        </resource>
+        
+        <resource identifier="res6" type="webcontent" href="lessons/lesson_6.html">
+            <file href="lessons/lesson_6.html"/>
+        </resource>
+        
+        <resource identifier="res7" type="webcontent" href="lessons/lesson_7.html">
+            <file href="lessons/lesson_7.html"/>
+        </resource>
+        
+        <resource identifier="res8" type="webcontent" href="lessons/lesson_8.html">
+            <file href="lessons/lesson_8.html"/>
+        </resource>
+        
+
+</resources>
+
+</manifest>

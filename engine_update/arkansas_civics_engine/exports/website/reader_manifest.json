@@ -1,0 +1,241 @@
+{
+  "pages": [
+    {
+      "id": "course_01.chapter_01.segment_01",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01_pulling_up_more_chairs",
+      "segment_slug": "opening_scene",
+      "title": "Opening Scene",
+      "content": "On a Tuesday evening in a small Arkansas town, the lights are already on inside the municipal building long before anyone arrives. The building itself is ordinary—brick walls, fluorescent lights, and a modest meeting room that has hosted decades of city council meetings, budget hearings, and community disputes.\n\nA long table sits at the front where elected officials will soon take their seats. Microphones line the table. Packets of paper wait beside water cups. Rows of metal folding chairs fill the rest of the room.\n\nMost nights, only a few of those chairs are occupied.\n\nOutside the building, life continues normally. Families eat dinner. Students finish homework. Local businesses close for the night. Inside the room, however, decisions are being made that will shape the community those families live in—budgets, zoning, repairs, development, school partnerships, public priorities.\n\nThese are not abstract political questions. They determine how a town grows, who gets heard, and what gets delayed.\n\nYet most of the people affected by those decisions are not in the room.\n\nThe chairs remain empty.\n\nAnd the meeting moves forward.",
+      "sources": [],
+      "tags": [
+        "opening",
+        "civic-awakening",
+        "arkansas"
+      ]
+    },
+    {
+      "id": "course_01.chapter_01.segment_02",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01_pulling_up_more_chairs",
+      "segment_slug": "the_empty_room",
+      "title": "The Empty Room",
+      "content": "Scenes like this unfold across Arkansas every week. City councils meet. School boards vote. County quorum courts review budgets and infrastructure priorities. Planning commissions shape how neighborhoods grow. The institutions of democracy are still operating. But something has quietly changed.\n\nPublic rooms are emptier than they were.\n\nThis does not mean Arkansans stopped caring. It means many stopped believing that showing up would matter. Over time, the conversation shifted away from physical civic spaces and into scattered online arguments, private frustration, and resignation.\n\nWhen the room is empty, leaders hear fewer voices. Concerns surface later. Organized interests become more influential by default. The public story of the community narrows to whoever remains present.",
+      "sources": [],
+      "tags": [
+        "civic-engagement",
+        "problem",
+        "participation"
+      ]
+    },
+    {
+      "id": "course_01.chapter_01.segment_03",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01_pulling_up_more_chairs",
+      "segment_slug": "quiet_civic_crisis",
+      "title": "The Quiet Civic Crisis",
+      "content": "Arkansas has often ranked at or near the bottom of national civic participation measures in areas such as voting, volunteerism, participation in civic organizations, and engagement with local government. That statistic matters not because rankings are everything, but because they confirm what many people already feel in daily life: fewer citizens are showing up, fewer believe their voices matter, and fewer expect the system to respond.\n\nThis is a quiet crisis because it does not always look dramatic. It looks like empty chairs, brief public comment periods, thin neighborhood networks, and communities that care deeply but do not believe participation will change outcomes.\n\nA quiet crisis is still a crisis. It changes who gets heard and who does not.",
+      "sources": [
+        "arkansas_book_draft_civic_participation_rank"
+      ],
+      "tags": [
+        "crisis",
+        "arkansas",
+        "disengagement"
+      ]
+    },
+    {
+      "id": "course_01.chapter_01.segment_04",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01_pulling_up_more_chairs",
+      "segment_slug": "pull_up_more_chairs",
+      "title": "Pull Up More Chairs",
+      "content": "The answer to civic withdrawal is not louder performance. It is not another stage. It is not another argument where neighbors become enemies before they become listeners.\n\nThe first answer is simpler.\n\nPull up more chairs.\n\nThat means creating spaces where ordinary Arkansans can enter the conversation without already knowing the rules, the acronyms, the procedures, or the power players. It means making civic life feel human again—local, relational, understandable, and open.\n\nA community changes when more people believe there is a place for them in the room.",
+      "sources": [],
+      "tags": [
+        "hope",
+        "invitation",
+        "participation"
+      ]
+    },
+    {
+      "id": "course_01.chapter_02.segment_01",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_02_how_power_works",
+      "segment_slug": "where_power_lives",
+      "title": "Where Power Lives",
+      "content": "Many people assume political power lives mostly in Washington or at the Arkansas Capitol. In reality, power in Arkansas is distributed across multiple layers: neighborhood networks, local boards, city councils, county quorum courts, school districts, state agencies, courts, parties, and ballot processes.\n\nIf people do not know where power lives, they cannot know where to intervene.",
+      "sources": [],
+      "tags": [
+        "power",
+        "institutions",
+        "arkansas"
+      ]
+    },
+    {
+      "id": "course_01.chapter_02.segment_02",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_02_how_power_works",
+      "segment_slug": "local_government_power",
+      "title": "Local Government Power",
+      "content": "In Arkansas, local government decisions shape daily life more directly than many statewide debates. City councils affect zoning, development, policing, and budgets. County quorum courts oversee county budgets, roads, and services. School boards shape education policy, district leadership, and student priorities.\n\nThese spaces are often the first rooms where citizens can move from frustration to influence.",
+      "sources": [],
+      "tags": [
+        "local-government",
+        "city-council",
+        "quorum-court",
+        "school-board"
+      ]
+    },
+    {
+      "id": "course_01.chapter_02.segment_03",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_02_how_power_works",
+      "segment_slug": "direct_democracy",
+      "title": "Direct Democracy",
+      "content": "Arkansas is unusual because citizens have constitutional tools of direct democracy. Through initiatives and referendums, voters can propose laws, propose constitutional amendments, and challenge legislation. That means the people have more than the vote for candidates—they also hold structural power over policy design.\n\nThat power matters most when formal institutions stop listening.",
+      "sources": [],
+      "tags": [
+        "ballot-initiatives",
+        "referendum",
+        "amendment-7"
+      ]
+    },
+    {
+      "id": "course_01.chapter_02.segment_04",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_02_how_power_works",
+      "segment_slug": "arkansas_civic_power_map",
+      "title": "The Arkansas Civic Power Map",
+      "content": "The Arkansas Civic Power Map connects neighborhood conversations, civic movements, local government, state institutions, direct democracy, courts, and public narrative. It reminds readers that civic action is not random. It moves through identifiable layers of influence.",
+      "sources": [],
+      "tags": [
+        "framework",
+        "power-map",
+        "civic-system"
+      ]
+    },
+    {
+      "id": "course_01.chapter_03.segment_01",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_03_arkansas_civic_story",
+      "segment_slug": "populists_and_farmers",
+      "title": "Farmers, Populists, and Economic Pain",
+      "content": "Arkansas civic history did not begin with modern campaigns. Farmers, laborers, and local communities organized long before social media or consultants. Again and again, economic pain forced people to ask whether power was serving them or using them.\n\nThe lesson is simple: shared pain often becomes the first stage of a movement.",
+      "sources": [],
+      "tags": [
+        "history",
+        "populism",
+        "farm-movements"
+      ]
+    },
+    {
+      "id": "course_01.chapter_03.segment_02",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_03_arkansas_civic_story",
+      "segment_slug": "elaine_massacre",
+      "title": "The Elaine Massacre as a Warning",
+      "content": "The Elaine Massacre belongs in Arkansas civic history not only as a racial atrocity, but as a warning about what can happen when marginalized people organize in ways that threaten entrenched economic and political power. Black sharecroppers trying to demand fair payment were met with terror, mass killing, arrests, and legal abuse.\n\nThis history deepens the movement framework. Organizing does not always meet polite disagreement. Sometimes it meets repression.",
+      "sources": [],
+      "tags": [
+        "elaine",
+        "racial-violence",
+        "labor",
+        "backlash"
+      ]
+    },
+    {
+      "id": "course_01.chapter_03.segment_03",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_03_arkansas_civic_story",
+      "segment_slug": "labor_unions_right_to_work",
+      "title": "Labor, Unions, and Right to Work",
+      "content": "Arkansas labor history is often hidden inside larger stories about the South, but it matters deeply to understanding civic power. Union efforts, tenant organizing, industrial labor struggles, and the adoption of Right to Work shaped what collective action could look like in the state.\n\nThis history also opens a modern hypothetical: if Arkansans wanted to organize around constitutional protection for collective bargaining, what would that movement require? That question can function as a teaching case throughout the book and course.",
+      "sources": [],
+      "tags": [
+        "labor",
+        "unions",
+        "right-to-work",
+        "collective-bargaining"
+      ]
+    },
+    {
+      "id": "course_01.chapter_03.segment_04",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_03_arkansas_civic_story",
+      "segment_slug": "modern_civic_awakening",
+      "title": "The Modern Civic Awakening",
+      "content": "Recent Arkansas petition fights revealed that direct democracy is not a relic. It is a live arena of conflict. The LEARNS referendum effort, later petition drives, legislative attempts to restrict ballot access, and court battles over petition technicalities all belong in the current civic history of the state.\n\nThis is where the old framework becomes current: shared pain, organizing, movement growth, pushback, rule changes, and new organizing.",
+      "sources": [],
+      "tags": [
+        "learns-act",
+        "petitions",
+        "direct-democracy",
+        "modern-history"
+      ]
+    },
+    {
+      "id": "course_01.chapter_04.segment_01",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_04_tools_citizens_have",
+      "segment_slug": "ballot_initiatives_and_referendums",
+      "title": "Ballot Initiatives and Referendums",
+      "content": "Arkansas citizens have unusual power through initiatives and referendums. These tools matter because they allow people to act when the legislature will not, or to challenge major laws after passage. They are not easy tools. They require signatures, timing, legal precision, and public trust. But they are real tools.",
+      "sources": [],
+      "tags": [
+        "tools",
+        "ballot-initiatives",
+        "referendum",
+        "amendment-7"
+      ]
+    },
+    {
+      "id": "course_01.chapter_04.segment_02",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_04_tools_citizens_have",
+      "segment_slug": "voting_systems",
+      "title": "Voting Systems Shape Power",
+      "content": "Plurality systems, runoffs, ranked choice voting, district systems, and at-large systems all shape representation differently. Arkansas readers should understand that election systems are designed rules with consequences. A plurality election can produce winners without majority support. Runoffs try to correct that. Ranked choice simulates a runoff without a second election. At-large systems can dilute minority representation. District systems can protect voice, but also be manipulated through district design.",
+      "sources": [
+        "eac_alternative_voting_methods"
+      ],
+      "tags": [
+        "voting-systems",
+        "ranked-choice",
+        "plurality",
+        "runoffs",
+        "at-large"
+      ]
+    },
+    {
+      "id": "course_01.chapter_04.segment_03",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_04_tools_citizens_have",
+      "segment_slug": "at_large_and_jim_crow",
+      "title": "At-Large Elections and Jim Crow Power",
+      "content": "At-large systems were often defended as simple and efficient, but in many places across the South they also functioned to dilute Black voting strength and leave minority communities without representation. This history matters because it teaches a larger lesson: procedures can look neutral while producing exclusionary outcomes.",
+      "sources": [
+        "eac_alternative_voting_methods"
+      ],
+      "tags": [
+        "jim-crow",
+        "at-large",
+        "voting-rights"
+      ]
+    },
+    {
+      "id": "course_01.chapter_04.segment_04",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_04_tools_citizens_have",
+      "segment_slug": "from_tools_to_movements",
+      "title": "Tools Become Movements",
+      "content": "Civic tools matter, but tools alone do not create change. People do. A ballot process, a public meeting, a voting system reform, or a local board seat only matters when citizens understand how to use it strategically. That is where movements begin: not with technique alone, but with shared pain, shared story, shared purpose, and organized follow-through.\n\nCourse 1 ends here by shifting the reader from awareness to agency. The next question is no longer only what is broken. It is what kind of movement could grow from the tools already in the people's hands.",
+      "sources": [],
+      "tags": [
+        "movement-formula",
+        "organizing",
+        "tools"
+      ]
+    }
+  ]
+}

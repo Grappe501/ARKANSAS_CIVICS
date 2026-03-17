@@ -1,0 +1,12 @@
+title: Messaging, Media, and Narrative
+      course_number: 8
+      duration_minutes: 90
+      theme: "How stories move public opinion and how movements are framed or distorted."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_how_political_narratives_shape_arkansas
+- chapter_02_the_southern_strategy_and_modern_message_design
+- chapter_03_message_testing_for_real_people
+- chapter_04_media_battles_misinformation_and_movement_discipline

@@ -1,0 +1,12 @@
+title: Shared Pain, Shared Story
+      course_number: 6
+      duration_minutes: 90
+      theme: "The psychological and narrative stages that convert private frustration into public action."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_the_arkansas_movement_formula
+- chapter_02_shared_pain
+- chapter_03_shared_story
+- chapter_04_shared_purpose_and_shared_possibility

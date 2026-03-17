@@ -1,0 +1,18 @@
+id: voting_ranked_choice
+title: Ranked Choice Voting
+system_type: single_winner_and_multi_winner
+topics:
+- voting_systems
+- ranked_choice
+- majority
+summary: Ranked choice voting lets voters rank candidates and can eliminate separate
+  runoff elections.
+book_use:
+- voting_systems
+- tools_citizens_have
+course_use:
+- course_04_voting_systems
+tags:
+- rcv
+- majority
+- reform

@@ -1,0 +1,14 @@
+id: counties_index
+title: Arkansas Counties Index
+summary: Starter index for county-level expansion.
+counties:
+- Pulaski
+- Washington
+- Benton
+- Jefferson
+- Craighead
+- Sebastian
+- Garland
+- Faulkner
+- Saline
+- Phillips

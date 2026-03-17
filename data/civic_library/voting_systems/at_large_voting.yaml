@@ -1,0 +1,18 @@
+id: voting_at_large
+title: At-Large Voting
+system_type: representation_system
+topics:
+- voting_systems
+- representation
+- jim_crow
+summary: At-large systems can allow majority blocs to control all seats and historically
+  diluted minority representation in the South.
+book_use:
+- voting_systems
+- jim_crow_history
+course_use:
+- course_04_voting_systems
+tags:
+- at_large
+- jim_crow
+- representation

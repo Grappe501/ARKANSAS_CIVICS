@@ -1,0 +1,12 @@
+title: Labor, Unions, and Collective Power
+      course_number: 5
+      duration_minutes: 90
+      theme: "Workplace power, right-to-work, and the organizing lessons of labor history."
+      website_extensions: true
+      articulate_mode: scenario_based
+      simulation_track: mainline
+      chapters:
+        - chapter_01_arkansas_labor_history
+- chapter_02_right_to_work_and_its_consequences
+- chapter_03_collective_bargaining_as_a_hypothetical_movement
+- chapter_04_building_a_workers_voice_amendment

@@ -1,0 +1,294 @@
+{
+  "courses": [
+    {
+      "slug": "course_01_civic_awakening",
+      "title": "Civic Awakening",
+      "theme": "Why Arkansas civic life grew quiet, and why the table matters.",
+      "chapters": [
+        [
+          "chapter_01_pull_up_more_chairs",
+          "Pulling Up More Chairs"
+        ],
+        [
+          "chapter_02_when_the_table_went_quiet",
+          "When the Table Went Quiet"
+        ],
+        [
+          "chapter_03_the_quiet_crisis",
+          "The Quiet Crisis"
+        ],
+        [
+          "chapter_04_where_power_lives",
+          "Where Power Lives in Arkansas"
+        ]
+      ]
+    },
+    {
+      "slug": "course_02_arkansas_civic_history",
+      "title": "Arkansas Civic History",
+      "theme": "The long arc of organizing, backlash, reform, and renewal.",
+      "chapters": [
+        [
+          "chapter_01_reconstruction_and_backlash",
+          "Reconstruction and Backlash"
+        ],
+        [
+          "chapter_02_elaine_and_the_cost_of_threatened_power",
+          "Elaine and the Cost of Threatened Power"
+        ],
+        [
+          "chapter_03_tenant_farmers_unions_and_delta_organizing",
+          "Tenant Farmers, Unions, and Delta Organizing"
+        ],
+        [
+          "chapter_04_civil_rights_and_structural_change",
+          "Civil Rights and Structural Change"
+        ]
+      ]
+    },
+    {
+      "slug": "course_03_direct_democracy_and_the_ballot",
+      "title": "Direct Democracy and the Ballot",
+      "theme": "How Arkansans write law directly through initiatives and referendums.",
+      "chapters": [
+        [
+          "chapter_01_amendment_7_and_people_power",
+          "Amendment 7 and People Power"
+        ],
+        [
+          "chapter_02_how_initiatives_and_referendums_work",
+          "How Initiatives and Referendums Work"
+        ],
+        [
+          "chapter_03_modern_ballot_fights",
+          "Modern Ballot Fights"
+        ],
+        [
+          "chapter_04_learns_capes_and_the_summer_of_civic_engagement",
+          "LEARNS, CAPES, and the Summer of Civic Engagement"
+        ]
+      ]
+    },
+    {
+      "slug": "course_04_voting_systems_and_representation",
+      "title": "Voting Systems and Representation",
+      "theme": "How the rules of elections shape power, exclusion, and civic confidence.",
+      "chapters": [
+        [
+          "chapter_01_plurality_runoffs_and_ranked_choice",
+          "Plurality, Runoffs, and Ranked Choice"
+        ],
+        [
+          "chapter_02_at_large_systems_jim_crow_and_districts",
+          "At-Large Systems, Jim Crow, and Districts"
+        ],
+        [
+          "chapter_03_approval_cumulative_and_limited_voting",
+          "Approval, Cumulative, and Limited Voting"
+        ],
+        [
+          "chapter_04_redesigning_representation_in_arkansas",
+          "Redesigning Representation in Arkansas"
+        ]
+      ]
+    },
+    {
+      "slug": "course_05_labor_unions_and_collective_power",
+      "title": "Labor, Unions, and Collective Power",
+      "theme": "Workplace power, right-to-work, and the organizing lessons of labor history.",
+      "chapters": [
+        [
+          "chapter_01_arkansas_labor_history",
+          "Arkansas Labor History"
+        ],
+        [
+          "chapter_02_right_to_work_and_its_consequences",
+          "Right-to-Work and Its Consequences"
+        ],
+        [
+          "chapter_03_collective_bargaining_as_a_hypothetical_movement",
+          "Collective Bargaining as a Hypothetical Movement"
+        ],
+        [
+          "chapter_04_building_a_workers_voice_amendment",
+          "Building a Workers\u2019 Voice Amendment"
+        ]
+      ]
+    },
+    {
+      "slug": "course_06_shared_pain_shared_story",
+      "title": "Shared Pain, Shared Story",
+      "theme": "The psychological and narrative stages that convert private frustration into public action.",
+      "chapters": [
+        [
+          "chapter_01_the_arkansas_movement_formula",
+          "The Arkansas Movement Formula"
+        ],
+        [
+          "chapter_02_shared_pain",
+          "Shared Pain"
+        ],
+        [
+          "chapter_03_shared_story",
+          "Shared Story"
+        ],
+        [
+          "chapter_04_shared_purpose_and_shared_possibility",
+          "Shared Purpose and Shared Possibility"
+        ]
+      ]
+    },
+    {
+      "slug": "course_07_coalitions_and_leadership",
+      "title": "Coalitions and Leadership",
+      "theme": "Servant leadership, coalition building, and trust restoration.",
+      "chapters": [
+        [
+          "chapter_01_servant_leadership_in_arkansas",
+          "Servant Leadership in Arkansas"
+        ],
+        [
+          "chapter_02_building_coalitions_across_difference",
+          "Building Coalitions Across Difference"
+        ],
+        [
+          "chapter_03_the_arkansas_table_as_leadership_practice",
+          "The Arkansas Table as Leadership Practice"
+        ],
+        [
+          "chapter_04_when_leaders_pull_up_chairs",
+          "When Leaders Pull Up Chairs"
+        ]
+      ]
+    },
+    {
+      "slug": "course_08_messaging_media_and_narrative",
+      "title": "Messaging, Media, and Narrative",
+      "theme": "How stories move public opinion and how movements are framed or distorted.",
+      "chapters": [
+        [
+          "chapter_01_how_political_narratives_shape_arkansas",
+          "How Political Narratives Shape Arkansas"
+        ],
+        [
+          "chapter_02_the_southern_strategy_and_modern_message_design",
+          "The Southern Strategy and Modern Message Design"
+        ],
+        [
+          "chapter_03_message_testing_for_real_people",
+          "Message Testing for Real People"
+        ],
+        [
+          "chapter_04_media_battles_misinformation_and_movement_discipline",
+          "Media Battles, Misinformation, and Movement Discipline"
+        ]
+      ]
+    },
+    {
+      "slug": "course_09_strategy_petitions_and_campaigns",
+      "title": "Strategy, Petitions, and Campaigns",
+      "theme": "From issue selection to signatures, volunteer systems, and campaign sequencing.",
+      "chapters": [
+        [
+          "chapter_01_issue_selection_and_timing",
+          "Issue Selection and Timing"
+        ],
+        [
+          "chapter_02_petition_infrastructure_and_field_systems",
+          "Petition Infrastructure and Field Systems"
+        ],
+        [
+          "chapter_03_county_strategy_demographics_and_targets",
+          "County Strategy, Demographics, and Targets"
+        ],
+        [
+          "chapter_04_campaign_buildout_from_local_to_statewide",
+          "Campaign Buildout from Local to Statewide"
+        ]
+      ]
+    },
+    {
+      "slug": "course_10_opposition_pushback_and_rule_changes",
+      "title": "Opposition, Pushback, and Rule Changes",
+      "theme": "How institutions and entrenched power respond when citizens threaten the status quo.",
+      "chapters": [
+        [
+          "chapter_01_power_pushback_in_history",
+          "Power Pushback in History"
+        ],
+        [
+          "chapter_02_legislative_backlash_to_ballot_power",
+          "Legislative Backlash to Ballot Power"
+        ],
+        [
+          "chapter_03_courts_secretaries_of_state_and_gatekeeping",
+          "Courts, Secretaries of State, and Gatekeeping"
+        ],
+        [
+          "chapter_04_how_movements_adapt_after_losses",
+          "How Movements Adapt After Losses"
+        ]
+      ]
+    },
+    {
+      "slug": "course_11_the_reader_becomes_the_organizer",
+      "title": "The Reader Becomes the Organizer",
+      "theme": "Move from reader insight to reusable organizing systems for real communities.",
+      "chapters": [
+        [
+          "chapter_01_local_campaigns_and_table_based_organizing",
+          "Local Campaigns and Table-Based Organizing"
+        ],
+        [
+          "chapter_02_ballot_initiatives_union_drives_and_church_organizing",
+          "Ballot Initiatives, Union Drives, and Church Organizing"
+        ],
+        [
+          "chapter_03_data_story_and_discipline",
+          "Data, Story, and Discipline"
+        ],
+        [
+          "chapter_04_designing_for_replication",
+          "Designing for Replication"
+        ]
+      ]
+    },
+    {
+      "slug": "course_12_sustaining_the_ecosystem",
+      "title": "Sustaining the Ecosystem",
+      "theme": "Build a living Arkansas civic platform that can grow forever.",
+      "chapters": [
+        [
+          "chapter_01_the_arkansas_civic_system",
+          "The Arkansas Civic System"
+        ],
+        [
+          "chapter_02_from_book_to_platform",
+          "From Book to Platform"
+        ],
+        [
+          "chapter_03_the_long_tail_of_stories_data_and_training",
+          "The Long Tail of Stories, Data, and Training"
+        ],
+        [
+          "chapter_04_the_future_appendices_and_spawned_courses",
+          "The Future: Appendices and Spawned Courses"
+        ]
+      ]
+    }
+  ],
+  "segments": [
+    "01_overview.md",
+    "02_reader_psychology.md",
+    "03_arkansas_story_anchor.md",
+    "04_historical_context.md",
+    "05_data_and_demographics.md",
+    "06_framework_or_model.md",
+    "07_case_study.md",
+    "08_simulation_hook.md",
+    "09_articulate_blocks.md",
+    "10_web_reader_extension.md",
+    "11_workshop_bridge.md",
+    "12_revision_notes.md"
+  ]
+}
