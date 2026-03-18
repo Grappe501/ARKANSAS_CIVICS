@@ -2,7 +2,7 @@
   "learner_id": "demo_learner",
   "database_connected": false,
   "persistence": "filesystem",
-  "generated_at": "2026-03-18T01:51:48.982588+00:00",
+  "generated_at": "2026-03-18T13:29:52.018693+00:00",
   "summary": {
     "total_active_seconds": 0,
     "total_idle_seconds": 0,
