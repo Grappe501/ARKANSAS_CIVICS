@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-03-18T14:16:39.747624+00:00",
+  "engine": "learning_analytics_engine",
+  "tracks": [
+    "active_learning_seconds",
+    "idle_seconds",
+    "course_rollups",
+    "chapter_rollups",
+    "segment_completion",
+    "volunteer_hours",
+    "admin_dashboard_snapshots"
+  ],
+  "future_tables": [
+    "learner_profiles",
+    "analytics_sessions",
+    "analytics_rollups",
+    "volunteer_hour_logs",
+    "admin_reports"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "messaging-and-narrative-path",
+  "title": "Messaging and Narrative Path",
+  "subtitle": "A pathway for people shaping public meaning, movement identity, and Arkansas-facing persuasion.",
+  "description": "Train communicators to connect civic content, public story, media discipline, and message testing into a unified practice.",
+  "audience": "Communications leads, spokespeople, media strategists, educators, storytellers.",
+  "focus_tags": [
+    "messaging",
+    "media",
+    "story",
+    "persuasion"
+  ],
+  "course_count": 6,
+  "estimated_minutes": 897,
+  "estimated_hours": 14.9,
+  "metadata": {
+    "career_track": true,
+    "role": "communications",
+    "generated_by": "engine.track_engine",
+    "source_of_truth": "content/courses"
+  },
+  "milestones": [
+    {
+      "slug": "story-basics",
+      "title": "Story Foundations",
+      "description": "Complete the story foundations milestone by finishing the required Arkansas civics modules.",
+      "level": 1,
+      "badge": "Story Scout",
+      "target_hours": 5.9,
+      "estimated_minutes": 353,
+      "course_refs": [
+        {
+          "course_slug": "course_06_shared_pain_shared_story",
+          "course_title": "Shared Pain Shared Story",
+          "reason": "Understand the emotional architecture of public story.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_01_civic_awakening",
+          "course_title": "Civic Awakening",
+          "reason": "Anchor story in civic reality.",
+          "required": true,
+          "estimated_minutes": 217,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "message-design",
+      "title": "Message Design",
+      "description": "Complete the message design milestone by finishing the required Arkansas civics modules.",
+      "level": 2,
+      "badge": "Narrative Engineer",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_08_messaging_media_and_narrative",
+          "course_title": "Messaging Media And Narrative",
+          "reason": "Study Arkansas narrative shaping, message design, and testing.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_07_coalitions_and_leadership",
+          "course_title": "Coalitions And Leadership",
+          "reason": "Align messaging with coalition leadership realities.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "campaign-application",
+      "title": "Campaign Application",
+      "description": "Complete the campaign application milestone by finishing the required Arkansas civics modules.",
+      "level": 3,
+      "badge": "Movement Messenger",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_09_strategy_petitions_and_campaigns",
+          "course_title": "Strategy Petitions And Campaigns",
+          "reason": "Apply message systems to petition and campaign strategy.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_10_opposition_pushback_and_rule_changes",
+          "course_title": "Opposition Pushback And Rule Changes",
+          "reason": "Study misinformation, counter-narratives, and movement discipline.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "generated_by": "engine.track_engine",
+  "track_count": 7,
+  "tracks": [
+    {
+      "slug": "stand-up-arkansas-civic-foundations",
+      "title": "Stand Up Arkansas Civic Foundations",
+      "subtitle": "The launchpad for civic literacy, historical context, and Arkansas power analysis.",
+      "course_count": 6,
+      "estimated_minutes": 977,
+      "estimated_hours": 16.3,
+      "audience": "New learners, students, volunteers, and community members entering the platform.",
+      "focus_tags": [
+        "foundations",
+        "arkansas",
+        "history",
+        "civics"
+      ],
+      "milestone_count": 3
+    },
+    {
+      "slug": "campaign-manager-path",
+      "title": "Campaign Manager Path",
+      "subtitle": "A systems-level leadership pathway for designing, staffing, and executing campaigns.",
+      "course_count": 8,
+      "estimated_minutes": 1249,
+      "estimated_hours": 20.8,
+      "audience": "Campaign managers, field directors, chiefs of staff, organizers moving into leadership.",
+      "focus_tags": [
+        "campaigns",
+        "strategy",
+        "leadership",
+        "management"
+      ],
+      "milestone_count": 4
+    },
+    {
+      "slug": "organizer-field-path",
+      "title": "Organizer and Field Path",
+      "subtitle": "A pathway for local leaders building people power, volunteer discipline, and public action.",
+      "course_count": 8,
+      "estimated_minutes": 1169,
+      "estimated_hours": 19.5,
+      "audience": "Community organizers, volunteer leaders, church organizers, union leaders, field captains.",
+      "focus_tags": [
+        "organizing",
+        "field",
+        "volunteers",
+        "leadership"
+      ],
+      "milestone_count": 4
+    },
+    {
+      "slug": "arkansas-constitution-and-ballot-path",
+      "title": "Arkansas Constitution and Ballot Path",
+      "subtitle": "A specialized track for deep study of constitutional structure, ballot power, and democratic design.",
+      "course_count": 6,
+      "estimated_minutes": 896,
+      "estimated_hours": 14.9,
+      "audience": "Researchers, lawyers, policy advocates, ballot leaders, constitution scholars.",
+      "focus_tags": [
+        "constitution",
+        "ballot",
+        "policy",
+        "governance"
+      ],
+      "milestone_count": 3
+    },
+    {
+      "slug": "messaging-and-narrative-path",
+      "title": "Messaging and Narrative Path",
+      "subtitle": "A pathway for people shaping public meaning, movement identity, and Arkansas-facing persuasion.",
+      "course_count": 6,
+      "estimated_minutes": 897,
+      "estimated_hours": 14.9,
+      "audience": "Communications leads, spokespeople, media strategists, educators, storytellers.",
+      "focus_tags": [
+        "messaging",
+        "media",
+        "story",
+        "persuasion"
+      ],
+      "milestone_count": 3
+    },
+    {
+      "slug": "leadership-development-path",
+      "title": "Leadership Development Path",
+      "subtitle": "A pathway for servant leaders building long-term civic infrastructure in Arkansas.",
+      "course_count": 8,
+      "estimated_minutes": 1249,
+      "estimated_hours": 20.8,
+      "audience": "Executive leaders, movement builders, organizational directors, coalition conveners.",
+      "focus_tags": [
+        "leadership",
+        "servant-leadership",
+        "ecosystem",
+        "strategy"
+      ],
+      "milestone_count": 4
+    },
+    {
+      "slug": "arkansas-history-scholar-path",
+      "title": "Arkansas History Scholar Path",
+      "subtitle": "A pathway for learners who want deep historical context behind Arkansas civic life and public struggle.",
+      "course_count": 6,
+      "estimated_minutes": 896,
+      "estimated_hours": 14.9,
+      "audience": "Students, teachers, researchers, historians, public education leaders.",
+      "focus_tags": [
+        "history",
+        "arkansas",
+        "research",
+        "public-memory"
+      ],
+      "milestone_count": 3
+    }
+  ]
+}

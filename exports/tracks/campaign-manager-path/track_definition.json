@@ -1,0 +1,132 @@
+{
+  "slug": "campaign-manager-path",
+  "title": "Campaign Manager Path",
+  "subtitle": "A systems-level leadership pathway for designing, staffing, and executing campaigns.",
+  "description": "Build the full civic and operational stack needed to lead local or statewide campaigns in Arkansas, including strategy, narrative, field systems, rule changes, and long-term sustainability.",
+  "audience": "Campaign managers, field directors, chiefs of staff, organizers moving into leadership.",
+  "focus_tags": [
+    "campaigns",
+    "strategy",
+    "leadership",
+    "management"
+  ],
+  "course_count": 8,
+  "estimated_minutes": 1249,
+  "estimated_hours": 20.8,
+  "metadata": {
+    "career_track": true,
+    "role": "campaign_manager",
+    "generated_by": "engine.track_engine",
+    "source_of_truth": "content/courses"
+  },
+  "milestones": [
+    {
+      "slug": "campaign-context",
+      "title": "Context and Terrain",
+      "description": "Complete the context and terrain milestone by finishing the required Arkansas civics modules.",
+      "level": 1,
+      "badge": "Terrain Reader",
+      "target_hours": 7.2,
+      "estimated_minutes": 433,
+      "course_refs": [
+        {
+          "course_slug": "course_01_civic_awakening",
+          "course_title": "Civic Awakening",
+          "reason": "Ground the learner in Arkansas civic realities.",
+          "required": true,
+          "estimated_minutes": 217,
+          "tags": []
+        },
+        {
+          "course_slug": "course_02_arkansas_civic_history",
+          "course_title": "Arkansas Civic History",
+          "reason": "Add the historical context behind present strategy.",
+          "required": true,
+          "estimated_minutes": 216,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "campaign-systems",
+      "title": "Campaign Systems",
+      "description": "Complete the campaign systems milestone by finishing the required Arkansas civics modules.",
+      "level": 2,
+      "badge": "Campaign Architect",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_09_strategy_petitions_and_campaigns",
+          "course_title": "Strategy Petitions And Campaigns",
+          "reason": "Learn issue selection, county strategy, petition systems, and campaign buildout.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_08_messaging_media_and_narrative",
+          "course_title": "Messaging Media And Narrative",
+          "reason": "Develop message architecture and media discipline.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "pushback",
+      "title": "Opposition and Adaptation",
+      "description": "Complete the opposition and adaptation milestone by finishing the required Arkansas civics modules.",
+      "level": 3,
+      "badge": "Pressure Navigator",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_10_opposition_pushback_and_rule_changes",
+          "course_title": "Opposition Pushback And Rule Changes",
+          "reason": "Understand backlash, legal gatekeeping, and movement adaptation.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_11_the_reader_becomes_the_organizer",
+          "course_title": "The Reader Becomes The Organizer",
+          "reason": "Translate strategy into scalable organizing systems.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "ecosystem",
+      "title": "Sustaining the Machine",
+      "description": "Complete the sustaining the machine milestone by finishing the required Arkansas civics modules.",
+      "level": 4,
+      "badge": "Ecosystem Steward",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_12_sustaining_the_ecosystem",
+          "course_title": "Sustaining The Ecosystem",
+          "reason": "Build durable infrastructure, replication, and long-tail systems.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_07_coalitions_and_leadership",
+          "course_title": "Coalitions And Leadership",
+          "reason": "Lead across organizations and stakeholders.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    }
+  ]
+}

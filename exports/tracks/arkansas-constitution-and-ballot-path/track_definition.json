@@ -1,0 +1,105 @@
+{
+  "slug": "arkansas-constitution-and-ballot-path",
+  "title": "Arkansas Constitution and Ballot Path",
+  "subtitle": "A specialized track for deep study of constitutional structure, ballot power, and democratic design.",
+  "description": "A deep-dive civic scholarship pathway focused on Arkansas constitutional history, ballot systems, representation, and institutional design.",
+  "audience": "Researchers, lawyers, policy advocates, ballot leaders, constitution scholars.",
+  "focus_tags": [
+    "constitution",
+    "ballot",
+    "policy",
+    "governance"
+  ],
+  "course_count": 6,
+  "estimated_minutes": 896,
+  "estimated_hours": 14.9,
+  "metadata": {
+    "deep_dive": true,
+    "specialty": "constitution",
+    "generated_by": "engine.track_engine",
+    "source_of_truth": "content/courses"
+  },
+  "milestones": [
+    {
+      "slug": "historical-frame",
+      "title": "Historical and Constitutional Frame",
+      "description": "Complete the historical and constitutional frame milestone by finishing the required Arkansas civics modules.",
+      "level": 1,
+      "badge": "Constitution Reader",
+      "target_hours": 5.9,
+      "estimated_minutes": 352,
+      "course_refs": [
+        {
+          "course_slug": "course_02_arkansas_civic_history",
+          "course_title": "Arkansas Civic History",
+          "reason": "Ground constitutional study in Arkansas history.",
+          "required": true,
+          "estimated_minutes": 216,
+          "tags": []
+        },
+        {
+          "course_slug": "course_03_direct_democracy_and_the_ballot",
+          "course_title": "Direct Democracy And The Ballot",
+          "reason": "Understand amendment power and the ballot process.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "institutional-design",
+      "title": "Institutional Design",
+      "description": "Complete the institutional design milestone by finishing the required Arkansas civics modules.",
+      "level": 2,
+      "badge": "Democracy Designer",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_04_voting_systems_and_representation",
+          "course_title": "Voting Systems And Representation",
+          "reason": "Study representation systems and structural design choices.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_09_strategy_petitions_and_campaigns",
+          "course_title": "Strategy Petitions And Campaigns",
+          "reason": "Connect constitutional change to practical campaign execution.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "gatekeeping",
+      "title": "Gatekeeping and Rule Changes",
+      "description": "Complete the gatekeeping and rule changes milestone by finishing the required Arkansas civics modules.",
+      "level": 3,
+      "badge": "Rule Change Analyst",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_10_opposition_pushback_and_rule_changes",
+          "course_title": "Opposition Pushback And Rule Changes",
+          "reason": "Analyze backlash, courts, and secretarial gatekeeping.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_12_sustaining_the_ecosystem",
+          "course_title": "Sustaining The Ecosystem",
+          "reason": "Think structurally about long-term democratic maintenance.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    }
+  ]
+}

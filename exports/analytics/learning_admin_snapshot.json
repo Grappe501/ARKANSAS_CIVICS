@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-03-18T14:16:39.747624+00:00",
+  "generated_by": "engine.learning_analytics_engine",
+  "source_of_truth": "data/progress + data/analytics",
+  "database_connected": false,
+  "summary": {
+    "learner_count": 0,
+    "total_active_seconds": 0,
+    "total_idle_seconds": 0,
+    "total_volunteer_seconds": 0,
+    "total_completed_segments": 0,
+    "total_sessions": 0,
+    "total_active_hours": 0.0,
+    "total_idle_hours": 0.0,
+    "total_volunteer_hours": 0.0
+  },
+  "course_totals": [],
+  "learners": []
+}

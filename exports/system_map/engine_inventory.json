@@ -1,0 +1,13 @@
+[
+  "ai_assistant.py",
+  "civic_intelligence_map.py",
+  "course_engine.py",
+  "knowledge_graph_engine.py",
+  "learning_runtime.py",
+  "lesson_player.py",
+  "library_loader.py",
+  "platform_kernel.py",
+  "progress_engine.py",
+  "track_engine.py",
+  "__init__.py"
+]

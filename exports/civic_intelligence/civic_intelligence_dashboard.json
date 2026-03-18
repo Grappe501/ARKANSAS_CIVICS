@@ -1,0 +1,371 @@
+{
+  "generated_at": "2026-03-18T14:16:43.236106+00:00",
+  "generated_by": "engine.civic_intelligence_system",
+  "project_root": "C:\\Users\\User\\Desktop\\arkansas_civics",
+  "source_of_truth": "content/courses + data/* + exports/*",
+  "database_connected": false,
+  "system_health": {
+    "kernel_ready": true,
+    "content_loaded": true,
+    "tracks_loaded": true,
+    "knowledge_graph_ready": true,
+    "analytics_ready": true,
+    "identity_ready": true,
+    "mentor_ready": true,
+    "learner_count": 0,
+    "total_active_hours": 0.0,
+    "badge_count": 0
+  },
+  "map_summary": {
+    "track_count": 23,
+    "course_count": 22,
+    "chapter_count": 96,
+    "segment_count": 1152,
+    "edge_count": 1292
+  },
+  "graph_summary": {
+    "node_count": 1538,
+    "edge_count": 7777,
+    "course_count": 22,
+    "track_count": 7,
+    "concept_count": 237,
+    "tag_count": 24,
+    "top_concepts": [
+      [
+        "chairs",
+        1
+      ],
+      [
+        "community",
+        1
+      ],
+      [
+        "decisions",
+        1
+      ],
+      [
+        "made",
+        1
+      ],
+      [
+        "meeting",
+        1
+      ],
+      [
+        "night",
+        1
+      ],
+      [
+        "opening",
+        1
+      ],
+      [
+        "people",
+        1
+      ],
+      [
+        "public",
+        1
+      ],
+      [
+        "room",
+        1
+      ],
+      [
+        "town",
+        1
+      ],
+      [
+        "tuesday",
+        1
+      ],
+      [
+        "citizens",
+        1
+      ],
+      [
+        "civic",
+        1
+      ],
+      [
+        "empty",
+        1
+      ],
+      [
+        "families",
+        1
+      ],
+      [
+        "happen",
+        1
+      ],
+      [
+        "local",
+        1
+      ],
+      [
+        "meetings",
+        1
+      ],
+      [
+        "often",
+        1
+      ],
+      [
+        "spaces",
+        1
+      ],
+      [
+        "these",
+        1
+      ],
+      [
+        "activity",
+        1
+      ],
+      [
+        "among",
+        1
+      ],
+      [
+        "crisis",
+        1
+      ]
+    ],
+    "top_tags": [
+      [
+        "block-content",
+        1
+      ],
+      [
+        "block-overview",
+        1
+      ],
+      [
+        "block-framing",
+        1
+      ],
+      [
+        "arkansas",
+        1
+      ],
+      [
+        "block-history",
+        1
+      ],
+      [
+        "history",
+        1
+      ],
+      [
+        "block-data",
+        1
+      ],
+      [
+        "data",
+        1
+      ],
+      [
+        "block-framework",
+        1
+      ],
+      [
+        "block-case-study",
+        1
+      ],
+      [
+        "case-study",
+        1
+      ],
+      [
+        "block-simulation",
+        1
+      ],
+      [
+        "simulation",
+        1
+      ],
+      [
+        "block-authoring",
+        1
+      ],
+      [
+        "block-workshop",
+        1
+      ],
+      [
+        "block-notes",
+        1
+      ],
+      [
+        "labor",
+        1
+      ],
+      [
+        "organizing",
+        1
+      ],
+      [
+        "democracy",
+        1
+      ],
+      [
+        "voting",
+        1
+      ],
+      [
+        "leadership",
+        1
+      ],
+      [
+        "messaging",
+        1
+      ],
+      [
+        "strategy",
+        1
+      ],
+      [
+        "ecosystem",
+        1
+      ]
+    ]
+  },
+  "track_summary": {
+    "track_count": 7,
+    "tracks": [
+      {
+        "slug": "stand-up-arkansas-civic-foundations",
+        "title": "Stand Up Arkansas Civic Foundations",
+        "estimated_hours": 16.3,
+        "course_count": 6,
+        "focus_tags": [
+          "foundations",
+          "arkansas",
+          "history",
+          "civics"
+        ]
+      },
+      {
+        "slug": "campaign-manager-path",
+        "title": "Campaign Manager Path",
+        "estimated_hours": 20.8,
+        "course_count": 8,
+        "focus_tags": [
+          "campaigns",
+          "strategy",
+          "leadership",
+          "management"
+        ]
+      },
+      {
+        "slug": "organizer-field-path",
+        "title": "Organizer and Field Path",
+        "estimated_hours": 19.5,
+        "course_count": 8,
+        "focus_tags": [
+          "organizing",
+          "field",
+          "volunteers",
+          "leadership"
+        ]
+      },
+      {
+        "slug": "arkansas-constitution-and-ballot-path",
+        "title": "Arkansas Constitution and Ballot Path",
+        "estimated_hours": 14.9,
+        "course_count": 6,
+        "focus_tags": [
+          "constitution",
+          "ballot",
+          "policy",
+          "governance"
+        ]
+      },
+      {
+        "slug": "messaging-and-narrative-path",
+        "title": "Messaging and Narrative Path",
+        "estimated_hours": 14.9,
+        "course_count": 6,
+        "focus_tags": [
+          "messaging",
+          "media",
+          "story",
+          "persuasion"
+        ]
+      },
+      {
+        "slug": "leadership-development-path",
+        "title": "Leadership Development Path",
+        "estimated_hours": 20.8,
+        "course_count": 8,
+        "focus_tags": [
+          "leadership",
+          "servant-leadership",
+          "ecosystem",
+          "strategy"
+        ]
+      },
+      {
+        "slug": "arkansas-history-scholar-path",
+        "title": "Arkansas History Scholar Path",
+        "estimated_hours": 14.9,
+        "course_count": 6,
+        "focus_tags": [
+          "history",
+          "arkansas",
+          "research",
+          "public-memory"
+        ]
+      }
+    ]
+  },
+  "analytics_summary": {
+    "learner_count": 0,
+    "total_active_seconds": 0,
+    "total_idle_seconds": 0,
+    "total_volunteer_seconds": 0,
+    "total_completed_segments": 0,
+    "total_sessions": 0,
+    "total_active_hours": 0.0,
+    "total_idle_hours": 0.0,
+    "total_volunteer_hours": 0.0
+  },
+  "identity_summary": {
+    "learner_count": 0,
+    "badge_counts": {}
+  },
+  "mentor_brief": {
+    "generated_at": "2026-03-18T14:16:43.235105+00:00",
+    "generated_by": "engine.civic_mentor_engine",
+    "platform_summary": {
+      "learner_count": 0,
+      "total_active_hours": 0.0,
+      "track_count": 7,
+      "knowledge_graph_nodes": 1538
+    },
+    "strategic_warnings": [
+      "No learner progress files exist yet. The platform has infrastructure but not user momentum.",
+      "Learning analytics show zero active hours. Seed demo learners or connect the runtime to real users."
+    ],
+    "next_platform_priorities": [
+      {
+        "priority": "identity-and-auth",
+        "why": "The platform now has analytics and guidance, but still needs a formal user account layer to scale."
+      },
+      {
+        "priority": "dashboard-integration",
+        "why": "The system now generates cross-engine exports that should be surfaced in the editor dashboard."
+      },
+      {
+        "priority": "runtime-events",
+        "why": "The biggest unlock now is wiring real learner events from the lesson player into analytics and mentorship loops."
+      },
+      {
+        "priority": "regional-intelligence-layer",
+        "why": "A full civic intelligence system should eventually connect courses to counties, districts, officeholders, and legislation."
+      }
+    ]
+  },
+  "learner_previews": []
+}

@@ -1,0 +1,17 @@
+[
+  "app.js",
+  "autonomous-course-panel.html",
+  "civic-intelligence-map.js",
+  "content",
+  "content-manifest.json",
+  "course-engine-viewer.js",
+  "functions",
+  "generate-course.js",
+  "index.html",
+  "knowledge-graph-viewer.js",
+  "learning-runtime-viewer.js",
+  "lesson-player.js",
+  "README.md",
+  "styles.css",
+  "track-engine-viewer.js"
+]

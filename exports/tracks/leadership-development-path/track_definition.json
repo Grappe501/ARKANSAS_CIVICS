@@ -1,0 +1,132 @@
+{
+  "slug": "leadership-development-path",
+  "title": "Leadership Development Path",
+  "subtitle": "A pathway for servant leaders building long-term civic infrastructure in Arkansas.",
+  "description": "An advanced leadership track combining civic context, coalition stewardship, strategy, and ecosystem building.",
+  "audience": "Executive leaders, movement builders, organizational directors, coalition conveners.",
+  "focus_tags": [
+    "leadership",
+    "servant-leadership",
+    "ecosystem",
+    "strategy"
+  ],
+  "course_count": 8,
+  "estimated_minutes": 1249,
+  "estimated_hours": 20.8,
+  "metadata": {
+    "career_track": true,
+    "role": "leader",
+    "generated_by": "engine.track_engine",
+    "source_of_truth": "content/courses"
+  },
+  "milestones": [
+    {
+      "slug": "leader-context",
+      "title": "Leadership Context",
+      "description": "Complete the leadership context milestone by finishing the required Arkansas civics modules.",
+      "level": 1,
+      "badge": "Context Steward",
+      "target_hours": 7.2,
+      "estimated_minutes": 433,
+      "course_refs": [
+        {
+          "course_slug": "course_01_civic_awakening",
+          "course_title": "Civic Awakening",
+          "reason": "Ground leadership in Arkansas civic reality.",
+          "required": true,
+          "estimated_minutes": 217,
+          "tags": []
+        },
+        {
+          "course_slug": "course_02_arkansas_civic_history",
+          "course_title": "Arkansas Civic History",
+          "reason": "Understand the historical burden and opportunity of leadership.",
+          "required": true,
+          "estimated_minutes": 216,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "leader-coalitions",
+      "title": "Coalitions and Shared Purpose",
+      "description": "Complete the coalitions and shared purpose milestone by finishing the required Arkansas civics modules.",
+      "level": 2,
+      "badge": "Coalition Captain",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_07_coalitions_and_leadership",
+          "course_title": "Coalitions And Leadership",
+          "reason": "Develop coalition leadership and shared-purpose practice.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_06_shared_pain_shared_story",
+          "course_title": "Shared Pain Shared Story",
+          "reason": "Learn how shared pain and shared story shape legitimacy.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "leader-strategy",
+      "title": "Strategy Under Pressure",
+      "description": "Complete the strategy under pressure milestone by finishing the required Arkansas civics modules.",
+      "level": 3,
+      "badge": "Strategic Steward",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_09_strategy_petitions_and_campaigns",
+          "course_title": "Strategy Petitions And Campaigns",
+          "reason": "Study execution, sequencing, and public strategy.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_10_opposition_pushback_and_rule_changes",
+          "course_title": "Opposition Pushback And Rule Changes",
+          "reason": "Learn to lead through backlash and adaptation.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "leader-ecosystem",
+      "title": "Stewardship and Replication",
+      "description": "Complete the stewardship and replication milestone by finishing the required Arkansas civics modules.",
+      "level": 4,
+      "badge": "Movement Steward",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_12_sustaining_the_ecosystem",
+          "course_title": "Sustaining The Ecosystem",
+          "reason": "Build long-tail institutions and replicable public systems.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_11_the_reader_becomes_the_organizer",
+          "course_title": "The Reader Becomes The Organizer",
+          "reason": "Ensure leadership stays connected to real people and ground game.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    }
+  ]
+}

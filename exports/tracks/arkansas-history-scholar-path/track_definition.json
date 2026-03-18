@@ -1,0 +1,105 @@
+{
+  "slug": "arkansas-history-scholar-path",
+  "title": "Arkansas History Scholar Path",
+  "subtitle": "A pathway for learners who want deep historical context behind Arkansas civic life and public struggle.",
+  "description": "A historical-intelligence track focused on Arkansas civic history, labor, race, backlash, institutions, and memory.",
+  "audience": "Students, teachers, researchers, historians, public education leaders.",
+  "focus_tags": [
+    "history",
+    "arkansas",
+    "research",
+    "public-memory"
+  ],
+  "course_count": 6,
+  "estimated_minutes": 896,
+  "estimated_hours": 14.9,
+  "metadata": {
+    "deep_dive": true,
+    "specialty": "history",
+    "generated_by": "engine.track_engine",
+    "source_of_truth": "content/courses"
+  },
+  "milestones": [
+    {
+      "slug": "history-core",
+      "title": "Arkansas Historical Core",
+      "description": "Complete the arkansas historical core milestone by finishing the required Arkansas civics modules.",
+      "level": 1,
+      "badge": "History Witness",
+      "target_hours": 5.9,
+      "estimated_minutes": 352,
+      "course_refs": [
+        {
+          "course_slug": "course_02_arkansas_civic_history",
+          "course_title": "Arkansas Civic History",
+          "reason": "Begin with the central historical course.",
+          "required": true,
+          "estimated_minutes": 216,
+          "tags": []
+        },
+        {
+          "course_slug": "course_05_labor_unions_and_collective_power",
+          "course_title": "Labor Unions And Collective Power",
+          "reason": "Study labor and collective power in historical context.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "history-structure",
+      "title": "History and Structure",
+      "description": "Complete the history and structure milestone by finishing the required Arkansas civics modules.",
+      "level": 2,
+      "badge": "Structure Historian",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_04_voting_systems_and_representation",
+          "course_title": "Voting Systems And Representation",
+          "reason": "Connect history to systems of representation.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_03_direct_democracy_and_the_ballot",
+          "course_title": "Direct Democracy And The Ballot",
+          "reason": "Connect history to democratic design and ballot power.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "history-memory",
+      "title": "Story, Memory, and Continuity",
+      "description": "Complete the story, memory, and continuity milestone by finishing the required Arkansas civics modules.",
+      "level": 3,
+      "badge": "Arkansas Memory Keeper",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_06_shared_pain_shared_story",
+          "course_title": "Shared Pain Shared Story",
+          "reason": "Understand how pain becomes story and civic memory.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_12_sustaining_the_ecosystem",
+          "course_title": "Sustaining The Ecosystem",
+          "reason": "Think about how history is preserved and taught over time.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    }
+  ]
+}

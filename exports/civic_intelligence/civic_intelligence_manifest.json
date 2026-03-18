@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-03-18T14:16:43.239109+00:00",
+  "generated_by": "engine.civic_intelligence_system",
+  "artifacts": [
+    "exports/civic_intelligence/civic_intelligence_dashboard.json",
+    "exports/civic_intelligence/civic_intelligence_system.md",
+    "exports/analytics/learning_admin_snapshot.json",
+    "exports/identity/identity_index.json",
+    "exports/mentor/platform_mentor_brief.json",
+    "exports/civic_intelligence_map/civic_intelligence_map.json",
+    "exports/knowledge_graph/knowledge_graph.json"
+  ]
+}

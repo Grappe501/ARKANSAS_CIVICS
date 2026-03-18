@@ -1,0 +1,132 @@
+{
+  "slug": "organizer-field-path",
+  "title": "Organizer and Field Path",
+  "subtitle": "A pathway for local leaders building people power, volunteer discipline, and public action.",
+  "description": "Train organizers to move from civic understanding into field work, coalition building, story discipline, and durable local campaign operations.",
+  "audience": "Community organizers, volunteer leaders, church organizers, union leaders, field captains.",
+  "focus_tags": [
+    "organizing",
+    "field",
+    "volunteers",
+    "leadership"
+  ],
+  "course_count": 8,
+  "estimated_minutes": 1169,
+  "estimated_hours": 19.5,
+  "metadata": {
+    "career_track": true,
+    "role": "organizer",
+    "generated_by": "engine.track_engine",
+    "source_of_truth": "content/courses"
+  },
+  "milestones": [
+    {
+      "slug": "organizer-foundations",
+      "title": "Foundations for Organizing",
+      "description": "Complete the foundations for organizing milestone by finishing the required Arkansas civics modules.",
+      "level": 1,
+      "badge": "Table Setter",
+      "target_hours": 5.9,
+      "estimated_minutes": 353,
+      "course_refs": [
+        {
+          "course_slug": "course_01_civic_awakening",
+          "course_title": "Civic Awakening",
+          "reason": "Create a shared civic baseline.",
+          "required": true,
+          "estimated_minutes": 217,
+          "tags": []
+        },
+        {
+          "course_slug": "course_06_shared_pain_shared_story",
+          "course_title": "Shared Pain Shared Story",
+          "reason": "Learn the story logic that binds people together.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "coalitions",
+      "title": "Coalitions and Leadership",
+      "description": "Complete the coalitions and leadership milestone by finishing the required Arkansas civics modules.",
+      "level": 2,
+      "badge": "Coalition Weaver",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_07_coalitions_and_leadership",
+          "course_title": "Coalitions And Leadership",
+          "reason": "Build coalition and servant leadership skills.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_05_labor_unions_and_collective_power",
+          "course_title": "Labor Unions And Collective Power",
+          "reason": "Study collective power and worker-centered organizing models.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "narrative-field",
+      "title": "Narrative and Field Discipline",
+      "description": "Complete the narrative and field discipline milestone by finishing the required Arkansas civics modules.",
+      "level": 3,
+      "badge": "Field Story Builder",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_08_messaging_media_and_narrative",
+          "course_title": "Messaging Media And Narrative",
+          "reason": "Develop real-world narrative skills for public engagement.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_11_the_reader_becomes_the_organizer",
+          "course_title": "The Reader Becomes The Organizer",
+          "reason": "Build local campaign and issue infrastructure.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "slug": "resilience",
+      "title": "Pressure, Pushback, and Durability",
+      "description": "Complete the pressure, pushback, and durability milestone by finishing the required Arkansas civics modules.",
+      "level": 4,
+      "badge": "Resilient Organizer",
+      "target_hours": 4.5,
+      "estimated_minutes": 272,
+      "course_refs": [
+        {
+          "course_slug": "course_10_opposition_pushback_and_rule_changes",
+          "course_title": "Opposition Pushback And Rule Changes",
+          "reason": "Learn how organizers adapt under pressure.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        },
+        {
+          "course_slug": "course_12_sustaining_the_ecosystem",
+          "course_title": "Sustaining The Ecosystem",
+          "reason": "Think beyond one campaign toward long-term civic infrastructure.",
+          "required": true,
+          "estimated_minutes": 136,
+          "tags": []
+        }
+      ]
+    }
+  ]
+}

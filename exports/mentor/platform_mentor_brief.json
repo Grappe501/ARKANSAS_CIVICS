@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-03-18T14:16:43.235105+00:00",
+  "generated_by": "engine.civic_mentor_engine",
+  "platform_summary": {
+    "learner_count": 0,
+    "total_active_hours": 0.0,
+    "track_count": 7,
+    "knowledge_graph_nodes": 1538
+  },
+  "strategic_warnings": [
+    "No learner progress files exist yet. The platform has infrastructure but not user momentum.",
+    "Learning analytics show zero active hours. Seed demo learners or connect the runtime to real users."
+  ],
+  "next_platform_priorities": [
+    {
+      "priority": "identity-and-auth",
+      "why": "The platform now has analytics and guidance, but still needs a formal user account layer to scale."
+    },
+    {
+      "priority": "dashboard-integration",
+      "why": "The system now generates cross-engine exports that should be surfaced in the editor dashboard."
+    },
+    {
+      "priority": "runtime-events",
+      "why": "The biggest unlock now is wiring real learner events from the lesson player into analytics and mentorship loops."
+    },
+    {
+      "priority": "regional-intelligence-layer",
+      "why": "A full civic intelligence system should eventually connect courses to counties, districts, officeholders, and legislation."
+    }
+  ]
+}

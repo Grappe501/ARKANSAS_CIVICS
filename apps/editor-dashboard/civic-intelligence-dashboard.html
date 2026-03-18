@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Arkansas Civic Intelligence Dashboard</title>
+    <link rel="stylesheet" href="./civic-intelligence-dashboard.css" />
+  </head>
+  <body>
+    <div class="cid-shell">
+      <aside class="cid-sidebar">
+        <h1>Arkansas Civic Intelligence</h1>
+        <p class="cid-muted">Unified dashboard for analytics, identity, tracks, map, graph, and mentor signals.</p>
+
+        <div class="cid-controls">
+          <button id="cidReloadButton">Reload Dashboard</button>
+        </div>
+
+        <div class="cid-stat-grid" id="cidStatGrid"></div>
+
+        <section class="cid-panel">
+          <h2>Top Tracks</h2>
+          <div id="cidTrackList"></div>
+        </section>
+
+        <section class="cid-panel">
+          <h2>System Health</h2>
+          <div id="cidHealthList"></div>
+        </section>
+      </aside>
+
+      <main class="cid-main">
+        <section class="cid-hero">
+          <div>
+            <h2>Platform Intelligence Summary</h2>
+            <p id="cidGeneratedAt" class="cid-muted">Loading…</p>
+          </div>
+          <div class="cid-hero-badge">Civic Intelligence System</div>
+        </section>
+
+        <section class="cid-columns">
+          <section class="cid-panel">
+            <h2>Mentor Priorities</h2>
+            <div id="cidMentorPriorities"></div>
+          </section>
+
+          <section class="cid-panel">
+            <h2>Badge Signals</h2>
+            <div id="cidBadgeSignals"></div>
+          </section>
+        </section>
+
+        <section class="cid-panel">
+          <h2>Learner Guidance Preview</h2>
+          <div id="cidLearnerPreviews"></div>
+        </section>
+
+        <section class="cid-columns">
+          <section class="cid-panel">
+            <h2>Graph Summary</h2>
+            <div id="cidGraphSummary"></div>
+          </section>
+
+          <section class="cid-panel">
+            <h2>Map Summary</h2>
+            <div id="cidMapSummary"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <script src="./civic-intelligence-dashboard.js"></script>
+  </body>
+</html>
