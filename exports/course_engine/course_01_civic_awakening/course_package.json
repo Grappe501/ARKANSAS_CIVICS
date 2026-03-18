@@ -1,0 +1,1372 @@
+{
+  "title": "Civic Awakening",
+  "slug": "course_01_civic_awakening",
+  "source_path": "content\\courses\\course_01_civic_awakening",
+  "lesson_count": 8,
+  "total_estimated_minutes": 217,
+  "metadata": {
+    "generated_by": "engine.course_engine",
+    "source_of_truth": "content/courses",
+    "chapter_count": 8,
+    "segment_count": 96,
+    "readme_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\README.md"
+  },
+  "lessons": [
+    {
+      "title": "Chapter 01",
+      "slug": "chapter_01",
+      "chapter_name": "chapter_01",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_01",
+      "estimated_minutes": 21,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: Opening Scene: A Tuesday Night Meeting\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 01\ntags:\n  - civic_engagement\n  - local_government\n  - opening_scene\n---\n\n# Opening Scene: A Tuesday Night Meeting\n\n## Book Narrative\n\nOn a Tuesday evening in a small Arkansas town, the lights inside city hall come on long before anyone arrives.\n\nThe building itself is not remarkable. Brick walls, fluorescent lights, and a modest meeting room that has hosted decades of council meetings. A long table sits at the front where elected officials will soon gather. Microphones line the table, though in a room this small they are rarely necessary.\n\nRows of folding metal chairs fill the rest of the space.\n\nMost nights, only a few of those chairs are occupied.\n\nThe meeting begins the same way it always does. The mayor calls the room to order. The clerk reads the agenda. Council members shuffle through printed packets of documents outlining the evening\u2019s decisions.\n\nRoad repairs.\n\nZoning requests.\n\nBudget adjustments.\n\nInfrastructure projects.\n\nThese may sound like routine administrative tasks, but they are anything but trivial. Each item on that agenda represents a decision about how the community will function.\n\nWhere tax dollars will go.\n\nHow neighborhoods will grow.\n\nWhat priorities the town will pursue.\n\nOutside the building, life in the town continues uninterrupted.\n\nFamilies eat dinner.\n\nStudents finish homework.\n\nRestaurants close for the night.\n\nInside the meeting room, however, decisions are being made that will shape the community those families live in.\n\nAnd yet most of the people who live there are not in the room.\n\nThe chairs remain empty.\n\nAnd the meeting moves forward.\n\n## Course Activity\n\nScenario: The learner enters a small-town Arkansas public meeting and identifies the decisions being made in a room with very little public attendance.\n\n## Workbook Exercise\n\nWrite down one public meeting in your town or county that most people never attend but that still shapes community life.\n\n## Workshop Activity\n\nAsk participants to describe a public room in their community where decisions are made but ordinary people are often absent.\n\n## Facilitator Notes\n\nOpen with atmosphere and observation. The point is not policy yet; it is recognition.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: The Empty Room\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 02\ntags:\n  - empty_rooms\n  - participation\n  - recognition\n---\n\n# The Empty Room\n\n## Book Narrative\n\nScenes like this play out every week across Arkansas.\n\nCity councils meet.\n\nCounty quorum courts gather.\n\nSchool boards vote on policies that affect thousands of families.\n\nThe machinery of local government continues to operate exactly as it was designed.\n\nBut something has changed.\n\nIn many communities, the number of citizens participating in these meetings has steadily declined.\n\nThis decline did not happen suddenly. It unfolded slowly over decades, almost invisibly.\n\nA generation ago, civic life looked different.\n\nCommunity meetings were often social gatherings as much as political ones. Local leaders were members of civic clubs. Churches organized service projects. Parent-teacher organizations connected families to schools. Neighborhood groups formed around shared concerns.\n\nThese spaces acted as bridges between ordinary citizens and public decision-making.\n\nToday, many of those bridges are weaker.\n\n## Course Activity\n\nLearners compare two rooms: one empty and one full. They identify what changes when public presence changes.\n\n## Workbook Exercise\n\nList three spaces in your community where civic discussion used to happen more often than it does now.\n\n## Workshop Activity\n\nHave participants name local civic spaces that have gone quiet over time.\n\n## Facilitator Notes\n\nThis section moves from scene to statewide pattern.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: The Quiet Civic Crisis\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 03\ntags:\n  - civic_crisis\n  - withdrawal\n  - arkansas\n---\n\n# The Quiet Civic Crisis\n\n## Book Narrative\n\nPublic conversations about community issues increasingly happen online \u2014 often in fragmented spaces that rarely translate into real-world collaboration.\n\nParticipation has shifted away from the places where decisions are actually made.\n\nAnd when participation fades, something predictable happens.\n\nDecision-making power concentrates among whoever remains in the room.\n\nThis is the quiet civic crisis.\n\nIt is not dramatic enough to dominate headlines every day. It does not always announce itself through scandal. Instead, it appears in thinning attendance, fading trust, and a growing sense among ordinary people that their presence will not matter.\n\nThe danger of this kind of crisis is that communities begin to accept it as normal.\n\n## Course Activity\n\nReflection: learners identify signs of civic decline in their own town.\n\n## Workbook Exercise\n\nDescribe one way civic disengagement shows up in everyday life where you live.\n\n## Workshop Activity\n\nGroup brainstorm: what does a quiet civic crisis look like locally?\n\n## Facilitator Notes\n\nName the problem clearly. This gives the chapter its central tension.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: How Power Flows When Rooms Are Empty\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 04\ntags:\n  - power\n  - institutions\n  - absence\n---\n\n# How Power Flows When Rooms Are Empty\n\n## Book Narrative\n\nWhen participation fades, power does not disappear.\n\nIt shifts.\n\nWhen fewer citizens show up, leaders hear from fewer people. Organized interests, repeat players, and highly engaged factions naturally gain more influence. Even well-intentioned officials end up making decisions with a narrower set of perspectives in front of them.\n\nThe problem is not only corruption.\n\nThe problem is absence.\n\nWhen communities are not present, the system keeps moving \u2014 but it moves with less democratic input.\n\n## Course Activity\n\nLearners analyze how influence changes when citizens do not attend meetings.\n\n## Workbook Exercise\n\nWho keeps showing up in your local civic system when ordinary residents do not?\n\n## Workshop Activity\n\nSmall group exercise: map who fills the gap when citizens withdraw.\n\n## Facilitator Notes\n\nIntroduce power as relational and structural, not just partisan.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: An Arkansas Example of Local Power\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 05\ntags:\n  - arkansas_example\n  - city_council\n  - school_board\n  - quorum_court\n---\n\n# An Arkansas Example of Local Power\n\n## Book Narrative\n\nIn Arkansas, local power is often more immediate than people realize.\n\nA school board can change the trajectory of a district.\n\nA city council can reshape development through zoning decisions.\n\nA quorum court can direct county priorities through budgets and road funding.\n\nThese are not abstract powers. They affect classrooms, streets, businesses, and households.\n\nYet many Arkansans know the names of national political figures far better than the local officials whose decisions shape daily life.\n\n## Course Activity\n\nLearners match Arkansas institutions to the kinds of decisions they control.\n\n## Workbook Exercise\n\nName your city council member, school board member, quorum court justice, or county official if you can.\n\n## Workshop Activity\n\nTable exercise: identify one local institution that affects your life most directly.\n\n## Facilitator Notes\n\nKeep this grounded and practical.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: Why People Stopped Showing Up\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 06\ntags:\n  - disengagement\n  - trust\n  - fatigue\n---\n\n# Why People Stopped Showing Up\n\n## Book Narrative\n\nPeople do not usually withdraw from civic life because they stop caring.\n\nThey withdraw because they become tired, frustrated, confused, or unconvinced that participation matters.\n\nSome have attended meetings and felt ignored.\n\nSome have watched public conversations become bitter and performative.\n\nSome do not understand the systems well enough to feel comfortable entering them.\n\nOthers are simply carrying too much to give one more evening to a process that feels distant from their daily struggles.\n\nThe result is the same.\n\nPeople stop showing up.\n\n## Course Activity\n\nLearners sort common barriers to civic engagement into categories: trust, access, knowledge, time, conflict.\n\n## Workbook Exercise\n\nWhich barrier most often keeps you or people you know from civic participation?\n\n## Workshop Activity\n\nDiscussion circle: why do people in our community step back?\n\n## Facilitator Notes\n\nThis is a crucial empathy segment.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: Arkansas Is Not Empty of Civic History\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 07\ntags:\n  - history_bridge\n  - arkansas_history\n  - transition\n---\n\n# Arkansas Is Not Empty of Civic History\n\n## Book Narrative\n\nArkansas is not a state without civic traditions.\n\nIts history is full of organizing, public struggle, and democratic conflict.\n\nFrom populist movements and labor organizing to civil rights battles and ballot initiative campaigns, Arkansans have repeatedly shaped their future through collective action.\n\nThat history matters because it reminds us that civic life here did not vanish because Arkansans are incapable of participating.\n\nIt faded because habits changed, institutions hardened, and many people stopped believing the room belonged to them.\n\nBut what has faded can be rebuilt.\n\n## Course Activity\n\nTransition exercise introducing Arkansas civic history as a source of possibility rather than nostalgia.\n\n## Workbook Exercise\n\nWrite down one Arkansas movement or fight you want to learn more about.\n\n## Workshop Activity\n\nFacilitated preview of the Arkansas civic timeline.\n\n## Facilitator Notes\n\nThis segment bridges Chapter 1 to later historical chapters.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: The First Hint of Direct Democracy\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 08\ntags:\n  - direct_democracy\n  - amendment_7\n  - citizen_power\n---\n\n# The First Hint of Direct Democracy\n\n## Book Narrative\n\nArkansas citizens possess a power many Americans do not fully understand.\n\nThrough the ballot initiative and referendum process, voters can do more than choose representatives. They can place laws and constitutional changes directly before the people.\n\nThat matters because it means ordinary citizens in Arkansas are not limited to pleading with institutions.\n\nUnder certain conditions, they can act.\n\nThis is not an abstract theory. It has happened repeatedly in Arkansas history and will matter throughout this book.\n\n## Course Activity\n\nShort explainer on what direct democracy means in Arkansas.\n\n## Workbook Exercise\n\nWhat issue in Arkansas might people try to place directly before voters?\n\n## Workshop Activity\n\nQuick pair discussion: why does direct democracy matter in a low-participation state?\n\n## Facilitator Notes\n\nPlant Amendment 7 here without fully teaching it yet.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: What an Empty Chair Means\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 09\ntags:\n  - symbol\n  - reader_reflection\n  - belonging\n---\n\n# What an Empty Chair Means\n\n## Book Narrative\n\nAn empty chair in a civic room is never just furniture.\n\nIt represents a voice that is absent.\n\nA question that was never asked.\n\nA story that was never told.\n\nA priority that may never be heard.\n\nWhen too many chairs stay empty for too long, a community slowly begins to lose the habit of hearing itself.\n\nThat is why the image matters.\n\nThe empty chair is not only a symbol of disengagement.\n\nIt is also an invitation.\n\n## Course Activity\n\nLearners reflect on what is lost when people are absent from public life.\n\n## Workbook Exercise\n\nWho is missing most often from the rooms where decisions are made in your community?\n\n## Workshop Activity\n\nPlace an empty chair in the room and ask participants to name who it represents.\n\n## Facilitator Notes\n\nStrong symbolic section. Good for workbook and live workshop crossover.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: The Reader Enters the Room\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 10\ntags:\n  - reader_insertion\n  - agency\n  - invitation\n---\n\n# The Reader Enters the Room\n\n## Book Narrative\n\nAt some point the question becomes personal.\n\nIf these rooms matter, where am I in relation to them?\n\nAm I outside them entirely?\n\nAm I watching from a distance?\n\nHave I convinced myself they do not belong to me?\n\nThe shift toward civic awakening begins when a reader stops asking only what is wrong with the system and starts asking what it would mean to reenter it.\n\n## Course Activity\n\nPrompt the learner to imagine attending a local meeting as a participant rather than observer.\n\n## Workbook Exercise\n\nWhat room in your community might you reenter first?\n\n## Workshop Activity\n\nBrief writing exercise: what would it take for me to show up?\n\n## Facilitator Notes\n\nTurn the chapter inward here.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: Pulling Up More Chairs\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 11\ntags:\n  - vision\n  - participation\n  - community\n---\n\n# Pulling Up More Chairs\n\n## Book Narrative\n\nImagine that meeting room again.\n\nThe folding chairs are still there.\n\nThe agenda still lists routine items of local governance.\n\nBut tonight something is different.\n\nInstead of empty seats, the room begins to fill.\n\nNeighbors arrive.\n\nParents sit beside teachers.\n\nYoung people take seats near longtime residents who have attended these meetings for decades.\n\nConversations begin before the meeting even starts.\n\nQuestions are asked.\n\nIdeas circulate.\n\nThe atmosphere shifts.\n\nWhat was once a quiet procedural gathering becomes something else.\n\nA civic space.\n\nA place where citizens and leaders work together to shape the future of their community.\n\nThis transformation does not require extraordinary leadership.\n\nIt requires something simpler.\n\nCitizens who are willing to participate.\n\nSometimes rebuilding civic life begins with a small act.\n\nSometimes it begins with simply pulling up more chairs.\n\n## Course Activity\n\nVision exercise: what changes when a room fills with real community presence?\n\n## Workbook Exercise\n\nDescribe what a full civic room in your community would look and feel like.\n\n## Workshop Activity\n\nGroup visualization exercise: from empty room to full room.\n\n## Facilitator Notes\n\nThis is the hopeful turn of the chapter.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: Chapter 1 Bridge Forward\ncourse: course_01_civic_awakening\nchapter: chapter_01\nsegment: 12\ntags:\n  - chapter_bridge\n  - foreshadowing\n  - course_transition\n---\n\n# Chapter 1 Bridge Forward\n\n## Book Narrative\n\nThis book begins with empty rooms, but it does not stay there.\n\nThe chapters ahead will ask harder questions.\n\nHow did Arkansas reach this point?\n\nWhat tools do citizens still possess?\n\nWhat does the state\u2019s history of organizing teach us about power, backlash, and democratic possibility?\n\nAnd what would it take, not just to talk about civic renewal, but to build it?\n\nFor now, the first step is enough.\n\nNotice the room.\n\nNotice the chairs.\n\nAnd ask whether they are waiting for someone like you.\n\n## Course Activity\n\nPreview the next three chapters and how they deepen the reader\u2019s understanding of civic power.\n\n## Workbook Exercise\n\nWhat question are you carrying into the next chapter?\n\n## Workshop Activity\n\nClosing round: one word for how participants feel leaving Chapter 1.\n\n## Facilitator Notes\n\nUse this to bridge to Chapter 2.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 01",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 01', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    },
+    {
+      "title": "Pull Up More Chairs",
+      "slug": "chapter_01_pull_up_more_chairs",
+      "chapter_name": "chapter_01_pull_up_more_chairs",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_01_pull_up_more_chairs",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Civic Awakening\n- chapter: Pulling Up More Chairs\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Pull Up More Chairs', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_01_pull_up_more_chairs\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_01_pull_up_more_chairs\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_01_pull_up_more_chairs\\simulations"
+      }
+    },
+    {
+      "title": "Chapter 02",
+      "slug": "chapter_02",
+      "chapter_name": "chapter_02",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_02",
+      "estimated_minutes": 20,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: Power Is Not Where Most People Think\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 01\ntags:\n  - power\n  - misconceptions\n  - civic_awareness\n---\n\n# Power Is Not Where Most People Think\n\n## Book Narrative\n\nWhen most people think about political power, they imagine Washington.\n\nThe White House.\n\nCongress.\n\nCable news debates.\n\nBut for most Arkansans, the decisions that shape daily life are not made in Washington at all.\n\nThey are made much closer to home.\n\nA zoning vote at city hall.\n\nA school board decision about curriculum.\n\nA county quorum court vote about roads or budgets.\n\nThese decisions rarely make national headlines, yet they shape communities every single day.\n\nUnderstanding civic life in Arkansas begins with understanding this simple truth.\n\nPower is often local.\n\n## Course Activity\n\nLearners list three local decisions that affect their daily life.\n\n## Workbook Exercise\n\nWrite down three local institutions that affect your life more directly than the federal government.\n\n## Workshop Activity\n\nGroup discussion: where does real power operate in your town?\n\n## Facilitator Notes\n\nShift the reader\u2019s mental map away from national politics.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: The Arkansas Civic System\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 02\ntags:\n  - civic_system\n  - structure\n---\n\n# The Arkansas Civic System\n\n## Book Narrative\n\nArkansas government operates through several interconnected layers.\n\nEach layer has its own responsibilities and powers.\n\nLocal governments manage community operations.\n\nState government writes laws that shape the entire state.\n\nCourts interpret those laws.\n\nAnd citizens themselves possess unique tools to shape policy directly through ballot initiatives and referendums.\n\nTogether, these layers form the Arkansas civic system.\n\nUnderstanding how these pieces interact is the first step toward effective civic participation.\n\n## Course Activity\n\nLearners diagram the layers of Arkansas government.\n\n## Workbook Exercise\n\nSketch a basic map of how decisions move from local communities to the state government.\n\n## Workshop Activity\n\nParticipants collaborate to build a wall diagram of the civic system.\n\n## Facilitator Notes\n\nIntroduce the concept of the civic power map.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: Neighborhood Power\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 03\ntags:\n  - community_networks\n  - local_relationships\n---\n\n# Neighborhood Power\n\n## Book Narrative\n\nBefore laws are written and votes are cast, ideas circulate through communities.\n\nNeighbors talk.\n\nChurches gather.\n\nCivic groups meet.\n\nParents share concerns about schools.\n\nThese conversations may feel informal, but they often represent the first stage of civic action.\n\nMovements rarely begin inside government buildings.\n\nThey begin in relationships.\n\n## Course Activity\n\nLearners identify local relationship networks.\n\n## Workbook Exercise\n\nList three places where community conversations happen.\n\n## Workshop Activity\n\nParticipants map informal civic networks.\n\n## Facilitator Notes\n\nShow how social networks precede formal politics.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: City Government\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 04\ntags:\n  - city_government\n  - municipal_power\n---\n\n# City Government\n\n## Book Narrative\n\nCities in Arkansas govern many aspects of everyday life.\n\nCity councils make decisions about zoning, policing, infrastructure, and development.\n\nMayors oversee city administration.\n\nPlanning commissions guide how communities grow.\n\nBecause city government operates so close to daily life, these decisions often affect residents more directly than state or federal policies.\n\n## Course Activity\n\nLearners explore city council agendas.\n\n## Workbook Exercise\n\nIdentify one recent decision made by your city government.\n\n## Workshop Activity\n\nSimulated city council debate.\n\n## Facilitator Notes\n\nEncourage participants to look up real local agendas.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: County Government and Quorum Courts\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 05\ntags:\n  - county_government\n  - quorum_court\n---\n\n# County Government and Quorum Courts\n\n## Book Narrative\n\nCounty governments play an important role in Arkansas civic life.\n\nEach county operates through a legislative body known as the quorum court.\n\nJustices of the peace represent districts across the county.\n\nTogether they manage county budgets, roads, and public services.\n\nDespite this influence, quorum courts remain one of the least understood institutions in Arkansas government.\n\n## Course Activity\n\nLearners locate their county quorum court members.\n\n## Workbook Exercise\n\nFind the meeting schedule for your county quorum court.\n\n## Workshop Activity\n\nMock quorum court decision exercise.\n\n## Facilitator Notes\n\nHighlight how accessible county government can be.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: School Boards\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 06\ntags:\n  - school_boards\n  - education_policy\n---\n\n# School Boards\n\n## Book Narrative\n\nSchool boards control decisions that shape the education of thousands of Arkansas children.\n\nThey oversee budgets, hire superintendents, and set district policies.\n\nBecause schools affect families directly, school board meetings often become key spaces for civic participation.\n\n## Course Activity\n\nLearners examine a school board agenda.\n\n## Workbook Exercise\n\nIdentify the members of your school board.\n\n## Workshop Activity\n\nDiscussion about education decisions in local communities.\n\n## Facilitator Notes\n\nConnect education debates to civic participation.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: The Arkansas Legislature\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 07\ntags:\n  - state_legislature\n  - general_assembly\n---\n\n# The Arkansas Legislature\n\n## Book Narrative\n\nAt the state level, the Arkansas General Assembly writes the laws that govern the state.\n\nThe legislature consists of the House of Representatives and the Senate.\n\nThese lawmakers debate and pass legislation affecting taxes, education, health policy, and countless other areas.\n\nCitizens influence these decisions through elections, testimony, and advocacy.\n\n## Course Activity\n\nLearners explore the structure of the Arkansas legislature.\n\n## Workbook Exercise\n\nIdentify your state representative and senator.\n\n## Workshop Activity\n\nRole-play legislative testimony.\n\n## Facilitator Notes\n\nIntroduce state-level influence.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: Statewide Executive Power\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 08\ntags:\n  - executive_branch\n  - governor\n---\n\n# Statewide Executive Power\n\n## Book Narrative\n\nThe governor and statewide constitutional officers play a major role in shaping policy.\n\nThey implement laws, manage state agencies, and influence legislative priorities.\n\nExecutive leadership often determines how laws are applied across the state.\n\n## Course Activity\n\nLearners identify Arkansas executive offices.\n\n## Workbook Exercise\n\nList three statewide officials and their roles.\n\n## Workshop Activity\n\nDiscuss how executive power shapes policy outcomes.\n\n## Facilitator Notes\n\nExplain the balance between legislative and executive power.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: Courts and Legal Power\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 09\ntags:\n  - courts\n  - judicial_system\n---\n\n# Courts and Legal Power\n\n## Book Narrative\n\nCourts interpret laws and resolve disputes about their meaning.\n\nIn Arkansas, legal challenges often determine whether policies remain in place or are overturned.\n\nCourt decisions have shaped civil rights, voting rules, and ballot initiative processes.\n\n## Course Activity\n\nLearners examine a case where courts affected public policy.\n\n## Workbook Exercise\n\nResearch one Arkansas Supreme Court decision affecting civic life.\n\n## Workshop Activity\n\nDiscuss the role of courts in democratic systems.\n\n## Facilitator Notes\n\nHighlight the judiciary as a check on power.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: Direct Democracy\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 10\ntags:\n  - ballot_initiatives\n  - referendums\n---\n\n# Direct Democracy\n\n## Book Narrative\n\nArkansas citizens possess a powerful tool that many Americans do not realize exists.\n\nThrough ballot initiatives and referendums, citizens can propose laws or repeal legislation directly at the ballot box.\n\nThis system allows voters to bypass the legislature and place issues directly before the public.\n\n## Course Activity\n\nLearners examine a past Arkansas ballot initiative.\n\n## Workbook Exercise\n\nWhat issue might Arkansans place on the ballot in the future?\n\n## Workshop Activity\n\nSimulate the early steps of a petition drive.\n\n## Facilitator Notes\n\nThis section prepares readers for later chapters on organizing.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: The Arkansas Civic Power Map\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 11\ntags:\n  - power_map\n  - systems\n---\n\n# The Arkansas Civic Power Map\n\n## Book Narrative\n\nThe Arkansas civic system can be visualized as a layered structure.\n\nCommunity networks at the base.\n\nLocal government above them.\n\nState government beyond that.\n\nDirect democracy tools interacting with the entire system.\n\nUnderstanding this map helps citizens identify where influence is possible.\n\n## Course Activity\n\nLearners draw the Arkansas Civic Power Map.\n\n## Workbook Exercise\n\nIdentify where your own influence might begin.\n\n## Workshop Activity\n\nGroup exercise mapping local power structures.\n\n## Facilitator Notes\n\nReinforce the concept visually.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: Chapter 2 Bridge Forward\ncourse: course_01_civic_awakening\nchapter: chapter_02\nsegment: 12\ntags:\n  - transition\n  - history\n---\n\n# Chapter 2 Bridge Forward\n\n## Book Narrative\n\nUnderstanding the structure of civic power is only the beginning.\n\nThe next question is how Arkansans have actually used that power.\n\nThe story of Arkansas civic life is filled with moments of organizing, conflict, and change.\n\nThose stories reveal what happens when citizens decide to step into the system.\n\n## Course Activity\n\nPreview the Arkansas civic timeline.\n\n## Workbook Exercise\n\nWrite one question you have about Arkansas civic history.\n\n## Workshop Activity\n\nIntroduce the next chapter\u2019s historical examples.\n\n## Facilitator Notes\n\nPrepare readers for the historical narrative of Chapter 3.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 02",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 02', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    },
+    {
+      "title": "When The Table Went Quiet",
+      "slug": "chapter_02_when_the_table_went_quiet",
+      "chapter_name": "chapter_02_when_the_table_went_quiet",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_02_when_the_table_went_quiet",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Civic Awakening\n- chapter: When the Table Went Quiet\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'When The Table Went Quiet', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_02_when_the_table_went_quiet\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_02_when_the_table_went_quiet\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_02_when_the_table_went_quiet\\simulations"
+      }
+    },
+    {
+      "title": "Chapter 03",
+      "slug": "chapter_03",
+      "chapter_name": "chapter_03",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_03",
+      "estimated_minutes": 20,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: Arkansas Has Always Been a Civic Battleground\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 01\ntags:\n  - arkansas_history\n  - civic_struggle\n---\n\n# Arkansas Has Always Been a Civic Battleground\n\n## Book Narrative\n\nArkansas has never been a quiet political place.\n\nBeneath the surface of everyday life, the state has been shaped again and again by civic struggle.\n\nFarmers organizing against railroad monopolies.\n\nSharecroppers demanding fair wages.\n\nCivil rights activists challenging segregation.\n\nCitizens gathering signatures to place laws directly on the ballot.\n\nThese moments did not always appear connected in their own time. But taken together they form a pattern.\n\nArkansas history is a story of ordinary people trying to shape systems that were not built with them in mind.\n\n## Course Activity\n\nLearners list three historical movements that shaped Arkansas politics.\n\n## Workbook Exercise\n\nWhat movements or conflicts do you associate with Arkansas history?\n\n## Workshop Activity\n\nGroup brainstorm: what moments define Arkansas civic history?\n\n## Facilitator Notes\n\nOpen the chapter by framing history as civic struggle.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: The Populist Era\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 02\ntags:\n  - populism\n  - farmers\n  - political_reform\n---\n\n# The Populist Era\n\n## Book Narrative\n\nIn the late nineteenth century, farmers across Arkansas faced enormous economic pressure.\n\nRailroad monopolies controlled shipping.\n\nBanks controlled credit.\n\nCrop prices fluctuated wildly.\n\nIn response, farmers began organizing.\n\nThese movements helped fuel the rise of populist politics across the American South and Midwest.\n\nThe populist movement sought to give working people more influence over economic and political systems.\n\n## Course Activity\n\nDiscuss why farmers became politically organized.\n\n## Workbook Exercise\n\nWhat economic pressures push communities to organize today?\n\n## Workshop Activity\n\nCompare populist concerns to modern economic debates.\n\n## Facilitator Notes\n\nShow how economic struggles often drive political action.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: The Promise and Limits of Reform\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 03\ntags:\n  - reform\n  - democracy\n  - limitations\n---\n\n# The Promise and Limits of Reform\n\n## Book Narrative\n\nThe populist movement promised to expand democratic participation.\n\nBut the South, including Arkansas, remained deeply shaped by racial divisions.\n\nMany reform movements struggled with the tension between expanding economic democracy while confronting systems of racial exclusion.\n\nThese tensions would define much of Arkansas civic history in the decades that followed.\n\n## Course Activity\n\nAnalyze tensions between reform and exclusion.\n\n## Workbook Exercise\n\nWrite about how reform movements sometimes contain contradictions.\n\n## Workshop Activity\n\nDiscuss why some movements expand democracy while others restrict it.\n\n## Facilitator Notes\n\nPrepare readers for the Elaine Massacre segment.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: The Elaine Massacre\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 04\ntags:\n  - elaine_massacre\n  - racial_violence\n  - labor\n---\n\n# The Elaine Massacre\n\n## Book Narrative\n\nIn 1919, Black sharecroppers in Phillips County began organizing for fair payment for cotton crops.\n\nThey gathered in a church near Elaine, Arkansas to discuss forming a union.\n\nThe effort threatened the economic system that dominated the Delta.\n\nRumors spread that Black farmers were planning an uprising.\n\nWhite mobs, joined by authorities and federal troops, responded with extraordinary violence.\n\nHistorians estimate that as many as two hundred Black Arkansans were killed.\n\nThe Elaine Massacre became one of the deadliest racial attacks in American history.\n\n## Course Activity\n\nLearners analyze why organizing sometimes provokes backlash.\n\n## Workbook Exercise\n\nReflect on why systems of power resist change.\n\n## Workshop Activity\n\nFacilitated discussion about power and fear.\n\n## Facilitator Notes\n\nTreat this section with seriousness and historical care.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: The Supreme Court Case\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 05\ntags:\n  - moore_v_dempsey\n  - civil_rights\n---\n\n# The Supreme Court Case\n\n## Book Narrative\n\nAfter the violence in Elaine, several Black men were tried and sentenced to death in rushed trials.\n\nTheir case eventually reached the United States Supreme Court.\n\nIn Moore v. Dempsey (1923), the Court ruled that the trials had violated due process.\n\nThe decision became an important precedent for federal protection of civil rights.\n\n## Course Activity\n\nLearners examine the role of courts in protecting rights.\n\n## Workbook Exercise\n\nWrite about why judicial review matters.\n\n## Workshop Activity\n\nDiscuss how courts interact with democratic systems.\n\n## Facilitator Notes\n\nConnect historical events to institutional structures.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: The Southern Tenant Farmers Union\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 06\ntags:\n  - tenant_farmers\n  - labor_organizing\n---\n\n# The Southern Tenant Farmers Union\n\n## Book Narrative\n\nIn the 1930s, Arkansas again became a center of labor organizing.\n\nThe Southern Tenant Farmers Union formed in the Arkansas Delta.\n\nThe union brought together Black and white tenant farmers to demand fair treatment.\n\nTheir efforts challenged powerful landowners and exposed the harsh conditions of sharecropping.\n\n## Course Activity\n\nDiscuss why cross-racial organizing was significant.\n\n## Workbook Exercise\n\nWrite about the challenges of building broad coalitions.\n\n## Workshop Activity\n\nGroup exercise: what makes coalitions succeed or fail?\n\n## Facilitator Notes\n\nHighlight coalition-building across divisions.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: Right-to-Work and Labor Politics\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 07\ntags:\n  - right_to_work\n  - labor_policy\n---\n\n# Right-to-Work and Labor Politics\n\n## Book Narrative\n\nIn 1944, Arkansas voters approved a constitutional amendment known as Right-to-Work.\n\nThe law restricted the ability of unions to require membership as a condition of employment.\n\nSupporters argued it protected worker freedom.\n\nCritics argued it weakened labor power.\n\nThe debate over collective bargaining and worker rights continues to shape Arkansas politics today.\n\n## Course Activity\n\nLearners debate arguments for and against right-to-work laws.\n\n## Workbook Exercise\n\nWhat role should unions play in modern economies?\n\n## Workshop Activity\n\nStructured debate exercise.\n\n## Facilitator Notes\n\nConnect labor history to modern policy debates.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: Civil Rights and Desegregation\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 08\ntags:\n  - civil_rights\n  - desegregation\n---\n\n# Civil Rights and Desegregation\n\n## Book Narrative\n\nThe mid-twentieth century brought new struggles over civil rights.\n\nArkansas became a focal point of the national desegregation battle during the Little Rock school crisis of 1957.\n\nStudents, activists, and national leaders confronted the question of whether the rule of law and constitutional rights would be upheld.\n\n## Course Activity\n\nAnalyze the importance of the Little Rock desegregation crisis.\n\n## Workbook Exercise\n\nReflect on the role of courage in civic movements.\n\n## Workshop Activity\n\nDiscuss leadership during moments of civic conflict.\n\n## Facilitator Notes\n\nFrame this moment as a national turning point.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: The Rise of Ballot Initiatives\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 09\ntags:\n  - initiative\n  - direct_democracy\n---\n\n# The Rise of Ballot Initiatives\n\n## Book Narrative\n\nArkansas citizens possess a unique democratic tool: the ballot initiative.\n\nThrough Amendment 7, voters can propose laws or constitutional amendments directly to the public.\n\nThis process allows citizens to bypass the legislature and bring issues directly to the ballot.\n\n## Course Activity\n\nLearners review examples of successful Arkansas ballot initiatives.\n\n## Workbook Exercise\n\nWhat issue would you consider placing on the ballot?\n\n## Workshop Activity\n\nPetition drive simulation.\n\n## Facilitator Notes\n\nIntroduce direct democracy as a civic tool.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: Modern Ballot Campaigns\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 10\ntags:\n  - modern_ballot_initiatives\n---\n\n# Modern Ballot Campaigns\n\n## Book Narrative\n\nIn recent decades, Arkansas voters have used the ballot initiative process to address issues ranging from minimum wage increases to medical marijuana legalization.\n\nThese campaigns required extensive grassroots organizing and statewide coalition building.\n\n## Course Activity\n\nAnalyze how ballot campaigns gather signatures.\n\n## Workbook Exercise\n\nIdentify the steps needed to place an initiative on the ballot.\n\n## Workshop Activity\n\nGroup planning exercise for a hypothetical ballot campaign.\n\n## Facilitator Notes\n\nShow the mechanics of organizing.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: The Modern Civic Awakening\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 11\ntags:\n  - learns_act\n  - petitions\n---\n\n# The Modern Civic Awakening\n\n## Book Narrative\n\nIn the 2020s, Arkansas experienced another surge of civic activity.\n\nEfforts to challenge major legislation through referendums sparked organizing across the state.\n\nPetition drives mobilized volunteers and engaged thousands of citizens in direct democratic action.\n\n## Course Activity\n\nDiscuss modern civic engagement campaigns.\n\n## Workbook Exercise\n\nWrite about a recent Arkansas political event that drew public attention.\n\n## Workshop Activity\n\nShare experiences of recent civic participation.\n\n## Facilitator Notes\n\nConnect history to present-day activism.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: What the Arkansas Story Teaches\ncourse: course_01_civic_awakening\nchapter: chapter_03\nsegment: 12\ntags:\n  - lessons\n  - history\n---\n\n# What the Arkansas Story Teaches\n\n## Book Narrative\n\nThe history of Arkansas civic life reveals a recurring pattern.\n\nCommunities organize.\n\nPower responds.\n\nSometimes progress follows.\n\nSometimes backlash appears.\n\nBut each generation inherits the tools and lessons of those who came before.\n\nUnderstanding that history prepares citizens to shape the next chapter.\n\n## Course Activity\n\nLearners identify key patterns in Arkansas civic history.\n\n## Workbook Exercise\n\nWhat lesson from Arkansas history feels most important today?\n\n## Workshop Activity\n\nGroup reflection on historical patterns.\n\n## Facilitator Notes\n\nClose the chapter by emphasizing continuity.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 03",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 03', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    },
+    {
+      "title": "The Quiet Crisis",
+      "slug": "chapter_03_the_quiet_crisis",
+      "chapter_name": "chapter_03_the_quiet_crisis",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_03_the_quiet_crisis",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Civic Awakening\n- chapter: The Quiet Crisis\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'The Quiet Crisis', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_03_the_quiet_crisis\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_03_the_quiet_crisis\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_03_the_quiet_crisis\\simulations"
+      }
+    },
+    {
+      "title": "Chapter 04",
+      "slug": "chapter_04",
+      "chapter_name": "chapter_04",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_04",
+      "estimated_minutes": 20,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: The Tools Citizens Already Have\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 01\ntags:\n  - civic_tools\n  - citizen_power\n---\n\n# The Tools Citizens Already Have\n\n## Book Narrative\n\nBy the time readers reach this chapter, one truth should be clear.\n\nDemocracy is not something that only happens every four years.\n\nIt is a system made up of tools.\n\nSome of those tools belong to elected officials.\n\nBut many of them belong to citizens.\n\nArkansas voters possess the ability to organize communities, influence institutions, and in some cases even write laws directly.\n\nThe question is not whether those tools exist.\n\nThe question is whether people know how to use them.\n\n## Course Activity\n\nLearners identify civic tools they have personally used before.\n\n## Workbook Exercise\n\nList three ways citizens can influence public decisions.\n\n## Workshop Activity\n\nGroup brainstorm: what tools do citizens actually possess?\n\n## Facilitator Notes\n\nIntroduce civic engagement as a toolkit.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: Voting Is Only the Beginning\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 02\ntags:\n  - voting\n  - participation\n---\n\n# Voting Is Only the Beginning\n\n## Book Narrative\n\nVoting is one of the most visible forms of civic participation.\n\nBut voting alone does not define democracy.\n\nBetween elections, thousands of decisions are made by institutions that respond to public pressure, advocacy, and organization.\n\nCitizens who limit their participation to voting every few years often miss the spaces where influence actually happens.\n\n## Course Activity\n\nLearners identify civic actions that happen between elections.\n\n## Workbook Exercise\n\nWrite about a time when public pressure influenced a decision.\n\n## Workshop Activity\n\nDiscuss examples of community influence outside elections.\n\n## Facilitator Notes\n\nExpand the reader\u2019s understanding of participation.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: Ballot Initiatives\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 03\ntags:\n  - initiative\n  - direct_democracy\n---\n\n# Ballot Initiatives\n\n## Book Narrative\n\nArkansas is one of the states that allows citizens to propose laws directly through ballot initiatives.\n\nThis process allows voters to collect signatures and place an issue before the entire electorate.\n\nBallot initiatives have shaped many policies in Arkansas history.\n\nFrom minimum wage increases to medical marijuana legalization, these campaigns demonstrate how organized citizens can bypass traditional political institutions.\n\n## Course Activity\n\nLearners review a past Arkansas ballot initiative.\n\n## Workbook Exercise\n\nWhat issue might Arkansans attempt to place on the ballot?\n\n## Workshop Activity\n\nSimulate the early planning of a ballot campaign.\n\n## Facilitator Notes\n\nExplain initiative basics clearly.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: Referendums\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 04\ntags:\n  - referendum\n  - legislation\n---\n\n# Referendums\n\n## Book Narrative\n\nReferendums allow citizens to challenge laws passed by the legislature.\n\nIf enough signatures are gathered, a law can be placed on the ballot and voters can decide whether it should remain in place.\n\nThis process acts as a democratic check on legislative authority.\n\n## Course Activity\n\nLearners examine a referendum example.\n\n## Workbook Exercise\n\nWrite about why citizens might challenge a law.\n\n## Workshop Activity\n\nDiscuss when referendums might be appropriate.\n\n## Facilitator Notes\n\nIntroduce referendums as democratic accountability.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: Petition Drives\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 05\ntags:\n  - petition_drives\n  - grassroots\n---\n\n# Petition Drives\n\n## Book Narrative\n\nPetition drives are one of the most visible forms of grassroots organizing.\n\nVolunteers travel across communities collecting signatures from voters.\n\nEach signature represents a conversation about public policy.\n\nSuccessful petition drives require organization, persistence, and broad community engagement.\n\n## Course Activity\n\nLearners explore how petition drives gather support.\n\n## Workbook Exercise\n\nDescribe the challenges of collecting signatures.\n\n## Workshop Activity\n\nPractice approaching voters in a petition scenario.\n\n## Facilitator Notes\n\nEmphasize relational organizing.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: Voting Systems\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 06\ntags:\n  - voting_systems\n  - representation\n---\n\n# Voting Systems\n\n## Book Narrative\n\nNot all voting systems operate the same way.\n\nDifferent systems produce different political outcomes.\n\nSome systems encourage majority representation.\n\nOthers allow minority voices greater influence.\n\nUnderstanding voting systems helps citizens evaluate how democratic institutions function.\n\n## Course Activity\n\nLearners compare different voting systems.\n\n## Workbook Exercise\n\nWhich voting system seems most fair to you?\n\n## Workshop Activity\n\nSimulate elections using different voting methods.\n\n## Facilitator Notes\n\nIntroduce institutional design.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: At-Large Elections\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 07\ntags:\n  - at_large\n  - representation\n---\n\n# At-Large Elections\n\n## Book Narrative\n\nIn some communities, officials are elected through at-large systems.\n\nThis means that all voters select candidates for every seat.\n\nHistorically, at-large systems were sometimes used to dilute minority representation.\n\nUnderstanding these systems helps explain debates about fair representation.\n\n## Course Activity\n\nLearners examine an at-large election example.\n\n## Workbook Exercise\n\nWrite about how election systems affect representation.\n\n## Workshop Activity\n\nDiscuss fairness in electoral systems.\n\n## Facilitator Notes\n\nConnect to civil rights history.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: Ranked Choice Voting\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 08\ntags:\n  - ranked_choice\n  - voting_reform\n---\n\n# Ranked Choice Voting\n\n## Book Narrative\n\nRanked choice voting allows voters to rank candidates in order of preference.\n\nIf no candidate wins a majority, the lowest-ranked candidate is eliminated and votes are redistributed.\n\nThis system can encourage broader consensus and reduce the need for runoff elections.\n\n## Course Activity\n\nLearners participate in a ranked-choice election simulation.\n\n## Workbook Exercise\n\nDescribe advantages and disadvantages of ranked choice voting.\n\n## Workshop Activity\n\nGroup voting experiment.\n\n## Facilitator Notes\n\nKeep explanation simple and visual.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: Coalition Building\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 09\ntags:\n  - coalitions\n  - movement_building\n---\n\n# Coalition Building\n\n## Book Narrative\n\nSuccessful civic campaigns rarely operate alone.\n\nCoalitions bring together organizations, community leaders, and volunteers with shared goals.\n\nThese partnerships allow movements to expand their reach and legitimacy.\n\n## Course Activity\n\nLearners identify groups that might form a coalition.\n\n## Workbook Exercise\n\nList organizations in your community that share similar concerns.\n\n## Workshop Activity\n\nBuild a hypothetical coalition map.\n\n## Facilitator Notes\n\nEmphasize relationships over ideology.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: Messaging and Public Narrative\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 10\ntags:\n  - messaging\n  - communication\n---\n\n# Messaging and Public Narrative\n\n## Book Narrative\n\nMovements succeed not only because of policy ideas but because of the stories they tell.\n\nPublic narratives shape how people understand problems and solutions.\n\nEffective civic campaigns communicate clearly, emotionally, and consistently.\n\n## Course Activity\n\nLearners practice framing a civic message.\n\n## Workbook Exercise\n\nWrite a short message explaining an issue you care about.\n\n## Workshop Activity\n\nGroup messaging exercise.\n\n## Facilitator Notes\n\nIntroduce communication strategy.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: From Tools to Action\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 11\ntags:\n  - strategy\n  - organizing\n---\n\n# From Tools to Action\n\n## Book Narrative\n\nThe tools of democracy only matter when people use them.\n\nUnderstanding voting systems, petition drives, and coalition building gives citizens the foundation to act.\n\nCivic participation becomes powerful when knowledge turns into organization.\n\n## Course Activity\n\nLearners outline a civic strategy.\n\n## Workbook Exercise\n\nWhat issue would you organize around?\n\n## Workshop Activity\n\nSmall group strategy planning.\n\n## Facilitator Notes\n\nTransition from theory to action.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: The Next Step\ncourse: course_01_civic_awakening\nchapter: chapter_04\nsegment: 12\ntags:\n  - transition\n  - future_action\n---\n\n# The Next Step\n\n## Book Narrative\n\nThis chapter introduced the tools citizens possess.\n\nThe chapters ahead will explore how movements form, grow, and confront opposition.\n\nUnderstanding the tools is only the beginning.\n\nUsing them is where civic life truly begins.\n\n## Course Activity\n\nPreview the next course in the program.\n\n## Workbook Exercise\n\nWhat civic tool are you most interested in learning more about?\n\n## Workshop Activity\n\nClosing discussion about future engagement.\n\n## Facilitator Notes\n\nPrepare readers for movement-building chapters.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 04",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 04', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    },
+    {
+      "title": "Where Power Lives",
+      "slug": "chapter_04_where_power_lives",
+      "chapter_name": "chapter_04_where_power_lives",
+      "chapter_path": "content\\courses\\course_01_civic_awakening\\chapter_04_where_power_lives",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Civic Awakening\n- chapter: Where Power Lives in Arkansas\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Where Power Lives', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_04_where_power_lives\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_04_where_power_lives\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_01_civic_awakening\\chapter_04_where_power_lives\\simulations"
+      }
+    }
+  ]
+}

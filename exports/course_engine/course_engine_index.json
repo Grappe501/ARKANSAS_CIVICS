@@ -1,0 +1,138 @@
+{
+  "generated_by": "engine.course_engine",
+  "course_count": 22,
+  "courses": [
+    {
+      "slug": "course_01_civic_awakening",
+      "title": "Civic Awakening",
+      "lesson_count": 8,
+      "total_estimated_minutes": 217
+    },
+    {
+      "slug": "course_02_arkansas_civic_history",
+      "title": "Arkansas Civic History",
+      "lesson_count": 8,
+      "total_estimated_minutes": 216
+    },
+    {
+      "slug": "course_03_direct_democracy",
+      "title": "Direct Democracy",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_03_direct_democracy_and_the_ballot",
+      "title": "Direct Democracy And The Ballot",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_04_voting_systems",
+      "title": "Voting Systems",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_04_voting_systems_and_representation",
+      "title": "Voting Systems And Representation",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_05_labor_and_collective_power",
+      "title": "Labor And Collective Power",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_05_labor_unions_and_collective_power",
+      "title": "Labor Unions And Collective Power",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_06_shared_pain",
+      "title": "Shared Pain",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_06_shared_pain_shared_story",
+      "title": "Shared Pain Shared Story",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_07_coalitions_and_leadership",
+      "title": "Coalitions And Leadership",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_07_shared_purpose",
+      "title": "Shared Purpose",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_08_coalition_building",
+      "title": "Coalition Building",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_08_messaging_media_and_narrative",
+      "title": "Messaging Media And Narrative",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_09_messaging_and_media",
+      "title": "Messaging And Media",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_09_strategy_petitions_and_campaigns",
+      "title": "Strategy Petitions And Campaigns",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_10_opposition_pushback_and_rule_changes",
+      "title": "Opposition Pushback And Rule Changes",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_10_strategy_and_campaigns",
+      "title": "Strategy And Campaigns",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_11_opposition_and_pushback",
+      "title": "Opposition And Pushback",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_11_the_reader_becomes_the_organizer",
+      "title": "The Reader Becomes The Organizer",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    },
+    {
+      "slug": "course_12_sustaining_movements",
+      "title": "Sustaining Movements",
+      "lesson_count": 4,
+      "total_estimated_minutes": 80
+    },
+    {
+      "slug": "course_12_sustaining_the_ecosystem",
+      "title": "Sustaining The Ecosystem",
+      "lesson_count": 4,
+      "total_estimated_minutes": 136
+    }
+  ]
+}

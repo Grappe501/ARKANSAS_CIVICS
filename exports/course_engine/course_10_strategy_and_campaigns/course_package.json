@@ -1,0 +1,664 @@
+{
+  "title": "Strategy And Campaigns",
+  "slug": "course_10_strategy_and_campaigns",
+  "source_path": "content\\courses\\course_10_strategy_and_campaigns",
+  "lesson_count": 4,
+  "total_estimated_minutes": 80,
+  "metadata": {
+    "generated_by": "engine.course_engine",
+    "source_of_truth": "content/courses",
+    "chapter_count": 4,
+    "segment_count": 48,
+    "readme_path": null
+  },
+  "lessons": [
+    {
+      "title": "Chapter 01",
+      "slug": "chapter_01",
+      "chapter_name": "chapter_01",
+      "chapter_path": "content\\courses\\course_10_strategy_and_campaigns\\chapter_01",
+      "estimated_minutes": 20,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: Segment 1\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 1\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 1\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: Segment 2\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 2\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 2\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: Segment 3\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 3\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 3\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: Segment 4\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 4\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 4\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: Segment 5\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 5\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 5\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: Segment 6\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 6\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 6\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: Segment 7\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 7\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 7\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: Segment 8\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 8\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 8\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: Segment 9\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 9\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 9\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: Segment 10\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 10\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 10\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: Segment 11\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 11\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 11\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: Segment 12\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_01\nsegment: 12\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 12\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 01",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 01', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    },
+    {
+      "title": "Chapter 02",
+      "slug": "chapter_02",
+      "chapter_name": "chapter_02",
+      "chapter_path": "content\\courses\\course_10_strategy_and_campaigns\\chapter_02",
+      "estimated_minutes": 20,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: Segment 1\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 1\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 1\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: Segment 2\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 2\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 2\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: Segment 3\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 3\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 3\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: Segment 4\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 4\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 4\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: Segment 5\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 5\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 5\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: Segment 6\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 6\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 6\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: Segment 7\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 7\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 7\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: Segment 8\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 8\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 8\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: Segment 9\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 9\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 9\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: Segment 10\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 10\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 10\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: Segment 11\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 11\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 11\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: Segment 12\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_02\nsegment: 12\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 12\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 02",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 02', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    },
+    {
+      "title": "Chapter 03",
+      "slug": "chapter_03",
+      "chapter_name": "chapter_03",
+      "chapter_path": "content\\courses\\course_10_strategy_and_campaigns\\chapter_03",
+      "estimated_minutes": 20,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: Segment 1\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 1\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 1\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: Segment 2\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 2\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 2\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: Segment 3\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 3\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 3\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: Segment 4\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 4\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 4\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: Segment 5\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 5\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 5\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: Segment 6\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 6\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 6\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: Segment 7\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 7\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 7\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: Segment 8\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 8\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 8\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: Segment 9\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 9\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 9\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: Segment 10\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 10\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 10\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: Segment 11\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 11\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 11\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: Segment 12\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_03\nsegment: 12\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 12\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 03",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 03', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    },
+    {
+      "title": "Chapter 04",
+      "slug": "chapter_04",
+      "chapter_name": "chapter_04",
+      "chapter_path": "content\\courses\\course_10_strategy_and_campaigns\\chapter_04",
+      "estimated_minutes": 20,
+      "objectives": [
+        {
+          "text": "Understand 01 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Segment through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "content",
+          "title": "01 Segment",
+          "body": "---\ntitle: Segment 1\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 1\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 1\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "01_segment",
+          "order": 1
+        },
+        {
+          "block_type": "content",
+          "title": "02 Segment",
+          "body": "---\ntitle: Segment 2\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 2\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 2\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "02_segment",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Segment",
+          "body": "---\ntitle: Segment 3\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 3\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 3\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "03_segment",
+          "order": 3
+        },
+        {
+          "block_type": "content",
+          "title": "04 Segment",
+          "body": "---\ntitle: Segment 4\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 4\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 4\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "04_segment",
+          "order": 4
+        },
+        {
+          "block_type": "content",
+          "title": "05 Segment",
+          "body": "---\ntitle: Segment 5\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 5\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 5\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "05_segment",
+          "order": 5
+        },
+        {
+          "block_type": "content",
+          "title": "06 Segment",
+          "body": "---\ntitle: Segment 6\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 6\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 6\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "06_segment",
+          "order": 6
+        },
+        {
+          "block_type": "content",
+          "title": "07 Segment",
+          "body": "---\ntitle: Segment 7\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 7\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 7\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "07_segment",
+          "order": 7
+        },
+        {
+          "block_type": "content",
+          "title": "08 Segment",
+          "body": "---\ntitle: Segment 8\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 8\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 8\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "08_segment",
+          "order": 8
+        },
+        {
+          "block_type": "content",
+          "title": "09 Segment",
+          "body": "---\ntitle: Segment 9\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 9\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 9\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "09_segment",
+          "order": 9
+        },
+        {
+          "block_type": "content",
+          "title": "10 Segment",
+          "body": "---\ntitle: Segment 10\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 10\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 10\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "10_segment",
+          "order": 10
+        },
+        {
+          "block_type": "content",
+          "title": "11 Segment",
+          "body": "---\ntitle: Segment 11\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 11\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 11\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "11_segment",
+          "order": 11
+        },
+        {
+          "block_type": "content",
+          "title": "12 Segment",
+          "body": "---\ntitle: Segment 12\ncourse: course_10_strategy_and_campaigns\nchapter: chapter_04\nsegment: 12\n\ntags:\n  - civic_engagement\n  - arkansas\n---\n\n# Segment 12\n\n## Book Narrative\n\nWrite the narrative section of the book here.\n\n## Course Activity\n\nDescribe the interactive scenario or exercise.\n\n## Workbook Exercise\n\nPrompt readers to reflect or apply what they learned.\n\n## Workshop Activity\n\nDescribe a group activity for live sessions.\n\n## Facilitator Notes\n\nGuidance for workshop facilitators.",
+          "source_segment_name": "12_segment",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "discussion",
+          "title": "Discussion: Chapter 04",
+          "instructions": "Discuss the chapter\u2019s core civic lesson and identify one concrete organizing application in Arkansas.",
+          "source_segment_name": "01_segment",
+          "estimated_minutes": 8,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Segment' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_segment",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Chapter 04', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_segment",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "lesson"
+      ],
+      "metadata": {
+        "has_named_segments": false,
+        "segment_count": 12,
+        "chapter_yaml_path": null,
+        "articulate_path": null,
+        "simulations_path": null
+      }
+    }
+  ]
+}

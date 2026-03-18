@@ -10,8 +10,8 @@
   <div id="app">
     <aside class="sidebar">
       <div class="sidebar-header">
-        <h1>Arkansas Civics</h1>
-        <p>Editor Dashboard</p>
+        <h1>Stand Up Arkansas</h1>
+        <p>Learning Command Center</p>
       </div>
 
       <div class="sidebar-section">
@@ -47,6 +47,30 @@
         <button id="generateQuizBtn" class="secondary">Generate Quiz</button>
         <button id="exportRiseBtn" class="secondary">Export Rise Lesson</button>
       </div>
+
+      <div class="sidebar-section">
+        <h3>Platform Views</h3>
+        <button class="secondary nav-tab-btn" data-tab-target="editorView">Editor</button>
+        <button class="secondary nav-tab-btn" data-tab-target="courseEngineTab">Course Engine</button>
+        <button class="secondary nav-tab-btn" data-tab-target="trackEngineTab">Tracks</button>
+        <button class="secondary nav-tab-btn" data-tab-target="lessonPlayerTab">Lesson Player</button>
+        <button class="secondary nav-tab-btn" data-tab-target="learningRuntimeTab">Learning Runtime</button>
+        <button class="secondary nav-tab-btn" data-tab-target="systemTab">System</button>
+      </div>
+
+      <div class="sidebar-section">
+        <h3>Future Platform</h3>
+        <div class="sidebar-note">
+          <p><strong>Planned:</strong></p>
+          <ul>
+            <li>Progress tracking and certification</li>
+            <li>Volunteer and education hour reports</li>
+            <li>AI-guided learning recommendations</li>
+            <li>Operational database layer</li>
+            <li>In-house lesson authoring universe</li>
+          </ul>
+        </div>
+      </div>
     </aside>
 
     <main class="workspace">
@@ -61,46 +85,252 @@
         </div>
       </header>
 
-      <section class="split-layout">
-        <div class="panel review-panel">
+      <section class="workspace-nav">
+        <button class="workspace-tab active" data-tab-target="editorView">Editor Workspace</button>
+        <button class="workspace-tab" data-tab-target="courseEngineTab">Course Engine</button>
+        <button class="workspace-tab" data-tab-target="trackEngineTab">Tracks</button>
+        <button class="workspace-tab" data-tab-target="lessonPlayerTab">Lesson Player</button>
+        <button class="workspace-tab" data-tab-target="learningRuntimeTab">Learning Runtime</button>
+        <button class="workspace-tab" data-tab-target="systemTab">System Map</button>
+      </section>
+
+      <section id="editorView" class="workspace-tab-panel active">
+        <section class="split-layout">
+          <div class="panel review-panel">
+            <div class="panel-header">
+              <h2>Current Segment</h2>
+            </div>
+            <div id="currentSegmentView" class="panel-body markdown-view">
+              Select a segment to begin.
+            </div>
+          </div>
+
+          <div class="panel right-stack">
+            <div class="panel ai-panel">
+              <div class="panel-header">
+                <h2>AI Suggestions / Research</h2>
+              </div>
+              <div id="aiOutput" class="panel-body">
+                AI output will appear here.
+              </div>
+            </div>
+
+            <div class="panel editor-panel">
+              <div class="panel-header">
+                <h2>Writing Workspace</h2>
+              </div>
+              <textarea
+                id="editor"
+                class="panel-body editor-textarea"
+                placeholder="Write here..."
+              ></textarea>
+            </div>
+          </div>
+        </section>
+
+        <section class="prompt-bar">
+          <div class="prompt-top">
+            <label for="instructionInput">Instruction / Prompt</label>
+          </div>
+          <div class="prompt-bottom">
+            <textarea
+              id="instructionInput"
+              placeholder="Ask for revisions, additions, deletions, research, organizing examples, quizzes, exports, or new lesson generation..."
+            ></textarea>
+          </div>
+        </section>
+      </section>
+
+      <section id="courseEngineTab" class="workspace-tab-panel">
+        <div class="panel full-panel">
           <div class="panel-header">
-            <h2>Current Segment</h2>
+            <h2>Course Engine</h2>
           </div>
-          <div id="currentSegmentView" class="panel-body markdown-view">
-            Select a segment to begin.
-          </div>
-        </div>
-
-        <div class="panel right-stack">
-          <div class="panel ai-panel">
-            <div class="panel-header">
-              <h2>AI Suggestions / Research</h2>
-            </div>
-            <div id="aiOutput" class="panel-body">
-              AI output will appear here.
-            </div>
-          </div>
-
-          <div class="panel editor-panel">
-            <div class="panel-header">
-              <h2>Writing Workspace</h2>
-            </div>
-            <textarea id="editor" class="panel-body editor-textarea" placeholder="Write here..."></textarea>
+          <div class="panel-body">
+            <p class="panel-intro">
+              Explore the internal course packages generated from the source content spine.
+            </p>
+            <div id="course-engine-view" class="course-engine-root">Loading course engine…</div>
           </div>
         </div>
       </section>
 
-      <section class="prompt-bar">
-        <div class="prompt-top">
-          <label for="instructionInput">Instruction / Prompt</label>
+      <section id="trackEngineTab" class="workspace-tab-panel">
+        <div class="panel full-panel">
+          <div class="panel-header">
+            <h2>Track Engine</h2>
+          </div>
+          <div class="panel-body">
+            <p class="panel-intro">
+              Track pathways map real civic roles to real courses. This is the foundation for campaign manager, organizer, constitution, and leadership learning paths.
+            </p>
+            <div id="track-engine-view" class="course-engine-root">Loading track engine…</div>
+          </div>
         </div>
-        <div class="prompt-bottom">
-          <textarea id="instructionInput" placeholder="Ask for revisions, additions, deletions, personal stories, research, demographic overlays, movement examples, lesson generation, quizzes, or exports..."></textarea>
+      </section>
+
+      <section id="lessonPlayerTab" class="workspace-tab-panel">
+        <div class="lesson-player-shell">
+          <aside class="lesson-player-sidebar panel">
+            <div class="panel-header">
+              <h2>Mission Map</h2>
+            </div>
+            <div class="panel-body">
+              <div class="lesson-player-toolbar">
+                <input id="lessonPlayerSearch" class="course-engine-search" type="search" placeholder="Search lessons, chapters, segments…" />
+              </div>
+              <div id="lesson-player-nav" class="lesson-player-nav">Loading lesson player…</div>
+            </div>
+          </aside>
+
+          <main class="lesson-player-main">
+            <div class="panel lesson-player-hero">
+              <div class="panel-header">
+                <h2>Learning Mission</h2>
+              </div>
+              <div class="panel-body lesson-player-hero-body">
+                <div class="lesson-player-hero-copy">
+                  <div id="lesson-player-breadcrumb" class="lesson-player-breadcrumb">Stand Up Arkansas / Lesson Player</div>
+                  <h1 id="lesson-player-title" class="lesson-player-title">Select a real segment to begin learning.</h1>
+                  <p id="lesson-player-summary" class="lesson-player-summary">
+                    This player runs on real Arkansas course content. Start with your current editor selection or choose a segment from the mission map.
+                  </p>
+                  <div id="lesson-player-meta" class="lesson-player-chip-wrap"></div>
+                </div>
+                <div class="lesson-player-runtime-card">
+                  <div class="lesson-clock-display" id="lesson-clock-display">00:00:00</div>
+                  <div class="lesson-clock-status" id="lesson-clock-status">Idle</div>
+                  <div class="lesson-runtime-actions">
+                    <button id="lessonStartBtn" class="primary">Start Learning</button>
+                    <button id="lessonPauseBtn" class="secondary">Pause</button>
+                    <button id="lessonCompleteBtn" class="secondary">Complete Segment</button>
+                  </div>
+                  <div class="lesson-runtime-stats" id="lesson-runtime-stats"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="lesson-player-grid">
+              <section class="panel">
+                <div class="panel-header"><h2>Objectives</h2></div>
+                <div class="panel-body"><div id="lesson-player-objectives"></div></div>
+              </section>
+
+              <section class="panel">
+                <div class="panel-header"><h2>Activities & Assessments</h2></div>
+                <div class="panel-body"><div id="lesson-player-practice"></div></div>
+              </section>
+            </div>
+
+            <section class="panel lesson-player-content-panel">
+              <div class="panel-header">
+                <h2>Lesson Content</h2>
+              </div>
+              <div id="lesson-player-content" class="panel-body markdown-view lesson-player-content">
+                Select a segment to begin.
+              </div>
+            </section>
+
+            <section class="panel lesson-player-footer-panel">
+              <div class="panel-header"><h2>Navigation</h2></div>
+              <div class="panel-body lesson-player-footer-actions">
+                <button id="lessonPrevBtn" class="secondary">Previous Segment</button>
+                <button id="lessonNextBtn" class="primary">Next Segment</button>
+              </div>
+            </section>
+          </main>
+        </div>
+      </section>
+
+      <section id="learningRuntimeTab" class="workspace-tab-panel">
+        <div class="panel full-panel">
+          <div class="panel-header">
+            <h2>Learning Runtime</h2>
+          </div>
+          <div class="panel-body">
+            <p class="panel-intro">
+              Active learning mode tracks real engagement time, pauses on idle, and lays the groundwork for volunteer and education hour reporting.
+            </p>
+            <div id="learning-runtime-view" class="course-engine-root">Loading runtime…</div>
+          </div>
+        </div>
+      </section>
+
+      <section id="systemTab" class="workspace-tab-panel">
+        <div class="system-grid">
+          <div class="panel">
+            <div class="panel-header">
+              <h2>Platform Architecture</h2>
+            </div>
+            <div class="panel-body">
+              <div class="system-card">
+                <h3>Source of Truth</h3>
+                <p><code>content/</code> remains the authoritative writing layer.</p>
+              </div>
+              <div class="system-card">
+                <h3>Platform Kernel</h3>
+                <p><code>engine/platform_kernel.py</code> governs structure, paths, validation, and future persistence readiness.</p>
+              </div>
+              <div class="system-card">
+                <h3>Course + Lesson Player</h3>
+                <p>Real learning routes are generated from the actual Arkansas course content and rendered in the in-house player.</p>
+              </div>
+              <div class="system-card">
+                <h3>Future Database Layer</h3>
+                <p>Postgres will later store learner state, time tracking, recommendations, badges, and reporting.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-header">
+              <h2>Build Pipeline</h2>
+            </div>
+            <div class="panel-body">
+              <pre class="system-pre">
+content/
+   ↓
+platform_kernel
+   ↓
+build_all.py
+   ├── build_book.py
+   ├── build_course_exports.py
+   ├── build_course_engine.py
+   ├── build_lesson_player.py
+   ├── generate_reader_site.py
+   └── copy_dashboard_content.py
+   ↓
+exports/
+   ↓
+editor-dashboard
+              </pre>
+            </div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-header">
+              <h2>Future Roadmap</h2>
+            </div>
+            <div class="panel-body">
+              <ul class="system-list">
+                <li>Live learner accounts</li>
+                <li>Active learning and idle validation</li>
+                <li>Volunteer and education hour reports</li>
+                <li>AI-guided learning pathways</li>
+                <li>In-house assessments, badges, and credentials</li>
+                <li>Stand Up Arkansas public learning platform</li>
+              </ul>
+            </div>
+          </div>
         </div>
       </section>
     </main>
   </div>
 
-  <script src="./app.js" type="module"></script>
+  <script src="./course-engine-viewer.js"></script>
+  <script src="./track-engine-viewer.js"></script>
+  <script src="./learning-runtime-viewer.js"></script>
+  <script src="./lesson-player.js"></script>
+  <script src="./app.js"></script>
 </body>
 </html>

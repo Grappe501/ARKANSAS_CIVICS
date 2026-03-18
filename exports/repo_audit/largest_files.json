@@ -1,0 +1,152 @@
+[
+  {
+    "path": "exports\\repo_audit\\files.json",
+    "suffix": ".json",
+    "size_bytes": 585370,
+    "line_count": 17960
+  },
+  {
+    "path": "exports\\project_map\\project_files.json",
+    "suffix": ".json",
+    "size_bytes": 547968,
+    "line_count": 16778
+  },
+  {
+    "path": "exports\\book\\compiled_book.md",
+    "suffix": ".md",
+    "size_bytes": 526543,
+    "line_count": 29244
+  },
+  {
+    "path": "exports\\project_map\\top_folder_report.md",
+    "suffix": ".md",
+    "size_bytes": 216219,
+    "line_count": 2144
+  },
+  {
+    "path": "exports\\project_map\\project_tree.txt",
+    "suffix": ".txt",
+    "size_bytes": 145741,
+    "line_count": 2570
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_01_civic_awakening_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 77037,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_02_arkansas_civic_history_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 55139,
+    "line_count": null
+  },
+  {
+    "path": "exports\\course\\course_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 49381,
+    "line_count": 1744
+  },
+  {
+    "path": "apps\\editor-dashboard\\content-manifest.json",
+    "suffix": ".json",
+    "size_bytes": 48671,
+    "line_count": 1390
+  },
+  {
+    "path": "scripts\\upgrade_editor_dashboard_architecture.py",
+    "suffix": ".py",
+    "size_bytes": 34429,
+    "line_count": 1029
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_05_labor_and_collective_power_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 33719,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_11_opposition_and_pushback_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 33539,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_10_strategy_and_campaigns_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 33479,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_12_sustaining_movements_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 33359,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_09_messaging_and_media_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 33299,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_08_coalition_building_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 33239,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_03_direct_democracy_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 33119,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_04_voting_systems_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 32999,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_07_shared_purpose_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 32999,
+    "line_count": null
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_06_shared_pain_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 32819,
+    "line_count": null
+  },
+  {
+    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_01.html",
+    "suffix": ".html",
+    "size_bytes": 31754,
+    "line_count": 471
+  },
+  {
+    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_03.html",
+    "suffix": ".html",
+    "size_bytes": 26503,
+    "line_count": 401
+  },
+  {
+    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_02.html",
+    "suffix": ".html",
+    "size_bytes": 26282,
+    "line_count": 407
+  },
+  {
+    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_04.html",
+    "suffix": ".html",
+    "size_bytes": 25144,
+    "line_count": 390
+  },
+  {
+    "path": "exports\\articulate\\scorm\\course_10_opposition_pushback_and_rule_changes_SCORM.zip",
+    "suffix": ".zip",
+    "size_bytes": 24099,
+    "line_count": null
+  }
+]

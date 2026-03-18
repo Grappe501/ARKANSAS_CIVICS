@@ -1,0 +1,15 @@
+project:
+  slug: arkansas-civics
+  title: Arkansas Civics
+  subtitle: Rebuilding Civic Life from the Community Up
+  version: 0.1.0
+  outputs:
+    book: true
+    website: true
+    articulate: true
+    workbook: true
+    workshop: true
+    facilitator_guide: true
+  defaults:
+    course_duration_minutes: 90
+    citation_style: inline

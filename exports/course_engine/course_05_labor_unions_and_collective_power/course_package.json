@@ -1,0 +1,724 @@
+{
+  "title": "Labor Unions And Collective Power",
+  "slug": "course_05_labor_unions_and_collective_power",
+  "source_path": "content\\courses\\course_05_labor_unions_and_collective_power",
+  "lesson_count": 4,
+  "total_estimated_minutes": 136,
+  "metadata": {
+    "generated_by": "engine.course_engine",
+    "source_of_truth": "content/courses",
+    "chapter_count": 4,
+    "segment_count": 48,
+    "readme_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\README.md"
+  },
+  "lessons": [
+    {
+      "title": "Arkansas Labor History",
+      "slug": "chapter_01_arkansas_labor_history",
+      "chapter_name": "chapter_01_arkansas_labor_history",
+      "chapter_path": "content\\courses\\course_05_labor_unions_and_collective_power\\chapter_01_arkansas_labor_history",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Labor, Unions, and Collective Power\n- chapter: Arkansas Labor History\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Arkansas Labor History', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_01_arkansas_labor_history\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_01_arkansas_labor_history\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_01_arkansas_labor_history\\simulations"
+      }
+    },
+    {
+      "title": "Right To Work And Its Consequences",
+      "slug": "chapter_02_right_to_work_and_its_consequences",
+      "chapter_name": "chapter_02_right_to_work_and_its_consequences",
+      "chapter_path": "content\\courses\\course_05_labor_unions_and_collective_power\\chapter_02_right_to_work_and_its_consequences",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Labor, Unions, and Collective Power\n- chapter: Right-to-Work and Its Consequences\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Right To Work And Its Consequences', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_02_right_to_work_and_its_consequences\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_02_right_to_work_and_its_consequences\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_02_right_to_work_and_its_consequences\\simulations"
+      }
+    },
+    {
+      "title": "Collective Bargaining As A Hypothetical Movement",
+      "slug": "chapter_03_collective_bargaining_as_a_hypothetical_movement",
+      "chapter_name": "chapter_03_collective_bargaining_as_a_hypothetical_movement",
+      "chapter_path": "content\\courses\\course_05_labor_unions_and_collective_power\\chapter_03_collective_bargaining_as_a_hypothetical_movement",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Labor, Unions, and Collective Power\n- chapter: Collective Bargaining as a Hypothetical Movement\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Collective Bargaining As A Hypothetical Movement', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_03_collective_bargaining_as_a_hypothetical_movement\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_03_collective_bargaining_as_a_hypothetical_movement\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_03_collective_bargaining_as_a_hypothetical_movement\\simulations"
+      }
+    },
+    {
+      "title": "Building A Workers Voice Amendment",
+      "slug": "chapter_04_building_a_workers_voice_amendment",
+      "chapter_name": "chapter_04_building_a_workers_voice_amendment",
+      "chapter_path": "content\\courses\\course_05_labor_unions_and_collective_power\\chapter_04_building_a_workers_voice_amendment",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Labor, Unions, and Collective Power\n- chapter: Building a Workers\u2019 Voice Amendment\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Building A Workers Voice Amendment', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_04_building_a_workers_voice_amendment\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_04_building_a_workers_voice_amendment\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_05_labor_unions_and_collective_power\\chapter_04_building_a_workers_voice_amendment\\simulations"
+      }
+    }
+  ]
+}

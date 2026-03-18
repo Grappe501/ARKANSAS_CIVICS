@@ -1,9 +1,10 @@
 const state = {
   manifest: null,
+  normalizedManifest: null,
   currentCourse: null,
   currentChapter: null,
   currentSegment: null,
-  currentPath: null
+  currentPath: null,
 };
 
 const courseSelect = document.getElementById("courseSelect");
@@ -15,13 +16,59 @@ const editor = document.getElementById("editor");
 const instructionInput = document.getElementById("instructionInput");
 const activePath = document.getElementById("activePath");
 
+function normalizeManifest(rawManifest) {
+  if (!rawManifest) {
+    return { courses: [] };
+  }
+
+  if (Array.isArray(rawManifest.courses)) {
+    return rawManifest;
+  }
+
+  const courses = Object.entries(rawManifest).map(([courseSlug, chaptersObj]) => ({
+    slug: courseSlug,
+    name: courseSlug,
+    chapters: Object.entries(chaptersObj || {}).map(([chapterSlug, segments]) => ({
+      slug: chapterSlug,
+      name: chapterSlug,
+      segments: (segments || []).map((segmentPath) => ({
+        name: String(segmentPath).replace(/^segments\//, "").replace(/\.md$/i, ""),
+        path: segmentPath,
+      })),
+    })),
+  }));
+
+  return { generated_from: "legacy-manifest", courses };
+}
+
+function getCourses() {
+  return state.normalizedManifest?.courses || [];
+}
+
+function getCurrentCourseObj() {
+  return getCourses().find((course) => course.slug === state.currentCourse) || null;
+}
+
+function getCurrentChapterObj() {
+  const course = getCurrentCourseObj();
+  return course?.chapters?.find((chapter) => chapter.slug === state.currentChapter) || null;
+}
+
+function getCurrentSegmentObj() {
+  const chapter = getCurrentChapterObj();
+  return chapter?.segments?.find((segment) => segment.path === state.currentSegment || segment.name === state.currentSegment) || null;
+}
+
 async function loadManifest() {
   try {
-    const res = await fetch("./content-manifest.json");
+    const res = await fetch("./content-manifest.json", { cache: "no-store" });
     if (!res.ok) {
       throw new Error("Manifest not found");
     }
+
     state.manifest = await res.json();
+    state.normalizedManifest = normalizeManifest(state.manifest);
+
     populateCourses();
   } catch (err) {
     console.error(err);
@@ -31,54 +78,76 @@ async function loadManifest() {
 
 function populateCourses() {
   courseSelect.innerHTML = "";
-  Object.keys(state.manifest || {}).forEach(course => {
+
+  getCourses().forEach((course) => {
     const opt = document.createElement("option");
-    opt.value = course;
-    opt.textContent = course;
+    opt.value = course.slug;
+    opt.textContent = course.name || course.slug;
     courseSelect.appendChild(opt);
   });
+
   state.currentCourse = courseSelect.value;
   populateChapters();
 }
 
 function populateChapters() {
   chapterSelect.innerHTML = "";
-  const chapters = state.manifest?.[state.currentCourse] || {};
-  Object.keys(chapters).forEach(chapter => {
+
+  const chapters = getCurrentCourseObj()?.chapters || [];
+  chapters.forEach((chapter) => {
     const opt = document.createElement("option");
-    opt.value = chapter;
-    opt.textContent = chapter;
+    opt.value = chapter.slug;
+    opt.textContent = chapter.name || chapter.slug;
     chapterSelect.appendChild(opt);
   });
+
   state.currentChapter = chapterSelect.value;
   populateSegments();
 }
 
 function populateSegments() {
   segmentSelect.innerHTML = "";
-  const segments = state.manifest?.[state.currentCourse]?.[state.currentChapter] || [];
-  segments.forEach(segment => {
+
+  const segments = getCurrentChapterObj()?.segments || [];
+  segments.forEach((segment) => {
     const opt = document.createElement("option");
-    opt.value = segment;
-    opt.textContent = segment;
+    opt.value = segment.path;
+    opt.textContent = segment.name || segment.path;
     segmentSelect.appendChild(opt);
   });
+
   state.currentSegment = segmentSelect.value;
 }
 
 async function loadSegment() {
   try {
-    const path = `./content/${state.currentCourse}/${state.currentChapter}/${state.currentSegment}`;
+    const segment = getCurrentSegmentObj();
+    if (!segment) {
+      throw new Error("No segment selected");
+    }
+
+    const path = `./content/${state.currentCourse}/${state.currentChapter}/${segment.path}`;
     state.currentPath = path;
     activePath.textContent = path;
-    const res = await fetch(path);
+
+    const res = await fetch(path, { cache: "no-store" });
     if (!res.ok) {
       throw new Error("Segment not found");
     }
+
     const text = await res.text();
     currentSegmentView.textContent = text;
     editor.value = text;
+
+    if (window.ArkansasCivicsLessonPlayer?.loadFromEditorSelection) {
+      window.ArkansasCivicsLessonPlayer.loadFromEditorSelection({
+        courseSlug: state.currentCourse,
+        chapterSlug: state.currentChapter,
+        segmentPath: segment.path,
+      });
+    }
   } catch (err) {
+    console.error(err);
     aiOutput.textContent = "Segment load failed.";
   }
 }
@@ -87,16 +156,17 @@ async function loadChapterContext() {
   try {
     const payload = {
       course: state.currentCourse,
-      chapter: state.currentChapter
+      chapter: state.currentChapter,
     };
     const res = await fetch("/.netlify/functions/chapter-context", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload)
+      body: JSON.stringify(payload),
     });
     const data = await res.json();
     aiOutput.textContent = data.output || "No context returned.";
   } catch (err) {
+    console.error(err);
     aiOutput.textContent = "Context load failed.";
   }
 }
@@ -109,110 +179,169 @@ async function runOpenAIAction(mode) {
       currentText: editor.value,
       course: state.currentCourse,
       chapter: state.currentChapter,
-      segment: state.currentSegment
+      segment: state.currentSegment,
     };
+
     aiOutput.textContent = "Working...";
+
     const res = await fetch("/.netlify/functions/openai-proxy", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload)
+      body: JSON.stringify(payload),
     });
     const data = await res.json();
     aiOutput.textContent = data.output || "No response returned.";
   } catch (err) {
+    console.error(err);
     aiOutput.textContent = "AI request failed.";
   }
 }
 
 async function saveDraft() {
   try {
+    const segment = getCurrentSegmentObj();
     const payload = {
       course: state.currentCourse,
       chapter: state.currentChapter,
-      segment: state.currentSegment,
-      content: editor.value
+      segment: segment?.path || state.currentSegment,
+      content: editor.value,
     };
+
     const res = await fetch("/.netlify/functions/save-segment", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload)
+      body: JSON.stringify(payload),
     });
     const data = await res.json();
+
     aiOutput.textContent = data.message || "Saved.";
     currentSegmentView.textContent = editor.value;
   } catch (err) {
+    console.error(err);
     aiOutput.textContent = "Save failed.";
   }
 }
 
 async function commitUniversal() {
   try {
+    const segment = getCurrentSegmentObj();
     const payload = {
       course: state.currentCourse,
       chapter: state.currentChapter,
-      segment: state.currentSegment,
-      content: editor.value
+      segment: segment?.path || state.currentSegment,
+      content: editor.value,
     };
+
     aiOutput.textContent = "Saving, rebuilding, and committing...";
     const res = await fetch("/.netlify/functions/commit-universal", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload)
+      body: JSON.stringify(payload),
     });
     const data = await res.json();
     aiOutput.textContent = JSON.stringify(data, null, 2);
     currentSegmentView.textContent = editor.value;
   } catch (err) {
+    console.error(err);
     aiOutput.textContent = "Commit failed.";
   }
 }
 
 async function exportRiseLesson() {
   try {
+    const segment = getCurrentSegmentObj();
     const payload = {
       course: state.currentCourse,
       chapter: state.currentChapter,
-      segment: state.currentSegment,
+      segment: segment?.path || state.currentSegment,
       content: editor.value,
-      instruction: instructionInput.value
+      instruction: instructionInput.value,
     };
+
     aiOutput.textContent = "Exporting Rise lesson...";
     const res = await fetch("/.netlify/functions/export-rise", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload)
+      body: JSON.stringify(payload),
     });
     const data = await res.json();
     aiOutput.textContent = JSON.stringify(data, null, 2);
   } catch (err) {
+    console.error(err);
     aiOutput.textContent = "Rise export failed.";
   }
 }
 
-courseSelect.addEventListener("change", () => {
+function initializeTabs() {
+  const buttons = document.querySelectorAll(".workspace-tab, .nav-tab-btn");
+  const panels = document.querySelectorAll(".workspace-tab-panel");
+
+  function activateTab(targetId) {
+    panels.forEach((panel) => {
+      panel.classList.toggle("active", panel.id === targetId);
+    });
+
+    document.querySelectorAll(".workspace-tab").forEach((button) => {
+      button.classList.toggle("active", button.dataset.tabTarget === targetId);
+    });
+  }
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const targetId = button.dataset.tabTarget;
+      if (targetId) {
+        activateTab(targetId);
+      }
+    });
+  });
+}
+
+function exposeDashboardApi() {
+  window.ArkansasCivicsDashboard = {
+    getState: () => ({ ...state }),
+    getCurrentSelection: () => ({
+      courseSlug: state.currentCourse,
+      chapterSlug: state.currentChapter,
+      segment: getCurrentSegmentObj(),
+      path: state.currentPath,
+    }),
+    loadSegment,
+    activateLessonPlayer(selection) {
+      const lessonTab = document.querySelector('[data-tab-target="lessonPlayerTab"]');
+      lessonTab?.click();
+      if (window.ArkansasCivicsLessonPlayer?.loadSelection) {
+        window.ArkansasCivicsLessonPlayer.loadSelection(selection);
+      }
+    },
+  };
+}
+
+courseSelect?.addEventListener("change", () => {
   state.currentCourse = courseSelect.value;
   populateChapters();
 });
 
-chapterSelect.addEventListener("change", () => {
+chapterSelect?.addEventListener("change", () => {
   state.currentChapter = chapterSelect.value;
   populateSegments();
 });
 
-segmentSelect.addEventListener("change", () => {
+segmentSelect?.addEventListener("change", () => {
   state.currentSegment = segmentSelect.value;
 });
 
-document.getElementById("loadSegmentBtn").addEventListener("click", loadSegment);
-document.getElementById("loadContextBtn").addEventListener("click", loadChapterContext);
-document.getElementById("researchBtn").addEventListener("click", () => runOpenAIAction("research"));
-document.getElementById("suggestBtn").addEventListener("click", () => runOpenAIAction("suggest"));
-document.getElementById("storyBtn").addEventListener("click", () => runOpenAIAction("story"));
-document.getElementById("generateLessonBtn").addEventListener("click", () => runOpenAIAction("generate_lesson"));
-document.getElementById("generateQuizBtn").addEventListener("click", () => runOpenAIAction("generate_quiz"));
-document.getElementById("exportRiseBtn").addEventListener("click", exportRiseLesson);
-document.getElementById("saveBtn").addEventListener("click", saveDraft);
-document.getElementById("commitBtn").addEventListener("click", commitUniversal);
-document.getElementById("rebuildBtn").addEventListener("click", () => runOpenAIAction("rebuild_help"));
+document.getElementById("loadSegmentBtn")?.addEventListener("click", loadSegment);
+document.getElementById("loadContextBtn")?.addEventListener("click", loadChapterContext);
+document.getElementById("researchBtn")?.addEventListener("click", () => runOpenAIAction("research"));
+document.getElementById("suggestBtn")?.addEventListener("click", () => runOpenAIAction("suggest"));
+document.getElementById("storyBtn")?.addEventListener("click", () => runOpenAIAction("story"));
+document.getElementById("generateLessonBtn")?.addEventListener("click", () => runOpenAIAction("generate_lesson"));
+document.getElementById("generateQuizBtn")?.addEventListener("click", () => runOpenAIAction("generate_quiz"));
+document.getElementById("exportRiseBtn")?.addEventListener("click", exportRiseLesson);
+document.getElementById("saveBtn")?.addEventListener("click", saveDraft);
+document.getElementById("commitBtn")?.addEventListener("click", commitUniversal);
+document.getElementById("rebuildBtn")?.addEventListener("click", () => runOpenAIAction("rebuild_help"));
 
+initializeTabs();
+exposeDashboardApi();
 loadManifest();

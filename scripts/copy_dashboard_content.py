@@ -1,48 +1,144 @@
 from pathlib import Path
 import shutil
-import json
+import sys
+
+
+# ------------------------------------------------
+# Ensure project root is importable
+# ------------------------------------------------
 
 ROOT = Path(__file__).resolve().parents[1]
-CONTENT_SRC = ROOT / "content" / "courses"
-DASHBOARD_CONTENT = ROOT / "apps" / "editor-dashboard" / "content"
+sys.path.insert(0, str(ROOT))
 
-def main():
-    if DASHBOARD_CONTENT.exists():
-        shutil.rmtree(DASHBOARD_CONTENT)
 
-    DASHBOARD_CONTENT.mkdir(parents=True, exist_ok=True)
+# ------------------------------------------------
+# Kernel import
+# ------------------------------------------------
 
-    manifest = {}
+from engine.platform_kernel import create_kernel
 
-    for course in sorted(CONTENT_SRC.glob("course_*")):
-        course_out = DASHBOARD_CONTENT / course.name
+
+KERNEL = create_kernel(ROOT)
+
+
+# ------------------------------------------------
+# Utility output helpers
+# ------------------------------------------------
+
+def info(msg: str) -> None:
+    print(f"ℹ {msg}")
+
+
+def success(msg: str) -> None:
+    print(f"✔ {msg}")
+
+
+def warn(msg: str) -> None:
+    print(f"⚠ {msg}")
+
+
+def fail(msg: str) -> None:
+    print(f"\n❌ {msg}\n")
+    sys.exit(1)
+
+
+# ------------------------------------------------
+# Copy dashboard mirror
+# ------------------------------------------------
+
+def rebuild_dashboard_content() -> None:
+
+    source_courses = KERNEL.courses_dir
+    dashboard_dir = KERNEL.dashboard_content_dir
+
+    if not source_courses.exists():
+        fail("Content courses directory not found.")
+
+    # Remove existing dashboard mirror
+    if dashboard_dir.exists():
+        info("Removing previous dashboard mirror...")
+        shutil.rmtree(dashboard_dir)
+
+    dashboard_dir.mkdir(parents=True, exist_ok=True)
+
+    courses = KERNEL.load_all_courses()
+
+    copied_segments = 0
+
+    for course in courses:
+
+        course_out = dashboard_dir / course.slug
         course_out.mkdir(parents=True, exist_ok=True)
-        manifest[course.name] = {}
 
-        for chapter in sorted(course.glob("chapter_*")):
-            chapter_out = course_out / chapter.name
+        for chapter in course.chapters:
+
+            chapter_out = course_out / chapter.slug
             chapter_out.mkdir(parents=True, exist_ok=True)
 
             seg_out = chapter_out / "segments"
             seg_out.mkdir(parents=True, exist_ok=True)
 
-            manifest[course.name][chapter.name] = []
+            for segment in chapter.segments:
 
-            src_seg_dir = chapter / "segments"
-            if not src_seg_dir.exists():
-                continue
+                src = segment.path
+                dst = seg_out / src.name
 
-            for seg in sorted(src_seg_dir.glob("*.md")):
-                dst = seg_out / seg.name
-                shutil.copy2(seg, dst)
-                manifest[course.name][chapter.name].append(f"segments/{seg.name}")
+                shutil.copy2(src, dst)
+                copied_segments += 1
 
-    manifest_path = ROOT / "apps" / "editor-dashboard" / "content-manifest.json"
-    manifest_path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+    success("Dashboard content mirror rebuilt")
+    print(f"Segments copied: {copied_segments}")
+    print(f"Mirror location: {dashboard_dir}")
 
-    print("\nDashboard content copied.")
-    print(f"Manifest written to: {manifest_path}")
-    print(f"Content copied to: {DASHBOARD_CONTENT}")
+
+# ------------------------------------------------
+# Manifest generation
+# ------------------------------------------------
+
+def regenerate_dashboard_manifest() -> None:
+
+    manifest_path = KERNEL.write_dashboard_manifest()
+
+    success("Dashboard manifest regenerated from kernel")
+    print(manifest_path)
+
+
+# ------------------------------------------------
+# Main
+# ------------------------------------------------
+
+def main():
+
+    print("\n====================================")
+    print(" Dashboard Content Sync")
+    print("====================================\n")
+
+    # Validate kernel paths
+    try:
+        KERNEL.assert_core_paths()
+    except FileNotFoundError as exc:
+        fail(str(exc))
+
+    # Validate content structure
+    validation = KERNEL.validate_structure()
+
+    if not validation.get("ok", False):
+
+        warn("Platform structure issues detected:\n")
+
+        for issue in validation.get("issues", []):
+            print(f"- {issue}")
+
+        print()
+
+    rebuild_dashboard_content()
+
+    regenerate_dashboard_manifest()
+
+    print("\nDashboard sync complete.\n")
+
+
+# ------------------------------------------------
 
 if __name__ == "__main__":
     main()

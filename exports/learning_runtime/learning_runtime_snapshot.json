@@ -1,0 +1,14 @@
+{
+  "learner_id": "demo_learner",
+  "database_connected": false,
+  "persistence": "filesystem",
+  "generated_at": "2026-03-18T01:51:48.982588+00:00",
+  "summary": {
+    "total_active_seconds": 0,
+    "total_idle_seconds": 0,
+    "total_completed_segments": 0,
+    "total_sessions": 0
+  },
+  "segments": [],
+  "sessions": []
+}

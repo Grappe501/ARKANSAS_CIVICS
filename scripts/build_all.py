@@ -1,11 +1,16 @@
 import argparse
-import os
 import subprocess
 import sys
 from datetime import datetime
+from pathlib import Path
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SCRIPTS_DIR = os.path.join(ROOT, "scripts")
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+
+from engine.platform_kernel import create_kernel
+
+KERNEL = create_kernel(ROOT)
+SCRIPTS_DIR = KERNEL.scripts_dir
 
 
 def section(title: str) -> None:
@@ -14,66 +19,128 @@ def section(title: str) -> None:
     print("================================================\n")
 
 
+def info(msg: str) -> None:
+    print(f"ℹ {msg}")
+
+
+def warn(msg: str) -> None:
+    print(f"⚠ {msg}")
+
+
+def success(msg: str) -> None:
+    print(f"✔ {msg}")
+
+
+def fail(msg: str) -> None:
+    print(f"\n❌ {msg}\n")
+    sys.exit(1)
+
+
 def run_script(script_name: str) -> None:
-    script_path = os.path.join(SCRIPTS_DIR, script_name)
-    if not os.path.exists(script_path):
-        print(f"⚠ Script not found: {script_name}")
+    script_path = SCRIPTS_DIR / script_name
+    if not script_path.exists():
+        warn(f"Script not found: {script_name}")
         return
 
     start = datetime.now()
     print(f"\n▶ Running {script_name}\n")
 
     try:
-        subprocess.run([sys.executable, script_path], check=True)
+        subprocess.run([sys.executable, str(script_path)], check=True)
         duration = (datetime.now() - start).total_seconds()
-        print(f"✔ {script_name} complete ({duration:.2f}s)")
+        success(f"{script_name} complete ({duration:.2f}s)")
     except subprocess.CalledProcessError:
-        print(f"\n❌ Error while running {script_name}")
-        sys.exit(1)
+        fail(f"Error while running {script_name}")
+
+
+def validate_platform_structure() -> None:
+    validation = KERNEL.validate_structure()
+    summary = validation.get("summary", {})
+
+    print("Structure summary:")
+    print(f"  Courses:  {summary.get('course_count', 0)}")
+    print(f"  Chapters: {summary.get('chapter_count', 0)}")
+    print(f"  Segments: {summary.get('segment_count', 0)}")
+
+    if not validation.get("ok", False):
+        print("\nPlatform structure issues detected:\n")
+        for issue in validation.get("issues", []):
+            print(f"- {issue}")
+        print()
+        fail("Platform structure validation failed")
+
+    success("Platform structure validated")
+
+
+def refresh_dashboard_manifest() -> None:
+    manifest_path = KERNEL.write_dashboard_manifest()
+    success("Dashboard manifest refreshed via kernel")
+    print(manifest_path)
+
+
+def export_kernel_snapshot() -> None:
+    snapshot_path = KERNEL.export_system_snapshot()
+    success("Kernel system snapshot written")
+    print(snapshot_path)
 
 
 def check_civic_library() -> None:
-    library_dir = os.path.join(ROOT, "data", "civic_library")
-    if not os.path.exists(library_dir):
-        print("⚠ Civic library directory not found.")
+    library_dir = ROOT / "data" / "civic_library"
+    if not library_dir.exists():
+        warn("Civic library directory not found.")
         return
-    files = os.listdir(library_dir)
-    print(f"✔ Civic knowledge library detected ({len(files)} files)")
+
+    files = [p for p in library_dir.iterdir() if p.is_file()]
+    success(f"Civic knowledge library detected ({len(files)} files)")
 
 
-def run_sql_seed() -> None:
-    sql_path = os.path.join(ROOT, "scripts", "seed_postgres_schema.sql")
-    if os.path.exists(sql_path):
-        print("\nℹ Postgres schema file detected.")
-        print("Run manually with your database client if needed.")
+def check_database_schema() -> None:
+    sql_path = SCRIPTS_DIR / "seed_postgres_schema.sql"
+    if sql_path.exists():
+        info("Postgres schema file detected.")
+        info("Run manually with your database client if needed.")
     else:
-        print("⚠ No Postgres schema file found.")
+        warn("No Postgres schema file found.")
 
 
-def check_dashboard() -> None:
-    dashboard_dir = os.path.join(ROOT, "apps", "editor-dashboard")
-    if os.path.exists(dashboard_dir):
-        print("✔ Editor dashboard detected")
+def check_dashboard_environment() -> None:
+    if not KERNEL.dashboard_dir.exists():
+        warn("Editor dashboard not found")
+        return
+
+    success("Editor dashboard detected")
+
+    if KERNEL.dashboard_manifest_path.exists():
+        success("Dashboard manifest detected")
     else:
-        print("⚠ Editor dashboard not found")
+        warn("Dashboard manifest missing")
 
 
-def show_outputs() -> None:
+def show_outputs(duration: float) -> None:
     print("\n------------------------------------")
     print(" BUILD COMPLETE ")
     print("------------------------------------\n")
+
     print("Generated outputs should appear in:\n")
     print("exports/book/")
     print("exports/course/")
+    print("exports/course_engine/")
+    print("exports/lesson_player/")
+    print("exports/learning_runtime/")
     print("exports/workbook/")
     print("exports/workshop/")
     print("exports/facilitator/")
     print("exports/reader_site/")
+    print("exports/system_map/")
+
     print("\nDashboard location:")
     print("apps/editor-dashboard/")
+
     print("\nNetlify deploy folders:")
     print("exports/reader_site/")
     print("apps/editor-dashboard/")
+
+    print(f"\nBuild completed in {duration:.2f} seconds.\n")
 
 
 def parse_args() -> argparse.Namespace:
@@ -91,15 +158,28 @@ def main() -> None:
     start = datetime.now()
 
     section("Arkansas Civics Platform Builder")
+
     print("Project root:")
     print(ROOT)
     print()
 
+    section("STEP 0 — Platform Kernel Validation")
+    try:
+        KERNEL.assert_core_paths()
+        success("Core platform paths detected")
+    except FileNotFoundError as exc:
+        fail(f"Kernel path validation failed:\n{exc}")
+
+    validate_platform_structure()
+
     if args.with_scaffold:
         section("OPTIONAL — Refreshing Dashboard Scaffold")
-        run_script("scaffold_everything.py")
+        run_script("editor_dashboard_generator.py")
     else:
-        print("Skipping scaffold refresh (safe mode). Use --with-scaffold to rebuild dashboard templates.\n")
+        print(
+            "Skipping scaffold refresh (safe mode). "
+            "Use --with-scaffold to rebuild dashboard templates.\n"
+        )
 
     section("STEP 1 — Building Book Manuscript")
     run_script("build_book.py")
@@ -107,24 +187,35 @@ def main() -> None:
     section("STEP 2 — Building Course Export Packages")
     run_script("build_course_exports.py")
 
-    section("STEP 3 — Generating Reader Website")
+    section("STEP 3 — Building Internal Course Engine")
+    run_script("build_course_engine.py")
+
+    section("STEP 4 — Building Lesson Player")
+    run_script("build_lesson_player.py")
+
+    section("STEP 5 — Generating Reader Website")
     run_script("generate_reader_site.py")
 
-    section("STEP 4 — Syncing Editor Dashboard Content")
+    section("STEP 6 — Syncing Editor Dashboard Content")
     run_script("copy_dashboard_content.py")
 
-    section("STEP 5 — Validating Civic Knowledge Library")
+    section("STEP 7 — Refreshing Kernel Dashboard Manifest")
+    refresh_dashboard_manifest()
+
+    section("STEP 8 — Exporting Platform Snapshot")
+    export_kernel_snapshot()
+
+    section("STEP 9 — Validating Civic Knowledge Library")
     check_civic_library()
 
-    section("STEP 6 — Database Schema")
-    run_sql_seed()
+    section("STEP 10 — Database Schema")
+    check_database_schema()
 
-    section("STEP 7 — Dashboard Environment")
-    check_dashboard()
+    section("STEP 11 — Dashboard Environment")
+    check_dashboard_environment()
 
     duration = (datetime.now() - start).total_seconds()
-    show_outputs()
-    print(f"Build completed in {duration:.2f} seconds.\n")
+    show_outputs(duration)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,105 @@
+{
+  "root": "C:\\Users\\User\\Desktop\\arkansas_civics",
+  "total_files": 2996,
+  "extensions": {
+    "": 1,
+    ".css": 2,
+    ".html": 195,
+    ".js": 18,
+    ".json": 11,
+    ".md": 2549,
+    ".py": 43,
+    ".sql": 3,
+    ".toml": 1,
+    ".txt": 4,
+    ".xml": 22,
+    ".yaml": 125,
+    ".zip": 22
+  },
+  "top_folders": {
+    ".gitignore": 1,
+    "README.md": 1,
+    "apps": 1169,
+    "arkansas_civics_engine": 34,
+    "backups": 2,
+    "config": 2,
+    "content": 1329,
+    "data": 14,
+    "docs": 28,
+    "engine": 12,
+    "engine_update": 34,
+    "exports": 333,
+    "merge_engine_update.py": 1,
+    "netlify": 6,
+    "netlify.toml": 1,
+    "scripts": 29
+  },
+  "largest_folders_bytes": [
+    [
+      "exports",
+      5466840
+    ],
+    [
+      "apps",
+      585836
+    ],
+    [
+      "content",
+      547013
+    ],
+    [
+      "scripts",
+      226174
+    ],
+    [
+      "arkansas_civics_engine",
+      97885
+    ],
+    [
+      "engine_update",
+      97885
+    ],
+    [
+      "docs",
+      68077
+    ],
+    [
+      "engine",
+      22829
+    ],
+    [
+      "config",
+      10313
+    ],
+    [
+      "netlify",
+      7760
+    ],
+    [
+      "data",
+      6446
+    ],
+    [
+      "backups",
+      2271
+    ],
+    [
+      "merge_engine_update.py",
+      1535
+    ],
+    [
+      "README.md",
+      1260
+    ],
+    [
+      ".gitignore",
+      580
+    ],
+    [
+      "netlify.toml",
+      170
+    ]
+  ],
+  "python_script_count": 43,
+  "duplicate_filename_count": 82
+}

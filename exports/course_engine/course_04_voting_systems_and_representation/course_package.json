@@ -1,0 +1,724 @@
+{
+  "title": "Voting Systems And Representation",
+  "slug": "course_04_voting_systems_and_representation",
+  "source_path": "content\\courses\\course_04_voting_systems_and_representation",
+  "lesson_count": 4,
+  "total_estimated_minutes": 136,
+  "metadata": {
+    "generated_by": "engine.course_engine",
+    "source_of_truth": "content/courses",
+    "chapter_count": 4,
+    "segment_count": 48,
+    "readme_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\README.md"
+  },
+  "lessons": [
+    {
+      "title": "Plurality Runoffs And Ranked Choice",
+      "slug": "chapter_01_plurality_runoffs_and_ranked_choice",
+      "chapter_name": "chapter_01_plurality_runoffs_and_ranked_choice",
+      "chapter_path": "content\\courses\\course_04_voting_systems_and_representation\\chapter_01_plurality_runoffs_and_ranked_choice",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Voting Systems and Representation\n- chapter: Plurality, Runoffs, and Ranked Choice\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Plurality Runoffs And Ranked Choice', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_01_plurality_runoffs_and_ranked_choice\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_01_plurality_runoffs_and_ranked_choice\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_01_plurality_runoffs_and_ranked_choice\\simulations"
+      }
+    },
+    {
+      "title": "At Large Systems Jim Crow And Districts",
+      "slug": "chapter_02_at_large_systems_jim_crow_and_districts",
+      "chapter_name": "chapter_02_at_large_systems_jim_crow_and_districts",
+      "chapter_path": "content\\courses\\course_04_voting_systems_and_representation\\chapter_02_at_large_systems_jim_crow_and_districts",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Voting Systems and Representation\n- chapter: At-Large Systems, Jim Crow, and Districts\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'At Large Systems Jim Crow And Districts', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_02_at_large_systems_jim_crow_and_districts\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_02_at_large_systems_jim_crow_and_districts\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_02_at_large_systems_jim_crow_and_districts\\simulations"
+      }
+    },
+    {
+      "title": "Approval Cumulative And Limited Voting",
+      "slug": "chapter_03_approval_cumulative_and_limited_voting",
+      "chapter_name": "chapter_03_approval_cumulative_and_limited_voting",
+      "chapter_path": "content\\courses\\course_04_voting_systems_and_representation\\chapter_03_approval_cumulative_and_limited_voting",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Voting Systems and Representation\n- chapter: Approval, Cumulative, and Limited Voting\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Approval Cumulative And Limited Voting', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_03_approval_cumulative_and_limited_voting\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_03_approval_cumulative_and_limited_voting\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_03_approval_cumulative_and_limited_voting\\simulations"
+      }
+    },
+    {
+      "title": "Redesigning Representation In Arkansas",
+      "slug": "chapter_04_redesigning_representation_in_arkansas",
+      "chapter_name": "chapter_04_redesigning_representation_in_arkansas",
+      "chapter_path": "content\\courses\\course_04_voting_systems_and_representation\\chapter_04_redesigning_representation_in_arkansas",
+      "estimated_minutes": 34,
+      "objectives": [
+        {
+          "text": "Understand 01 Overview through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 02 Reader Psychology through Arkansas civic context.",
+          "bloom_level": "understand"
+        },
+        {
+          "text": "Understand 03 Arkansas Story Anchor through Arkansas civic context.",
+          "bloom_level": "understand"
+        }
+      ],
+      "blocks": [
+        {
+          "block_type": "overview",
+          "title": "01 Overview",
+          "body": "# 01 Overview\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 01_overview.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "01_overview",
+          "order": 1
+        },
+        {
+          "block_type": "framing",
+          "title": "02 Reader Psychology",
+          "body": "# 02 Reader Psychology\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 02_reader_psychology.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "02_reader_psychology",
+          "order": 2
+        },
+        {
+          "block_type": "content",
+          "title": "03 Arkansas Story Anchor",
+          "body": "# 03 Arkansas Story Anchor\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 03_arkansas_story_anchor.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "order": 3
+        },
+        {
+          "block_type": "history",
+          "title": "04 Historical Context",
+          "body": "# 04 Historical Context\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 04_historical_context.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "04_historical_context",
+          "order": 4
+        },
+        {
+          "block_type": "data",
+          "title": "05 Data And Demographics",
+          "body": "# 05 Data And Demographics\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 05_data_and_demographics.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "05_data_and_demographics",
+          "order": 5
+        },
+        {
+          "block_type": "framework",
+          "title": "06 Framework Or Model",
+          "body": "# 06 Framework Or Model\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 06_framework_or_model.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "06_framework_or_model",
+          "order": 6
+        },
+        {
+          "block_type": "case-study",
+          "title": "07 Case Study",
+          "body": "# 07 Case Study\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 07_case_study.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "07_case_study",
+          "order": 7
+        },
+        {
+          "block_type": "simulation",
+          "title": "08 Simulation Hook",
+          "body": "# 08 Simulation Hook\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 08_simulation_hook.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "08_simulation_hook",
+          "order": 8
+        },
+        {
+          "block_type": "authoring",
+          "title": "09 Articulate Blocks",
+          "body": "# 09 Articulate Blocks\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 09_articulate_blocks.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "09_articulate_blocks",
+          "order": 9
+        },
+        {
+          "block_type": "reader-extension",
+          "title": "10 Web Reader Extension",
+          "body": "# 10 Web Reader Extension\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 10_web_reader_extension.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "10_web_reader_extension",
+          "order": 10
+        },
+        {
+          "block_type": "workshop",
+          "title": "11 Workshop Bridge",
+          "body": "# 11 Workshop Bridge\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 11_workshop_bridge.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "11_workshop_bridge",
+          "order": 11
+        },
+        {
+          "block_type": "notes",
+          "title": "12 Revision Notes",
+          "body": "# 12 Revision Notes\n\n- course: Voting Systems and Representation\n- chapter: Redesigning Representation in Arkansas\n- segment: 12_revision_notes.md\n\n## Purpose\nStub segment for modular drafting.\n\n## Notes\n- Add Arkansas-specific story or fact\n- Add demographics hook if relevant\n- Add web reader expansion path\n- Add articulate block notes",
+          "source_segment_name": "12_revision_notes",
+          "order": 12
+        }
+      ],
+      "activities": [
+        {
+          "activity_type": "case-study",
+          "title": "Discuss: 07 Case Study",
+          "instructions": "Review the case study, identify the power dynamics involved, and explain how the Arkansas example changes your understanding.",
+          "source_segment_name": "07_case_study",
+          "estimated_minutes": 10,
+          "metadata": {}
+        },
+        {
+          "activity_type": "simulation",
+          "title": "Simulation: 08 Simulation Hook",
+          "instructions": "Run a practical scenario based on this segment. Make a decision, predict likely pushback, and outline your next three moves.",
+          "source_segment_name": "08_simulation_hook",
+          "estimated_minutes": 12,
+          "metadata": {}
+        }
+      ],
+      "assessments": [
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '01 Overview' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "01_overview",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '02 Reader Psychology' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "02_reader_psychology",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "short-response",
+          "prompt": "What is the main civic lesson from '03 Arkansas Story Anchor' and why does it matter in Arkansas?",
+          "answer_guidance": "A strong answer should identify the core concept, explain its public impact, and connect it to Arkansas institutions, history, or organizing strategy.",
+          "source_segment_name": "03_arkansas_story_anchor",
+          "points": 2,
+          "metadata": {}
+        },
+        {
+          "question_type": "application",
+          "prompt": "Using the lesson 'Redesigning Representation In Arkansas', describe one practical action a reader could take in a campaign, church, union, or ballot effort.",
+          "answer_guidance": "A strong answer should move from theory to action and describe a real-world step that could be taken in Arkansas.",
+          "source_segment_name": "01_overview",
+          "points": 3,
+          "metadata": {}
+        }
+      ],
+      "tags": [
+        "arkansas-civics",
+        "authoring",
+        "case-study",
+        "data",
+        "history",
+        "lesson",
+        "reader",
+        "simulation",
+        "workshop"
+      ],
+      "metadata": {
+        "has_named_segments": true,
+        "segment_count": 12,
+        "chapter_yaml_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_04_redesigning_representation_in_arkansas\\chapter.yaml",
+        "articulate_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_04_redesigning_representation_in_arkansas\\articulate",
+        "simulations_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses\\course_04_voting_systems_and_representation\\chapter_04_redesigning_representation_in_arkansas\\simulations"
+      }
+    }
+  ]
+}
