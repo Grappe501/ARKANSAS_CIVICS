@@ -4,10 +4,10 @@ This file is generated from the real platform content and engines.
 
 ## Summary
 
-- Node count: 1531
+- Node count: 1538
 - Edge count: 7777
 - Courses: 22
-- Tracks: 0
+- Tracks: 7
 - Concepts: 237
 - Tags: 24
 

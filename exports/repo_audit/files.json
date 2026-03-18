@@ -18,22 +18,118 @@
     "line_count": 8
   },
   {
+    "path": "PHASE_01_MANIFEST.md",
+    "suffix": ".md",
+    "size_bytes": 789,
+    "line_count": 27
+  },
+  {
+    "path": "PHASE_03_MANIFEST.md",
+    "suffix": ".md",
+    "size_bytes": 620,
+    "line_count": 21
+  },
+  {
+    "path": "PHASE_06_MANIFEST.md",
+    "suffix": ".md",
+    "size_bytes": 796,
+    "line_count": 22
+  },
+  {
     "path": "README.md",
     "suffix": ".md",
     "size_bytes": 1260,
     "line_count": 32
   },
   {
-    "path": "arkansas_civics_engine\\README.md",
-    "suffix": ".md",
-    "size_bytes": 1082,
-    "line_count": 38
+    "path": "run_phase_05_engine.py",
+    "suffix": ".py",
+    "size_bytes": 170,
+    "line_count": 6
   },
   {
-    "path": "arkansas_civics_engine\\requirements.txt",
-    "suffix": ".txt",
-    "size_bytes": 12,
-    "line_count": 1
+    "path": "archive\\generate_autonomous_civic_course.py",
+    "suffix": ".py",
+    "size_bytes": 12521,
+    "line_count": 465
+  },
+  {
+    "path": "archive\\generate_chapter_context.py",
+    "suffix": ".py",
+    "size_bytes": 6437,
+    "line_count": 175
+  },
+  {
+    "path": "archive\\generate_civic_data_layer.py",
+    "suffix": ".py",
+    "size_bytes": 12471,
+    "line_count": 436
+  },
+  {
+    "path": "archive\\generate_course_factory_suite.py",
+    "suffix": ".py",
+    "size_bytes": 12521,
+    "line_count": 465
+  },
+  {
+    "path": "archive\\generate_course_plans.py",
+    "suffix": ".py",
+    "size_bytes": 3599,
+    "line_count": 99
+  },
+  {
+    "path": "archive\\generate_curriculum_intelligence_layer.py",
+    "suffix": ".py",
+    "size_bytes": 10867,
+    "line_count": 387
+  },
+  {
+    "path": "archive\\generate_full_course_factory.py",
+    "suffix": ".py",
+    "size_bytes": 10926,
+    "line_count": 320
+  },
+  {
+    "path": "archive\\generate_scorm_course.py",
+    "suffix": ".py",
+    "size_bytes": 4755,
+    "line_count": 261
+  },
+  {
+    "path": "archive\\scaffold_everything.py",
+    "suffix": ".py",
+    "size_bytes": 5829,
+    "line_count": 258
+  },
+  {
+    "path": "archive\\scaffold_upgrade.py",
+    "suffix": ".py",
+    "size_bytes": 2646,
+    "line_count": 113
+  },
+  {
+    "path": "archive\\seed_chapter_01.py",
+    "suffix": ".py",
+    "size_bytes": 17107,
+    "line_count": 398
+  },
+  {
+    "path": "archive\\seed_chapter_02.py",
+    "suffix": ".py",
+    "size_bytes": 11234,
+    "line_count": 313
+  },
+  {
+    "path": "archive\\seed_chapter_03.py",
+    "suffix": ".py",
+    "size_bytes": 11430,
+    "line_count": 299
+  },
+  {
+    "path": "archive\\seed_chapter_04.py",
+    "suffix": ".py",
+    "size_bytes": 10223,
+    "line_count": 281
   },
   {
     "path": "config\\api_strategy.md",
@@ -42,10 +138,58 @@
     "line_count": 39
   },
   {
+    "path": "config\\certification_tiers.json",
+    "suffix": ".json",
+    "size_bytes": 1470,
+    "line_count": 66
+  },
+  {
+    "path": "config\\database.json",
+    "suffix": ".json",
+    "size_bytes": 140,
+    "line_count": 3
+  },
+  {
+    "path": "config\\graph_expansion_sources.json",
+    "suffix": ".json",
+    "size_bytes": 356,
+    "line_count": 15
+  },
+  {
+    "path": "config\\kernel.defaults.json",
+    "suffix": ".json",
+    "size_bytes": 165,
+    "line_count": 8
+  },
+  {
+    "path": "config\\kernel.local.json",
+    "suffix": ".json",
+    "size_bytes": 101,
+    "line_count": 6
+  },
+  {
+    "path": "config\\kernel.production.json",
+    "suffix": ".json",
+    "size_bytes": 102,
+    "line_count": 6
+  },
+  {
     "path": "config\\master_spine.json",
     "suffix": ".json",
     "size_bytes": 9276,
     "line_count": 294
+  },
+  {
+    "path": "config\\roles.json",
+    "suffix": ".json",
+    "size_bytes": 96,
+    "line_count": 9
+  },
+  {
+    "path": "docs\\CIVIC_INTELLIGENCE_SYSTEM_INSTALL.md",
+    "suffix": ".md",
+    "size_bytes": 2574,
+    "line_count": 90
   },
   {
     "path": "docs\\database_driven_strategy.md",
@@ -60,10 +204,160 @@
     "line_count": 14
   },
   {
+    "path": "docs\\PHASE_01_CORE_KERNEL_STABILIZATION_INSTALL.md",
+    "suffix": ".md",
+    "size_bytes": 1334,
+    "line_count": 43
+  },
+  {
+    "path": "docs\\PHASE_02_INSTALL.md",
+    "suffix": ".md",
+    "size_bytes": 321,
+    "line_count": 17
+  },
+  {
+    "path": "docs\\PHASE_03_PROGRESS_CREDENTIALS_INSTALL.md",
+    "suffix": ".md",
+    "size_bytes": 1309,
+    "line_count": 44
+  },
+  {
+    "path": "docs\\PHASE_04_DATABASE_LAYER.md",
+    "suffix": ".md",
+    "size_bytes": 466,
+    "line_count": 27
+  },
+  {
+    "path": "docs\\PHASE_06_CIVIC_KNOWLEDGE_GRAPH_EXPANSION_INSTALL.md",
+    "suffix": ".md",
+    "size_bytes": 1658,
+    "line_count": 54
+  },
+  {
     "path": "engine\\ai_assistant.py",
     "suffix": ".py",
     "size_bytes": 511,
     "line_count": 19
+  },
+  {
+    "path": "engine\\api_server.py",
+    "suffix": ".py",
+    "size_bytes": 423,
+    "line_count": 24
+  },
+  {
+    "path": "engine\\auth_tokens.py",
+    "suffix": ".py",
+    "size_bytes": 72,
+    "line_count": 5
+  },
+  {
+    "path": "engine\\certification_rules.py",
+    "suffix": ".py",
+    "size_bytes": 3725,
+    "line_count": 96
+  },
+  {
+    "path": "engine\\civic_credential_engine.py",
+    "suffix": ".py",
+    "size_bytes": 4028,
+    "line_count": 105
+  },
+  {
+    "path": "engine\\civic_data_intelligence_engine.py",
+    "suffix": ".py",
+    "size_bytes": 1625,
+    "line_count": 55
+  },
+  {
+    "path": "engine\\civic_intelligence_map.py",
+    "suffix": ".py",
+    "size_bytes": 10965,
+    "line_count": 292
+  },
+  {
+    "path": "engine\\civic_intelligence_system.py",
+    "suffix": ".py",
+    "size_bytes": 7736,
+    "line_count": 191
+  },
+  {
+    "path": "engine\\civic_knowledge_graph_expansion_engine.py",
+    "suffix": ".py",
+    "size_bytes": 4976,
+    "line_count": 139
+  },
+  {
+    "path": "engine\\civic_mentor_engine.py",
+    "suffix": ".py",
+    "size_bytes": 12923,
+    "line_count": 290
+  },
+  {
+    "path": "engine\\course_engine.py",
+    "suffix": ".py",
+    "size_bytes": 21398,
+    "line_count": 588
+  },
+  {
+    "path": "engine\\database_engine.py",
+    "suffix": ".py",
+    "size_bytes": 743,
+    "line_count": 28
+  },
+  {
+    "path": "engine\\identity_manager.py",
+    "suffix": ".py",
+    "size_bytes": 418,
+    "line_count": 16
+  },
+  {
+    "path": "engine\\kernel_config.py",
+    "suffix": ".py",
+    "size_bytes": 4663,
+    "line_count": 141
+  },
+  {
+    "path": "engine\\kernel_contracts.py",
+    "suffix": ".py",
+    "size_bytes": 2662,
+    "line_count": 76
+  },
+  {
+    "path": "engine\\kernel_health.py",
+    "suffix": ".py",
+    "size_bytes": 1674,
+    "line_count": 46
+  },
+  {
+    "path": "engine\\kernel_logger.py",
+    "suffix": ".py",
+    "size_bytes": 1527,
+    "line_count": 48
+  },
+  {
+    "path": "engine\\knowledge_graph_engine.py",
+    "suffix": ".py",
+    "size_bytes": 16030,
+    "line_count": 378
+  },
+  {
+    "path": "engine\\learning_analytics_engine.py",
+    "suffix": ".py",
+    "size_bytes": 20761,
+    "line_count": 528
+  },
+  {
+    "path": "engine\\learning_runtime.py",
+    "suffix": ".py",
+    "size_bytes": 7730,
+    "line_count": 216
+  },
+  {
+    "path": "engine\\lesson_player.py",
+    "suffix": ".py",
+    "size_bytes": 7460,
+    "line_count": 177
   },
   {
     "path": "engine\\library_loader.py",
@@ -72,10 +366,58 @@
     "line_count": 64
   },
   {
+    "path": "engine\\migration_engine.py",
+    "suffix": ".py",
+    "size_bytes": 4933,
+    "line_count": 174
+  },
+  {
+    "path": "engine\\permissions_engine.py",
+    "suffix": ".py",
+    "size_bytes": 288,
+    "line_count": 9
+  },
+  {
+    "path": "engine\\platform_kernel.py",
+    "suffix": ".py",
+    "size_bytes": 15869,
+    "line_count": 421
+  },
+  {
+    "path": "engine\\progress_engine.py",
+    "suffix": ".py",
+    "size_bytes": 7930,
+    "line_count": 227
+  },
+  {
+    "path": "engine\\progress_registry.py",
+    "suffix": ".py",
+    "size_bytes": 15531,
+    "line_count": 391
+  },
+  {
+    "path": "engine\\track_engine.py",
+    "suffix": ".py",
+    "size_bytes": 26800,
+    "line_count": 552
+  },
+  {
+    "path": "engine\\user_identity_engine.py",
+    "suffix": ".py",
+    "size_bytes": 19758,
+    "line_count": 472
+  },
+  {
     "path": "engine\\__init__.py",
     "suffix": ".py",
     "size_bytes": 0,
     "line_count": 0
+  },
+  {
+    "path": "logs\\platform_kernel.log",
+    "suffix": ".log",
+    "size_bytes": 0,
+    "line_count": null
   },
   {
     "path": "scripts\\ai_course_designer.py",
@@ -86,8 +428,8 @@
   {
     "path": "scripts\\build_all.py",
     "suffix": ".py",
-    "size_bytes": 3981,
-    "line_count": 131
+    "size_bytes": 6713,
+    "line_count": 216
   },
   {
     "path": "scripts\\build_book.py",
@@ -96,10 +438,28 @@
     "line_count": 56
   },
   {
+    "path": "scripts\\build_civic_intelligence_map.py",
+    "suffix": ".py",
+    "size_bytes": 1964,
+    "line_count": 66
+  },
+  {
+    "path": "scripts\\build_civic_intelligence_system.py",
+    "suffix": ".py",
+    "size_bytes": 3291,
+    "line_count": 100
+  },
+  {
     "path": "scripts\\build_civic_library.py",
     "suffix": ".py",
     "size_bytes": 10929,
     "line_count": 293
+  },
+  {
+    "path": "scripts\\build_course_engine.py",
+    "suffix": ".py",
+    "size_bytes": 2717,
+    "line_count": 95
   },
   {
     "path": "scripts\\build_course_exports.py",
@@ -108,10 +468,70 @@
     "line_count": 65
   },
   {
+    "path": "scripts\\build_knowledge_graph.py",
+    "suffix": ".py",
+    "size_bytes": 1985,
+    "line_count": 62
+  },
+  {
+    "path": "scripts\\build_learning_analytics.py",
+    "suffix": ".py",
+    "size_bytes": 2347,
+    "line_count": 78
+  },
+  {
+    "path": "scripts\\build_lesson_player.py",
+    "suffix": ".py",
+    "size_bytes": 2277,
+    "line_count": 78
+  },
+  {
+    "path": "scripts\\build_phase_01_core_kernel.py",
+    "suffix": ".py",
+    "size_bytes": 2439,
+    "line_count": 82
+  },
+  {
+    "path": "scripts\\build_phase_02_identity.py",
+    "suffix": ".py",
+    "size_bytes": 317,
+    "line_count": 7
+  },
+  {
+    "path": "scripts\\build_phase_03_progress_credentials.py",
+    "suffix": ".py",
+    "size_bytes": 4391,
+    "line_count": 150
+  },
+  {
+    "path": "scripts\\build_phase_04_database.py",
+    "suffix": ".py",
+    "size_bytes": 1351,
+    "line_count": 67
+  },
+  {
+    "path": "scripts\\build_phase_06_graph_expansion.py",
+    "suffix": ".py",
+    "size_bytes": 2283,
+    "line_count": 78
+  },
+  {
+    "path": "scripts\\build_track_engine.py",
+    "suffix": ".py",
+    "size_bytes": 2596,
+    "line_count": 86
+  },
+  {
+    "path": "scripts\\cleanup_repo.py",
+    "suffix": ".py",
+    "size_bytes": 3091,
+    "line_count": 139
+  },
+  {
     "path": "scripts\\copy_dashboard_content.py",
     "suffix": ".py",
-    "size_bytes": 1625,
-    "line_count": 48
+    "size_bytes": 3530,
+    "line_count": 144
   },
   {
     "path": "scripts\\editor_dashboard_generator.py",
@@ -132,58 +552,16 @@
     "line_count": 218
   },
   {
-    "path": "scripts\\generate_autonomous_civic_course.py",
-    "suffix": ".py",
-    "size_bytes": 12521,
-    "line_count": 465
-  },
-  {
-    "path": "scripts\\generate_chapter_context.py",
-    "suffix": ".py",
-    "size_bytes": 6437,
-    "line_count": 175
-  },
-  {
-    "path": "scripts\\generate_civic_data_layer.py",
-    "suffix": ".py",
-    "size_bytes": 12471,
-    "line_count": 436
-  },
-  {
-    "path": "scripts\\generate_course_factory_suite.py",
-    "suffix": ".py",
-    "size_bytes": 12521,
-    "line_count": 465
-  },
-  {
-    "path": "scripts\\generate_course_plans.py",
-    "suffix": ".py",
-    "size_bytes": 3599,
-    "line_count": 99
-  },
-  {
-    "path": "scripts\\generate_curriculum_intelligence_layer.py",
-    "suffix": ".py",
-    "size_bytes": 10867,
-    "line_count": 387
-  },
-  {
-    "path": "scripts\\generate_full_course_factory.py",
-    "suffix": ".py",
-    "size_bytes": 10926,
-    "line_count": 320
-  },
-  {
     "path": "scripts\\generate_reader_site.py",
     "suffix": ".py",
     "size_bytes": 4485,
     "line_count": 157
   },
   {
-    "path": "scripts\\generate_scorm_course.py",
+    "path": "scripts\\kernel_health_check.py",
     "suffix": ".py",
-    "size_bytes": 4755,
-    "line_count": 261
+    "size_bytes": 383,
+    "line_count": 20
   },
   {
     "path": "scripts\\map_root_project.py",
@@ -192,46 +570,22 @@
     "line_count": 115
   },
   {
-    "path": "scripts\\scaffold_everything.py",
+    "path": "scripts\\master_system_mapper.py",
     "suffix": ".py",
-    "size_bytes": 5829,
-    "line_count": 258
-  },
-  {
-    "path": "scripts\\scaffold_upgrade.py",
-    "suffix": ".py",
-    "size_bytes": 2646,
-    "line_count": 113
-  },
-  {
-    "path": "scripts\\seed_chapter_01.py",
-    "suffix": ".py",
-    "size_bytes": 17107,
-    "line_count": 398
-  },
-  {
-    "path": "scripts\\seed_chapter_02.py",
-    "suffix": ".py",
-    "size_bytes": 11234,
-    "line_count": 313
-  },
-  {
-    "path": "scripts\\seed_chapter_03.py",
-    "suffix": ".py",
-    "size_bytes": 11430,
-    "line_count": 299
-  },
-  {
-    "path": "scripts\\seed_chapter_04.py",
-    "suffix": ".py",
-    "size_bytes": 10223,
-    "line_count": 281
+    "size_bytes": 4446,
+    "line_count": 192
   },
   {
     "path": "scripts\\seed_postgres_schema.sql",
     "suffix": ".sql",
     "size_bytes": 981,
     "line_count": 42
+  },
+  {
+    "path": "scripts\\system_mapper.py",
+    "suffix": ".py",
+    "size_bytes": 3822,
+    "line_count": 187
   },
   {
     "path": "scripts\\upgrade_editor_dashboard_architecture.py",
@@ -272,8 +626,8 @@
   {
     "path": "apps\\editor-dashboard\\app.js",
     "suffix": ".js",
-    "size_bytes": 7290,
-    "line_count": 218
+    "size_bytes": 10583,
+    "line_count": 347
   },
   {
     "path": "apps\\editor-dashboard\\autonomous-course-panel.html",
@@ -282,10 +636,40 @@
     "line_count": 28
   },
   {
+    "path": "apps\\editor-dashboard\\civic-intelligence-dashboard.css",
+    "suffix": ".css",
+    "size_bytes": 3054,
+    "line_count": 157
+  },
+  {
+    "path": "apps\\editor-dashboard\\civic-intelligence-dashboard.html",
+    "suffix": ".html",
+    "size_bytes": 2203,
+    "line_count": 74
+  },
+  {
+    "path": "apps\\editor-dashboard\\civic-intelligence-dashboard.js",
+    "suffix": ".js",
+    "size_bytes": 6747,
+    "line_count": 189
+  },
+  {
+    "path": "apps\\editor-dashboard\\civic-intelligence-map.js",
+    "suffix": ".js",
+    "size_bytes": 11888,
+    "line_count": 361
+  },
+  {
     "path": "apps\\editor-dashboard\\content-manifest.json",
     "suffix": ".json",
-    "size_bytes": 48671,
-    "line_count": 1390
+    "size_bytes": 316378,
+    "line_count": 6829
+  },
+  {
+    "path": "apps\\editor-dashboard\\course-engine-viewer.js",
+    "suffix": ".js",
+    "size_bytes": 23485,
+    "line_count": 690
   },
   {
     "path": "apps\\editor-dashboard\\generate-course.js",
@@ -296,8 +680,26 @@
   {
     "path": "apps\\editor-dashboard\\index.html",
     "suffix": ".html",
-    "size_bytes": 3673,
-    "line_count": 106
+    "size_bytes": 10198,
+    "line_count": 216
+  },
+  {
+    "path": "apps\\editor-dashboard\\knowledge-graph-viewer.js",
+    "suffix": ".js",
+    "size_bytes": 6625,
+    "line_count": 184
+  },
+  {
+    "path": "apps\\editor-dashboard\\learning-runtime-viewer.js",
+    "suffix": ".js",
+    "size_bytes": 2634,
+    "line_count": 93
+  },
+  {
+    "path": "apps\\editor-dashboard\\lesson-player.js",
+    "suffix": ".js",
+    "size_bytes": 18210,
+    "line_count": 511
   },
   {
     "path": "apps\\editor-dashboard\\README.md",
@@ -308,8 +710,14 @@
   {
     "path": "apps\\editor-dashboard\\styles.css",
     "suffix": ".css",
-    "size_bytes": 3361,
-    "line_count": 210
+    "size_bytes": 10182,
+    "line_count": 709
+  },
+  {
+    "path": "apps\\editor-dashboard\\track-engine-viewer.js",
+    "suffix": ".js",
+    "size_bytes": 7007,
+    "line_count": 179
   },
   {
     "path": "apps\\web-reader\\README.md",
@@ -7266,208 +7674,934 @@
     "line_count": 14
   },
   {
-    "path": "arkansas_civics_engine\\config\\master_spine.yaml",
+    "path": "archive\\arkansas_civics_engine\\README.md",
+    "suffix": ".md",
+    "size_bytes": 1082,
+    "line_count": 38
+  },
+  {
+    "path": "archive\\arkansas_civics_engine\\requirements.txt",
+    "suffix": ".txt",
+    "size_bytes": 12,
+    "line_count": 1
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_autonomous_civic_course.py",
+    "suffix": ".py",
+    "size_bytes": 12521,
+    "line_count": 465
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_chapter_context.py",
+    "suffix": ".py",
+    "size_bytes": 6437,
+    "line_count": 175
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_civic_data_layer.py",
+    "suffix": ".py",
+    "size_bytes": 12471,
+    "line_count": 436
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_course_factory_suite.py",
+    "suffix": ".py",
+    "size_bytes": 12521,
+    "line_count": 465
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_course_plans.py",
+    "suffix": ".py",
+    "size_bytes": 3599,
+    "line_count": 99
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_curriculum_intelligence_layer.py",
+    "suffix": ".py",
+    "size_bytes": 10867,
+    "line_count": 387
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_full_course_factory.py",
+    "suffix": ".py",
+    "size_bytes": 10926,
+    "line_count": 320
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_reader_site.py",
+    "suffix": ".py",
+    "size_bytes": 4485,
+    "line_count": 157
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\generate_scorm_course.py",
+    "suffix": ".py",
+    "size_bytes": 4755,
+    "line_count": 261
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\scaffold_everything.py",
+    "suffix": ".py",
+    "size_bytes": 5829,
+    "line_count": 258
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\scaffold_upgrade.py",
+    "suffix": ".py",
+    "size_bytes": 2646,
+    "line_count": 113
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_01.py",
+    "suffix": ".py",
+    "size_bytes": 17107,
+    "line_count": 398
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_02.py",
+    "suffix": ".py",
+    "size_bytes": 11234,
+    "line_count": 313
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_03.py",
+    "suffix": ".py",
+    "size_bytes": 11430,
+    "line_count": 299
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_04.py",
+    "suffix": ".py",
+    "size_bytes": 10223,
+    "line_count": 281
+  },
+  {
+    "path": "archive\\arkansas_civics_engine\\config\\master_spine.yaml",
     "suffix": ".yaml",
     "size_bytes": 1418,
     "line_count": 35
   },
   {
-    "path": "arkansas_civics_engine\\config\\project.yaml",
+    "path": "archive\\arkansas_civics_engine\\config\\project.yaml",
     "suffix": ".yaml",
     "size_bytes": 333,
     "line_count": 15
   },
   {
-    "path": "arkansas_civics_engine\\db\\schema.sql",
+    "path": "archive\\arkansas_civics_engine\\db\\schema.sql",
     "suffix": ".sql",
     "size_bytes": 941,
     "line_count": 45
   },
   {
-    "path": "arkansas_civics_engine\\docs\\full_suite_considerations.md",
+    "path": "archive\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
     "suffix": ".md",
     "size_bytes": 1065,
     "line_count": 27
   },
   {
-    "path": "arkansas_civics_engine\\engine\\builders.py",
+    "path": "archive\\arkansas_civics_engine\\engine\\builders.py",
     "suffix": ".py",
     "size_bytes": 7371,
     "line_count": 155
   },
   {
-    "path": "arkansas_civics_engine\\engine\\utils.py",
+    "path": "archive\\arkansas_civics_engine\\engine\\utils.py",
     "suffix": ".py",
     "size_bytes": 2353,
     "line_count": 84
   },
   {
-    "path": "arkansas_civics_engine\\engine\\__init__.py",
+    "path": "archive\\arkansas_civics_engine\\engine\\__init__.py",
     "suffix": ".py",
     "size_bytes": 0,
     "line_count": 0
   },
   {
-    "path": "arkansas_civics_engine\\scripts\\build_all.py",
+    "path": "archive\\arkansas_civics_engine\\scripts\\build_all.py",
     "suffix": ".py",
     "size_bytes": 658,
     "line_count": 33
   },
   {
-    "path": "arkansas_civics_engine\\scripts\\watch_notes.md",
+    "path": "archive\\arkansas_civics_engine\\scripts\\watch_notes.md",
     "suffix": ".md",
     "size_bytes": 215,
     "line_count": 9
   },
   {
-    "path": "arkansas_civics_engine\\templates\\segment_template.md",
+    "path": "archive\\arkansas_civics_engine\\templates\\segment_template.md",
     "suffix": ".md",
     "size_bytes": 1201,
     "line_count": 57
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
     "suffix": ".md",
     "size_bytes": 2867,
     "line_count": 68
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
     "suffix": ".md",
     "size_bytes": 2327,
     "line_count": 46
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
     "suffix": ".md",
     "size_bytes": 2314,
     "line_count": 45
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
     "suffix": ".md",
     "size_bytes": 1975,
     "line_count": 48
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
     "suffix": ".md",
     "size_bytes": 1918,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
     "suffix": ".md",
     "size_bytes": 1884,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
     "suffix": ".md",
     "size_bytes": 1892,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
     "suffix": ".md",
     "size_bytes": 1720,
     "line_count": 40
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
     "suffix": ".md",
     "size_bytes": 1822,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
     "suffix": ".md",
     "size_bytes": 2100,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
     "suffix": ".md",
     "size_bytes": 2010,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
     "suffix": ".md",
     "size_bytes": 2070,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
     "suffix": ".md",
     "size_bytes": 1828,
     "line_count": 40
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
     "suffix": ".md",
     "size_bytes": 2074,
     "line_count": 41
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
     "suffix": ".md",
     "size_bytes": 1871,
     "line_count": 41
   },
   {
-    "path": "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
+    "path": "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
     "suffix": ".md",
     "size_bytes": 2061,
     "line_count": 42
   },
   {
-    "path": "arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "path": "archive\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
     "suffix": ".md",
     "size_bytes": 8837,
     "line_count": 129
   },
   {
-    "path": "arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "path": "archive\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
     "suffix": ".json",
     "size_bytes": 15723,
     "line_count": 162
   },
   {
-    "path": "arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "path": "archive\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
     "suffix": ".md",
     "size_bytes": 3617,
     "line_count": 112
   },
   {
-    "path": "arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "path": "archive\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
     "suffix": ".json",
     "size_bytes": 14801,
     "line_count": 241
   },
   {
-    "path": "arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
+    "path": "archive\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
     "suffix": ".md",
     "size_bytes": 2655,
     "line_count": 80
   },
   {
-    "path": "arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
+    "path": "archive\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
     "suffix": ".md",
     "size_bytes": 2870,
     "line_count": 80
   },
   {
-    "path": "backups\\dashboard_generator\\editor_dashboard_generator_20260316_234229.py",
+    "path": "archive\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234229.py",
     "suffix": ".py",
     "size_bytes": 670,
     "line_count": 40
   },
   {
-    "path": "backups\\dashboard_generator\\editor_dashboard_generator_20260316_234324.py",
+    "path": "archive\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234324.py",
     "suffix": ".py",
     "size_bytes": 1601,
     "line_count": 46
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\README.md",
+    "suffix": ".md",
+    "size_bytes": 1082,
+    "line_count": 38
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\requirements.txt",
+    "suffix": ".txt",
+    "size_bytes": 12,
+    "line_count": 1
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\config\\master_spine.yaml",
+    "suffix": ".yaml",
+    "size_bytes": 1418,
+    "line_count": 35
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\config\\project.yaml",
+    "suffix": ".yaml",
+    "size_bytes": 333,
+    "line_count": 15
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\db\\schema.sql",
+    "suffix": ".sql",
+    "size_bytes": 941,
+    "line_count": 45
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
+    "suffix": ".md",
+    "size_bytes": 1065,
+    "line_count": 27
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\engine\\builders.py",
+    "suffix": ".py",
+    "size_bytes": 7371,
+    "line_count": 155
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\engine\\utils.py",
+    "suffix": ".py",
+    "size_bytes": 2353,
+    "line_count": 84
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\engine\\__init__.py",
+    "suffix": ".py",
+    "size_bytes": 0,
+    "line_count": 0
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\scripts\\build_all.py",
+    "suffix": ".py",
+    "size_bytes": 658,
+    "line_count": 33
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\scripts\\watch_notes.md",
+    "suffix": ".md",
+    "size_bytes": 215,
+    "line_count": 9
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\templates\\segment_template.md",
+    "suffix": ".md",
+    "size_bytes": 1201,
+    "line_count": 57
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
+    "suffix": ".md",
+    "size_bytes": 2867,
+    "line_count": 68
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
+    "suffix": ".md",
+    "size_bytes": 2327,
+    "line_count": 46
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
+    "suffix": ".md",
+    "size_bytes": 2314,
+    "line_count": 45
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
+    "suffix": ".md",
+    "size_bytes": 1975,
+    "line_count": 48
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
+    "suffix": ".md",
+    "size_bytes": 1918,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
+    "suffix": ".md",
+    "size_bytes": 1884,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
+    "suffix": ".md",
+    "size_bytes": 1892,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
+    "suffix": ".md",
+    "size_bytes": 1720,
+    "line_count": 40
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
+    "suffix": ".md",
+    "size_bytes": 1822,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
+    "suffix": ".md",
+    "size_bytes": 2100,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
+    "suffix": ".md",
+    "size_bytes": 2010,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
+    "suffix": ".md",
+    "size_bytes": 2070,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
+    "suffix": ".md",
+    "size_bytes": 1828,
+    "line_count": 40
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
+    "suffix": ".md",
+    "size_bytes": 2074,
+    "line_count": 41
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
+    "suffix": ".md",
+    "size_bytes": 1871,
+    "line_count": 41
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
+    "suffix": ".md",
+    "size_bytes": 2061,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "suffix": ".md",
+    "size_bytes": 8837,
+    "line_count": 129
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 15723,
+    "line_count": 162
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "suffix": ".md",
+    "size_bytes": 3617,
+    "line_count": 112
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 14801,
+    "line_count": 241
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
+    "suffix": ".md",
+    "size_bytes": 2655,
+    "line_count": 80
+  },
+  {
+    "path": "archive\\engine_update\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
+    "suffix": ".md",
+    "size_bytes": 2870,
+    "line_count": 80
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\README.md",
+    "suffix": ".md",
+    "size_bytes": 1082,
+    "line_count": 38
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\requirements.txt",
+    "suffix": ".txt",
+    "size_bytes": 12,
+    "line_count": 1
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\config\\master_spine.yaml",
+    "suffix": ".yaml",
+    "size_bytes": 1418,
+    "line_count": 35
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\config\\project.yaml",
+    "suffix": ".yaml",
+    "size_bytes": 333,
+    "line_count": 15
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\db\\schema.sql",
+    "suffix": ".sql",
+    "size_bytes": 941,
+    "line_count": 45
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
+    "suffix": ".md",
+    "size_bytes": 1065,
+    "line_count": 27
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\builders.py",
+    "suffix": ".py",
+    "size_bytes": 7371,
+    "line_count": 155
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\utils.py",
+    "suffix": ".py",
+    "size_bytes": 2353,
+    "line_count": 84
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\__init__.py",
+    "suffix": ".py",
+    "size_bytes": 0,
+    "line_count": 0
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\scripts\\build_all.py",
+    "suffix": ".py",
+    "size_bytes": 658,
+    "line_count": 33
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\scripts\\watch_notes.md",
+    "suffix": ".md",
+    "size_bytes": 215,
+    "line_count": 9
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\templates\\segment_template.md",
+    "suffix": ".md",
+    "size_bytes": 1201,
+    "line_count": 57
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
+    "suffix": ".md",
+    "size_bytes": 2867,
+    "line_count": 68
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
+    "suffix": ".md",
+    "size_bytes": 2327,
+    "line_count": 46
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
+    "suffix": ".md",
+    "size_bytes": 2314,
+    "line_count": 45
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
+    "suffix": ".md",
+    "size_bytes": 1975,
+    "line_count": 48
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
+    "suffix": ".md",
+    "size_bytes": 1918,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
+    "suffix": ".md",
+    "size_bytes": 1884,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
+    "suffix": ".md",
+    "size_bytes": 1892,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
+    "suffix": ".md",
+    "size_bytes": 1720,
+    "line_count": 40
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
+    "suffix": ".md",
+    "size_bytes": 1822,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
+    "suffix": ".md",
+    "size_bytes": 2100,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
+    "suffix": ".md",
+    "size_bytes": 2010,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
+    "suffix": ".md",
+    "size_bytes": 2070,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
+    "suffix": ".md",
+    "size_bytes": 1828,
+    "line_count": 40
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
+    "suffix": ".md",
+    "size_bytes": 2074,
+    "line_count": 41
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
+    "suffix": ".md",
+    "size_bytes": 1871,
+    "line_count": 41
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
+    "suffix": ".md",
+    "size_bytes": 2061,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "suffix": ".md",
+    "size_bytes": 8837,
+    "line_count": 129
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 15723,
+    "line_count": 162
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "suffix": ".md",
+    "size_bytes": 3617,
+    "line_count": 112
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 14801,
+    "line_count": 241
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
+    "suffix": ".md",
+    "size_bytes": 2655,
+    "line_count": 80
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
+    "suffix": ".md",
+    "size_bytes": 2870,
+    "line_count": 80
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234229.py",
+    "suffix": ".py",
+    "size_bytes": 670,
+    "line_count": 40
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234324.py",
+    "suffix": ".py",
+    "size_bytes": 1601,
+    "line_count": 46
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\README.md",
+    "suffix": ".md",
+    "size_bytes": 1082,
+    "line_count": 38
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\requirements.txt",
+    "suffix": ".txt",
+    "size_bytes": 12,
+    "line_count": 1
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\config\\master_spine.yaml",
+    "suffix": ".yaml",
+    "size_bytes": 1418,
+    "line_count": 35
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\config\\project.yaml",
+    "suffix": ".yaml",
+    "size_bytes": 333,
+    "line_count": 15
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\db\\schema.sql",
+    "suffix": ".sql",
+    "size_bytes": 941,
+    "line_count": 45
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
+    "suffix": ".md",
+    "size_bytes": 1065,
+    "line_count": 27
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\builders.py",
+    "suffix": ".py",
+    "size_bytes": 7371,
+    "line_count": 155
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\utils.py",
+    "suffix": ".py",
+    "size_bytes": 2353,
+    "line_count": 84
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\__init__.py",
+    "suffix": ".py",
+    "size_bytes": 0,
+    "line_count": 0
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\scripts\\build_all.py",
+    "suffix": ".py",
+    "size_bytes": 658,
+    "line_count": 33
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\scripts\\watch_notes.md",
+    "suffix": ".md",
+    "size_bytes": 215,
+    "line_count": 9
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\templates\\segment_template.md",
+    "suffix": ".md",
+    "size_bytes": 1201,
+    "line_count": 57
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
+    "suffix": ".md",
+    "size_bytes": 2867,
+    "line_count": 68
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
+    "suffix": ".md",
+    "size_bytes": 2327,
+    "line_count": 46
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
+    "suffix": ".md",
+    "size_bytes": 2314,
+    "line_count": 45
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
+    "suffix": ".md",
+    "size_bytes": 1975,
+    "line_count": 48
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
+    "suffix": ".md",
+    "size_bytes": 1918,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
+    "suffix": ".md",
+    "size_bytes": 1884,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
+    "suffix": ".md",
+    "size_bytes": 1892,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
+    "suffix": ".md",
+    "size_bytes": 1720,
+    "line_count": 40
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
+    "suffix": ".md",
+    "size_bytes": 1822,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
+    "suffix": ".md",
+    "size_bytes": 2100,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
+    "suffix": ".md",
+    "size_bytes": 2010,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
+    "suffix": ".md",
+    "size_bytes": 2070,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
+    "suffix": ".md",
+    "size_bytes": 1828,
+    "line_count": 40
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
+    "suffix": ".md",
+    "size_bytes": 2074,
+    "line_count": 41
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
+    "suffix": ".md",
+    "size_bytes": 1871,
+    "line_count": 41
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
+    "suffix": ".md",
+    "size_bytes": 2061,
+    "line_count": 42
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "suffix": ".md",
+    "size_bytes": 8837,
+    "line_count": 129
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 15723,
+    "line_count": 162
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "suffix": ".md",
+    "size_bytes": 3617,
+    "line_count": 112
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 14801,
+    "line_count": 241
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
+    "suffix": ".md",
+    "size_bytes": 2655,
+    "line_count": 80
+  },
+  {
+    "path": "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
+    "suffix": ".md",
+    "size_bytes": 2870,
+    "line_count": 80
   },
   {
     "path": "content\\courses\\course_01_civic_awakening\\course.yaml",
@@ -15450,6 +16584,18 @@
     "line_count": 11
   },
   {
+    "path": "data\\civic_processed\\civic_intelligence_output.json",
+    "suffix": ".json",
+    "size_bytes": 2,
+    "line_count": 1
+  },
+  {
+    "path": "data\\analytics\\admin\\learning_admin_snapshot.json",
+    "suffix": ".json",
+    "size_bytes": 546,
+    "line_count": 19
+  },
+  {
     "path": "data\\civic_library\\ballot_initiatives\\1910_amendment_7_direct_democracy.yaml",
     "suffix": ".yaml",
     "size_bytes": 502,
@@ -15526,6 +16672,18 @@
     "suffix": ".yaml",
     "size_bytes": 392,
     "line_count": 18
+  },
+  {
+    "path": "database\\migrations\\001_initial_schema.sql",
+    "suffix": ".sql",
+    "size_bytes": 640,
+    "line_count": 27
+  },
+  {
+    "path": "database\\schema\\core_schema.sql",
+    "suffix": ".sql",
+    "size_bytes": 612,
+    "line_count": 25
   },
   {
     "path": "docs\\chapter_context\\course_01_civic_awakening_chapter_01_context.md",
@@ -15708,6 +16866,48 @@
     "line_count": 210
   },
   {
+    "path": "engine\\graph_expanders\\committee_power_expander.py",
+    "suffix": ".py",
+    "size_bytes": 2191,
+    "line_count": 66
+  },
+  {
+    "path": "engine\\graph_expanders\\donor_influence_expander.py",
+    "suffix": ".py",
+    "size_bytes": 2246,
+    "line_count": 65
+  },
+  {
+    "path": "engine\\graph_expanders\\legislator_graph_expander.py",
+    "suffix": ".py",
+    "size_bytes": 2270,
+    "line_count": 66
+  },
+  {
+    "path": "engine\\graph_expanders\\policy_impact_expander.py",
+    "suffix": ".py",
+    "size_bytes": 2279,
+    "line_count": 64
+  },
+  {
+    "path": "engine\\ingestors\\hearing_ingestor.py",
+    "suffix": ".py",
+    "size_bytes": 533,
+    "line_count": 23
+  },
+  {
+    "path": "engine\\ingestors\\legislation_ingestor.py",
+    "suffix": ".py",
+    "size_bytes": 526,
+    "line_count": 23
+  },
+  {
+    "path": "engine\\ingestors\\pdf_ingestor.py",
+    "suffix": ".py",
+    "size_bytes": 519,
+    "line_count": 23
+  },
+  {
     "path": "engine\\dashboard_templates\\functions\\chapter-context.js",
     "suffix": ".js",
     "size_bytes": 1069,
@@ -15738,208 +16938,22 @@
     "line_count": 37
   },
   {
-    "path": "engine_update\\arkansas_civics_engine\\README.md",
+    "path": "exports\\analytics\\learning_admin_report.md",
     "suffix": ".md",
-    "size_bytes": 1082,
-    "line_count": 38
+    "size_bytes": 310,
+    "line_count": 13
   },
   {
-    "path": "engine_update\\arkansas_civics_engine\\requirements.txt",
-    "suffix": ".txt",
-    "size_bytes": 12,
-    "line_count": 1
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\config\\master_spine.yaml",
-    "suffix": ".yaml",
-    "size_bytes": 1418,
-    "line_count": 35
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\config\\project.yaml",
-    "suffix": ".yaml",
-    "size_bytes": 333,
-    "line_count": 15
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\db\\schema.sql",
-    "suffix": ".sql",
-    "size_bytes": 941,
-    "line_count": 45
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
-    "suffix": ".md",
-    "size_bytes": 1065,
-    "line_count": 27
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\engine\\builders.py",
-    "suffix": ".py",
-    "size_bytes": 7371,
-    "line_count": 155
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\engine\\utils.py",
-    "suffix": ".py",
-    "size_bytes": 2353,
-    "line_count": 84
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\engine\\__init__.py",
-    "suffix": ".py",
-    "size_bytes": 0,
-    "line_count": 0
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\scripts\\build_all.py",
-    "suffix": ".py",
-    "size_bytes": 658,
-    "line_count": 33
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\scripts\\watch_notes.md",
-    "suffix": ".md",
-    "size_bytes": 215,
-    "line_count": 9
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\templates\\segment_template.md",
-    "suffix": ".md",
-    "size_bytes": 1201,
-    "line_count": 57
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
-    "suffix": ".md",
-    "size_bytes": 2867,
-    "line_count": 68
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
-    "suffix": ".md",
-    "size_bytes": 2327,
-    "line_count": 46
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
-    "suffix": ".md",
-    "size_bytes": 2314,
-    "line_count": 45
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
-    "suffix": ".md",
-    "size_bytes": 1975,
-    "line_count": 48
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
-    "suffix": ".md",
-    "size_bytes": 1918,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
-    "suffix": ".md",
-    "size_bytes": 1884,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
-    "suffix": ".md",
-    "size_bytes": 1892,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
-    "suffix": ".md",
-    "size_bytes": 1720,
-    "line_count": 40
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
-    "suffix": ".md",
-    "size_bytes": 1822,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
-    "suffix": ".md",
-    "size_bytes": 2100,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
-    "suffix": ".md",
-    "size_bytes": 2010,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
-    "suffix": ".md",
-    "size_bytes": 2070,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
-    "suffix": ".md",
-    "size_bytes": 1828,
-    "line_count": 40
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
-    "suffix": ".md",
-    "size_bytes": 2074,
-    "line_count": 41
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
-    "suffix": ".md",
-    "size_bytes": 1871,
-    "line_count": 41
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
-    "suffix": ".md",
-    "size_bytes": 2061,
-    "line_count": 42
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
-    "suffix": ".md",
-    "size_bytes": 8837,
-    "line_count": 129
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "path": "exports\\analytics\\learning_admin_snapshot.json",
     "suffix": ".json",
-    "size_bytes": 15723,
-    "line_count": 162
+    "size_bytes": 546,
+    "line_count": 19
   },
   {
-    "path": "engine_update\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
-    "suffix": ".md",
-    "size_bytes": 3617,
-    "line_count": 112
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "path": "exports\\analytics\\learning_analytics_blueprint.json",
     "suffix": ".json",
-    "size_bytes": 14801,
-    "line_count": 241
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
-    "suffix": ".md",
-    "size_bytes": 2655,
-    "line_count": 80
-  },
-  {
-    "path": "engine_update\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
-    "suffix": ".md",
-    "size_bytes": 2870,
-    "line_count": 80
+    "size_bytes": 460,
+    "line_count": 20
   },
   {
     "path": "exports\\book\\compiled_book.md",
@@ -15948,34 +16962,154 @@
     "line_count": 29244
   },
   {
+    "path": "exports\\civic_intelligence\\civic_intelligence_dashboard.json",
+    "suffix": ".json",
+    "size_bytes": 7494,
+    "line_count": 371
+  },
+  {
+    "path": "exports\\civic_intelligence\\civic_intelligence_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 539,
+    "line_count": 13
+  },
+  {
+    "path": "exports\\civic_intelligence\\civic_intelligence_system.md",
+    "suffix": ".md",
+    "size_bytes": 1928,
+    "line_count": 45
+  },
+  {
+    "path": "exports\\civic_intelligence_map\\civic_intelligence_map.json",
+    "suffix": ".json",
+    "size_bytes": 1025579,
+    "line_count": 23538
+  },
+  {
+    "path": "exports\\civic_intelligence_map\\civic_intelligence_map.md",
+    "suffix": ".md",
+    "size_bytes": 4841,
+    "line_count": 166
+  },
+  {
     "path": "exports\\course\\course_manifest.json",
     "suffix": ".json",
     "size_bytes": 49381,
     "line_count": 1744
   },
   {
+    "path": "exports\\course_engine\\course_engine_index.json",
+    "suffix": ".json",
+    "size_bytes": 3934,
+    "line_count": 138
+  },
+  {
+    "path": "exports\\credentials\\credential_index.json",
+    "suffix": ".json",
+    "size_bytes": 175,
+    "line_count": 7
+  },
+  {
+    "path": "exports\\credentials\\credential_report.md",
+    "suffix": ".md",
+    "size_bytes": 168,
+    "line_count": 8
+  },
+  {
+    "path": "exports\\graph_expansion\\civic_graph_expansion.json",
+    "suffix": ".json",
+    "size_bytes": 812,
+    "line_count": 38
+  },
+  {
+    "path": "exports\\graph_expansion\\civic_graph_expansion.md",
+    "suffix": ".md",
+    "size_bytes": 446,
+    "line_count": 28
+  },
+  {
+    "path": "exports\\graph_expansion\\civic_graph_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 942,
+    "line_count": 42
+  },
+  {
+    "path": "exports\\identity\\identity_index.json",
+    "suffix": ".json",
+    "size_bytes": 173,
+    "line_count": 7
+  },
+  {
+    "path": "exports\\knowledge_graph\\knowledge_graph.json",
+    "suffix": ".json",
+    "size_bytes": 2797311,
+    "line_count": 73088
+  },
+  {
+    "path": "exports\\knowledge_graph\\knowledge_graph.md",
+    "suffix": ".md",
+    "size_bytes": 879,
+    "line_count": 58
+  },
+  {
+    "path": "exports\\learning_runtime\\learning_runtime_snapshot.json",
+    "suffix": ".json",
+    "size_bytes": 338,
+    "line_count": 14
+  },
+  {
+    "path": "exports\\lesson_player\\lesson_player_index.json",
+    "suffix": ".json",
+    "size_bytes": 1173854,
+    "line_count": 18109
+  },
+  {
+    "path": "exports\\lesson_player\\lesson_player_readme.md",
+    "suffix": ".md",
+    "size_bytes": 595,
+    "line_count": 19
+  },
+  {
+    "path": "exports\\mentor\\platform_mentor_brief.json",
+    "suffix": ".json",
+    "size_bytes": 1256,
+    "line_count": 32
+  },
+  {
+    "path": "exports\\progress_registry\\progress_registry_index.json",
+    "suffix": ".json",
+    "size_bytes": 408,
+    "line_count": 15
+  },
+  {
+    "path": "exports\\progress_registry\\progress_registry_report.md",
+    "suffix": ".md",
+    "size_bytes": 360,
+    "line_count": 14
+  },
+  {
     "path": "exports\\project_map\\project_files.json",
     "suffix": ".json",
-    "size_bytes": 547968,
-    "line_count": 16778
+    "size_bytes": 868568,
+    "line_count": 26242
   },
   {
     "path": "exports\\project_map\\project_summary.json",
     "suffix": ".json",
-    "size_bytes": 530,
-    "line_count": 31
+    "size_bytes": 758,
+    "line_count": 42
   },
   {
     "path": "exports\\project_map\\project_tree.txt",
     "suffix": ".txt",
-    "size_bytes": 145741,
-    "line_count": 2570
+    "size_bytes": 235078,
+    "line_count": 4102
   },
   {
     "path": "exports\\project_map\\top_folder_report.md",
     "suffix": ".md",
-    "size_bytes": 216219,
-    "line_count": 2144
+    "size_bytes": 349772,
+    "line_count": 3359
   },
   {
     "path": "exports\\reader_site\\course_01_civic_awakening_chapter_01.html",
@@ -16554,22 +17688,112 @@
     "line_count": 294
   },
   {
+    "path": "exports\\repo_audit\\duplicate_filenames.json",
+    "suffix": ".json",
+    "size_bytes": 342467,
+    "line_count": 2945
+  },
+  {
     "path": "exports\\repo_audit\\files.json",
     "suffix": ".json",
-    "size_bytes": 585370,
-    "line_count": 17960
+    "size_bytes": 618683,
+    "line_count": 17978
+  },
+  {
+    "path": "exports\\repo_audit\\largest_files.json",
+    "suffix": ".json",
+    "size_bytes": 3982,
+    "line_count": 152
+  },
+  {
+    "path": "exports\\repo_audit\\python_scripts.json",
+    "suffix": ".json",
+    "size_bytes": 1888,
+    "line_count": 45
   },
   {
     "path": "exports\\repo_audit\\summary.json",
     "suffix": ".json",
-    "size_bytes": 645,
-    "line_count": 36
+    "size_bytes": 1569,
+    "line_count": 105
   },
   {
     "path": "exports\\repo_audit\\tree.txt",
     "suffix": ".txt",
-    "size_bytes": 0,
-    "line_count": 0
+    "size_bytes": 212780,
+    "line_count": 3676
+  },
+  {
+    "path": "exports\\system_map\\architecture_report.md",
+    "suffix": ".md",
+    "size_bytes": 6485,
+    "line_count": 181
+  },
+  {
+    "path": "exports\\system_map\\course_inventory.json",
+    "suffix": ".json",
+    "size_bytes": 45215,
+    "line_count": 1678
+  },
+  {
+    "path": "exports\\system_map\\dashboard_inventory.json",
+    "suffix": ".json",
+    "size_bytes": 363,
+    "line_count": 17
+  },
+  {
+    "path": "exports\\system_map\\engine_inventory.json",
+    "suffix": ".json",
+    "size_bytes": 275,
+    "line_count": 13
+  },
+  {
+    "path": "exports\\system_map\\kernel_health_report.json",
+    "suffix": ".json",
+    "size_bytes": 3188,
+    "line_count": 136
+  },
+  {
+    "path": "exports\\system_map\\kernel_runtime_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 2165,
+    "line_count": 50
+  },
+  {
+    "path": "exports\\system_map\\platform_kernel_snapshot.json",
+    "suffix": ".json",
+    "size_bytes": 1223537,
+    "line_count": 11912
+  },
+  {
+    "path": "exports\\system_map\\project_tree.txt",
+    "suffix": ".txt",
+    "size_bytes": 237377,
+    "line_count": 6454
+  },
+  {
+    "path": "exports\\system_map\\script_inventory.json",
+    "suffix": ".json",
+    "size_bytes": 629,
+    "line_count": 24
+  },
+  {
+    "path": "exports\\system_map\\system_architecture.json",
+    "suffix": ".json",
+    "size_bytes": 165827,
+    "line_count": 1482
+  },
+  {
+    "path": "exports\\system_map\\system_architecture.md",
+    "suffix": ".md",
+    "size_bytes": 3708,
+    "line_count": 121
+  },
+  {
+    "path": "exports\\tracks\\track_index.json",
+    "suffix": ".json",
+    "size_bytes": 4061,
+    "line_count": 118
   },
   {
     "path": "exports\\articulate\\scorm\\course_01_civic_awakening_SCORM.zip",
@@ -17938,6 +19162,486 @@
     "suffix": ".html",
     "size_bytes": 4880,
     "line_count": 19
+  },
+  {
+    "path": "exports\\course_engine\\course_01_civic_awakening\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 112185,
+    "line_count": 1372
+  },
+  {
+    "path": "exports\\course_engine\\course_01_civic_awakening\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 82067,
+    "line_count": 3362
+  },
+  {
+    "path": "exports\\course_engine\\course_02_arkansas_civic_history\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 91695,
+    "line_count": 1372
+  },
+  {
+    "path": "exports\\course_engine\\course_02_arkansas_civic_history\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 63044,
+    "line_count": 2986
+  },
+  {
+    "path": "exports\\course_engine\\course_03_direct_democracy\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 46958,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_03_direct_democracy\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34403,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_03_direct_democracy_and_the_ballot\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 45223,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_03_direct_democracy_and_the_ballot\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 28814,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_04_voting_systems\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 46848,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_04_voting_systems\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34293,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_04_voting_systems_and_representation\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 45787,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_04_voting_systems_and_representation\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 29257,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_05_labor_and_collective_power\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 47508,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_05_labor_and_collective_power\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34953,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_05_labor_unions_and_collective_power\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 45643,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_05_labor_unions_and_collective_power\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 29137,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_06_shared_pain\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 46683,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_06_shared_pain\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34128,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_06_shared_pain_shared_story\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 43931,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_06_shared_pain_shared_story\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 27823,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_07_coalitions_and_leadership\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 44871,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_07_coalitions_and_leadership\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 28520,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_07_shared_purpose\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 46848,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_07_shared_purpose\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34293,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_08_coalition_building\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 47068,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_08_coalition_building\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34513,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_08_messaging_media_and_narrative\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 45943,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_08_messaging_media_and_narrative\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 29370,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_09_messaging_and_media\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 47123,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_09_messaging_and_media\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34568,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_09_strategy_petitions_and_campaigns\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 45727,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_09_strategy_petitions_and_campaigns\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 29220,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_10_opposition_pushback_and_rule_changes\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 45759,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_10_opposition_pushback_and_rule_changes\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 29260,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_10_strategy_and_campaigns\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 47288,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_10_strategy_and_campaigns\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34733,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_11_opposition_and_pushback\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 47343,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_11_opposition_and_pushback\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34788,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_11_the_reader_becomes_the_organizer\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 45595,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_11_the_reader_becomes_the_organizer\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 29103,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\course_engine\\course_12_sustaining_movements\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 47178,
+    "line_count": 664
+  },
+  {
+    "path": "exports\\course_engine\\course_12_sustaining_movements\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 34623,
+    "line_count": 1922
+  },
+  {
+    "path": "exports\\course_engine\\course_12_sustaining_the_ecosystem\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 44719,
+    "line_count": 724
+  },
+  {
+    "path": "exports\\course_engine\\course_12_sustaining_the_ecosystem\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 28411,
+    "line_count": 1070
+  },
+  {
+    "path": "exports\\lesson_player\\course_01_civic_awakening\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 88508,
+    "line_count": 1501
+  },
+  {
+    "path": "exports\\lesson_player\\course_02_arkansas_civic_history\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 91559,
+    "line_count": 1501
+  },
+  {
+    "path": "exports\\lesson_player\\course_03_direct_democracy\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 41603,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_03_direct_democracy_and_the_ballot\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50041,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_04_voting_systems\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 41625,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_04_voting_systems_and_representation\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50777,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_05_labor_and_collective_power\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 42777,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_05_labor_unions_and_collective_power\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50501,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_06_shared_pain\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 41280,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_06_shared_pain_shared_story\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 48222,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_07_coalitions_and_leadership\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 49509,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_07_shared_purpose\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 41625,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_08_coalition_building\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 41905,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_08_messaging_media_and_narrative\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50870,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_09_messaging_and_media\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 42056,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_09_strategy_petitions_and_campaigns\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50640,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_10_opposition_pushback_and_rule_changes\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50701,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_10_strategy_and_campaigns\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 42425,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_11_opposition_and_pushback\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 42576,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_11_the_reader_becomes_the_organizer\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50559,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\lesson_player\\course_12_sustaining_movements\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 42207,
+    "line_count": 741
+  },
+  {
+    "path": "exports\\lesson_player\\course_12_sustaining_the_ecosystem\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 49283,
+    "line_count": 769
+  },
+  {
+    "path": "exports\\tracks\\arkansas-constitution-and-ballot-path\\track_definition.json",
+    "suffix": ".json",
+    "size_bytes": 3905,
+    "line_count": 105
+  },
+  {
+    "path": "exports\\tracks\\arkansas-constitution-and-ballot-path\\track_definition.md",
+    "suffix": ".md",
+    "size_bytes": 2347,
+    "line_count": 61
+  },
+  {
+    "path": "exports\\tracks\\arkansas-history-scholar-path\\track_definition.json",
+    "suffix": ".json",
+    "size_bytes": 3786,
+    "line_count": 105
+  },
+  {
+    "path": "exports\\tracks\\arkansas-history-scholar-path\\track_definition.md",
+    "suffix": ".md",
+    "size_bytes": 2237,
+    "line_count": 61
+  },
+  {
+    "path": "exports\\tracks\\campaign-manager-path\\track_definition.json",
+    "suffix": ".json",
+    "size_bytes": 4828,
+    "line_count": 132
+  },
+  {
+    "path": "exports\\tracks\\campaign-manager-path\\track_definition.md",
+    "suffix": ".md",
+    "size_bytes": 2865,
+    "line_count": 77
+  },
+  {
+    "path": "exports\\tracks\\leadership-development-path\\track_definition.json",
+    "suffix": ".json",
+    "size_bytes": 4772,
+    "line_count": 132
+  },
+  {
+    "path": "exports\\tracks\\leadership-development-path\\track_definition.md",
+    "suffix": ".md",
+    "size_bytes": 2806,
+    "line_count": 77
+  },
+  {
+    "path": "exports\\tracks\\messaging-and-narrative-path\\track_definition.json",
+    "suffix": ".json",
+    "size_bytes": 3742,
+    "line_count": 105
+  },
+  {
+    "path": "exports\\tracks\\messaging-and-narrative-path\\track_definition.md",
+    "suffix": ".md",
+    "size_bytes": 2185,
+    "line_count": 61
+  },
+  {
+    "path": "exports\\tracks\\organizer-field-path\\track_definition.json",
+    "suffix": ".json",
+    "size_bytes": 4808,
+    "line_count": 132
+  },
+  {
+    "path": "exports\\tracks\\organizer-field-path\\track_definition.md",
+    "suffix": ".md",
+    "size_bytes": 2845,
+    "line_count": 77
+  },
+  {
+    "path": "exports\\tracks\\stand-up-arkansas-civic-foundations\\track_definition.json",
+    "suffix": ".json",
+    "size_bytes": 3843,
+    "line_count": 105
+  },
+  {
+    "path": "exports\\tracks\\stand-up-arkansas-civic-foundations\\track_definition.md",
+    "suffix": ".md",
+    "size_bytes": 2293,
+    "line_count": 61
   },
   {
     "path": "netlify\\functions\\chapter-context.js",

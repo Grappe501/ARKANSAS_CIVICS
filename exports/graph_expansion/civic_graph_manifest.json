@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-03-18T16:32:41.372836+00:00",
+  "engine": "civic_knowledge_graph_expansion_engine",
+  "summary": {
+    "node_count": 0,
+    "edge_count": 0,
+    "expander_count": 4
+  },
+  "reports": [
+    {
+      "name": "Legislator Influence Networks",
+      "node_count": 0,
+      "edge_count": 0,
+      "source_paths": []
+    },
+    {
+      "name": "Committee Power Maps",
+      "node_count": 0,
+      "edge_count": 0,
+      "source_paths": []
+    },
+    {
+      "name": "Donor Influence Graphs",
+      "node_count": 0,
+      "edge_count": 0,
+      "source_paths": []
+    },
+    {
+      "name": "Policy Impact Chains",
+      "node_count": 0,
+      "edge_count": 0,
+      "source_paths": []
+    }
+  ],
+  "future_uses": [
+    "knowledge graph persistence",
+    "civic intelligence map overlays",
+    "influence scoring",
+    "pathway recommendation",
+    "public explainer generation"
+  ]
+}

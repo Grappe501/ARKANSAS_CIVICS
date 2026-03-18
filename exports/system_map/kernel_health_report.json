@@ -1,0 +1,136 @@
+{
+  "status": "healthy",
+  "environment": "local",
+  "checks": {
+    "project_root_exists": true,
+    "content_dir_exists": true,
+    "courses_dir_exists": true,
+    "exports_dir_exists": true,
+    "data_dir_exists": true,
+    "dashboard_dir_exists": true,
+    "config_dir_exists": true,
+    "logs_dir_exists": true
+  },
+  "validation": {
+    "ok": true,
+    "issues": [],
+    "summary": {
+      "course_count": 22,
+      "chapter_count": 96,
+      "segment_count": 1152
+    }
+  },
+  "contracts": [
+    {
+      "name": "platform_kernel",
+      "version": "1.1.0",
+      "responsibilities": [
+        "canonical project paths",
+        "content discovery",
+        "system validation",
+        "environment readiness"
+      ],
+      "required_paths": [
+        "content/courses",
+        "scripts",
+        "exports",
+        "apps/editor-dashboard"
+      ],
+      "outputs": [
+        "exports/system_map/platform_kernel_snapshot.json",
+        "apps/editor-dashboard/content-manifest.json"
+      ],
+      "database_ready": false,
+      "notes": []
+    },
+    {
+      "name": "course_engine",
+      "version": "1.0.0",
+      "responsibilities": [
+        "course normalization",
+        "course export preparation"
+      ],
+      "required_paths": [
+        "content/courses"
+      ],
+      "outputs": [
+        "exports/course_engine"
+      ],
+      "database_ready": false,
+      "notes": []
+    },
+    {
+      "name": "lesson_player",
+      "version": "1.0.0",
+      "responsibilities": [
+        "lesson rendering",
+        "segment delivery"
+      ],
+      "required_paths": [],
+      "outputs": [
+        "exports/lesson_player"
+      ],
+      "database_ready": false,
+      "notes": []
+    },
+    {
+      "name": "track_engine",
+      "version": "1.0.0",
+      "responsibilities": [
+        "track definitions",
+        "pathway orchestration"
+      ],
+      "required_paths": [],
+      "outputs": [
+        "exports/tracks"
+      ],
+      "database_ready": false,
+      "notes": []
+    },
+    {
+      "name": "learning_analytics_engine",
+      "version": "1.0.0",
+      "responsibilities": [
+        "active learning metrics",
+        "volunteer logs",
+        "admin rollups"
+      ],
+      "required_paths": [
+        "data/progress",
+        "data/analytics"
+      ],
+      "outputs": [
+        "exports/analytics"
+      ],
+      "database_ready": false,
+      "notes": []
+    },
+    {
+      "name": "civic_intelligence_system",
+      "version": "1.0.0",
+      "responsibilities": [
+        "unified civic intelligence exports",
+        "dashboard snapshots"
+      ],
+      "required_paths": [],
+      "outputs": [
+        "exports/civic_intelligence"
+      ],
+      "database_ready": false,
+      "notes": []
+    }
+  ],
+  "database_readiness": {
+    "database_connected": false,
+    "database_type": null,
+    "source_of_truth": "filesystem",
+    "environment": "local",
+    "future_role": [
+      "user progress tracking",
+      "dashboard multi-user state",
+      "analytics",
+      "search indexing",
+      "operational cache"
+    ]
+  }
+}

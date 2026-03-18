@@ -1,0 +1,29 @@
+{
+  "phase": "07",
+  "name": "civic_graph_persistence",
+  "scope": "arkansas_only",
+  "database": "supabase_postgresql",
+  "status": "ready_for_install",
+  "engine_paths": [
+    "engine/graph_persistence"
+  ],
+  "script_paths": [
+    "scripts/build_phase_07_graph_persistence.py",
+    "scripts/load_graph_to_supabase.py",
+    "scripts/query_civic_graph.py"
+  ],
+  "export_paths": [
+    "exports/graph_schema.sql",
+    "exports/graph_persistence_manifest.json"
+  ],
+  "tables": [
+    "civic_nodes",
+    "civic_edges",
+    "civic_graph_index"
+  ],
+  "source_dependency": "exports/graph_expansion/civic_graph_expansion.json",
+  "env_required": [
+    "SUPABASE_URL",
+    "SUPABASE_SERVICE_KEY"
+  ]
+}

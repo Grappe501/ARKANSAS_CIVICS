@@ -3,10 +3,10 @@
   "source_of_truth": "content/courses",
   "project_root": "C:\\Users\\User\\Desktop\\arkansas_civics",
   "summary": {
-    "node_count": 1531,
+    "node_count": 1538,
     "edge_count": 7777,
     "course_count": 22,
-    "track_count": 0,
+    "track_count": 7,
     "concept_count": 237,
     "tag_count": 24,
     "top_concepts": [
@@ -211,6 +211,76 @@
     ]
   },
   "nodes": [
+    {
+      "id": "track:stand-up-arkansas-civic-foundations",
+      "label": "Stand Up Arkansas Civic Foundations",
+      "node_type": "track",
+      "metadata": {
+        "slug": "stand-up-arkansas-civic-foundations",
+        "estimated_minutes": 977,
+        "track_type": null
+      }
+    },
+    {
+      "id": "track:campaign-manager-path",
+      "label": "Campaign Manager Path",
+      "node_type": "track",
+      "metadata": {
+        "slug": "campaign-manager-path",
+        "estimated_minutes": 1249,
+        "track_type": null
+      }
+    },
+    {
+      "id": "track:organizer-field-path",
+      "label": "Organizer and Field Path",
+      "node_type": "track",
+      "metadata": {
+        "slug": "organizer-field-path",
+        "estimated_minutes": 1169,
+        "track_type": null
+      }
+    },
+    {
+      "id": "track:arkansas-constitution-and-ballot-path",
+      "label": "Arkansas Constitution and Ballot Path",
+      "node_type": "track",
+      "metadata": {
+        "slug": "arkansas-constitution-and-ballot-path",
+        "estimated_minutes": 896,
+        "track_type": null
+      }
+    },
+    {
+      "id": "track:messaging-and-narrative-path",
+      "label": "Messaging and Narrative Path",
+      "node_type": "track",
+      "metadata": {
+        "slug": "messaging-and-narrative-path",
+        "estimated_minutes": 897,
+        "track_type": null
+      }
+    },
+    {
+      "id": "track:leadership-development-path",
+      "label": "Leadership Development Path",
+      "node_type": "track",
+      "metadata": {
+        "slug": "leadership-development-path",
+        "estimated_minutes": 1249,
+        "track_type": null
+      }
+    },
+    {
+      "id": "track:arkansas-history-scholar-path",
+      "label": "Arkansas History Scholar Path",
+      "node_type": "track",
+      "metadata": {
+        "slug": "arkansas-history-scholar-path",
+        "estimated_minutes": 896,
+        "track_type": null
+      }
+    },
     {
       "id": "course:course_01_civic_awakening",
       "label": "Civic Awakening",

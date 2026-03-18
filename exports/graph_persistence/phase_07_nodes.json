@@ -1,0 +1,4631 @@
+{
+  "rows": [
+    {
+      "id": "867161be-8aa4-70fa-16eb-79913c086fb9",
+      "source_key": "org:arkansas",
+      "jurisdiction": "arkansas",
+      "node_type": "organization",
+      "name": "Arkansas",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "type": "state",
+        "raw": {
+          "id": "org:arkansas",
+          "node_type": "organization",
+          "name": "Arkansas",
+          "metadata": {
+            "type": "state"
+          }
+        }
+      }
+    },
+    {
+      "id": "0aaa1bff-568b-0da7-fb22-c1f999a6a296",
+      "source_key": "org:arkansas_house",
+      "jurisdiction": "arkansas",
+      "node_type": "organization",
+      "name": "Arkansas House",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "org:arkansas_house",
+          "node_type": "organization",
+          "name": "Arkansas House",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "570e94cc-12e6-839c-ffd5-2da784a7aac4",
+      "source_key": "org:arkansas_senate",
+      "jurisdiction": "arkansas",
+      "node_type": "organization",
+      "name": "Arkansas Senate",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "org:arkansas_senate",
+          "node_type": "organization",
+          "name": "Arkansas Senate",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "000494c2-8682-bb4d-1cc6-67ba6e17d240",
+      "source_key": "committee:house_0",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 0",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_0",
+          "node_type": "committee",
+          "name": "House Committee 0",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "75355698-1adc-80e6-7b6e-13b2cc48da2d",
+      "source_key": "committee:house_1",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 1",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_1",
+          "node_type": "committee",
+          "name": "House Committee 1",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "3bf2f94f-9235-4509-03e0-6b3fa9919522",
+      "source_key": "committee:house_2",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 2",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_2",
+          "node_type": "committee",
+          "name": "House Committee 2",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "8693e32b-35cd-ef5a-c1d3-55c8536c012e",
+      "source_key": "committee:house_3",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 3",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_3",
+          "node_type": "committee",
+          "name": "House Committee 3",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "4182f988-c403-89ad-2053-fe0cc87924f0",
+      "source_key": "committee:house_4",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 4",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_4",
+          "node_type": "committee",
+          "name": "House Committee 4",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "97fa7c91-b1ed-9cac-b0e4-4d0a3fd7beea",
+      "source_key": "committee:house_5",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 5",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_5",
+          "node_type": "committee",
+          "name": "House Committee 5",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "bf841924-f52f-5117-1716-4c24c871c13b",
+      "source_key": "committee:house_6",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 6",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_6",
+          "node_type": "committee",
+          "name": "House Committee 6",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "9f2b3859-64ac-3421-80fc-6de25b9f749d",
+      "source_key": "committee:house_7",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 7",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_7",
+          "node_type": "committee",
+          "name": "House Committee 7",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "74ae746a-33ff-6ec2-46c4-54d71a51379d",
+      "source_key": "committee:house_8",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 8",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_8",
+          "node_type": "committee",
+          "name": "House Committee 8",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "8f893fe5-688d-d5f6-ee15-89ea349860f6",
+      "source_key": "committee:house_9",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "House Committee 9",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:house_9",
+          "node_type": "committee",
+          "name": "House Committee 9",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "62a4321c-83b6-bc79-baf3-07307613950c",
+      "source_key": "committee:senate_0",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 0",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_0",
+          "node_type": "committee",
+          "name": "Senate Committee 0",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "b04f0317-f45f-7862-9007-45bd12f4e795",
+      "source_key": "committee:senate_1",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 1",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_1",
+          "node_type": "committee",
+          "name": "Senate Committee 1",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "0bda3a5c-1e3d-fe14-a3e7-8170aa7d2122",
+      "source_key": "committee:senate_2",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 2",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_2",
+          "node_type": "committee",
+          "name": "Senate Committee 2",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "3569935e-5d2a-7f9c-30b0-821eac9113cb",
+      "source_key": "committee:senate_3",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 3",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_3",
+          "node_type": "committee",
+          "name": "Senate Committee 3",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "60c8aa26-5a1a-4fea-05c2-395caf4c1e2a",
+      "source_key": "committee:senate_4",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 4",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_4",
+          "node_type": "committee",
+          "name": "Senate Committee 4",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "0877f5b7-a475-37e5-595b-d35cb385319f",
+      "source_key": "committee:senate_5",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 5",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_5",
+          "node_type": "committee",
+          "name": "Senate Committee 5",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "d65522b9-eabf-ea6a-18e2-32e53bf4e6c4",
+      "source_key": "committee:senate_6",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 6",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_6",
+          "node_type": "committee",
+          "name": "Senate Committee 6",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "beef34c0-f5d7-c857-ef11-2decafdd9623",
+      "source_key": "committee:senate_7",
+      "jurisdiction": "arkansas",
+      "node_type": "committee",
+      "name": "Senate Committee 7",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "committee:senate_7",
+          "node_type": "committee",
+          "name": "Senate Committee 7",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "1a7b3392-7b40-be3e-94e5-bdcd3d6a31ce",
+      "source_key": "legislator:0",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 0",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 0,
+        "raw": {
+          "id": "legislator:0",
+          "node_type": "legislator",
+          "name": "Legislator 0",
+          "metadata": {
+            "party": "R",
+            "district": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "3feafb24-6421-04f9-1379-097d6f5dc484",
+      "source_key": "legislator:1",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 1",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 1,
+        "raw": {
+          "id": "legislator:1",
+          "node_type": "legislator",
+          "name": "Legislator 1",
+          "metadata": {
+            "party": "D",
+            "district": 1
+          }
+        }
+      }
+    },
+    {
+      "id": "025f64ef-a0f0-6a66-64e9-594f732b4b3f",
+      "source_key": "legislator:2",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 2",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 2,
+        "raw": {
+          "id": "legislator:2",
+          "node_type": "legislator",
+          "name": "Legislator 2",
+          "metadata": {
+            "party": "R",
+            "district": 2
+          }
+        }
+      }
+    },
+    {
+      "id": "382e186d-5706-641e-ff6c-61df3f203fa5",
+      "source_key": "legislator:3",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 3",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 3,
+        "raw": {
+          "id": "legislator:3",
+          "node_type": "legislator",
+          "name": "Legislator 3",
+          "metadata": {
+            "party": "D",
+            "district": 3
+          }
+        }
+      }
+    },
+    {
+      "id": "5f16ed1a-d3b9-6a17-166b-69eb8afcf7a5",
+      "source_key": "legislator:4",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 4",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 4,
+        "raw": {
+          "id": "legislator:4",
+          "node_type": "legislator",
+          "name": "Legislator 4",
+          "metadata": {
+            "party": "R",
+            "district": 4
+          }
+        }
+      }
+    },
+    {
+      "id": "015ab7b5-c4f1-24c6-6d9c-476c87f68ab3",
+      "source_key": "legislator:5",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 5",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 5,
+        "raw": {
+          "id": "legislator:5",
+          "node_type": "legislator",
+          "name": "Legislator 5",
+          "metadata": {
+            "party": "D",
+            "district": 5
+          }
+        }
+      }
+    },
+    {
+      "id": "185bc8b8-0670-f6f5-4c92-84b030bb4ad8",
+      "source_key": "legislator:6",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 6",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 6,
+        "raw": {
+          "id": "legislator:6",
+          "node_type": "legislator",
+          "name": "Legislator 6",
+          "metadata": {
+            "party": "D",
+            "district": 6
+          }
+        }
+      }
+    },
+    {
+      "id": "d7620179-5e04-3f6e-782d-680158443a46",
+      "source_key": "legislator:7",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 7",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 7,
+        "raw": {
+          "id": "legislator:7",
+          "node_type": "legislator",
+          "name": "Legislator 7",
+          "metadata": {
+            "party": "R",
+            "district": 7
+          }
+        }
+      }
+    },
+    {
+      "id": "c16d03e7-127c-7248-3c56-6a9800e9272c",
+      "source_key": "legislator:8",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 8",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 8,
+        "raw": {
+          "id": "legislator:8",
+          "node_type": "legislator",
+          "name": "Legislator 8",
+          "metadata": {
+            "party": "D",
+            "district": 8
+          }
+        }
+      }
+    },
+    {
+      "id": "2892898a-5e36-47e0-21e5-6d88ef139561",
+      "source_key": "legislator:9",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 9",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 9,
+        "raw": {
+          "id": "legislator:9",
+          "node_type": "legislator",
+          "name": "Legislator 9",
+          "metadata": {
+            "party": "D",
+            "district": 9
+          }
+        }
+      }
+    },
+    {
+      "id": "e61dd87c-43d5-f6d9-2547-a2de15d0c43b",
+      "source_key": "legislator:10",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 10",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 10,
+        "raw": {
+          "id": "legislator:10",
+          "node_type": "legislator",
+          "name": "Legislator 10",
+          "metadata": {
+            "party": "D",
+            "district": 10
+          }
+        }
+      }
+    },
+    {
+      "id": "dc553fc5-a1f0-df80-b1c7-73b1dd7f92e4",
+      "source_key": "legislator:11",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 11",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 11,
+        "raw": {
+          "id": "legislator:11",
+          "node_type": "legislator",
+          "name": "Legislator 11",
+          "metadata": {
+            "party": "R",
+            "district": 11
+          }
+        }
+      }
+    },
+    {
+      "id": "702b94cc-d647-12f0-e984-0eff74638c82",
+      "source_key": "legislator:12",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 12",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 12,
+        "raw": {
+          "id": "legislator:12",
+          "node_type": "legislator",
+          "name": "Legislator 12",
+          "metadata": {
+            "party": "D",
+            "district": 12
+          }
+        }
+      }
+    },
+    {
+      "id": "6260ff2e-7a64-8bdb-322e-6c55210f1426",
+      "source_key": "legislator:13",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 13",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 13,
+        "raw": {
+          "id": "legislator:13",
+          "node_type": "legislator",
+          "name": "Legislator 13",
+          "metadata": {
+            "party": "D",
+            "district": 13
+          }
+        }
+      }
+    },
+    {
+      "id": "27955f4f-75db-27e4-a5a0-7cb997762ee5",
+      "source_key": "legislator:14",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 14",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 14,
+        "raw": {
+          "id": "legislator:14",
+          "node_type": "legislator",
+          "name": "Legislator 14",
+          "metadata": {
+            "party": "R",
+            "district": 14
+          }
+        }
+      }
+    },
+    {
+      "id": "99b1aec6-cf49-21ae-2ae1-352d8550fae2",
+      "source_key": "legislator:15",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 15",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 15,
+        "raw": {
+          "id": "legislator:15",
+          "node_type": "legislator",
+          "name": "Legislator 15",
+          "metadata": {
+            "party": "D",
+            "district": 15
+          }
+        }
+      }
+    },
+    {
+      "id": "5a0791ab-6b6d-cb8d-6a2b-c7f68d9a8944",
+      "source_key": "legislator:16",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 16",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 16,
+        "raw": {
+          "id": "legislator:16",
+          "node_type": "legislator",
+          "name": "Legislator 16",
+          "metadata": {
+            "party": "R",
+            "district": 16
+          }
+        }
+      }
+    },
+    {
+      "id": "fa511f90-2243-1a4f-d460-f41fccba1366",
+      "source_key": "legislator:17",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 17",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 17,
+        "raw": {
+          "id": "legislator:17",
+          "node_type": "legislator",
+          "name": "Legislator 17",
+          "metadata": {
+            "party": "R",
+            "district": 17
+          }
+        }
+      }
+    },
+    {
+      "id": "df988d82-ec91-9e5d-ce1b-fbaebea62adb",
+      "source_key": "legislator:18",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 18",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 18,
+        "raw": {
+          "id": "legislator:18",
+          "node_type": "legislator",
+          "name": "Legislator 18",
+          "metadata": {
+            "party": "D",
+            "district": 18
+          }
+        }
+      }
+    },
+    {
+      "id": "caa37559-6a01-0646-20ef-31b39e3a53cf",
+      "source_key": "legislator:19",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 19",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 19,
+        "raw": {
+          "id": "legislator:19",
+          "node_type": "legislator",
+          "name": "Legislator 19",
+          "metadata": {
+            "party": "D",
+            "district": 19
+          }
+        }
+      }
+    },
+    {
+      "id": "77ea0265-e9e9-519a-61cf-30a629c7e414",
+      "source_key": "legislator:20",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 20",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 20,
+        "raw": {
+          "id": "legislator:20",
+          "node_type": "legislator",
+          "name": "Legislator 20",
+          "metadata": {
+            "party": "D",
+            "district": 20
+          }
+        }
+      }
+    },
+    {
+      "id": "b36df5e5-b977-9402-8429-63a5fc41d597",
+      "source_key": "legislator:21",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 21",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 21,
+        "raw": {
+          "id": "legislator:21",
+          "node_type": "legislator",
+          "name": "Legislator 21",
+          "metadata": {
+            "party": "R",
+            "district": 21
+          }
+        }
+      }
+    },
+    {
+      "id": "219944cd-2e68-d2aa-e818-6368ddcaa287",
+      "source_key": "legislator:22",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 22",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 22,
+        "raw": {
+          "id": "legislator:22",
+          "node_type": "legislator",
+          "name": "Legislator 22",
+          "metadata": {
+            "party": "R",
+            "district": 22
+          }
+        }
+      }
+    },
+    {
+      "id": "607921ac-230c-f780-c098-e3bc1a3bc59d",
+      "source_key": "legislator:23",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 23",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 23,
+        "raw": {
+          "id": "legislator:23",
+          "node_type": "legislator",
+          "name": "Legislator 23",
+          "metadata": {
+            "party": "D",
+            "district": 23
+          }
+        }
+      }
+    },
+    {
+      "id": "70900340-719a-d0ee-b5f8-a89c125a388d",
+      "source_key": "legislator:24",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 24",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 24,
+        "raw": {
+          "id": "legislator:24",
+          "node_type": "legislator",
+          "name": "Legislator 24",
+          "metadata": {
+            "party": "R",
+            "district": 24
+          }
+        }
+      }
+    },
+    {
+      "id": "dea07f37-83f7-7287-06b3-81254fa9eaee",
+      "source_key": "legislator:25",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 25",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 25,
+        "raw": {
+          "id": "legislator:25",
+          "node_type": "legislator",
+          "name": "Legislator 25",
+          "metadata": {
+            "party": "D",
+            "district": 25
+          }
+        }
+      }
+    },
+    {
+      "id": "70aea102-c925-d4b4-8f35-044002dc0f94",
+      "source_key": "legislator:26",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 26",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 26,
+        "raw": {
+          "id": "legislator:26",
+          "node_type": "legislator",
+          "name": "Legislator 26",
+          "metadata": {
+            "party": "R",
+            "district": 26
+          }
+        }
+      }
+    },
+    {
+      "id": "4033ac8b-47fa-140e-5996-9a39e0c96c7d",
+      "source_key": "legislator:27",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 27",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 27,
+        "raw": {
+          "id": "legislator:27",
+          "node_type": "legislator",
+          "name": "Legislator 27",
+          "metadata": {
+            "party": "R",
+            "district": 27
+          }
+        }
+      }
+    },
+    {
+      "id": "4ceb0870-f733-0c37-d32f-a045095fe3f7",
+      "source_key": "legislator:28",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 28",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 28,
+        "raw": {
+          "id": "legislator:28",
+          "node_type": "legislator",
+          "name": "Legislator 28",
+          "metadata": {
+            "party": "D",
+            "district": 28
+          }
+        }
+      }
+    },
+    {
+      "id": "66f783df-ee6c-47a1-c3d0-64fb6a740364",
+      "source_key": "legislator:29",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 29",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 29,
+        "raw": {
+          "id": "legislator:29",
+          "node_type": "legislator",
+          "name": "Legislator 29",
+          "metadata": {
+            "party": "R",
+            "district": 29
+          }
+        }
+      }
+    },
+    {
+      "id": "dd2c4033-79c4-71c4-48b2-7bb435e541b8",
+      "source_key": "legislator:30",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 30",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 30,
+        "raw": {
+          "id": "legislator:30",
+          "node_type": "legislator",
+          "name": "Legislator 30",
+          "metadata": {
+            "party": "D",
+            "district": 30
+          }
+        }
+      }
+    },
+    {
+      "id": "25a2b24d-cf3b-6bbe-b4a6-f81250ded646",
+      "source_key": "legislator:31",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 31",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 31,
+        "raw": {
+          "id": "legislator:31",
+          "node_type": "legislator",
+          "name": "Legislator 31",
+          "metadata": {
+            "party": "D",
+            "district": 31
+          }
+        }
+      }
+    },
+    {
+      "id": "e9a7e548-aa36-a2a5-5e46-99661670129d",
+      "source_key": "legislator:32",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 32",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 32,
+        "raw": {
+          "id": "legislator:32",
+          "node_type": "legislator",
+          "name": "Legislator 32",
+          "metadata": {
+            "party": "R",
+            "district": 32
+          }
+        }
+      }
+    },
+    {
+      "id": "77ee92dc-b28f-73ad-a54b-0d9fec480bb0",
+      "source_key": "legislator:33",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 33",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 33,
+        "raw": {
+          "id": "legislator:33",
+          "node_type": "legislator",
+          "name": "Legislator 33",
+          "metadata": {
+            "party": "R",
+            "district": 33
+          }
+        }
+      }
+    },
+    {
+      "id": "750a451b-3461-22ba-7869-997a887f7c43",
+      "source_key": "legislator:34",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 34",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 34,
+        "raw": {
+          "id": "legislator:34",
+          "node_type": "legislator",
+          "name": "Legislator 34",
+          "metadata": {
+            "party": "R",
+            "district": 34
+          }
+        }
+      }
+    },
+    {
+      "id": "6a8c4205-7d80-1f6e-f069-c2eae71d6d28",
+      "source_key": "legislator:35",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 35",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 35,
+        "raw": {
+          "id": "legislator:35",
+          "node_type": "legislator",
+          "name": "Legislator 35",
+          "metadata": {
+            "party": "D",
+            "district": 35
+          }
+        }
+      }
+    },
+    {
+      "id": "efc32b22-a7b1-053f-68c3-a4984f805b9a",
+      "source_key": "legislator:36",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 36",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 36,
+        "raw": {
+          "id": "legislator:36",
+          "node_type": "legislator",
+          "name": "Legislator 36",
+          "metadata": {
+            "party": "D",
+            "district": 36
+          }
+        }
+      }
+    },
+    {
+      "id": "76b2bb80-fca7-d313-bdc1-bd080b042188",
+      "source_key": "legislator:37",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 37",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 37,
+        "raw": {
+          "id": "legislator:37",
+          "node_type": "legislator",
+          "name": "Legislator 37",
+          "metadata": {
+            "party": "D",
+            "district": 37
+          }
+        }
+      }
+    },
+    {
+      "id": "43ab0e69-7538-5143-19da-98562cb10498",
+      "source_key": "legislator:38",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 38",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 38,
+        "raw": {
+          "id": "legislator:38",
+          "node_type": "legislator",
+          "name": "Legislator 38",
+          "metadata": {
+            "party": "R",
+            "district": 38
+          }
+        }
+      }
+    },
+    {
+      "id": "6e0828a2-f017-2203-3baf-e54e7d98ce86",
+      "source_key": "legislator:39",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 39",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 39,
+        "raw": {
+          "id": "legislator:39",
+          "node_type": "legislator",
+          "name": "Legislator 39",
+          "metadata": {
+            "party": "D",
+            "district": 39
+          }
+        }
+      }
+    },
+    {
+      "id": "8678bbac-6770-9be3-6c56-e43877a1941b",
+      "source_key": "legislator:40",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 40",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 40,
+        "raw": {
+          "id": "legislator:40",
+          "node_type": "legislator",
+          "name": "Legislator 40",
+          "metadata": {
+            "party": "D",
+            "district": 40
+          }
+        }
+      }
+    },
+    {
+      "id": "fb9f60e4-52f1-fe6a-6d91-9b5d9a607917",
+      "source_key": "legislator:41",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 41",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 41,
+        "raw": {
+          "id": "legislator:41",
+          "node_type": "legislator",
+          "name": "Legislator 41",
+          "metadata": {
+            "party": "R",
+            "district": 41
+          }
+        }
+      }
+    },
+    {
+      "id": "637dd460-2a47-38bf-1d00-e25023a100bb",
+      "source_key": "legislator:42",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 42",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 42,
+        "raw": {
+          "id": "legislator:42",
+          "node_type": "legislator",
+          "name": "Legislator 42",
+          "metadata": {
+            "party": "D",
+            "district": 42
+          }
+        }
+      }
+    },
+    {
+      "id": "9f3c248d-13b6-cc0e-36ed-f5d7457b2fc9",
+      "source_key": "legislator:43",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 43",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 43,
+        "raw": {
+          "id": "legislator:43",
+          "node_type": "legislator",
+          "name": "Legislator 43",
+          "metadata": {
+            "party": "D",
+            "district": 43
+          }
+        }
+      }
+    },
+    {
+      "id": "b36c9fce-1236-7a65-9ecb-6f223b04be82",
+      "source_key": "legislator:44",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 44",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 44,
+        "raw": {
+          "id": "legislator:44",
+          "node_type": "legislator",
+          "name": "Legislator 44",
+          "metadata": {
+            "party": "D",
+            "district": 44
+          }
+        }
+      }
+    },
+    {
+      "id": "b060606a-e101-6d26-cc7c-e3683ab0839d",
+      "source_key": "legislator:45",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 45",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 45,
+        "raw": {
+          "id": "legislator:45",
+          "node_type": "legislator",
+          "name": "Legislator 45",
+          "metadata": {
+            "party": "D",
+            "district": 45
+          }
+        }
+      }
+    },
+    {
+      "id": "abe07bc5-f87d-4a0e-78fd-28873d928090",
+      "source_key": "legislator:46",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 46",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 46,
+        "raw": {
+          "id": "legislator:46",
+          "node_type": "legislator",
+          "name": "Legislator 46",
+          "metadata": {
+            "party": "R",
+            "district": 46
+          }
+        }
+      }
+    },
+    {
+      "id": "16816d6c-584b-d812-f66f-46b1593372e7",
+      "source_key": "legislator:47",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 47",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 47,
+        "raw": {
+          "id": "legislator:47",
+          "node_type": "legislator",
+          "name": "Legislator 47",
+          "metadata": {
+            "party": "R",
+            "district": 47
+          }
+        }
+      }
+    },
+    {
+      "id": "b04b42ac-94ff-17c7-0ffe-7e24ec7c9b34",
+      "source_key": "legislator:48",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 48",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 48,
+        "raw": {
+          "id": "legislator:48",
+          "node_type": "legislator",
+          "name": "Legislator 48",
+          "metadata": {
+            "party": "D",
+            "district": 48
+          }
+        }
+      }
+    },
+    {
+      "id": "0f4ae9ee-5233-f891-aef7-5d391a2d290f",
+      "source_key": "legislator:49",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 49",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 49,
+        "raw": {
+          "id": "legislator:49",
+          "node_type": "legislator",
+          "name": "Legislator 49",
+          "metadata": {
+            "party": "R",
+            "district": 49
+          }
+        }
+      }
+    },
+    {
+      "id": "cef7555b-b509-734e-6fac-e8a6b849ac20",
+      "source_key": "legislator:50",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 50",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 50,
+        "raw": {
+          "id": "legislator:50",
+          "node_type": "legislator",
+          "name": "Legislator 50",
+          "metadata": {
+            "party": "D",
+            "district": 50
+          }
+        }
+      }
+    },
+    {
+      "id": "6307b02d-2c6d-0797-e36d-451a314ae8c9",
+      "source_key": "legislator:51",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 51",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 51,
+        "raw": {
+          "id": "legislator:51",
+          "node_type": "legislator",
+          "name": "Legislator 51",
+          "metadata": {
+            "party": "R",
+            "district": 51
+          }
+        }
+      }
+    },
+    {
+      "id": "00dc31af-eaa4-9653-b680-8ae59374ff17",
+      "source_key": "legislator:52",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 52",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 52,
+        "raw": {
+          "id": "legislator:52",
+          "node_type": "legislator",
+          "name": "Legislator 52",
+          "metadata": {
+            "party": "R",
+            "district": 52
+          }
+        }
+      }
+    },
+    {
+      "id": "92ce1c3f-af23-2841-39e1-598fbe69a8e1",
+      "source_key": "legislator:53",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 53",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 53,
+        "raw": {
+          "id": "legislator:53",
+          "node_type": "legislator",
+          "name": "Legislator 53",
+          "metadata": {
+            "party": "D",
+            "district": 53
+          }
+        }
+      }
+    },
+    {
+      "id": "858a131e-f5ea-c3b8-ad96-50d60a99e569",
+      "source_key": "legislator:54",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 54",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 54,
+        "raw": {
+          "id": "legislator:54",
+          "node_type": "legislator",
+          "name": "Legislator 54",
+          "metadata": {
+            "party": "D",
+            "district": 54
+          }
+        }
+      }
+    },
+    {
+      "id": "f8c7d8db-a19e-3663-2911-9cf83590ae52",
+      "source_key": "legislator:55",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 55",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 55,
+        "raw": {
+          "id": "legislator:55",
+          "node_type": "legislator",
+          "name": "Legislator 55",
+          "metadata": {
+            "party": "R",
+            "district": 55
+          }
+        }
+      }
+    },
+    {
+      "id": "121a07a5-6768-38c0-f2ed-90142ef53273",
+      "source_key": "legislator:56",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 56",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 56,
+        "raw": {
+          "id": "legislator:56",
+          "node_type": "legislator",
+          "name": "Legislator 56",
+          "metadata": {
+            "party": "R",
+            "district": 56
+          }
+        }
+      }
+    },
+    {
+      "id": "22299ace-382f-d297-c94d-4df895176c84",
+      "source_key": "legislator:57",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 57",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 57,
+        "raw": {
+          "id": "legislator:57",
+          "node_type": "legislator",
+          "name": "Legislator 57",
+          "metadata": {
+            "party": "D",
+            "district": 57
+          }
+        }
+      }
+    },
+    {
+      "id": "446c2d24-45d6-afe1-39fa-7da4864932af",
+      "source_key": "legislator:58",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 58",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 58,
+        "raw": {
+          "id": "legislator:58",
+          "node_type": "legislator",
+          "name": "Legislator 58",
+          "metadata": {
+            "party": "D",
+            "district": 58
+          }
+        }
+      }
+    },
+    {
+      "id": "1ce9bbba-ffcd-8464-8acb-5832400624fa",
+      "source_key": "legislator:59",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 59",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 59,
+        "raw": {
+          "id": "legislator:59",
+          "node_type": "legislator",
+          "name": "Legislator 59",
+          "metadata": {
+            "party": "R",
+            "district": 59
+          }
+        }
+      }
+    },
+    {
+      "id": "ef7ca2d1-e3b6-e8e3-8e43-53b709035b53",
+      "source_key": "legislator:60",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 60",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 60,
+        "raw": {
+          "id": "legislator:60",
+          "node_type": "legislator",
+          "name": "Legislator 60",
+          "metadata": {
+            "party": "R",
+            "district": 60
+          }
+        }
+      }
+    },
+    {
+      "id": "09909310-7954-a37c-5e40-07f7f2ff3077",
+      "source_key": "legislator:61",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 61",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 61,
+        "raw": {
+          "id": "legislator:61",
+          "node_type": "legislator",
+          "name": "Legislator 61",
+          "metadata": {
+            "party": "D",
+            "district": 61
+          }
+        }
+      }
+    },
+    {
+      "id": "87261fc2-c7ca-eeb4-9bc1-129b500a7681",
+      "source_key": "legislator:62",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 62",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 62,
+        "raw": {
+          "id": "legislator:62",
+          "node_type": "legislator",
+          "name": "Legislator 62",
+          "metadata": {
+            "party": "R",
+            "district": 62
+          }
+        }
+      }
+    },
+    {
+      "id": "b7fda4ff-5445-f687-eb94-56b2bd579cde",
+      "source_key": "legislator:63",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 63",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 63,
+        "raw": {
+          "id": "legislator:63",
+          "node_type": "legislator",
+          "name": "Legislator 63",
+          "metadata": {
+            "party": "R",
+            "district": 63
+          }
+        }
+      }
+    },
+    {
+      "id": "04496903-b829-71e8-7a83-7e0b0ef50281",
+      "source_key": "legislator:64",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 64",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 64,
+        "raw": {
+          "id": "legislator:64",
+          "node_type": "legislator",
+          "name": "Legislator 64",
+          "metadata": {
+            "party": "D",
+            "district": 64
+          }
+        }
+      }
+    },
+    {
+      "id": "3ef7caf8-645e-6884-1b72-03b3eb5f3e26",
+      "source_key": "legislator:65",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 65",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 65,
+        "raw": {
+          "id": "legislator:65",
+          "node_type": "legislator",
+          "name": "Legislator 65",
+          "metadata": {
+            "party": "R",
+            "district": 65
+          }
+        }
+      }
+    },
+    {
+      "id": "db4d4db0-aa44-3c99-9ea0-8300f33527b4",
+      "source_key": "legislator:66",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 66",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 66,
+        "raw": {
+          "id": "legislator:66",
+          "node_type": "legislator",
+          "name": "Legislator 66",
+          "metadata": {
+            "party": "D",
+            "district": 66
+          }
+        }
+      }
+    },
+    {
+      "id": "907b1acf-ad7d-8e60-4899-01746528c106",
+      "source_key": "legislator:67",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 67",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 67,
+        "raw": {
+          "id": "legislator:67",
+          "node_type": "legislator",
+          "name": "Legislator 67",
+          "metadata": {
+            "party": "D",
+            "district": 67
+          }
+        }
+      }
+    },
+    {
+      "id": "fbd8c1b1-2a37-fcd6-bdcb-d475bcc7d7f6",
+      "source_key": "legislator:68",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 68",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 68,
+        "raw": {
+          "id": "legislator:68",
+          "node_type": "legislator",
+          "name": "Legislator 68",
+          "metadata": {
+            "party": "D",
+            "district": 68
+          }
+        }
+      }
+    },
+    {
+      "id": "071b8730-88ba-d0a3-09a6-44eb7528d7b8",
+      "source_key": "legislator:69",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 69",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 69,
+        "raw": {
+          "id": "legislator:69",
+          "node_type": "legislator",
+          "name": "Legislator 69",
+          "metadata": {
+            "party": "D",
+            "district": 69
+          }
+        }
+      }
+    },
+    {
+      "id": "6225100e-ea5e-207e-1029-e97a3352719d",
+      "source_key": "legislator:70",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 70",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 70,
+        "raw": {
+          "id": "legislator:70",
+          "node_type": "legislator",
+          "name": "Legislator 70",
+          "metadata": {
+            "party": "D",
+            "district": 70
+          }
+        }
+      }
+    },
+    {
+      "id": "8899a1cd-3f51-b5c7-2835-5183af2d72fc",
+      "source_key": "legislator:71",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 71",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 71,
+        "raw": {
+          "id": "legislator:71",
+          "node_type": "legislator",
+          "name": "Legislator 71",
+          "metadata": {
+            "party": "R",
+            "district": 71
+          }
+        }
+      }
+    },
+    {
+      "id": "a6338d2d-4bf8-1e55-50a9-c6895e828dab",
+      "source_key": "legislator:72",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 72",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 72,
+        "raw": {
+          "id": "legislator:72",
+          "node_type": "legislator",
+          "name": "Legislator 72",
+          "metadata": {
+            "party": "D",
+            "district": 72
+          }
+        }
+      }
+    },
+    {
+      "id": "993779e1-ec16-652e-ea61-2b220893820a",
+      "source_key": "legislator:73",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 73",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 73,
+        "raw": {
+          "id": "legislator:73",
+          "node_type": "legislator",
+          "name": "Legislator 73",
+          "metadata": {
+            "party": "D",
+            "district": 73
+          }
+        }
+      }
+    },
+    {
+      "id": "42658312-b23d-f69c-2e7d-13332f303b51",
+      "source_key": "legislator:74",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 74",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 74,
+        "raw": {
+          "id": "legislator:74",
+          "node_type": "legislator",
+          "name": "Legislator 74",
+          "metadata": {
+            "party": "R",
+            "district": 74
+          }
+        }
+      }
+    },
+    {
+      "id": "8b7e5960-3ab2-056d-3dea-693b1f911572",
+      "source_key": "legislator:75",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 75",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 75,
+        "raw": {
+          "id": "legislator:75",
+          "node_type": "legislator",
+          "name": "Legislator 75",
+          "metadata": {
+            "party": "D",
+            "district": 75
+          }
+        }
+      }
+    },
+    {
+      "id": "203d3cbc-f017-70f3-07f5-1bdd0dce143a",
+      "source_key": "legislator:76",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 76",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 76,
+        "raw": {
+          "id": "legislator:76",
+          "node_type": "legislator",
+          "name": "Legislator 76",
+          "metadata": {
+            "party": "R",
+            "district": 76
+          }
+        }
+      }
+    },
+    {
+      "id": "bb5338ba-1c0b-5d3f-804c-7a5fbabf80c6",
+      "source_key": "legislator:77",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 77",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 77,
+        "raw": {
+          "id": "legislator:77",
+          "node_type": "legislator",
+          "name": "Legislator 77",
+          "metadata": {
+            "party": "D",
+            "district": 77
+          }
+        }
+      }
+    },
+    {
+      "id": "49c456d0-2d43-0019-27f7-da63d4bfcfc5",
+      "source_key": "legislator:78",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 78",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 78,
+        "raw": {
+          "id": "legislator:78",
+          "node_type": "legislator",
+          "name": "Legislator 78",
+          "metadata": {
+            "party": "D",
+            "district": 78
+          }
+        }
+      }
+    },
+    {
+      "id": "bed506ee-1e85-eae9-57cb-646029c4f9b3",
+      "source_key": "legislator:79",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 79",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 79,
+        "raw": {
+          "id": "legislator:79",
+          "node_type": "legislator",
+          "name": "Legislator 79",
+          "metadata": {
+            "party": "R",
+            "district": 79
+          }
+        }
+      }
+    },
+    {
+      "id": "1a09ec12-f5ba-0407-20c4-4c3ff3574900",
+      "source_key": "legislator:80",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 80",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 80,
+        "raw": {
+          "id": "legislator:80",
+          "node_type": "legislator",
+          "name": "Legislator 80",
+          "metadata": {
+            "party": "D",
+            "district": 80
+          }
+        }
+      }
+    },
+    {
+      "id": "360c9095-815f-63f4-2362-658c1e4cf9b4",
+      "source_key": "legislator:81",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 81",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 81,
+        "raw": {
+          "id": "legislator:81",
+          "node_type": "legislator",
+          "name": "Legislator 81",
+          "metadata": {
+            "party": "R",
+            "district": 81
+          }
+        }
+      }
+    },
+    {
+      "id": "2ce3c6b9-2fe5-1b72-8e42-c236e05835de",
+      "source_key": "legislator:82",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 82",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 82,
+        "raw": {
+          "id": "legislator:82",
+          "node_type": "legislator",
+          "name": "Legislator 82",
+          "metadata": {
+            "party": "D",
+            "district": 82
+          }
+        }
+      }
+    },
+    {
+      "id": "557d4fba-27bf-922b-f56f-5507a7ff3c91",
+      "source_key": "legislator:83",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 83",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 83,
+        "raw": {
+          "id": "legislator:83",
+          "node_type": "legislator",
+          "name": "Legislator 83",
+          "metadata": {
+            "party": "D",
+            "district": 83
+          }
+        }
+      }
+    },
+    {
+      "id": "a1879383-6f79-8dc7-776e-8e3c6e6747d9",
+      "source_key": "legislator:84",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 84",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 84,
+        "raw": {
+          "id": "legislator:84",
+          "node_type": "legislator",
+          "name": "Legislator 84",
+          "metadata": {
+            "party": "R",
+            "district": 84
+          }
+        }
+      }
+    },
+    {
+      "id": "71ccc55c-5f72-bd9d-3636-bb1f14097bb1",
+      "source_key": "legislator:85",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 85",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 85,
+        "raw": {
+          "id": "legislator:85",
+          "node_type": "legislator",
+          "name": "Legislator 85",
+          "metadata": {
+            "party": "R",
+            "district": 85
+          }
+        }
+      }
+    },
+    {
+      "id": "ff1acbb3-98b0-df3e-72f0-20ee373a6d07",
+      "source_key": "legislator:86",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 86",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 86,
+        "raw": {
+          "id": "legislator:86",
+          "node_type": "legislator",
+          "name": "Legislator 86",
+          "metadata": {
+            "party": "D",
+            "district": 86
+          }
+        }
+      }
+    },
+    {
+      "id": "9a8fb3dd-79cf-f312-f977-1f1ac9bb29c7",
+      "source_key": "legislator:87",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 87",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 87,
+        "raw": {
+          "id": "legislator:87",
+          "node_type": "legislator",
+          "name": "Legislator 87",
+          "metadata": {
+            "party": "D",
+            "district": 87
+          }
+        }
+      }
+    },
+    {
+      "id": "2efa393b-582d-72e8-1f3e-4dd178af7ab2",
+      "source_key": "legislator:88",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 88",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 88,
+        "raw": {
+          "id": "legislator:88",
+          "node_type": "legislator",
+          "name": "Legislator 88",
+          "metadata": {
+            "party": "R",
+            "district": 88
+          }
+        }
+      }
+    },
+    {
+      "id": "3c268678-dee6-1245-aad1-123c0d78f119",
+      "source_key": "legislator:89",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 89",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 89,
+        "raw": {
+          "id": "legislator:89",
+          "node_type": "legislator",
+          "name": "Legislator 89",
+          "metadata": {
+            "party": "D",
+            "district": 89
+          }
+        }
+      }
+    },
+    {
+      "id": "30343229-a88e-dc52-a980-f59bcc4ada14",
+      "source_key": "legislator:90",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 90",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 90,
+        "raw": {
+          "id": "legislator:90",
+          "node_type": "legislator",
+          "name": "Legislator 90",
+          "metadata": {
+            "party": "R",
+            "district": 90
+          }
+        }
+      }
+    },
+    {
+      "id": "fd441438-ed75-9cef-708a-974d2af7c95a",
+      "source_key": "legislator:91",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 91",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 91,
+        "raw": {
+          "id": "legislator:91",
+          "node_type": "legislator",
+          "name": "Legislator 91",
+          "metadata": {
+            "party": "R",
+            "district": 91
+          }
+        }
+      }
+    },
+    {
+      "id": "6a102313-27e7-a71f-3b06-34ea73afdb6d",
+      "source_key": "legislator:92",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 92",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 92,
+        "raw": {
+          "id": "legislator:92",
+          "node_type": "legislator",
+          "name": "Legislator 92",
+          "metadata": {
+            "party": "D",
+            "district": 92
+          }
+        }
+      }
+    },
+    {
+      "id": "6626aa4b-ae83-a818-189d-af4cd5523c00",
+      "source_key": "legislator:93",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 93",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 93,
+        "raw": {
+          "id": "legislator:93",
+          "node_type": "legislator",
+          "name": "Legislator 93",
+          "metadata": {
+            "party": "D",
+            "district": 93
+          }
+        }
+      }
+    },
+    {
+      "id": "6f519653-d82f-c70a-442f-81ec4a62ef85",
+      "source_key": "legislator:94",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 94",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 94,
+        "raw": {
+          "id": "legislator:94",
+          "node_type": "legislator",
+          "name": "Legislator 94",
+          "metadata": {
+            "party": "R",
+            "district": 94
+          }
+        }
+      }
+    },
+    {
+      "id": "b35c57ac-8dc4-3f90-60c5-3eac22a4a1da",
+      "source_key": "legislator:95",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 95",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 95,
+        "raw": {
+          "id": "legislator:95",
+          "node_type": "legislator",
+          "name": "Legislator 95",
+          "metadata": {
+            "party": "D",
+            "district": 95
+          }
+        }
+      }
+    },
+    {
+      "id": "c70a9623-2f88-ee71-7bef-a739d2f628f6",
+      "source_key": "legislator:96",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 96",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 96,
+        "raw": {
+          "id": "legislator:96",
+          "node_type": "legislator",
+          "name": "Legislator 96",
+          "metadata": {
+            "party": "R",
+            "district": 96
+          }
+        }
+      }
+    },
+    {
+      "id": "8c139930-a456-b745-de4f-9e3256ff916d",
+      "source_key": "legislator:97",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 97",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 97,
+        "raw": {
+          "id": "legislator:97",
+          "node_type": "legislator",
+          "name": "Legislator 97",
+          "metadata": {
+            "party": "R",
+            "district": 97
+          }
+        }
+      }
+    },
+    {
+      "id": "cf7bb836-5bc5-4a2f-67e2-6a355010e9c7",
+      "source_key": "legislator:98",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 98",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 98,
+        "raw": {
+          "id": "legislator:98",
+          "node_type": "legislator",
+          "name": "Legislator 98",
+          "metadata": {
+            "party": "R",
+            "district": 98
+          }
+        }
+      }
+    },
+    {
+      "id": "7e033d68-42a3-9dba-1c8c-34c6147e7f74",
+      "source_key": "legislator:99",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 99",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 99,
+        "raw": {
+          "id": "legislator:99",
+          "node_type": "legislator",
+          "name": "Legislator 99",
+          "metadata": {
+            "party": "R",
+            "district": 99
+          }
+        }
+      }
+    },
+    {
+      "id": "649cff6c-5c08-49d2-2081-6db6ec0974e8",
+      "source_key": "legislator:100",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 100",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 100,
+        "raw": {
+          "id": "legislator:100",
+          "node_type": "legislator",
+          "name": "Legislator 100",
+          "metadata": {
+            "party": "D",
+            "district": 100
+          }
+        }
+      }
+    },
+    {
+      "id": "da6b0073-4ba4-5f5a-1077-468122963f69",
+      "source_key": "legislator:101",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 101",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 101,
+        "raw": {
+          "id": "legislator:101",
+          "node_type": "legislator",
+          "name": "Legislator 101",
+          "metadata": {
+            "party": "D",
+            "district": 101
+          }
+        }
+      }
+    },
+    {
+      "id": "7ec4feab-8f5b-350c-4054-217eeaf46eb6",
+      "source_key": "legislator:102",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 102",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 102,
+        "raw": {
+          "id": "legislator:102",
+          "node_type": "legislator",
+          "name": "Legislator 102",
+          "metadata": {
+            "party": "R",
+            "district": 102
+          }
+        }
+      }
+    },
+    {
+      "id": "c888b73b-e90b-7503-5a73-e805b9c6ac85",
+      "source_key": "legislator:103",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 103",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 103,
+        "raw": {
+          "id": "legislator:103",
+          "node_type": "legislator",
+          "name": "Legislator 103",
+          "metadata": {
+            "party": "R",
+            "district": 103
+          }
+        }
+      }
+    },
+    {
+      "id": "a8a13931-746a-4f04-a950-a913839c79d5",
+      "source_key": "legislator:104",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 104",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 104,
+        "raw": {
+          "id": "legislator:104",
+          "node_type": "legislator",
+          "name": "Legislator 104",
+          "metadata": {
+            "party": "D",
+            "district": 104
+          }
+        }
+      }
+    },
+    {
+      "id": "0fd2415f-0d67-b68a-f4f9-9058c39a5706",
+      "source_key": "legislator:105",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 105",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 105,
+        "raw": {
+          "id": "legislator:105",
+          "node_type": "legislator",
+          "name": "Legislator 105",
+          "metadata": {
+            "party": "R",
+            "district": 105
+          }
+        }
+      }
+    },
+    {
+      "id": "f13b15a9-f75d-77d5-4cdf-1f00ad55343f",
+      "source_key": "legislator:106",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 106",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 106,
+        "raw": {
+          "id": "legislator:106",
+          "node_type": "legislator",
+          "name": "Legislator 106",
+          "metadata": {
+            "party": "D",
+            "district": 106
+          }
+        }
+      }
+    },
+    {
+      "id": "707fc2d8-2c16-a914-0fc5-4076f7dc926c",
+      "source_key": "legislator:107",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 107",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 107,
+        "raw": {
+          "id": "legislator:107",
+          "node_type": "legislator",
+          "name": "Legislator 107",
+          "metadata": {
+            "party": "R",
+            "district": 107
+          }
+        }
+      }
+    },
+    {
+      "id": "063fd1d8-ac9a-c4ab-5335-e9d60d68f3ce",
+      "source_key": "legislator:108",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 108",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 108,
+        "raw": {
+          "id": "legislator:108",
+          "node_type": "legislator",
+          "name": "Legislator 108",
+          "metadata": {
+            "party": "R",
+            "district": 108
+          }
+        }
+      }
+    },
+    {
+      "id": "5d3844c5-c457-1d09-2c95-a950635ca863",
+      "source_key": "legislator:109",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 109",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 109,
+        "raw": {
+          "id": "legislator:109",
+          "node_type": "legislator",
+          "name": "Legislator 109",
+          "metadata": {
+            "party": "R",
+            "district": 109
+          }
+        }
+      }
+    },
+    {
+      "id": "531f3fc7-ece9-d102-ac94-7388ef1db479",
+      "source_key": "legislator:110",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 110",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 110,
+        "raw": {
+          "id": "legislator:110",
+          "node_type": "legislator",
+          "name": "Legislator 110",
+          "metadata": {
+            "party": "D",
+            "district": 110
+          }
+        }
+      }
+    },
+    {
+      "id": "c3d2a79a-40bf-2742-13ec-1a61ad847818",
+      "source_key": "legislator:111",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 111",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 111,
+        "raw": {
+          "id": "legislator:111",
+          "node_type": "legislator",
+          "name": "Legislator 111",
+          "metadata": {
+            "party": "D",
+            "district": 111
+          }
+        }
+      }
+    },
+    {
+      "id": "a395997a-8a2b-09ef-6b4b-e9fc0d687b55",
+      "source_key": "legislator:112",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 112",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 112,
+        "raw": {
+          "id": "legislator:112",
+          "node_type": "legislator",
+          "name": "Legislator 112",
+          "metadata": {
+            "party": "R",
+            "district": 112
+          }
+        }
+      }
+    },
+    {
+      "id": "87dd7377-5938-d914-13fc-53b1c62fa1ed",
+      "source_key": "legislator:113",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 113",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 113,
+        "raw": {
+          "id": "legislator:113",
+          "node_type": "legislator",
+          "name": "Legislator 113",
+          "metadata": {
+            "party": "R",
+            "district": 113
+          }
+        }
+      }
+    },
+    {
+      "id": "0d05b6dc-e95d-742f-19a2-c7946bca974e",
+      "source_key": "legislator:114",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 114",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 114,
+        "raw": {
+          "id": "legislator:114",
+          "node_type": "legislator",
+          "name": "Legislator 114",
+          "metadata": {
+            "party": "D",
+            "district": 114
+          }
+        }
+      }
+    },
+    {
+      "id": "2ac600fa-19d5-b1d8-de5b-896b524f09b6",
+      "source_key": "legislator:115",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 115",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 115,
+        "raw": {
+          "id": "legislator:115",
+          "node_type": "legislator",
+          "name": "Legislator 115",
+          "metadata": {
+            "party": "D",
+            "district": 115
+          }
+        }
+      }
+    },
+    {
+      "id": "f800c9b8-c5f8-e00e-4d6c-b29216c3f0c1",
+      "source_key": "legislator:116",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 116",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 116,
+        "raw": {
+          "id": "legislator:116",
+          "node_type": "legislator",
+          "name": "Legislator 116",
+          "metadata": {
+            "party": "R",
+            "district": 116
+          }
+        }
+      }
+    },
+    {
+      "id": "1ee3c844-73c9-d059-cee2-926c307d2594",
+      "source_key": "legislator:117",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 117",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 117,
+        "raw": {
+          "id": "legislator:117",
+          "node_type": "legislator",
+          "name": "Legislator 117",
+          "metadata": {
+            "party": "D",
+            "district": 117
+          }
+        }
+      }
+    },
+    {
+      "id": "b294ae45-4c5c-b543-71b2-87a83c9a6890",
+      "source_key": "legislator:118",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 118",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 118,
+        "raw": {
+          "id": "legislator:118",
+          "node_type": "legislator",
+          "name": "Legislator 118",
+          "metadata": {
+            "party": "D",
+            "district": 118
+          }
+        }
+      }
+    },
+    {
+      "id": "e6d929df-9b4f-21a5-e223-edde53518ae2",
+      "source_key": "legislator:119",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 119",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 119,
+        "raw": {
+          "id": "legislator:119",
+          "node_type": "legislator",
+          "name": "Legislator 119",
+          "metadata": {
+            "party": "R",
+            "district": 119
+          }
+        }
+      }
+    },
+    {
+      "id": "929e4063-dae6-41fc-c6c0-b68a45283a88",
+      "source_key": "legislator:120",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 120",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 120,
+        "raw": {
+          "id": "legislator:120",
+          "node_type": "legislator",
+          "name": "Legislator 120",
+          "metadata": {
+            "party": "D",
+            "district": 120
+          }
+        }
+      }
+    },
+    {
+      "id": "9abb2e20-c9c1-175e-4491-f4a59f30a7bf",
+      "source_key": "legislator:121",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 121",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 121,
+        "raw": {
+          "id": "legislator:121",
+          "node_type": "legislator",
+          "name": "Legislator 121",
+          "metadata": {
+            "party": "R",
+            "district": 121
+          }
+        }
+      }
+    },
+    {
+      "id": "0e51e8b4-af59-3ed3-2efc-f56a533b2a04",
+      "source_key": "legislator:122",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 122",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 122,
+        "raw": {
+          "id": "legislator:122",
+          "node_type": "legislator",
+          "name": "Legislator 122",
+          "metadata": {
+            "party": "D",
+            "district": 122
+          }
+        }
+      }
+    },
+    {
+      "id": "c5dfab81-0a10-9874-cdc1-596f323a0c08",
+      "source_key": "legislator:123",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 123",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 123,
+        "raw": {
+          "id": "legislator:123",
+          "node_type": "legislator",
+          "name": "Legislator 123",
+          "metadata": {
+            "party": "D",
+            "district": 123
+          }
+        }
+      }
+    },
+    {
+      "id": "e6e9b3a6-3639-3a95-e1c4-f7a324431ad8",
+      "source_key": "legislator:124",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 124",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 124,
+        "raw": {
+          "id": "legislator:124",
+          "node_type": "legislator",
+          "name": "Legislator 124",
+          "metadata": {
+            "party": "R",
+            "district": 124
+          }
+        }
+      }
+    },
+    {
+      "id": "99e38ef0-a68b-863c-ae82-a9cd5b7346ae",
+      "source_key": "legislator:125",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 125",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 125,
+        "raw": {
+          "id": "legislator:125",
+          "node_type": "legislator",
+          "name": "Legislator 125",
+          "metadata": {
+            "party": "D",
+            "district": 125
+          }
+        }
+      }
+    },
+    {
+      "id": "dc6ea6a6-3bfb-a731-e903-089000884211",
+      "source_key": "legislator:126",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 126",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "D",
+        "district": 126,
+        "raw": {
+          "id": "legislator:126",
+          "node_type": "legislator",
+          "name": "Legislator 126",
+          "metadata": {
+            "party": "D",
+            "district": 126
+          }
+        }
+      }
+    },
+    {
+      "id": "106221f3-c7fb-2d34-80c2-60402de01b07",
+      "source_key": "legislator:127",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 127",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 127,
+        "raw": {
+          "id": "legislator:127",
+          "node_type": "legislator",
+          "name": "Legislator 127",
+          "metadata": {
+            "party": "R",
+            "district": 127
+          }
+        }
+      }
+    },
+    {
+      "id": "afb6b21d-4341-d1d7-23ba-431bf479b1fd",
+      "source_key": "legislator:128",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 128",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 128,
+        "raw": {
+          "id": "legislator:128",
+          "node_type": "legislator",
+          "name": "Legislator 128",
+          "metadata": {
+            "party": "R",
+            "district": 128
+          }
+        }
+      }
+    },
+    {
+      "id": "0e43cc47-6946-36be-fd2e-04398d11309f",
+      "source_key": "legislator:129",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 129",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 129,
+        "raw": {
+          "id": "legislator:129",
+          "node_type": "legislator",
+          "name": "Legislator 129",
+          "metadata": {
+            "party": "R",
+            "district": 129
+          }
+        }
+      }
+    },
+    {
+      "id": "91b0eca3-75cc-c396-be0b-b9a058a74ea9",
+      "source_key": "legislator:130",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 130",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 130,
+        "raw": {
+          "id": "legislator:130",
+          "node_type": "legislator",
+          "name": "Legislator 130",
+          "metadata": {
+            "party": "R",
+            "district": 130
+          }
+        }
+      }
+    },
+    {
+      "id": "9f58b564-37cb-dd32-ea4d-98322b3ed929",
+      "source_key": "legislator:131",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 131",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 131,
+        "raw": {
+          "id": "legislator:131",
+          "node_type": "legislator",
+          "name": "Legislator 131",
+          "metadata": {
+            "party": "R",
+            "district": 131
+          }
+        }
+      }
+    },
+    {
+      "id": "ca08789d-a261-44c0-0524-867f8b084739",
+      "source_key": "legislator:132",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 132",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 132,
+        "raw": {
+          "id": "legislator:132",
+          "node_type": "legislator",
+          "name": "Legislator 132",
+          "metadata": {
+            "party": "R",
+            "district": 132
+          }
+        }
+      }
+    },
+    {
+      "id": "15130f64-fdd2-fb98-d09b-11cab7b8438c",
+      "source_key": "legislator:133",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 133",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 133,
+        "raw": {
+          "id": "legislator:133",
+          "node_type": "legislator",
+          "name": "Legislator 133",
+          "metadata": {
+            "party": "R",
+            "district": 133
+          }
+        }
+      }
+    },
+    {
+      "id": "870d7673-c87f-a527-7c7c-e1acb372b2a7",
+      "source_key": "legislator:134",
+      "jurisdiction": "arkansas",
+      "node_type": "legislator",
+      "name": "Legislator 134",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "party": "R",
+        "district": 134,
+        "raw": {
+          "id": "legislator:134",
+          "node_type": "legislator",
+          "name": "Legislator 134",
+          "metadata": {
+            "party": "R",
+            "district": 134
+          }
+        }
+      }
+    },
+    {
+      "id": "7830f73c-683d-8a9d-3f6d-e39ddf34ffd4",
+      "source_key": "policy:education",
+      "jurisdiction": "arkansas",
+      "node_type": "policy_area",
+      "name": "Education",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "policy:education",
+          "node_type": "policy_area",
+          "name": "Education",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "52e1e21a-518e-ec43-dbeb-59d7eb610431",
+      "source_key": "policy:healthcare",
+      "jurisdiction": "arkansas",
+      "node_type": "policy_area",
+      "name": "Healthcare",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "policy:healthcare",
+          "node_type": "policy_area",
+          "name": "Healthcare",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "4151233e-33a4-9810-3248-5f3fe13f923b",
+      "source_key": "policy:taxes",
+      "jurisdiction": "arkansas",
+      "node_type": "policy_area",
+      "name": "Taxes",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "policy:taxes",
+          "node_type": "policy_area",
+          "name": "Taxes",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "b6751473-dfcd-b2f0-3372-97dc2ee4ef4f",
+      "source_key": "policy:infrastructure",
+      "jurisdiction": "arkansas",
+      "node_type": "policy_area",
+      "name": "Infrastructure",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "policy:infrastructure",
+          "node_type": "policy_area",
+          "name": "Infrastructure",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "c6f86d89-cfa3-a0ae-6799-c1d329d7f359",
+      "source_key": "policy:energy",
+      "jurisdiction": "arkansas",
+      "node_type": "policy_area",
+      "name": "Energy",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "raw": {
+          "id": "policy:energy",
+          "node_type": "policy_area",
+          "name": "Energy",
+          "metadata": {}
+        }
+      }
+    },
+    {
+      "id": "c653f4d5-c900-2569-cfb6-e082717f7fa9",
+      "source_key": "bill:0",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB0",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 0",
+        "raw": {
+          "id": "bill:0",
+          "node_type": "bill",
+          "name": "HB0",
+          "metadata": {
+            "title": "Sample Bill 0"
+          }
+        }
+      }
+    },
+    {
+      "id": "4d6c223f-2c3b-33f1-daed-df306aa469a4",
+      "source_key": "bill:1",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB1",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 1",
+        "raw": {
+          "id": "bill:1",
+          "node_type": "bill",
+          "name": "HB1",
+          "metadata": {
+            "title": "Sample Bill 1"
+          }
+        }
+      }
+    },
+    {
+      "id": "decf8d07-2fa8-02b4-0dac-ceabf094ca3f",
+      "source_key": "bill:2",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB2",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 2",
+        "raw": {
+          "id": "bill:2",
+          "node_type": "bill",
+          "name": "HB2",
+          "metadata": {
+            "title": "Sample Bill 2"
+          }
+        }
+      }
+    },
+    {
+      "id": "0704229f-cc59-ac44-fef3-adbe3f1aa2e7",
+      "source_key": "bill:3",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB3",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 3",
+        "raw": {
+          "id": "bill:3",
+          "node_type": "bill",
+          "name": "HB3",
+          "metadata": {
+            "title": "Sample Bill 3"
+          }
+        }
+      }
+    },
+    {
+      "id": "edef9061-e555-1967-e833-1e7209969245",
+      "source_key": "bill:4",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB4",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 4",
+        "raw": {
+          "id": "bill:4",
+          "node_type": "bill",
+          "name": "HB4",
+          "metadata": {
+            "title": "Sample Bill 4"
+          }
+        }
+      }
+    },
+    {
+      "id": "8ecc94b5-716d-1261-9299-a5931f120b93",
+      "source_key": "bill:5",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB5",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 5",
+        "raw": {
+          "id": "bill:5",
+          "node_type": "bill",
+          "name": "HB5",
+          "metadata": {
+            "title": "Sample Bill 5"
+          }
+        }
+      }
+    },
+    {
+      "id": "999ebc2b-c371-2b62-4eff-870f70606a41",
+      "source_key": "bill:6",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB6",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 6",
+        "raw": {
+          "id": "bill:6",
+          "node_type": "bill",
+          "name": "HB6",
+          "metadata": {
+            "title": "Sample Bill 6"
+          }
+        }
+      }
+    },
+    {
+      "id": "75734d0c-8a55-5685-7109-4a854a8476ed",
+      "source_key": "bill:7",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB7",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 7",
+        "raw": {
+          "id": "bill:7",
+          "node_type": "bill",
+          "name": "HB7",
+          "metadata": {
+            "title": "Sample Bill 7"
+          }
+        }
+      }
+    },
+    {
+      "id": "efcd0e7c-395d-9981-e285-b327206eabb0",
+      "source_key": "bill:8",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB8",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 8",
+        "raw": {
+          "id": "bill:8",
+          "node_type": "bill",
+          "name": "HB8",
+          "metadata": {
+            "title": "Sample Bill 8"
+          }
+        }
+      }
+    },
+    {
+      "id": "b18358d8-9a5c-50f8-5c22-a344a2a47791",
+      "source_key": "bill:9",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB9",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 9",
+        "raw": {
+          "id": "bill:9",
+          "node_type": "bill",
+          "name": "HB9",
+          "metadata": {
+            "title": "Sample Bill 9"
+          }
+        }
+      }
+    },
+    {
+      "id": "73d986cb-49fc-c87b-9a5d-cbe9d6df099a",
+      "source_key": "bill:10",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB10",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 10",
+        "raw": {
+          "id": "bill:10",
+          "node_type": "bill",
+          "name": "HB10",
+          "metadata": {
+            "title": "Sample Bill 10"
+          }
+        }
+      }
+    },
+    {
+      "id": "5064136c-85a1-2d16-0e61-93186351484e",
+      "source_key": "bill:11",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB11",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 11",
+        "raw": {
+          "id": "bill:11",
+          "node_type": "bill",
+          "name": "HB11",
+          "metadata": {
+            "title": "Sample Bill 11"
+          }
+        }
+      }
+    },
+    {
+      "id": "325a3a7d-779f-56b9-6df1-ece06eca9bae",
+      "source_key": "bill:12",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB12",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 12",
+        "raw": {
+          "id": "bill:12",
+          "node_type": "bill",
+          "name": "HB12",
+          "metadata": {
+            "title": "Sample Bill 12"
+          }
+        }
+      }
+    },
+    {
+      "id": "adcbf922-91dc-5efd-87ff-e06838223d66",
+      "source_key": "bill:13",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB13",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 13",
+        "raw": {
+          "id": "bill:13",
+          "node_type": "bill",
+          "name": "HB13",
+          "metadata": {
+            "title": "Sample Bill 13"
+          }
+        }
+      }
+    },
+    {
+      "id": "1a43c786-fb1a-abe0-17ca-b00ca5941edd",
+      "source_key": "bill:14",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB14",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 14",
+        "raw": {
+          "id": "bill:14",
+          "node_type": "bill",
+          "name": "HB14",
+          "metadata": {
+            "title": "Sample Bill 14"
+          }
+        }
+      }
+    },
+    {
+      "id": "03f797ad-ec44-652f-8c01-880cf36f17d2",
+      "source_key": "bill:15",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB15",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 15",
+        "raw": {
+          "id": "bill:15",
+          "node_type": "bill",
+          "name": "HB15",
+          "metadata": {
+            "title": "Sample Bill 15"
+          }
+        }
+      }
+    },
+    {
+      "id": "2d749a2f-93ef-cd0c-4d95-dcdbc0f39a13",
+      "source_key": "bill:16",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB16",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 16",
+        "raw": {
+          "id": "bill:16",
+          "node_type": "bill",
+          "name": "HB16",
+          "metadata": {
+            "title": "Sample Bill 16"
+          }
+        }
+      }
+    },
+    {
+      "id": "6e0c9ff7-e04e-22f0-e9d0-94d02c038e67",
+      "source_key": "bill:17",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB17",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 17",
+        "raw": {
+          "id": "bill:17",
+          "node_type": "bill",
+          "name": "HB17",
+          "metadata": {
+            "title": "Sample Bill 17"
+          }
+        }
+      }
+    },
+    {
+      "id": "1fdeeb53-0f97-6d97-5308-4e5f0fce71de",
+      "source_key": "bill:18",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB18",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 18",
+        "raw": {
+          "id": "bill:18",
+          "node_type": "bill",
+          "name": "HB18",
+          "metadata": {
+            "title": "Sample Bill 18"
+          }
+        }
+      }
+    },
+    {
+      "id": "464eced2-f4a6-81e1-27f9-407f52c215c3",
+      "source_key": "bill:19",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB19",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 19",
+        "raw": {
+          "id": "bill:19",
+          "node_type": "bill",
+          "name": "HB19",
+          "metadata": {
+            "title": "Sample Bill 19"
+          }
+        }
+      }
+    },
+    {
+      "id": "85e9981e-1044-6e6a-fa1e-fad6ce0ddc51",
+      "source_key": "bill:20",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB20",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 20",
+        "raw": {
+          "id": "bill:20",
+          "node_type": "bill",
+          "name": "HB20",
+          "metadata": {
+            "title": "Sample Bill 20"
+          }
+        }
+      }
+    },
+    {
+      "id": "786641d0-48f6-e115-e358-a0ab100e247d",
+      "source_key": "bill:21",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB21",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 21",
+        "raw": {
+          "id": "bill:21",
+          "node_type": "bill",
+          "name": "HB21",
+          "metadata": {
+            "title": "Sample Bill 21"
+          }
+        }
+      }
+    },
+    {
+      "id": "cf814401-77d5-5b7d-7584-428e81f25288",
+      "source_key": "bill:22",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB22",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 22",
+        "raw": {
+          "id": "bill:22",
+          "node_type": "bill",
+          "name": "HB22",
+          "metadata": {
+            "title": "Sample Bill 22"
+          }
+        }
+      }
+    },
+    {
+      "id": "7a56c902-01f7-94d7-df1a-628749d03846",
+      "source_key": "bill:23",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB23",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 23",
+        "raw": {
+          "id": "bill:23",
+          "node_type": "bill",
+          "name": "HB23",
+          "metadata": {
+            "title": "Sample Bill 23"
+          }
+        }
+      }
+    },
+    {
+      "id": "0fc7e157-43be-7d2b-fd39-f690ed97dbe0",
+      "source_key": "bill:24",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB24",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 24",
+        "raw": {
+          "id": "bill:24",
+          "node_type": "bill",
+          "name": "HB24",
+          "metadata": {
+            "title": "Sample Bill 24"
+          }
+        }
+      }
+    },
+    {
+      "id": "a515e325-891b-fb88-72a3-ad83993484dd",
+      "source_key": "bill:25",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB25",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 25",
+        "raw": {
+          "id": "bill:25",
+          "node_type": "bill",
+          "name": "HB25",
+          "metadata": {
+            "title": "Sample Bill 25"
+          }
+        }
+      }
+    },
+    {
+      "id": "35eae9dc-ef3e-bb3b-b4d1-f40a0c025e1c",
+      "source_key": "bill:26",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB26",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 26",
+        "raw": {
+          "id": "bill:26",
+          "node_type": "bill",
+          "name": "HB26",
+          "metadata": {
+            "title": "Sample Bill 26"
+          }
+        }
+      }
+    },
+    {
+      "id": "a76838b1-9d18-69ef-84b8-a005c7c3b398",
+      "source_key": "bill:27",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB27",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 27",
+        "raw": {
+          "id": "bill:27",
+          "node_type": "bill",
+          "name": "HB27",
+          "metadata": {
+            "title": "Sample Bill 27"
+          }
+        }
+      }
+    },
+    {
+      "id": "ab30d8e1-378e-afdd-fcf4-1487ffa2dea6",
+      "source_key": "bill:28",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB28",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 28",
+        "raw": {
+          "id": "bill:28",
+          "node_type": "bill",
+          "name": "HB28",
+          "metadata": {
+            "title": "Sample Bill 28"
+          }
+        }
+      }
+    },
+    {
+      "id": "d5158fff-7616-e335-b3f5-0e8cfb888e6e",
+      "source_key": "bill:29",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB29",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 29",
+        "raw": {
+          "id": "bill:29",
+          "node_type": "bill",
+          "name": "HB29",
+          "metadata": {
+            "title": "Sample Bill 29"
+          }
+        }
+      }
+    },
+    {
+      "id": "89c94d77-5417-6929-e3b8-57d7e7eb58f3",
+      "source_key": "bill:30",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB30",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 30",
+        "raw": {
+          "id": "bill:30",
+          "node_type": "bill",
+          "name": "HB30",
+          "metadata": {
+            "title": "Sample Bill 30"
+          }
+        }
+      }
+    },
+    {
+      "id": "0db7022a-c150-8320-553c-3230bec776b6",
+      "source_key": "bill:31",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB31",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 31",
+        "raw": {
+          "id": "bill:31",
+          "node_type": "bill",
+          "name": "HB31",
+          "metadata": {
+            "title": "Sample Bill 31"
+          }
+        }
+      }
+    },
+    {
+      "id": "4d8416ab-264f-c0b0-4c88-068f5b0191aa",
+      "source_key": "bill:32",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB32",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 32",
+        "raw": {
+          "id": "bill:32",
+          "node_type": "bill",
+          "name": "HB32",
+          "metadata": {
+            "title": "Sample Bill 32"
+          }
+        }
+      }
+    },
+    {
+      "id": "96ed03a5-56de-9c70-fd9c-de71fd4989f6",
+      "source_key": "bill:33",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB33",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 33",
+        "raw": {
+          "id": "bill:33",
+          "node_type": "bill",
+          "name": "HB33",
+          "metadata": {
+            "title": "Sample Bill 33"
+          }
+        }
+      }
+    },
+    {
+      "id": "54cf1502-d7f4-0c9b-0e67-2cbe3c16ae44",
+      "source_key": "bill:34",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB34",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 34",
+        "raw": {
+          "id": "bill:34",
+          "node_type": "bill",
+          "name": "HB34",
+          "metadata": {
+            "title": "Sample Bill 34"
+          }
+        }
+      }
+    },
+    {
+      "id": "cdc45d84-0ab4-546d-6a5d-febb87f8fbf8",
+      "source_key": "bill:35",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB35",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 35",
+        "raw": {
+          "id": "bill:35",
+          "node_type": "bill",
+          "name": "HB35",
+          "metadata": {
+            "title": "Sample Bill 35"
+          }
+        }
+      }
+    },
+    {
+      "id": "5c693963-46b2-a830-4cfa-a4e08b01ee1d",
+      "source_key": "bill:36",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB36",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 36",
+        "raw": {
+          "id": "bill:36",
+          "node_type": "bill",
+          "name": "HB36",
+          "metadata": {
+            "title": "Sample Bill 36"
+          }
+        }
+      }
+    },
+    {
+      "id": "0d4c3876-a84c-8161-28a8-d4a6f514d238",
+      "source_key": "bill:37",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB37",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 37",
+        "raw": {
+          "id": "bill:37",
+          "node_type": "bill",
+          "name": "HB37",
+          "metadata": {
+            "title": "Sample Bill 37"
+          }
+        }
+      }
+    },
+    {
+      "id": "32d04616-45bc-b5ea-2780-334b632b53f2",
+      "source_key": "bill:38",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB38",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 38",
+        "raw": {
+          "id": "bill:38",
+          "node_type": "bill",
+          "name": "HB38",
+          "metadata": {
+            "title": "Sample Bill 38"
+          }
+        }
+      }
+    },
+    {
+      "id": "0d8576ae-9488-696e-45dc-549134776166",
+      "source_key": "bill:39",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB39",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 39",
+        "raw": {
+          "id": "bill:39",
+          "node_type": "bill",
+          "name": "HB39",
+          "metadata": {
+            "title": "Sample Bill 39"
+          }
+        }
+      }
+    },
+    {
+      "id": "2ed9368f-c934-efa7-bf6e-38c82a7bf919",
+      "source_key": "bill:40",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB40",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 40",
+        "raw": {
+          "id": "bill:40",
+          "node_type": "bill",
+          "name": "HB40",
+          "metadata": {
+            "title": "Sample Bill 40"
+          }
+        }
+      }
+    },
+    {
+      "id": "6168a743-779a-4d90-15cd-cb9a46708db4",
+      "source_key": "bill:41",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB41",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 41",
+        "raw": {
+          "id": "bill:41",
+          "node_type": "bill",
+          "name": "HB41",
+          "metadata": {
+            "title": "Sample Bill 41"
+          }
+        }
+      }
+    },
+    {
+      "id": "9ec49e87-07ed-6296-3098-dfea8f5956b2",
+      "source_key": "bill:42",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB42",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 42",
+        "raw": {
+          "id": "bill:42",
+          "node_type": "bill",
+          "name": "HB42",
+          "metadata": {
+            "title": "Sample Bill 42"
+          }
+        }
+      }
+    },
+    {
+      "id": "e29198a9-61d5-4544-9751-6a9bd4422d34",
+      "source_key": "bill:43",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB43",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 43",
+        "raw": {
+          "id": "bill:43",
+          "node_type": "bill",
+          "name": "HB43",
+          "metadata": {
+            "title": "Sample Bill 43"
+          }
+        }
+      }
+    },
+    {
+      "id": "d8475575-8eab-4aa2-532f-fc2d7a1bfc08",
+      "source_key": "bill:44",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB44",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 44",
+        "raw": {
+          "id": "bill:44",
+          "node_type": "bill",
+          "name": "HB44",
+          "metadata": {
+            "title": "Sample Bill 44"
+          }
+        }
+      }
+    },
+    {
+      "id": "0e38e222-6db6-9511-03d7-6105a438634a",
+      "source_key": "bill:45",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB45",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 45",
+        "raw": {
+          "id": "bill:45",
+          "node_type": "bill",
+          "name": "HB45",
+          "metadata": {
+            "title": "Sample Bill 45"
+          }
+        }
+      }
+    },
+    {
+      "id": "89d10bf0-5bcf-b253-da47-46cf1c8d94f3",
+      "source_key": "bill:46",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB46",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 46",
+        "raw": {
+          "id": "bill:46",
+          "node_type": "bill",
+          "name": "HB46",
+          "metadata": {
+            "title": "Sample Bill 46"
+          }
+        }
+      }
+    },
+    {
+      "id": "161a577b-2ee2-5f10-eea4-56fce79399bc",
+      "source_key": "bill:47",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB47",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 47",
+        "raw": {
+          "id": "bill:47",
+          "node_type": "bill",
+          "name": "HB47",
+          "metadata": {
+            "title": "Sample Bill 47"
+          }
+        }
+      }
+    },
+    {
+      "id": "d299bfe1-6041-4229-15ae-2b39d723d796",
+      "source_key": "bill:48",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB48",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 48",
+        "raw": {
+          "id": "bill:48",
+          "node_type": "bill",
+          "name": "HB48",
+          "metadata": {
+            "title": "Sample Bill 48"
+          }
+        }
+      }
+    },
+    {
+      "id": "8ceec624-940a-373f-ea37-83991a8be5f5",
+      "source_key": "bill:49",
+      "jurisdiction": "arkansas",
+      "node_type": "bill",
+      "name": "HB49",
+      "county": null,
+      "district": null,
+      "chamber": null,
+      "metadata": {
+        "title": "Sample Bill 49",
+        "raw": {
+          "id": "bill:49",
+          "node_type": "bill",
+          "name": "HB49",
+          "metadata": {
+            "title": "Sample Bill 49"
+          }
+        }
+      }
+    }
+  ],
+  "count": 211
+}

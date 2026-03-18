@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-03-18T15:06:30.168394+00:00",
+  "engine": "progress_registry",
+  "database_connected": false,
+  "summary": {
+    "learner_count": 0,
+    "learning_hours_total": 0.0,
+    "civic_action_hours_total": 0.0,
+    "approved_action_hours_total": 0.0,
+    "badge_count_total": 0,
+    "certification_count_total": 0,
+    "completed_course_count_total": 0
+  },
+  "learners": []
+}

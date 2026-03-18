@@ -20,19 +20,19 @@ def section(title: str) -> None:
 
 
 def info(msg: str) -> None:
-    print(f"ℹ {msg}")
+    print(f"[INFO] {msg}")
 
 
 def warn(msg: str) -> None:
-    print(f"⚠ {msg}")
+    print(f"[WARN] {msg}")
 
 
 def success(msg: str) -> None:
-    print(f"✔ {msg}")
+    print(f"[OK] {msg}")
 
 
 def fail(msg: str) -> None:
-    print(f"\n❌ {msg}\n")
+    print(f"\n[ERROR] {msg}\n")
     sys.exit(1)
 
 
@@ -42,7 +42,7 @@ def run_script(script_name: str) -> None:
         warn(f"Script not found: {script_name}")
         return
     start = datetime.now()
-    print(f"\n▶ Running {script_name}\n")
+    print(f"\n> Running {script_name}\n")
     try:
         subprocess.run([sys.executable, str(script_path)], check=True)
         duration = (datetime.now() - start).total_seconds()
@@ -73,10 +73,16 @@ def refresh_dashboard_manifest() -> None:
     print(manifest_path)
 
 
-def export_kernel_snapshot() -> None:
+def export_kernel_artifacts() -> None:
     snapshot_path = KERNEL.export_system_snapshot()
+    runtime_manifest_path = KERNEL.export_runtime_manifest()
+    health_report_path = KERNEL.export_health_report()
     success("Kernel system snapshot written")
     print(snapshot_path)
+    success("Kernel runtime manifest written")
+    print(runtime_manifest_path)
+    success("Kernel health report written")
+    print(health_report_path)
 
 
 def check_civic_library() -> None:
@@ -144,7 +150,7 @@ def main() -> None:
     print(ROOT)
     print()
 
-    section("STEP 0 — Platform Kernel Validation")
+    section("STEP 0 - Platform Kernel Validation")
     try:
         KERNEL.assert_core_paths()
         success("Core platform paths detected")
@@ -152,49 +158,54 @@ def main() -> None:
         fail(f"Kernel path validation failed:\n{exc}")
     validate_platform_structure()
 
+    section("STEP 0B - Platform Health")
+    health = KERNEL.get_health_report()
+    info(f"Environment: {health.get('environment')}")
+    info(f"Health status: {health.get('status')}")
+
     if args.with_scaffold:
-        section("OPTIONAL — Refreshing Dashboard Scaffold")
+        section("OPTIONAL - Refreshing Dashboard Scaffold")
         run_script("editor_dashboard_generator.py")
     else:
         print("Skipping scaffold refresh (safe mode). Use --with-scaffold to rebuild dashboard templates.\n")
 
-    section("STEP 1 — Building Book Manuscript")
+    section("STEP 1 - Building Book Manuscript")
     run_script("build_book.py")
 
-    section("STEP 2 — Building Course Export Packages")
+    section("STEP 2 - Building Course Export Packages")
     run_script("build_course_exports.py")
 
-    section("STEP 3 — Building Internal Course Engine")
+    section("STEP 3 - Building Internal Course Engine")
     run_script("build_course_engine.py")
 
-    section("STEP 4 — Building Lesson Player")
+    section("STEP 4 - Building Lesson Player")
     run_script("build_lesson_player.py")
 
-    section("STEP 5 — Building Civic Intelligence Map")
+    section("STEP 5 - Building Civic Intelligence Map")
     run_script("build_civic_intelligence_map.py")
 
-    section("STEP 6 — Building Knowledge Graph")
+    section("STEP 6 - Building Knowledge Graph")
     run_script("build_knowledge_graph.py")
 
-    section("STEP 7 — Generating Reader Website")
+    section("STEP 7 - Generating Reader Website")
     run_script("generate_reader_site.py")
 
-    section("STEP 8 — Syncing Editor Dashboard Content")
+    section("STEP 8 - Syncing Editor Dashboard Content")
     run_script("copy_dashboard_content.py")
 
-    section("STEP 9 — Refreshing Kernel Dashboard Manifest")
+    section("STEP 9 - Refreshing Kernel Dashboard Manifest")
     refresh_dashboard_manifest()
 
-    section("STEP 10 — Exporting Platform Snapshot")
-    export_kernel_snapshot()
+    section("STEP 10 - Exporting Platform Kernel Artifacts")
+    export_kernel_artifacts()
 
-    section("STEP 11 — Validating Civic Knowledge Library")
+    section("STEP 11 - Validating Civic Knowledge Library")
     check_civic_library()
 
-    section("STEP 12 — Database Schema")
+    section("STEP 12 - Database Schema")
     check_database_schema()
 
-    section("STEP 13 — Dashboard Environment")
+    section("STEP 13 - Dashboard Environment")
     check_dashboard_environment()
 
     duration = (datetime.now() - start).total_seconds()

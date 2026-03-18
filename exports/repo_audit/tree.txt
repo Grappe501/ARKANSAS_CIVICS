@@ -1382,81 +1382,314 @@ ARKANSAS_CIVICS
 │   │   │   └── save-segment.js
 │   │   ├── app.js
 │   │   ├── autonomous-course-panel.html
+│   │   ├── civic-intelligence-dashboard.css
+│   │   ├── civic-intelligence-dashboard.html
+│   │   ├── civic-intelligence-dashboard.js
+│   │   ├── civic-intelligence-map.js
 │   │   ├── content-manifest.json
+│   │   ├── course-engine-viewer.js
 │   │   ├── generate-course.js
 │   │   ├── index.html
+│   │   ├── knowledge-graph-viewer.js
+│   │   ├── learning-runtime-viewer.js
+│   │   ├── lesson-player.js
 │   │   ├── README.md
-│   │   └── styles.css
+│   │   ├── styles.css
+│   │   └── track-engine-viewer.js
 │   └── web-reader
 │       ├── README.md
 │       └── site_map.md
-├── arkansas_civics_engine
-│   ├── config
-│   │   ├── master_spine.yaml
-│   │   └── project.yaml
-│   ├── content
-│   │   └── courses
-│   │       └── course_01_civic_awakening
-│   │           ├── chapter_01_pulling_up_more_chairs
-│   │           │   └── segments
-│   │           │       ├── 01_opening_scene.md
-│   │           │       ├── 02_the_empty_room.md
-│   │           │       ├── 03_the_quiet_civic_crisis.md
-│   │           │       └── 04_pull_up_more_chairs.md
-│   │           ├── chapter_02_how_power_works
-│   │           │   └── segments
-│   │           │       ├── 01_where_power_lives.md
-│   │           │       ├── 02_local_government_power.md
-│   │           │       ├── 03_direct_democracy.md
-│   │           │       └── 04_the_arkansas_civic_power_map.md
-│   │           ├── chapter_03_arkansas_civic_story
-│   │           │   └── segments
-│   │           │       ├── 01_populists_and_farmers.md
-│   │           │       ├── 02_elaine_massacre.md
-│   │           │       ├── 03_labor_unions_right_to_work.md
-│   │           │       └── 04_modern_civic_awakening.md
-│   │           └── chapter_04_tools_citizens_have
-│   │               └── segments
-│   │                   ├── 01_ballot_initiatives_and_referendums.md
-│   │                   ├── 02_voting_systems.md
-│   │                   ├── 03_at_large_and_jim_crow.md
-│   │                   └── 04_from_tools_to_movements.md
-│   ├── db
-│   │   └── schema.sql
-│   ├── docs
-│   │   └── full_suite_considerations.md
-│   ├── engine
-│   │   ├── __init__.py
-│   │   ├── builders.py
-│   │   └── utils.py
-│   ├── exports
-│   │   ├── book
-│   │   │   └── compiled_book.md
-│   │   ├── course
-│   │   │   └── course_manifest.json
-│   │   ├── facilitator
-│   │   │   └── facilitator_guide.md
-│   │   ├── website
-│   │   │   └── reader_manifest.json
-│   │   ├── workbook
-│   │   │   └── participant_workbook.md
-│   │   └── workshop
-│   │       └── live_workshop_guide.md
-│   ├── scripts
-│   │   ├── build_all.py
-│   │   └── watch_notes.md
-│   ├── templates
-│   │   └── segment_template.md
-│   ├── tests
-│   ├── README.md
-│   └── requirements.txt
-├── backups
-│   └── dashboard_generator
-│       ├── editor_dashboard_generator_20260316_234229.py
-│       └── editor_dashboard_generator_20260316_234324.py
+├── archive
+│   ├── arkansas_civics_engine
+│   │   ├── config
+│   │   │   ├── master_spine.yaml
+│   │   │   └── project.yaml
+│   │   ├── content
+│   │   │   └── courses
+│   │   │       └── course_01_civic_awakening
+│   │   │           ├── chapter_01_pulling_up_more_chairs
+│   │   │           │   └── segments
+│   │   │           │       ├── 01_opening_scene.md
+│   │   │           │       ├── 02_the_empty_room.md
+│   │   │           │       ├── 03_the_quiet_civic_crisis.md
+│   │   │           │       └── 04_pull_up_more_chairs.md
+│   │   │           ├── chapter_02_how_power_works
+│   │   │           │   └── segments
+│   │   │           │       ├── 01_where_power_lives.md
+│   │   │           │       ├── 02_local_government_power.md
+│   │   │           │       ├── 03_direct_democracy.md
+│   │   │           │       └── 04_the_arkansas_civic_power_map.md
+│   │   │           ├── chapter_03_arkansas_civic_story
+│   │   │           │   └── segments
+│   │   │           │       ├── 01_populists_and_farmers.md
+│   │   │           │       ├── 02_elaine_massacre.md
+│   │   │           │       ├── 03_labor_unions_right_to_work.md
+│   │   │           │       └── 04_modern_civic_awakening.md
+│   │   │           └── chapter_04_tools_citizens_have
+│   │   │               └── segments
+│   │   │                   ├── 01_ballot_initiatives_and_referendums.md
+│   │   │                   ├── 02_voting_systems.md
+│   │   │                   ├── 03_at_large_and_jim_crow.md
+│   │   │                   └── 04_from_tools_to_movements.md
+│   │   ├── db
+│   │   │   └── schema.sql
+│   │   ├── docs
+│   │   │   └── full_suite_considerations.md
+│   │   ├── engine
+│   │   │   ├── __init__.py
+│   │   │   ├── builders.py
+│   │   │   └── utils.py
+│   │   ├── exports
+│   │   │   ├── book
+│   │   │   │   └── compiled_book.md
+│   │   │   ├── course
+│   │   │   │   └── course_manifest.json
+│   │   │   ├── facilitator
+│   │   │   │   └── facilitator_guide.md
+│   │   │   ├── website
+│   │   │   │   └── reader_manifest.json
+│   │   │   ├── workbook
+│   │   │   │   └── participant_workbook.md
+│   │   │   └── workshop
+│   │   │       └── live_workshop_guide.md
+│   │   ├── scripts
+│   │   │   ├── build_all.py
+│   │   │   └── watch_notes.md
+│   │   ├── templates
+│   │   │   └── segment_template.md
+│   │   ├── tests
+│   │   ├── README.md
+│   │   └── requirements.txt
+│   ├── backups
+│   │   └── dashboard_generator
+│   │       ├── editor_dashboard_generator_20260316_234229.py
+│   │       └── editor_dashboard_generator_20260316_234324.py
+│   ├── engine_update
+│   │   └── arkansas_civics_engine
+│   │       ├── config
+│   │       │   ├── master_spine.yaml
+│   │       │   └── project.yaml
+│   │       ├── content
+│   │       │   └── courses
+│   │       │       └── course_01_civic_awakening
+│   │       │           ├── chapter_01_pulling_up_more_chairs
+│   │       │           │   └── segments
+│   │       │           │       ├── 01_opening_scene.md
+│   │       │           │       ├── 02_the_empty_room.md
+│   │       │           │       ├── 03_the_quiet_civic_crisis.md
+│   │       │           │       └── 04_pull_up_more_chairs.md
+│   │       │           ├── chapter_02_how_power_works
+│   │       │           │   └── segments
+│   │       │           │       ├── 01_where_power_lives.md
+│   │       │           │       ├── 02_local_government_power.md
+│   │       │           │       ├── 03_direct_democracy.md
+│   │       │           │       └── 04_the_arkansas_civic_power_map.md
+│   │       │           ├── chapter_03_arkansas_civic_story
+│   │       │           │   └── segments
+│   │       │           │       ├── 01_populists_and_farmers.md
+│   │       │           │       ├── 02_elaine_massacre.md
+│   │       │           │       ├── 03_labor_unions_right_to_work.md
+│   │       │           │       └── 04_modern_civic_awakening.md
+│   │       │           └── chapter_04_tools_citizens_have
+│   │       │               └── segments
+│   │       │                   ├── 01_ballot_initiatives_and_referendums.md
+│   │       │                   ├── 02_voting_systems.md
+│   │       │                   ├── 03_at_large_and_jim_crow.md
+│   │       │                   └── 04_from_tools_to_movements.md
+│   │       ├── db
+│   │       │   └── schema.sql
+│   │       ├── docs
+│   │       │   └── full_suite_considerations.md
+│   │       ├── engine
+│   │       │   ├── __init__.py
+│   │       │   ├── builders.py
+│   │       │   └── utils.py
+│   │       ├── exports
+│   │       │   ├── book
+│   │       │   │   └── compiled_book.md
+│   │       │   ├── course
+│   │       │   │   └── course_manifest.json
+│   │       │   ├── facilitator
+│   │       │   │   └── facilitator_guide.md
+│   │       │   ├── website
+│   │       │   │   └── reader_manifest.json
+│   │       │   ├── workbook
+│   │       │   │   └── participant_workbook.md
+│   │       │   └── workshop
+│   │       │       └── live_workshop_guide.md
+│   │       ├── scripts
+│   │       │   ├── build_all.py
+│   │       │   └── watch_notes.md
+│   │       ├── templates
+│   │       │   └── segment_template.md
+│   │       ├── tests
+│   │       ├── README.md
+│   │       └── requirements.txt
+│   ├── pre_cleanup_backup_20260317_190631
+│   │   ├── arkansas_civics_engine
+│   │   │   ├── config
+│   │   │   │   ├── master_spine.yaml
+│   │   │   │   └── project.yaml
+│   │   │   ├── content
+│   │   │   │   └── courses
+│   │   │   │       └── course_01_civic_awakening
+│   │   │   │           ├── chapter_01_pulling_up_more_chairs
+│   │   │   │           │   └── segments
+│   │   │   │           │       ├── 01_opening_scene.md
+│   │   │   │           │       ├── 02_the_empty_room.md
+│   │   │   │           │       ├── 03_the_quiet_civic_crisis.md
+│   │   │   │           │       └── 04_pull_up_more_chairs.md
+│   │   │   │           ├── chapter_02_how_power_works
+│   │   │   │           │   └── segments
+│   │   │   │           │       ├── 01_where_power_lives.md
+│   │   │   │           │       ├── 02_local_government_power.md
+│   │   │   │           │       ├── 03_direct_democracy.md
+│   │   │   │           │       └── 04_the_arkansas_civic_power_map.md
+│   │   │   │           ├── chapter_03_arkansas_civic_story
+│   │   │   │           │   └── segments
+│   │   │   │           │       ├── 01_populists_and_farmers.md
+│   │   │   │           │       ├── 02_elaine_massacre.md
+│   │   │   │           │       ├── 03_labor_unions_right_to_work.md
+│   │   │   │           │       └── 04_modern_civic_awakening.md
+│   │   │   │           └── chapter_04_tools_citizens_have
+│   │   │   │               └── segments
+│   │   │   │                   ├── 01_ballot_initiatives_and_referendums.md
+│   │   │   │                   ├── 02_voting_systems.md
+│   │   │   │                   ├── 03_at_large_and_jim_crow.md
+│   │   │   │                   └── 04_from_tools_to_movements.md
+│   │   │   ├── db
+│   │   │   │   └── schema.sql
+│   │   │   ├── docs
+│   │   │   │   └── full_suite_considerations.md
+│   │   │   ├── engine
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── builders.py
+│   │   │   │   └── utils.py
+│   │   │   ├── exports
+│   │   │   │   ├── book
+│   │   │   │   │   └── compiled_book.md
+│   │   │   │   ├── course
+│   │   │   │   │   └── course_manifest.json
+│   │   │   │   ├── facilitator
+│   │   │   │   │   └── facilitator_guide.md
+│   │   │   │   ├── website
+│   │   │   │   │   └── reader_manifest.json
+│   │   │   │   ├── workbook
+│   │   │   │   │   └── participant_workbook.md
+│   │   │   │   └── workshop
+│   │   │   │       └── live_workshop_guide.md
+│   │   │   ├── scripts
+│   │   │   │   ├── build_all.py
+│   │   │   │   └── watch_notes.md
+│   │   │   ├── templates
+│   │   │   │   └── segment_template.md
+│   │   │   ├── tests
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── backups
+│   │   │   └── dashboard_generator
+│   │   │       ├── editor_dashboard_generator_20260316_234229.py
+│   │   │       └── editor_dashboard_generator_20260316_234324.py
+│   │   ├── engine_update
+│   │   │   └── arkansas_civics_engine
+│   │   │       ├── config
+│   │   │       │   ├── master_spine.yaml
+│   │   │       │   └── project.yaml
+│   │   │       ├── content
+│   │   │       │   └── courses
+│   │   │       │       └── course_01_civic_awakening
+│   │   │       │           ├── chapter_01_pulling_up_more_chairs
+│   │   │       │           │   └── segments
+│   │   │       │           │       ├── 01_opening_scene.md
+│   │   │       │           │       ├── 02_the_empty_room.md
+│   │   │       │           │       ├── 03_the_quiet_civic_crisis.md
+│   │   │       │           │       └── 04_pull_up_more_chairs.md
+│   │   │       │           ├── chapter_02_how_power_works
+│   │   │       │           │   └── segments
+│   │   │       │           │       ├── 01_where_power_lives.md
+│   │   │       │           │       ├── 02_local_government_power.md
+│   │   │       │           │       ├── 03_direct_democracy.md
+│   │   │       │           │       └── 04_the_arkansas_civic_power_map.md
+│   │   │       │           ├── chapter_03_arkansas_civic_story
+│   │   │       │           │   └── segments
+│   │   │       │           │       ├── 01_populists_and_farmers.md
+│   │   │       │           │       ├── 02_elaine_massacre.md
+│   │   │       │           │       ├── 03_labor_unions_right_to_work.md
+│   │   │       │           │       └── 04_modern_civic_awakening.md
+│   │   │       │           └── chapter_04_tools_citizens_have
+│   │   │       │               └── segments
+│   │   │       │                   ├── 01_ballot_initiatives_and_referendums.md
+│   │   │       │                   ├── 02_voting_systems.md
+│   │   │       │                   ├── 03_at_large_and_jim_crow.md
+│   │   │       │                   └── 04_from_tools_to_movements.md
+│   │   │       ├── db
+│   │   │       │   └── schema.sql
+│   │   │       ├── docs
+│   │   │       │   └── full_suite_considerations.md
+│   │   │       ├── engine
+│   │   │       │   ├── __init__.py
+│   │   │       │   ├── builders.py
+│   │   │       │   └── utils.py
+│   │   │       ├── exports
+│   │   │       │   ├── book
+│   │   │       │   │   └── compiled_book.md
+│   │   │       │   ├── course
+│   │   │       │   │   └── course_manifest.json
+│   │   │       │   ├── facilitator
+│   │   │       │   │   └── facilitator_guide.md
+│   │   │       │   ├── website
+│   │   │       │   │   └── reader_manifest.json
+│   │   │       │   ├── workbook
+│   │   │       │   │   └── participant_workbook.md
+│   │   │       │   └── workshop
+│   │   │       │       └── live_workshop_guide.md
+│   │   │       ├── scripts
+│   │   │       │   ├── build_all.py
+│   │   │       │   └── watch_notes.md
+│   │   │       ├── templates
+│   │   │       │   └── segment_template.md
+│   │   │       ├── tests
+│   │   │       ├── README.md
+│   │   │       └── requirements.txt
+│   │   ├── generate_autonomous_civic_course.py
+│   │   ├── generate_chapter_context.py
+│   │   ├── generate_civic_data_layer.py
+│   │   ├── generate_course_factory_suite.py
+│   │   ├── generate_course_plans.py
+│   │   ├── generate_curriculum_intelligence_layer.py
+│   │   ├── generate_full_course_factory.py
+│   │   ├── generate_reader_site.py
+│   │   ├── generate_scorm_course.py
+│   │   ├── scaffold_everything.py
+│   │   ├── scaffold_upgrade.py
+│   │   ├── seed_chapter_01.py
+│   │   ├── seed_chapter_02.py
+│   │   ├── seed_chapter_03.py
+│   │   └── seed_chapter_04.py
+│   ├── generate_autonomous_civic_course.py
+│   ├── generate_chapter_context.py
+│   ├── generate_civic_data_layer.py
+│   ├── generate_course_factory_suite.py
+│   ├── generate_course_plans.py
+│   ├── generate_curriculum_intelligence_layer.py
+│   ├── generate_full_course_factory.py
+│   ├── generate_scorm_course.py
+│   ├── scaffold_everything.py
+│   ├── scaffold_upgrade.py
+│   ├── seed_chapter_01.py
+│   ├── seed_chapter_02.py
+│   ├── seed_chapter_03.py
+│   └── seed_chapter_04.py
 ├── config
 │   ├── api_strategy.md
-│   └── master_spine.json
+│   ├── certification_tiers.json
+│   ├── database.json
+│   ├── graph_expansion_sources.json
+│   ├── kernel.defaults.json
+│   ├── kernel.local.json
+│   ├── kernel.production.json
+│   ├── master_spine.json
+│   └── roles.json
 ├── content
 │   ├── courses
 │   │   ├── course_01_civic_awakening
@@ -3105,6 +3338,10 @@ ARKANSAS_CIVICS
 │       └── timelines
 │           └── arkansas_civic_engagement_timeline_1870_2025.md
 ├── data
+│   ├── analytics
+│   │   ├── admin
+│   │   │   └── learning_admin_snapshot.json
+│   │   └── learners
 │   ├── civic_library
 │   │   ├── ballot_initiatives
 │   │   │   ├── 1910_amendment_7_direct_democracy.yaml
@@ -3131,8 +3368,24 @@ ARKANSAS_CIVICS
 │   │   │   ├── at_large_voting.yaml
 │   │   │   └── ranked_choice_voting.yaml
 │   │   └── README.md
+│   ├── civic_processed
+│   │   └── civic_intelligence_output.json
+│   ├── civic_sources
+│   │   ├── committees
+│   │   ├── donors
+│   │   ├── legislators
+│   │   └── policy_impacts
+│   ├── identity
+│   │   └── learners
 │   ├── processed
-│   └── raw
+│   ├── raw
+│   └── registry
+│       └── learners
+├── database
+│   ├── migrations
+│   │   └── 001_initial_schema.sql
+│   └── schema
+│       └── core_schema.sql
 ├── db
 │   ├── migrations
 │   └── seeds
@@ -3165,8 +3418,14 @@ ARKANSAS_CIVICS
 │   │   ├── course_11_the_reader_becomes_the_organizer_plan.md
 │   │   ├── course_12_sustaining_movements_plan.md
 │   │   └── course_12_sustaining_the_ecosystem_plan.md
+│   ├── CIVIC_INTELLIGENCE_SYSTEM_INSTALL.md
 │   ├── database_driven_strategy.md
-│   └── master_spine.md
+│   ├── master_spine.md
+│   ├── PHASE_01_CORE_KERNEL_STABILIZATION_INSTALL.md
+│   ├── PHASE_02_INSTALL.md
+│   ├── PHASE_03_PROGRESS_CREDENTIALS_INSTALL.md
+│   ├── PHASE_04_DATABASE_LAYER.md
+│   └── PHASE_06_CIVIC_KNOWLEDGE_GRAPH_EXPANSION_INSTALL.md
 ├── engine
 │   ├── dashboard_templates
 │   │   ├── functions
@@ -3179,71 +3438,50 @@ ARKANSAS_CIVICS
 │   │   ├── index.html
 │   │   ├── README.md
 │   │   └── styles.css
+│   ├── graph_expanders
+│   │   ├── committee_power_expander.py
+│   │   ├── donor_influence_expander.py
+│   │   ├── legislator_graph_expander.py
+│   │   └── policy_impact_expander.py
+│   ├── ingestors
+│   │   ├── hearing_ingestor.py
+│   │   ├── legislation_ingestor.py
+│   │   └── pdf_ingestor.py
 │   ├── __init__.py
 │   ├── ai_assistant.py
-│   └── library_loader.py
-├── engine_update
-│   └── arkansas_civics_engine
-│       ├── config
-│       │   ├── master_spine.yaml
-│       │   └── project.yaml
-│       ├── content
-│       │   └── courses
-│       │       └── course_01_civic_awakening
-│       │           ├── chapter_01_pulling_up_more_chairs
-│       │           │   └── segments
-│       │           │       ├── 01_opening_scene.md
-│       │           │       ├── 02_the_empty_room.md
-│       │           │       ├── 03_the_quiet_civic_crisis.md
-│       │           │       └── 04_pull_up_more_chairs.md
-│       │           ├── chapter_02_how_power_works
-│       │           │   └── segments
-│       │           │       ├── 01_where_power_lives.md
-│       │           │       ├── 02_local_government_power.md
-│       │           │       ├── 03_direct_democracy.md
-│       │           │       └── 04_the_arkansas_civic_power_map.md
-│       │           ├── chapter_03_arkansas_civic_story
-│       │           │   └── segments
-│       │           │       ├── 01_populists_and_farmers.md
-│       │           │       ├── 02_elaine_massacre.md
-│       │           │       ├── 03_labor_unions_right_to_work.md
-│       │           │       └── 04_modern_civic_awakening.md
-│       │           └── chapter_04_tools_citizens_have
-│       │               └── segments
-│       │                   ├── 01_ballot_initiatives_and_referendums.md
-│       │                   ├── 02_voting_systems.md
-│       │                   ├── 03_at_large_and_jim_crow.md
-│       │                   └── 04_from_tools_to_movements.md
-│       ├── db
-│       │   └── schema.sql
-│       ├── docs
-│       │   └── full_suite_considerations.md
-│       ├── engine
-│       │   ├── __init__.py
-│       │   ├── builders.py
-│       │   └── utils.py
-│       ├── exports
-│       │   ├── book
-│       │   │   └── compiled_book.md
-│       │   ├── course
-│       │   │   └── course_manifest.json
-│       │   ├── facilitator
-│       │   │   └── facilitator_guide.md
-│       │   ├── website
-│       │   │   └── reader_manifest.json
-│       │   ├── workbook
-│       │   │   └── participant_workbook.md
-│       │   └── workshop
-│       │       └── live_workshop_guide.md
-│       ├── scripts
-│       │   ├── build_all.py
-│       │   └── watch_notes.md
-│       ├── templates
-│       │   └── segment_template.md
-│       ├── tests
-│       ├── README.md
-│       └── requirements.txt
+│   ├── api_server.py
+│   ├── auth_tokens.py
+│   ├── certification_rules.py
+│   ├── civic_credential_engine.py
+│   ├── civic_data_intelligence_engine.py
+│   ├── civic_intelligence_map.py
+│   ├── civic_intelligence_system.py
+│   ├── civic_knowledge_graph_expansion_engine.py
+│   ├── civic_mentor_engine.py
+│   ├── course_engine.py
+│   ├── database_engine.py
+│   ├── identity_manager.py
+│   ├── kernel_config.py
+│   ├── kernel_contracts.py
+│   ├── kernel_health.py
+│   ├── kernel_logger.py
+│   ├── knowledge_graph_engine.py
+│   ├── learning_analytics_engine.py
+│   ├── learning_runtime.py
+│   ├── lesson_player.py
+│   ├── library_loader.py
+│   ├── migration_engine.py
+│   ├── permissions_engine.py
+│   ├── platform_kernel.py
+│   ├── progress_engine.py
+│   ├── progress_registry.py
+│   ├── track_engine.py
+│   └── user_identity_engine.py
 ├── exports
+│   ├── analytics
+│   │   ├── learning_admin_report.md
+│   │   ├── learning_admin_snapshot.json
+│   │   └── learning_analytics_blueprint.json
 │   ├── articulate
 │   │   └── scorm
 │   │       ├── course_01_civic_awakening
@@ -3520,10 +3758,151 @@ ARKANSAS_CIVICS
 │   │       └── course_12_sustaining_the_ecosystem_SCORM.zip
 │   ├── book
 │   │   └── compiled_book.md
+│   ├── civic_intelligence
+│   │   ├── civic_intelligence_dashboard.json
+│   │   ├── civic_intelligence_manifest.json
+│   │   └── civic_intelligence_system.md
+│   ├── civic_intelligence_map
+│   │   ├── civic_intelligence_map.json
+│   │   └── civic_intelligence_map.md
 │   ├── course
 │   │   └── course_manifest.json
+│   ├── course_engine
+│   │   ├── course_01_civic_awakening
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_02_arkansas_civic_history
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_03_direct_democracy
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_03_direct_democracy_and_the_ballot
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_04_voting_systems
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_04_voting_systems_and_representation
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_05_labor_and_collective_power
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_05_labor_unions_and_collective_power
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_06_shared_pain
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_06_shared_pain_shared_story
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_07_coalitions_and_leadership
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_07_shared_purpose
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_08_coalition_building
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_08_messaging_media_and_narrative
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_09_messaging_and_media
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_09_strategy_petitions_and_campaigns
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_10_opposition_pushback_and_rule_changes
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_10_strategy_and_campaigns
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_11_opposition_and_pushback
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_11_the_reader_becomes_the_organizer
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_12_sustaining_movements
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   ├── course_12_sustaining_the_ecosystem
+│   │   │   ├── course_package.json
+│   │   │   └── course_package.md
+│   │   └── course_engine_index.json
 │   ├── course_factory
 │   │   └── suite
+│   ├── credentials
+│   │   ├── credential_index.json
+│   │   └── credential_report.md
+│   ├── graph_expansion
+│   │   ├── civic_graph_expansion.json
+│   │   ├── civic_graph_expansion.md
+│   │   └── civic_graph_manifest.json
+│   ├── identity
+│   │   └── identity_index.json
+│   ├── knowledge_graph
+│   │   ├── knowledge_graph.json
+│   │   └── knowledge_graph.md
+│   ├── learning_runtime
+│   │   └── learning_runtime_snapshot.json
+│   ├── lesson_player
+│   │   ├── course_01_civic_awakening
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_02_arkansas_civic_history
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_03_direct_democracy
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_03_direct_democracy_and_the_ballot
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_04_voting_systems
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_04_voting_systems_and_representation
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_05_labor_and_collective_power
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_05_labor_unions_and_collective_power
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_06_shared_pain
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_06_shared_pain_shared_story
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_07_coalitions_and_leadership
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_07_shared_purpose
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_08_coalition_building
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_08_messaging_media_and_narrative
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_09_messaging_and_media
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_09_strategy_petitions_and_campaigns
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_10_opposition_pushback_and_rule_changes
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_10_strategy_and_campaigns
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_11_opposition_and_pushback
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_11_the_reader_becomes_the_organizer
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_12_sustaining_movements
+│   │   │   └── lesson_player_course.json
+│   │   ├── course_12_sustaining_the_ecosystem
+│   │   │   └── lesson_player_course.json
+│   │   ├── lesson_player_index.json
+│   │   └── lesson_player_readme.md
+│   ├── mentor
+│   │   └── platform_mentor_brief.json
+│   ├── progress_registry
+│   │   ├── progress_registry_index.json
+│   │   └── progress_registry_report.md
 │   ├── project_map
 │   │   ├── project_files.json
 │   │   ├── project_summary.json
@@ -3627,10 +4006,50 @@ ARKANSAS_CIVICS
 │   │   ├── course_12_sustaining_the_ecosystem_chapter_03_the_long_tail_of_stories_data_and_training.html
 │   │   └── course_12_sustaining_the_ecosystem_chapter_04_the_future_appendices_and_spawned_courses.html
 │   ├── repo_audit
+│   │   ├── duplicate_filenames.json
 │   │   ├── files.json
+│   │   ├── largest_files.json
+│   │   ├── python_scripts.json
 │   │   ├── summary.json
 │   │   └── tree.txt
+│   ├── system_map
+│   │   ├── architecture_report.md
+│   │   ├── course_inventory.json
+│   │   ├── dashboard_inventory.json
+│   │   ├── engine_inventory.json
+│   │   ├── kernel_health_report.json
+│   │   ├── kernel_runtime_manifest.json
+│   │   ├── platform_kernel_snapshot.json
+│   │   ├── project_tree.txt
+│   │   ├── script_inventory.json
+│   │   ├── system_architecture.json
+│   │   └── system_architecture.md
+│   ├── tracks
+│   │   ├── arkansas-constitution-and-ballot-path
+│   │   │   ├── track_definition.json
+│   │   │   └── track_definition.md
+│   │   ├── arkansas-history-scholar-path
+│   │   │   ├── track_definition.json
+│   │   │   └── track_definition.md
+│   │   ├── campaign-manager-path
+│   │   │   ├── track_definition.json
+│   │   │   └── track_definition.md
+│   │   ├── leadership-development-path
+│   │   │   ├── track_definition.json
+│   │   │   └── track_definition.md
+│   │   ├── messaging-and-narrative-path
+│   │   │   ├── track_definition.json
+│   │   │   └── track_definition.md
+│   │   ├── organizer-field-path
+│   │   │   ├── track_definition.json
+│   │   │   └── track_definition.md
+│   │   ├── stand-up-arkansas-civic-foundations
+│   │   │   ├── track_definition.json
+│   │   │   └── track_definition.md
+│   │   └── track_index.json
 │   └── web
+├── logs
+│   └── platform_kernel.log
 ├── netlify
 │   └── functions
 │       ├── chapter-context.js
@@ -3643,34 +4062,41 @@ ARKANSAS_CIVICS
 │   ├── ai_course_designer.py
 │   ├── build_all.py
 │   ├── build_book.py
+│   ├── build_civic_intelligence_map.py
+│   ├── build_civic_intelligence_system.py
 │   ├── build_civic_library.py
+│   ├── build_course_engine.py
 │   ├── build_course_exports.py
+│   ├── build_knowledge_graph.py
+│   ├── build_learning_analytics.py
+│   ├── build_lesson_player.py
+│   ├── build_phase_01_core_kernel.py
+│   ├── build_phase_02_identity.py
+│   ├── build_phase_03_progress_credentials.py
+│   ├── build_phase_04_database.py
+│   ├── build_phase_06_graph_expansion.py
+│   ├── build_track_engine.py
+│   ├── cleanup_repo.py
 │   ├── copy_dashboard_content.py
 │   ├── editor_dashboard_generator.py
 │   ├── export_rise_course.py
 │   ├── full_repo_audit.py
-│   ├── generate_autonomous_civic_course.py
-│   ├── generate_chapter_context.py
-│   ├── generate_civic_data_layer.py
-│   ├── generate_course_factory_suite.py
-│   ├── generate_course_plans.py
-│   ├── generate_curriculum_intelligence_layer.py
-│   ├── generate_full_course_factory.py
 │   ├── generate_reader_site.py
-│   ├── generate_scorm_course.py
+│   ├── kernel_health_check.py
 │   ├── map_root_project.py
-│   ├── scaffold_everything.py
-│   ├── scaffold_upgrade.py
-│   ├── seed_chapter_01.py
-│   ├── seed_chapter_02.py
-│   ├── seed_chapter_03.py
-│   ├── seed_chapter_04.py
+│   ├── master_system_mapper.py
 │   ├── seed_postgres_schema.sql
+│   ├── system_mapper.py
 │   ├── upgrade_editor_dashboard_architecture.py
 │   ├── validate_repo.py
 │   └── watch_content.py
 ├── tests
+├── tmp
 ├── .gitignore
 ├── merge_engine_update.py
 ├── netlify.toml
-└── README.md
+├── PHASE_01_MANIFEST.md
+├── PHASE_03_MANIFEST.md
+├── PHASE_06_MANIFEST.md
+├── README.md
+└── run_phase_05_engine.py

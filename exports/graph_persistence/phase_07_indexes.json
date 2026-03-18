@@ -1,0 +1,37 @@
+{
+  "rows": [
+    {
+      "index_key": "node_type_counts",
+      "index_group": "nodes",
+      "payload": {
+        "organization": 3,
+        "committee": 18,
+        "legislator": 135,
+        "policy_area": 5,
+        "bill": 50
+      }
+    },
+    {
+      "index_key": "relationship_type_counts",
+      "index_group": "edges",
+      "payload": {
+        "part_of": 2,
+        "belongs_to": 18,
+        "member_of": 270,
+        "introduced_in": 50,
+        "sponsors": 50,
+        "about": 50,
+        "referred_to": 50
+      }
+    },
+    {
+      "index_key": "graph_totals",
+      "index_group": "summary",
+      "payload": {
+        "node_count": 211,
+        "edge_count": 490
+      }
+    }
+  ],
+  "count": 3
+}

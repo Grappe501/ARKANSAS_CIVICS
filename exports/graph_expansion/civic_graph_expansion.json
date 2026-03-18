@@ -1,0 +1,5704 @@
+{
+  "generated_at": "2026-03-18T23:10:18.163660",
+  "summary": {
+    "node_count": 211,
+    "edge_count": 490
+  },
+  "nodes": [
+    {
+      "id": "org:arkansas",
+      "node_type": "organization",
+      "name": "Arkansas",
+      "metadata": {
+        "type": "state"
+      }
+    },
+    {
+      "id": "org:arkansas_house",
+      "node_type": "organization",
+      "name": "Arkansas House",
+      "metadata": {}
+    },
+    {
+      "id": "org:arkansas_senate",
+      "node_type": "organization",
+      "name": "Arkansas Senate",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_0",
+      "node_type": "committee",
+      "name": "House Committee 0",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_1",
+      "node_type": "committee",
+      "name": "House Committee 1",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_2",
+      "node_type": "committee",
+      "name": "House Committee 2",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_3",
+      "node_type": "committee",
+      "name": "House Committee 3",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_4",
+      "node_type": "committee",
+      "name": "House Committee 4",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_5",
+      "node_type": "committee",
+      "name": "House Committee 5",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_6",
+      "node_type": "committee",
+      "name": "House Committee 6",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_7",
+      "node_type": "committee",
+      "name": "House Committee 7",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_8",
+      "node_type": "committee",
+      "name": "House Committee 8",
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_9",
+      "node_type": "committee",
+      "name": "House Committee 9",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_0",
+      "node_type": "committee",
+      "name": "Senate Committee 0",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_1",
+      "node_type": "committee",
+      "name": "Senate Committee 1",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_2",
+      "node_type": "committee",
+      "name": "Senate Committee 2",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_3",
+      "node_type": "committee",
+      "name": "Senate Committee 3",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_4",
+      "node_type": "committee",
+      "name": "Senate Committee 4",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_5",
+      "node_type": "committee",
+      "name": "Senate Committee 5",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_6",
+      "node_type": "committee",
+      "name": "Senate Committee 6",
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_7",
+      "node_type": "committee",
+      "name": "Senate Committee 7",
+      "metadata": {}
+    },
+    {
+      "id": "legislator:0",
+      "node_type": "legislator",
+      "name": "Legislator 0",
+      "metadata": {
+        "party": "R",
+        "district": 0
+      }
+    },
+    {
+      "id": "legislator:1",
+      "node_type": "legislator",
+      "name": "Legislator 1",
+      "metadata": {
+        "party": "D",
+        "district": 1
+      }
+    },
+    {
+      "id": "legislator:2",
+      "node_type": "legislator",
+      "name": "Legislator 2",
+      "metadata": {
+        "party": "R",
+        "district": 2
+      }
+    },
+    {
+      "id": "legislator:3",
+      "node_type": "legislator",
+      "name": "Legislator 3",
+      "metadata": {
+        "party": "D",
+        "district": 3
+      }
+    },
+    {
+      "id": "legislator:4",
+      "node_type": "legislator",
+      "name": "Legislator 4",
+      "metadata": {
+        "party": "R",
+        "district": 4
+      }
+    },
+    {
+      "id": "legislator:5",
+      "node_type": "legislator",
+      "name": "Legislator 5",
+      "metadata": {
+        "party": "D",
+        "district": 5
+      }
+    },
+    {
+      "id": "legislator:6",
+      "node_type": "legislator",
+      "name": "Legislator 6",
+      "metadata": {
+        "party": "D",
+        "district": 6
+      }
+    },
+    {
+      "id": "legislator:7",
+      "node_type": "legislator",
+      "name": "Legislator 7",
+      "metadata": {
+        "party": "R",
+        "district": 7
+      }
+    },
+    {
+      "id": "legislator:8",
+      "node_type": "legislator",
+      "name": "Legislator 8",
+      "metadata": {
+        "party": "D",
+        "district": 8
+      }
+    },
+    {
+      "id": "legislator:9",
+      "node_type": "legislator",
+      "name": "Legislator 9",
+      "metadata": {
+        "party": "D",
+        "district": 9
+      }
+    },
+    {
+      "id": "legislator:10",
+      "node_type": "legislator",
+      "name": "Legislator 10",
+      "metadata": {
+        "party": "D",
+        "district": 10
+      }
+    },
+    {
+      "id": "legislator:11",
+      "node_type": "legislator",
+      "name": "Legislator 11",
+      "metadata": {
+        "party": "R",
+        "district": 11
+      }
+    },
+    {
+      "id": "legislator:12",
+      "node_type": "legislator",
+      "name": "Legislator 12",
+      "metadata": {
+        "party": "D",
+        "district": 12
+      }
+    },
+    {
+      "id": "legislator:13",
+      "node_type": "legislator",
+      "name": "Legislator 13",
+      "metadata": {
+        "party": "D",
+        "district": 13
+      }
+    },
+    {
+      "id": "legislator:14",
+      "node_type": "legislator",
+      "name": "Legislator 14",
+      "metadata": {
+        "party": "R",
+        "district": 14
+      }
+    },
+    {
+      "id": "legislator:15",
+      "node_type": "legislator",
+      "name": "Legislator 15",
+      "metadata": {
+        "party": "D",
+        "district": 15
+      }
+    },
+    {
+      "id": "legislator:16",
+      "node_type": "legislator",
+      "name": "Legislator 16",
+      "metadata": {
+        "party": "R",
+        "district": 16
+      }
+    },
+    {
+      "id": "legislator:17",
+      "node_type": "legislator",
+      "name": "Legislator 17",
+      "metadata": {
+        "party": "R",
+        "district": 17
+      }
+    },
+    {
+      "id": "legislator:18",
+      "node_type": "legislator",
+      "name": "Legislator 18",
+      "metadata": {
+        "party": "D",
+        "district": 18
+      }
+    },
+    {
+      "id": "legislator:19",
+      "node_type": "legislator",
+      "name": "Legislator 19",
+      "metadata": {
+        "party": "D",
+        "district": 19
+      }
+    },
+    {
+      "id": "legislator:20",
+      "node_type": "legislator",
+      "name": "Legislator 20",
+      "metadata": {
+        "party": "D",
+        "district": 20
+      }
+    },
+    {
+      "id": "legislator:21",
+      "node_type": "legislator",
+      "name": "Legislator 21",
+      "metadata": {
+        "party": "R",
+        "district": 21
+      }
+    },
+    {
+      "id": "legislator:22",
+      "node_type": "legislator",
+      "name": "Legislator 22",
+      "metadata": {
+        "party": "R",
+        "district": 22
+      }
+    },
+    {
+      "id": "legislator:23",
+      "node_type": "legislator",
+      "name": "Legislator 23",
+      "metadata": {
+        "party": "D",
+        "district": 23
+      }
+    },
+    {
+      "id": "legislator:24",
+      "node_type": "legislator",
+      "name": "Legislator 24",
+      "metadata": {
+        "party": "R",
+        "district": 24
+      }
+    },
+    {
+      "id": "legislator:25",
+      "node_type": "legislator",
+      "name": "Legislator 25",
+      "metadata": {
+        "party": "D",
+        "district": 25
+      }
+    },
+    {
+      "id": "legislator:26",
+      "node_type": "legislator",
+      "name": "Legislator 26",
+      "metadata": {
+        "party": "R",
+        "district": 26
+      }
+    },
+    {
+      "id": "legislator:27",
+      "node_type": "legislator",
+      "name": "Legislator 27",
+      "metadata": {
+        "party": "R",
+        "district": 27
+      }
+    },
+    {
+      "id": "legislator:28",
+      "node_type": "legislator",
+      "name": "Legislator 28",
+      "metadata": {
+        "party": "D",
+        "district": 28
+      }
+    },
+    {
+      "id": "legislator:29",
+      "node_type": "legislator",
+      "name": "Legislator 29",
+      "metadata": {
+        "party": "R",
+        "district": 29
+      }
+    },
+    {
+      "id": "legislator:30",
+      "node_type": "legislator",
+      "name": "Legislator 30",
+      "metadata": {
+        "party": "D",
+        "district": 30
+      }
+    },
+    {
+      "id": "legislator:31",
+      "node_type": "legislator",
+      "name": "Legislator 31",
+      "metadata": {
+        "party": "D",
+        "district": 31
+      }
+    },
+    {
+      "id": "legislator:32",
+      "node_type": "legislator",
+      "name": "Legislator 32",
+      "metadata": {
+        "party": "R",
+        "district": 32
+      }
+    },
+    {
+      "id": "legislator:33",
+      "node_type": "legislator",
+      "name": "Legislator 33",
+      "metadata": {
+        "party": "R",
+        "district": 33
+      }
+    },
+    {
+      "id": "legislator:34",
+      "node_type": "legislator",
+      "name": "Legislator 34",
+      "metadata": {
+        "party": "R",
+        "district": 34
+      }
+    },
+    {
+      "id": "legislator:35",
+      "node_type": "legislator",
+      "name": "Legislator 35",
+      "metadata": {
+        "party": "D",
+        "district": 35
+      }
+    },
+    {
+      "id": "legislator:36",
+      "node_type": "legislator",
+      "name": "Legislator 36",
+      "metadata": {
+        "party": "D",
+        "district": 36
+      }
+    },
+    {
+      "id": "legislator:37",
+      "node_type": "legislator",
+      "name": "Legislator 37",
+      "metadata": {
+        "party": "D",
+        "district": 37
+      }
+    },
+    {
+      "id": "legislator:38",
+      "node_type": "legislator",
+      "name": "Legislator 38",
+      "metadata": {
+        "party": "R",
+        "district": 38
+      }
+    },
+    {
+      "id": "legislator:39",
+      "node_type": "legislator",
+      "name": "Legislator 39",
+      "metadata": {
+        "party": "D",
+        "district": 39
+      }
+    },
+    {
+      "id": "legislator:40",
+      "node_type": "legislator",
+      "name": "Legislator 40",
+      "metadata": {
+        "party": "D",
+        "district": 40
+      }
+    },
+    {
+      "id": "legislator:41",
+      "node_type": "legislator",
+      "name": "Legislator 41",
+      "metadata": {
+        "party": "R",
+        "district": 41
+      }
+    },
+    {
+      "id": "legislator:42",
+      "node_type": "legislator",
+      "name": "Legislator 42",
+      "metadata": {
+        "party": "D",
+        "district": 42
+      }
+    },
+    {
+      "id": "legislator:43",
+      "node_type": "legislator",
+      "name": "Legislator 43",
+      "metadata": {
+        "party": "D",
+        "district": 43
+      }
+    },
+    {
+      "id": "legislator:44",
+      "node_type": "legislator",
+      "name": "Legislator 44",
+      "metadata": {
+        "party": "D",
+        "district": 44
+      }
+    },
+    {
+      "id": "legislator:45",
+      "node_type": "legislator",
+      "name": "Legislator 45",
+      "metadata": {
+        "party": "D",
+        "district": 45
+      }
+    },
+    {
+      "id": "legislator:46",
+      "node_type": "legislator",
+      "name": "Legislator 46",
+      "metadata": {
+        "party": "R",
+        "district": 46
+      }
+    },
+    {
+      "id": "legislator:47",
+      "node_type": "legislator",
+      "name": "Legislator 47",
+      "metadata": {
+        "party": "R",
+        "district": 47
+      }
+    },
+    {
+      "id": "legislator:48",
+      "node_type": "legislator",
+      "name": "Legislator 48",
+      "metadata": {
+        "party": "D",
+        "district": 48
+      }
+    },
+    {
+      "id": "legislator:49",
+      "node_type": "legislator",
+      "name": "Legislator 49",
+      "metadata": {
+        "party": "R",
+        "district": 49
+      }
+    },
+    {
+      "id": "legislator:50",
+      "node_type": "legislator",
+      "name": "Legislator 50",
+      "metadata": {
+        "party": "D",
+        "district": 50
+      }
+    },
+    {
+      "id": "legislator:51",
+      "node_type": "legislator",
+      "name": "Legislator 51",
+      "metadata": {
+        "party": "R",
+        "district": 51
+      }
+    },
+    {
+      "id": "legislator:52",
+      "node_type": "legislator",
+      "name": "Legislator 52",
+      "metadata": {
+        "party": "R",
+        "district": 52
+      }
+    },
+    {
+      "id": "legislator:53",
+      "node_type": "legislator",
+      "name": "Legislator 53",
+      "metadata": {
+        "party": "D",
+        "district": 53
+      }
+    },
+    {
+      "id": "legislator:54",
+      "node_type": "legislator",
+      "name": "Legislator 54",
+      "metadata": {
+        "party": "D",
+        "district": 54
+      }
+    },
+    {
+      "id": "legislator:55",
+      "node_type": "legislator",
+      "name": "Legislator 55",
+      "metadata": {
+        "party": "R",
+        "district": 55
+      }
+    },
+    {
+      "id": "legislator:56",
+      "node_type": "legislator",
+      "name": "Legislator 56",
+      "metadata": {
+        "party": "R",
+        "district": 56
+      }
+    },
+    {
+      "id": "legislator:57",
+      "node_type": "legislator",
+      "name": "Legislator 57",
+      "metadata": {
+        "party": "D",
+        "district": 57
+      }
+    },
+    {
+      "id": "legislator:58",
+      "node_type": "legislator",
+      "name": "Legislator 58",
+      "metadata": {
+        "party": "D",
+        "district": 58
+      }
+    },
+    {
+      "id": "legislator:59",
+      "node_type": "legislator",
+      "name": "Legislator 59",
+      "metadata": {
+        "party": "R",
+        "district": 59
+      }
+    },
+    {
+      "id": "legislator:60",
+      "node_type": "legislator",
+      "name": "Legislator 60",
+      "metadata": {
+        "party": "R",
+        "district": 60
+      }
+    },
+    {
+      "id": "legislator:61",
+      "node_type": "legislator",
+      "name": "Legislator 61",
+      "metadata": {
+        "party": "D",
+        "district": 61
+      }
+    },
+    {
+      "id": "legislator:62",
+      "node_type": "legislator",
+      "name": "Legislator 62",
+      "metadata": {
+        "party": "R",
+        "district": 62
+      }
+    },
+    {
+      "id": "legislator:63",
+      "node_type": "legislator",
+      "name": "Legislator 63",
+      "metadata": {
+        "party": "R",
+        "district": 63
+      }
+    },
+    {
+      "id": "legislator:64",
+      "node_type": "legislator",
+      "name": "Legislator 64",
+      "metadata": {
+        "party": "D",
+        "district": 64
+      }
+    },
+    {
+      "id": "legislator:65",
+      "node_type": "legislator",
+      "name": "Legislator 65",
+      "metadata": {
+        "party": "R",
+        "district": 65
+      }
+    },
+    {
+      "id": "legislator:66",
+      "node_type": "legislator",
+      "name": "Legislator 66",
+      "metadata": {
+        "party": "D",
+        "district": 66
+      }
+    },
+    {
+      "id": "legislator:67",
+      "node_type": "legislator",
+      "name": "Legislator 67",
+      "metadata": {
+        "party": "D",
+        "district": 67
+      }
+    },
+    {
+      "id": "legislator:68",
+      "node_type": "legislator",
+      "name": "Legislator 68",
+      "metadata": {
+        "party": "D",
+        "district": 68
+      }
+    },
+    {
+      "id": "legislator:69",
+      "node_type": "legislator",
+      "name": "Legislator 69",
+      "metadata": {
+        "party": "D",
+        "district": 69
+      }
+    },
+    {
+      "id": "legislator:70",
+      "node_type": "legislator",
+      "name": "Legislator 70",
+      "metadata": {
+        "party": "D",
+        "district": 70
+      }
+    },
+    {
+      "id": "legislator:71",
+      "node_type": "legislator",
+      "name": "Legislator 71",
+      "metadata": {
+        "party": "R",
+        "district": 71
+      }
+    },
+    {
+      "id": "legislator:72",
+      "node_type": "legislator",
+      "name": "Legislator 72",
+      "metadata": {
+        "party": "D",
+        "district": 72
+      }
+    },
+    {
+      "id": "legislator:73",
+      "node_type": "legislator",
+      "name": "Legislator 73",
+      "metadata": {
+        "party": "D",
+        "district": 73
+      }
+    },
+    {
+      "id": "legislator:74",
+      "node_type": "legislator",
+      "name": "Legislator 74",
+      "metadata": {
+        "party": "R",
+        "district": 74
+      }
+    },
+    {
+      "id": "legislator:75",
+      "node_type": "legislator",
+      "name": "Legislator 75",
+      "metadata": {
+        "party": "D",
+        "district": 75
+      }
+    },
+    {
+      "id": "legislator:76",
+      "node_type": "legislator",
+      "name": "Legislator 76",
+      "metadata": {
+        "party": "R",
+        "district": 76
+      }
+    },
+    {
+      "id": "legislator:77",
+      "node_type": "legislator",
+      "name": "Legislator 77",
+      "metadata": {
+        "party": "D",
+        "district": 77
+      }
+    },
+    {
+      "id": "legislator:78",
+      "node_type": "legislator",
+      "name": "Legislator 78",
+      "metadata": {
+        "party": "D",
+        "district": 78
+      }
+    },
+    {
+      "id": "legislator:79",
+      "node_type": "legislator",
+      "name": "Legislator 79",
+      "metadata": {
+        "party": "R",
+        "district": 79
+      }
+    },
+    {
+      "id": "legislator:80",
+      "node_type": "legislator",
+      "name": "Legislator 80",
+      "metadata": {
+        "party": "D",
+        "district": 80
+      }
+    },
+    {
+      "id": "legislator:81",
+      "node_type": "legislator",
+      "name": "Legislator 81",
+      "metadata": {
+        "party": "R",
+        "district": 81
+      }
+    },
+    {
+      "id": "legislator:82",
+      "node_type": "legislator",
+      "name": "Legislator 82",
+      "metadata": {
+        "party": "D",
+        "district": 82
+      }
+    },
+    {
+      "id": "legislator:83",
+      "node_type": "legislator",
+      "name": "Legislator 83",
+      "metadata": {
+        "party": "D",
+        "district": 83
+      }
+    },
+    {
+      "id": "legislator:84",
+      "node_type": "legislator",
+      "name": "Legislator 84",
+      "metadata": {
+        "party": "R",
+        "district": 84
+      }
+    },
+    {
+      "id": "legislator:85",
+      "node_type": "legislator",
+      "name": "Legislator 85",
+      "metadata": {
+        "party": "R",
+        "district": 85
+      }
+    },
+    {
+      "id": "legislator:86",
+      "node_type": "legislator",
+      "name": "Legislator 86",
+      "metadata": {
+        "party": "D",
+        "district": 86
+      }
+    },
+    {
+      "id": "legislator:87",
+      "node_type": "legislator",
+      "name": "Legislator 87",
+      "metadata": {
+        "party": "D",
+        "district": 87
+      }
+    },
+    {
+      "id": "legislator:88",
+      "node_type": "legislator",
+      "name": "Legislator 88",
+      "metadata": {
+        "party": "R",
+        "district": 88
+      }
+    },
+    {
+      "id": "legislator:89",
+      "node_type": "legislator",
+      "name": "Legislator 89",
+      "metadata": {
+        "party": "D",
+        "district": 89
+      }
+    },
+    {
+      "id": "legislator:90",
+      "node_type": "legislator",
+      "name": "Legislator 90",
+      "metadata": {
+        "party": "R",
+        "district": 90
+      }
+    },
+    {
+      "id": "legislator:91",
+      "node_type": "legislator",
+      "name": "Legislator 91",
+      "metadata": {
+        "party": "R",
+        "district": 91
+      }
+    },
+    {
+      "id": "legislator:92",
+      "node_type": "legislator",
+      "name": "Legislator 92",
+      "metadata": {
+        "party": "D",
+        "district": 92
+      }
+    },
+    {
+      "id": "legislator:93",
+      "node_type": "legislator",
+      "name": "Legislator 93",
+      "metadata": {
+        "party": "D",
+        "district": 93
+      }
+    },
+    {
+      "id": "legislator:94",
+      "node_type": "legislator",
+      "name": "Legislator 94",
+      "metadata": {
+        "party": "R",
+        "district": 94
+      }
+    },
+    {
+      "id": "legislator:95",
+      "node_type": "legislator",
+      "name": "Legislator 95",
+      "metadata": {
+        "party": "D",
+        "district": 95
+      }
+    },
+    {
+      "id": "legislator:96",
+      "node_type": "legislator",
+      "name": "Legislator 96",
+      "metadata": {
+        "party": "R",
+        "district": 96
+      }
+    },
+    {
+      "id": "legislator:97",
+      "node_type": "legislator",
+      "name": "Legislator 97",
+      "metadata": {
+        "party": "R",
+        "district": 97
+      }
+    },
+    {
+      "id": "legislator:98",
+      "node_type": "legislator",
+      "name": "Legislator 98",
+      "metadata": {
+        "party": "R",
+        "district": 98
+      }
+    },
+    {
+      "id": "legislator:99",
+      "node_type": "legislator",
+      "name": "Legislator 99",
+      "metadata": {
+        "party": "R",
+        "district": 99
+      }
+    },
+    {
+      "id": "legislator:100",
+      "node_type": "legislator",
+      "name": "Legislator 100",
+      "metadata": {
+        "party": "D",
+        "district": 100
+      }
+    },
+    {
+      "id": "legislator:101",
+      "node_type": "legislator",
+      "name": "Legislator 101",
+      "metadata": {
+        "party": "D",
+        "district": 101
+      }
+    },
+    {
+      "id": "legislator:102",
+      "node_type": "legislator",
+      "name": "Legislator 102",
+      "metadata": {
+        "party": "R",
+        "district": 102
+      }
+    },
+    {
+      "id": "legislator:103",
+      "node_type": "legislator",
+      "name": "Legislator 103",
+      "metadata": {
+        "party": "R",
+        "district": 103
+      }
+    },
+    {
+      "id": "legislator:104",
+      "node_type": "legislator",
+      "name": "Legislator 104",
+      "metadata": {
+        "party": "D",
+        "district": 104
+      }
+    },
+    {
+      "id": "legislator:105",
+      "node_type": "legislator",
+      "name": "Legislator 105",
+      "metadata": {
+        "party": "R",
+        "district": 105
+      }
+    },
+    {
+      "id": "legislator:106",
+      "node_type": "legislator",
+      "name": "Legislator 106",
+      "metadata": {
+        "party": "D",
+        "district": 106
+      }
+    },
+    {
+      "id": "legislator:107",
+      "node_type": "legislator",
+      "name": "Legislator 107",
+      "metadata": {
+        "party": "R",
+        "district": 107
+      }
+    },
+    {
+      "id": "legislator:108",
+      "node_type": "legislator",
+      "name": "Legislator 108",
+      "metadata": {
+        "party": "R",
+        "district": 108
+      }
+    },
+    {
+      "id": "legislator:109",
+      "node_type": "legislator",
+      "name": "Legislator 109",
+      "metadata": {
+        "party": "R",
+        "district": 109
+      }
+    },
+    {
+      "id": "legislator:110",
+      "node_type": "legislator",
+      "name": "Legislator 110",
+      "metadata": {
+        "party": "D",
+        "district": 110
+      }
+    },
+    {
+      "id": "legislator:111",
+      "node_type": "legislator",
+      "name": "Legislator 111",
+      "metadata": {
+        "party": "D",
+        "district": 111
+      }
+    },
+    {
+      "id": "legislator:112",
+      "node_type": "legislator",
+      "name": "Legislator 112",
+      "metadata": {
+        "party": "R",
+        "district": 112
+      }
+    },
+    {
+      "id": "legislator:113",
+      "node_type": "legislator",
+      "name": "Legislator 113",
+      "metadata": {
+        "party": "R",
+        "district": 113
+      }
+    },
+    {
+      "id": "legislator:114",
+      "node_type": "legislator",
+      "name": "Legislator 114",
+      "metadata": {
+        "party": "D",
+        "district": 114
+      }
+    },
+    {
+      "id": "legislator:115",
+      "node_type": "legislator",
+      "name": "Legislator 115",
+      "metadata": {
+        "party": "D",
+        "district": 115
+      }
+    },
+    {
+      "id": "legislator:116",
+      "node_type": "legislator",
+      "name": "Legislator 116",
+      "metadata": {
+        "party": "R",
+        "district": 116
+      }
+    },
+    {
+      "id": "legislator:117",
+      "node_type": "legislator",
+      "name": "Legislator 117",
+      "metadata": {
+        "party": "D",
+        "district": 117
+      }
+    },
+    {
+      "id": "legislator:118",
+      "node_type": "legislator",
+      "name": "Legislator 118",
+      "metadata": {
+        "party": "D",
+        "district": 118
+      }
+    },
+    {
+      "id": "legislator:119",
+      "node_type": "legislator",
+      "name": "Legislator 119",
+      "metadata": {
+        "party": "R",
+        "district": 119
+      }
+    },
+    {
+      "id": "legislator:120",
+      "node_type": "legislator",
+      "name": "Legislator 120",
+      "metadata": {
+        "party": "D",
+        "district": 120
+      }
+    },
+    {
+      "id": "legislator:121",
+      "node_type": "legislator",
+      "name": "Legislator 121",
+      "metadata": {
+        "party": "R",
+        "district": 121
+      }
+    },
+    {
+      "id": "legislator:122",
+      "node_type": "legislator",
+      "name": "Legislator 122",
+      "metadata": {
+        "party": "D",
+        "district": 122
+      }
+    },
+    {
+      "id": "legislator:123",
+      "node_type": "legislator",
+      "name": "Legislator 123",
+      "metadata": {
+        "party": "D",
+        "district": 123
+      }
+    },
+    {
+      "id": "legislator:124",
+      "node_type": "legislator",
+      "name": "Legislator 124",
+      "metadata": {
+        "party": "R",
+        "district": 124
+      }
+    },
+    {
+      "id": "legislator:125",
+      "node_type": "legislator",
+      "name": "Legislator 125",
+      "metadata": {
+        "party": "D",
+        "district": 125
+      }
+    },
+    {
+      "id": "legislator:126",
+      "node_type": "legislator",
+      "name": "Legislator 126",
+      "metadata": {
+        "party": "D",
+        "district": 126
+      }
+    },
+    {
+      "id": "legislator:127",
+      "node_type": "legislator",
+      "name": "Legislator 127",
+      "metadata": {
+        "party": "R",
+        "district": 127
+      }
+    },
+    {
+      "id": "legislator:128",
+      "node_type": "legislator",
+      "name": "Legislator 128",
+      "metadata": {
+        "party": "R",
+        "district": 128
+      }
+    },
+    {
+      "id": "legislator:129",
+      "node_type": "legislator",
+      "name": "Legislator 129",
+      "metadata": {
+        "party": "R",
+        "district": 129
+      }
+    },
+    {
+      "id": "legislator:130",
+      "node_type": "legislator",
+      "name": "Legislator 130",
+      "metadata": {
+        "party": "R",
+        "district": 130
+      }
+    },
+    {
+      "id": "legislator:131",
+      "node_type": "legislator",
+      "name": "Legislator 131",
+      "metadata": {
+        "party": "R",
+        "district": 131
+      }
+    },
+    {
+      "id": "legislator:132",
+      "node_type": "legislator",
+      "name": "Legislator 132",
+      "metadata": {
+        "party": "R",
+        "district": 132
+      }
+    },
+    {
+      "id": "legislator:133",
+      "node_type": "legislator",
+      "name": "Legislator 133",
+      "metadata": {
+        "party": "R",
+        "district": 133
+      }
+    },
+    {
+      "id": "legislator:134",
+      "node_type": "legislator",
+      "name": "Legislator 134",
+      "metadata": {
+        "party": "R",
+        "district": 134
+      }
+    },
+    {
+      "id": "policy:education",
+      "node_type": "policy_area",
+      "name": "Education",
+      "metadata": {}
+    },
+    {
+      "id": "policy:healthcare",
+      "node_type": "policy_area",
+      "name": "Healthcare",
+      "metadata": {}
+    },
+    {
+      "id": "policy:taxes",
+      "node_type": "policy_area",
+      "name": "Taxes",
+      "metadata": {}
+    },
+    {
+      "id": "policy:infrastructure",
+      "node_type": "policy_area",
+      "name": "Infrastructure",
+      "metadata": {}
+    },
+    {
+      "id": "policy:energy",
+      "node_type": "policy_area",
+      "name": "Energy",
+      "metadata": {}
+    },
+    {
+      "id": "bill:0",
+      "node_type": "bill",
+      "name": "HB0",
+      "metadata": {
+        "title": "Sample Bill 0"
+      }
+    },
+    {
+      "id": "bill:1",
+      "node_type": "bill",
+      "name": "HB1",
+      "metadata": {
+        "title": "Sample Bill 1"
+      }
+    },
+    {
+      "id": "bill:2",
+      "node_type": "bill",
+      "name": "HB2",
+      "metadata": {
+        "title": "Sample Bill 2"
+      }
+    },
+    {
+      "id": "bill:3",
+      "node_type": "bill",
+      "name": "HB3",
+      "metadata": {
+        "title": "Sample Bill 3"
+      }
+    },
+    {
+      "id": "bill:4",
+      "node_type": "bill",
+      "name": "HB4",
+      "metadata": {
+        "title": "Sample Bill 4"
+      }
+    },
+    {
+      "id": "bill:5",
+      "node_type": "bill",
+      "name": "HB5",
+      "metadata": {
+        "title": "Sample Bill 5"
+      }
+    },
+    {
+      "id": "bill:6",
+      "node_type": "bill",
+      "name": "HB6",
+      "metadata": {
+        "title": "Sample Bill 6"
+      }
+    },
+    {
+      "id": "bill:7",
+      "node_type": "bill",
+      "name": "HB7",
+      "metadata": {
+        "title": "Sample Bill 7"
+      }
+    },
+    {
+      "id": "bill:8",
+      "node_type": "bill",
+      "name": "HB8",
+      "metadata": {
+        "title": "Sample Bill 8"
+      }
+    },
+    {
+      "id": "bill:9",
+      "node_type": "bill",
+      "name": "HB9",
+      "metadata": {
+        "title": "Sample Bill 9"
+      }
+    },
+    {
+      "id": "bill:10",
+      "node_type": "bill",
+      "name": "HB10",
+      "metadata": {
+        "title": "Sample Bill 10"
+      }
+    },
+    {
+      "id": "bill:11",
+      "node_type": "bill",
+      "name": "HB11",
+      "metadata": {
+        "title": "Sample Bill 11"
+      }
+    },
+    {
+      "id": "bill:12",
+      "node_type": "bill",
+      "name": "HB12",
+      "metadata": {
+        "title": "Sample Bill 12"
+      }
+    },
+    {
+      "id": "bill:13",
+      "node_type": "bill",
+      "name": "HB13",
+      "metadata": {
+        "title": "Sample Bill 13"
+      }
+    },
+    {
+      "id": "bill:14",
+      "node_type": "bill",
+      "name": "HB14",
+      "metadata": {
+        "title": "Sample Bill 14"
+      }
+    },
+    {
+      "id": "bill:15",
+      "node_type": "bill",
+      "name": "HB15",
+      "metadata": {
+        "title": "Sample Bill 15"
+      }
+    },
+    {
+      "id": "bill:16",
+      "node_type": "bill",
+      "name": "HB16",
+      "metadata": {
+        "title": "Sample Bill 16"
+      }
+    },
+    {
+      "id": "bill:17",
+      "node_type": "bill",
+      "name": "HB17",
+      "metadata": {
+        "title": "Sample Bill 17"
+      }
+    },
+    {
+      "id": "bill:18",
+      "node_type": "bill",
+      "name": "HB18",
+      "metadata": {
+        "title": "Sample Bill 18"
+      }
+    },
+    {
+      "id": "bill:19",
+      "node_type": "bill",
+      "name": "HB19",
+      "metadata": {
+        "title": "Sample Bill 19"
+      }
+    },
+    {
+      "id": "bill:20",
+      "node_type": "bill",
+      "name": "HB20",
+      "metadata": {
+        "title": "Sample Bill 20"
+      }
+    },
+    {
+      "id": "bill:21",
+      "node_type": "bill",
+      "name": "HB21",
+      "metadata": {
+        "title": "Sample Bill 21"
+      }
+    },
+    {
+      "id": "bill:22",
+      "node_type": "bill",
+      "name": "HB22",
+      "metadata": {
+        "title": "Sample Bill 22"
+      }
+    },
+    {
+      "id": "bill:23",
+      "node_type": "bill",
+      "name": "HB23",
+      "metadata": {
+        "title": "Sample Bill 23"
+      }
+    },
+    {
+      "id": "bill:24",
+      "node_type": "bill",
+      "name": "HB24",
+      "metadata": {
+        "title": "Sample Bill 24"
+      }
+    },
+    {
+      "id": "bill:25",
+      "node_type": "bill",
+      "name": "HB25",
+      "metadata": {
+        "title": "Sample Bill 25"
+      }
+    },
+    {
+      "id": "bill:26",
+      "node_type": "bill",
+      "name": "HB26",
+      "metadata": {
+        "title": "Sample Bill 26"
+      }
+    },
+    {
+      "id": "bill:27",
+      "node_type": "bill",
+      "name": "HB27",
+      "metadata": {
+        "title": "Sample Bill 27"
+      }
+    },
+    {
+      "id": "bill:28",
+      "node_type": "bill",
+      "name": "HB28",
+      "metadata": {
+        "title": "Sample Bill 28"
+      }
+    },
+    {
+      "id": "bill:29",
+      "node_type": "bill",
+      "name": "HB29",
+      "metadata": {
+        "title": "Sample Bill 29"
+      }
+    },
+    {
+      "id": "bill:30",
+      "node_type": "bill",
+      "name": "HB30",
+      "metadata": {
+        "title": "Sample Bill 30"
+      }
+    },
+    {
+      "id": "bill:31",
+      "node_type": "bill",
+      "name": "HB31",
+      "metadata": {
+        "title": "Sample Bill 31"
+      }
+    },
+    {
+      "id": "bill:32",
+      "node_type": "bill",
+      "name": "HB32",
+      "metadata": {
+        "title": "Sample Bill 32"
+      }
+    },
+    {
+      "id": "bill:33",
+      "node_type": "bill",
+      "name": "HB33",
+      "metadata": {
+        "title": "Sample Bill 33"
+      }
+    },
+    {
+      "id": "bill:34",
+      "node_type": "bill",
+      "name": "HB34",
+      "metadata": {
+        "title": "Sample Bill 34"
+      }
+    },
+    {
+      "id": "bill:35",
+      "node_type": "bill",
+      "name": "HB35",
+      "metadata": {
+        "title": "Sample Bill 35"
+      }
+    },
+    {
+      "id": "bill:36",
+      "node_type": "bill",
+      "name": "HB36",
+      "metadata": {
+        "title": "Sample Bill 36"
+      }
+    },
+    {
+      "id": "bill:37",
+      "node_type": "bill",
+      "name": "HB37",
+      "metadata": {
+        "title": "Sample Bill 37"
+      }
+    },
+    {
+      "id": "bill:38",
+      "node_type": "bill",
+      "name": "HB38",
+      "metadata": {
+        "title": "Sample Bill 38"
+      }
+    },
+    {
+      "id": "bill:39",
+      "node_type": "bill",
+      "name": "HB39",
+      "metadata": {
+        "title": "Sample Bill 39"
+      }
+    },
+    {
+      "id": "bill:40",
+      "node_type": "bill",
+      "name": "HB40",
+      "metadata": {
+        "title": "Sample Bill 40"
+      }
+    },
+    {
+      "id": "bill:41",
+      "node_type": "bill",
+      "name": "HB41",
+      "metadata": {
+        "title": "Sample Bill 41"
+      }
+    },
+    {
+      "id": "bill:42",
+      "node_type": "bill",
+      "name": "HB42",
+      "metadata": {
+        "title": "Sample Bill 42"
+      }
+    },
+    {
+      "id": "bill:43",
+      "node_type": "bill",
+      "name": "HB43",
+      "metadata": {
+        "title": "Sample Bill 43"
+      }
+    },
+    {
+      "id": "bill:44",
+      "node_type": "bill",
+      "name": "HB44",
+      "metadata": {
+        "title": "Sample Bill 44"
+      }
+    },
+    {
+      "id": "bill:45",
+      "node_type": "bill",
+      "name": "HB45",
+      "metadata": {
+        "title": "Sample Bill 45"
+      }
+    },
+    {
+      "id": "bill:46",
+      "node_type": "bill",
+      "name": "HB46",
+      "metadata": {
+        "title": "Sample Bill 46"
+      }
+    },
+    {
+      "id": "bill:47",
+      "node_type": "bill",
+      "name": "HB47",
+      "metadata": {
+        "title": "Sample Bill 47"
+      }
+    },
+    {
+      "id": "bill:48",
+      "node_type": "bill",
+      "name": "HB48",
+      "metadata": {
+        "title": "Sample Bill 48"
+      }
+    },
+    {
+      "id": "bill:49",
+      "node_type": "bill",
+      "name": "HB49",
+      "metadata": {
+        "title": "Sample Bill 49"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "org:arkansas_house|part_of|org:arkansas",
+      "source": "org:arkansas_house",
+      "target": "org:arkansas",
+      "relationship_type": "part_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "org:arkansas_senate|part_of|org:arkansas",
+      "source": "org:arkansas_senate",
+      "target": "org:arkansas",
+      "relationship_type": "part_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_0|belongs_to|org:arkansas_house",
+      "source": "committee:house_0",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_1|belongs_to|org:arkansas_house",
+      "source": "committee:house_1",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_2|belongs_to|org:arkansas_house",
+      "source": "committee:house_2",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_3|belongs_to|org:arkansas_house",
+      "source": "committee:house_3",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_4|belongs_to|org:arkansas_house",
+      "source": "committee:house_4",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_5|belongs_to|org:arkansas_house",
+      "source": "committee:house_5",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_6|belongs_to|org:arkansas_house",
+      "source": "committee:house_6",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_7|belongs_to|org:arkansas_house",
+      "source": "committee:house_7",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_8|belongs_to|org:arkansas_house",
+      "source": "committee:house_8",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:house_9|belongs_to|org:arkansas_house",
+      "source": "committee:house_9",
+      "target": "org:arkansas_house",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_0|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_0",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_1|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_1",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_2|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_2",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_3|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_3",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_4|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_4",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_5|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_5",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_6|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_6",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "committee:senate_7|belongs_to|org:arkansas_senate",
+      "source": "committee:senate_7",
+      "target": "org:arkansas_senate",
+      "relationship_type": "belongs_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:0|member_of|org:arkansas_house",
+      "source": "legislator:0",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:0|member_of|committee:senate_4",
+      "source": "legislator:0",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:1|member_of|org:arkansas_house",
+      "source": "legislator:1",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:1|member_of|committee:senate_3",
+      "source": "legislator:1",
+      "target": "committee:senate_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:2|member_of|org:arkansas_house",
+      "source": "legislator:2",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:2|member_of|committee:senate_6",
+      "source": "legislator:2",
+      "target": "committee:senate_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:3|member_of|org:arkansas_house",
+      "source": "legislator:3",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:3|member_of|committee:house_6",
+      "source": "legislator:3",
+      "target": "committee:house_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:4|member_of|org:arkansas_house",
+      "source": "legislator:4",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:4|member_of|committee:senate_3",
+      "source": "legislator:4",
+      "target": "committee:senate_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:5|member_of|org:arkansas_house",
+      "source": "legislator:5",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:5|member_of|committee:senate_2",
+      "source": "legislator:5",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:6|member_of|org:arkansas_house",
+      "source": "legislator:6",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:6|member_of|committee:house_8",
+      "source": "legislator:6",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:7|member_of|org:arkansas_house",
+      "source": "legislator:7",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:7|member_of|committee:house_1",
+      "source": "legislator:7",
+      "target": "committee:house_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:8|member_of|org:arkansas_house",
+      "source": "legislator:8",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:8|member_of|committee:house_3",
+      "source": "legislator:8",
+      "target": "committee:house_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:9|member_of|org:arkansas_house",
+      "source": "legislator:9",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:9|member_of|committee:house_3",
+      "source": "legislator:9",
+      "target": "committee:house_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:10|member_of|org:arkansas_house",
+      "source": "legislator:10",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:10|member_of|committee:house_8",
+      "source": "legislator:10",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:11|member_of|org:arkansas_house",
+      "source": "legislator:11",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:11|member_of|committee:senate_4",
+      "source": "legislator:11",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:12|member_of|org:arkansas_house",
+      "source": "legislator:12",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:12|member_of|committee:house_5",
+      "source": "legislator:12",
+      "target": "committee:house_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:13|member_of|org:arkansas_house",
+      "source": "legislator:13",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:13|member_of|committee:senate_2",
+      "source": "legislator:13",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:14|member_of|org:arkansas_house",
+      "source": "legislator:14",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:14|member_of|committee:house_0",
+      "source": "legislator:14",
+      "target": "committee:house_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:15|member_of|org:arkansas_house",
+      "source": "legislator:15",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:15|member_of|committee:senate_0",
+      "source": "legislator:15",
+      "target": "committee:senate_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:16|member_of|org:arkansas_house",
+      "source": "legislator:16",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:16|member_of|committee:house_0",
+      "source": "legislator:16",
+      "target": "committee:house_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:17|member_of|org:arkansas_house",
+      "source": "legislator:17",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:17|member_of|committee:house_6",
+      "source": "legislator:17",
+      "target": "committee:house_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:18|member_of|org:arkansas_house",
+      "source": "legislator:18",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:18|member_of|committee:house_4",
+      "source": "legislator:18",
+      "target": "committee:house_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:19|member_of|org:arkansas_house",
+      "source": "legislator:19",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:19|member_of|committee:senate_4",
+      "source": "legislator:19",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:20|member_of|org:arkansas_house",
+      "source": "legislator:20",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:20|member_of|committee:house_1",
+      "source": "legislator:20",
+      "target": "committee:house_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:21|member_of|org:arkansas_house",
+      "source": "legislator:21",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:21|member_of|committee:senate_2",
+      "source": "legislator:21",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:22|member_of|org:arkansas_house",
+      "source": "legislator:22",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:22|member_of|committee:house_3",
+      "source": "legislator:22",
+      "target": "committee:house_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:23|member_of|org:arkansas_house",
+      "source": "legislator:23",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:23|member_of|committee:house_9",
+      "source": "legislator:23",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:24|member_of|org:arkansas_house",
+      "source": "legislator:24",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:24|member_of|committee:senate_4",
+      "source": "legislator:24",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:25|member_of|org:arkansas_house",
+      "source": "legislator:25",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:25|member_of|committee:house_7",
+      "source": "legislator:25",
+      "target": "committee:house_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:26|member_of|org:arkansas_house",
+      "source": "legislator:26",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:26|member_of|committee:house_9",
+      "source": "legislator:26",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:27|member_of|org:arkansas_house",
+      "source": "legislator:27",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:27|member_of|committee:senate_1",
+      "source": "legislator:27",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:28|member_of|org:arkansas_house",
+      "source": "legislator:28",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:28|member_of|committee:senate_7",
+      "source": "legislator:28",
+      "target": "committee:senate_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:29|member_of|org:arkansas_house",
+      "source": "legislator:29",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:29|member_of|committee:house_2",
+      "source": "legislator:29",
+      "target": "committee:house_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:30|member_of|org:arkansas_house",
+      "source": "legislator:30",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:30|member_of|committee:house_9",
+      "source": "legislator:30",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:31|member_of|org:arkansas_house",
+      "source": "legislator:31",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:31|member_of|committee:house_8",
+      "source": "legislator:31",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:32|member_of|org:arkansas_house",
+      "source": "legislator:32",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:32|member_of|committee:house_3",
+      "source": "legislator:32",
+      "target": "committee:house_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:33|member_of|org:arkansas_house",
+      "source": "legislator:33",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:33|member_of|committee:house_9",
+      "source": "legislator:33",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:34|member_of|org:arkansas_house",
+      "source": "legislator:34",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:34|member_of|committee:house_7",
+      "source": "legislator:34",
+      "target": "committee:house_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:35|member_of|org:arkansas_house",
+      "source": "legislator:35",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:35|member_of|committee:senate_1",
+      "source": "legislator:35",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:36|member_of|org:arkansas_house",
+      "source": "legislator:36",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:36|member_of|committee:house_6",
+      "source": "legislator:36",
+      "target": "committee:house_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:37|member_of|org:arkansas_house",
+      "source": "legislator:37",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:37|member_of|committee:senate_7",
+      "source": "legislator:37",
+      "target": "committee:senate_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:38|member_of|org:arkansas_house",
+      "source": "legislator:38",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:38|member_of|committee:house_9",
+      "source": "legislator:38",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:39|member_of|org:arkansas_house",
+      "source": "legislator:39",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:39|member_of|committee:house_0",
+      "source": "legislator:39",
+      "target": "committee:house_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:40|member_of|org:arkansas_house",
+      "source": "legislator:40",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:40|member_of|committee:senate_2",
+      "source": "legislator:40",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:41|member_of|org:arkansas_house",
+      "source": "legislator:41",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:41|member_of|committee:house_7",
+      "source": "legislator:41",
+      "target": "committee:house_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:42|member_of|org:arkansas_house",
+      "source": "legislator:42",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:42|member_of|committee:senate_5",
+      "source": "legislator:42",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:43|member_of|org:arkansas_house",
+      "source": "legislator:43",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:43|member_of|committee:senate_1",
+      "source": "legislator:43",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:44|member_of|org:arkansas_house",
+      "source": "legislator:44",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:44|member_of|committee:senate_1",
+      "source": "legislator:44",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:45|member_of|org:arkansas_house",
+      "source": "legislator:45",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:45|member_of|committee:senate_2",
+      "source": "legislator:45",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:46|member_of|org:arkansas_house",
+      "source": "legislator:46",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:46|member_of|committee:senate_1",
+      "source": "legislator:46",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:47|member_of|org:arkansas_house",
+      "source": "legislator:47",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:47|member_of|committee:senate_1",
+      "source": "legislator:47",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:48|member_of|org:arkansas_house",
+      "source": "legislator:48",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:48|member_of|committee:house_3",
+      "source": "legislator:48",
+      "target": "committee:house_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:49|member_of|org:arkansas_house",
+      "source": "legislator:49",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:49|member_of|committee:house_2",
+      "source": "legislator:49",
+      "target": "committee:house_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:50|member_of|org:arkansas_house",
+      "source": "legislator:50",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:50|member_of|committee:senate_2",
+      "source": "legislator:50",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:51|member_of|org:arkansas_house",
+      "source": "legislator:51",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:51|member_of|committee:senate_2",
+      "source": "legislator:51",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:52|member_of|org:arkansas_house",
+      "source": "legislator:52",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:52|member_of|committee:house_8",
+      "source": "legislator:52",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:53|member_of|org:arkansas_house",
+      "source": "legislator:53",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:53|member_of|committee:senate_5",
+      "source": "legislator:53",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:54|member_of|org:arkansas_house",
+      "source": "legislator:54",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:54|member_of|committee:senate_3",
+      "source": "legislator:54",
+      "target": "committee:senate_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:55|member_of|org:arkansas_house",
+      "source": "legislator:55",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:55|member_of|committee:senate_3",
+      "source": "legislator:55",
+      "target": "committee:senate_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:56|member_of|org:arkansas_house",
+      "source": "legislator:56",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:56|member_of|committee:house_4",
+      "source": "legislator:56",
+      "target": "committee:house_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:57|member_of|org:arkansas_house",
+      "source": "legislator:57",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:57|member_of|committee:house_4",
+      "source": "legislator:57",
+      "target": "committee:house_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:58|member_of|org:arkansas_house",
+      "source": "legislator:58",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:58|member_of|committee:house_6",
+      "source": "legislator:58",
+      "target": "committee:house_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:59|member_of|org:arkansas_house",
+      "source": "legislator:59",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:59|member_of|committee:senate_0",
+      "source": "legislator:59",
+      "target": "committee:senate_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:60|member_of|org:arkansas_house",
+      "source": "legislator:60",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:60|member_of|committee:house_9",
+      "source": "legislator:60",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:61|member_of|org:arkansas_house",
+      "source": "legislator:61",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:61|member_of|committee:senate_7",
+      "source": "legislator:61",
+      "target": "committee:senate_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:62|member_of|org:arkansas_house",
+      "source": "legislator:62",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:62|member_of|committee:senate_4",
+      "source": "legislator:62",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:63|member_of|org:arkansas_house",
+      "source": "legislator:63",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:63|member_of|committee:house_5",
+      "source": "legislator:63",
+      "target": "committee:house_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:64|member_of|org:arkansas_house",
+      "source": "legislator:64",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:64|member_of|committee:senate_5",
+      "source": "legislator:64",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:65|member_of|org:arkansas_house",
+      "source": "legislator:65",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:65|member_of|committee:house_9",
+      "source": "legislator:65",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:66|member_of|org:arkansas_house",
+      "source": "legislator:66",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:66|member_of|committee:house_0",
+      "source": "legislator:66",
+      "target": "committee:house_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:67|member_of|org:arkansas_house",
+      "source": "legislator:67",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:67|member_of|committee:senate_5",
+      "source": "legislator:67",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:68|member_of|org:arkansas_house",
+      "source": "legislator:68",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:68|member_of|committee:house_6",
+      "source": "legislator:68",
+      "target": "committee:house_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:69|member_of|org:arkansas_house",
+      "source": "legislator:69",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:69|member_of|committee:senate_0",
+      "source": "legislator:69",
+      "target": "committee:senate_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:70|member_of|org:arkansas_house",
+      "source": "legislator:70",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:70|member_of|committee:senate_6",
+      "source": "legislator:70",
+      "target": "committee:senate_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:71|member_of|org:arkansas_house",
+      "source": "legislator:71",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:71|member_of|committee:senate_0",
+      "source": "legislator:71",
+      "target": "committee:senate_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:72|member_of|org:arkansas_house",
+      "source": "legislator:72",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:72|member_of|committee:house_8",
+      "source": "legislator:72",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:73|member_of|org:arkansas_house",
+      "source": "legislator:73",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:73|member_of|committee:senate_3",
+      "source": "legislator:73",
+      "target": "committee:senate_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:74|member_of|org:arkansas_house",
+      "source": "legislator:74",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:74|member_of|committee:house_8",
+      "source": "legislator:74",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:75|member_of|org:arkansas_house",
+      "source": "legislator:75",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:75|member_of|committee:house_5",
+      "source": "legislator:75",
+      "target": "committee:house_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:76|member_of|org:arkansas_house",
+      "source": "legislator:76",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:76|member_of|committee:senate_1",
+      "source": "legislator:76",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:77|member_of|org:arkansas_house",
+      "source": "legislator:77",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:77|member_of|committee:house_6",
+      "source": "legislator:77",
+      "target": "committee:house_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:78|member_of|org:arkansas_house",
+      "source": "legislator:78",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:78|member_of|committee:house_1",
+      "source": "legislator:78",
+      "target": "committee:house_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:79|member_of|org:arkansas_house",
+      "source": "legislator:79",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:79|member_of|committee:senate_3",
+      "source": "legislator:79",
+      "target": "committee:senate_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:80|member_of|org:arkansas_house",
+      "source": "legislator:80",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:80|member_of|committee:house_2",
+      "source": "legislator:80",
+      "target": "committee:house_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:81|member_of|org:arkansas_house",
+      "source": "legislator:81",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:81|member_of|committee:senate_1",
+      "source": "legislator:81",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:82|member_of|org:arkansas_house",
+      "source": "legislator:82",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:82|member_of|committee:house_7",
+      "source": "legislator:82",
+      "target": "committee:house_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:83|member_of|org:arkansas_house",
+      "source": "legislator:83",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:83|member_of|committee:senate_4",
+      "source": "legislator:83",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:84|member_of|org:arkansas_house",
+      "source": "legislator:84",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:84|member_of|committee:senate_2",
+      "source": "legislator:84",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:85|member_of|org:arkansas_house",
+      "source": "legislator:85",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:85|member_of|committee:senate_7",
+      "source": "legislator:85",
+      "target": "committee:senate_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:86|member_of|org:arkansas_house",
+      "source": "legislator:86",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:86|member_of|committee:senate_2",
+      "source": "legislator:86",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:87|member_of|org:arkansas_house",
+      "source": "legislator:87",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:87|member_of|committee:senate_6",
+      "source": "legislator:87",
+      "target": "committee:senate_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:88|member_of|org:arkansas_house",
+      "source": "legislator:88",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:88|member_of|committee:senate_7",
+      "source": "legislator:88",
+      "target": "committee:senate_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:89|member_of|org:arkansas_house",
+      "source": "legislator:89",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:89|member_of|committee:senate_7",
+      "source": "legislator:89",
+      "target": "committee:senate_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:90|member_of|org:arkansas_house",
+      "source": "legislator:90",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:90|member_of|committee:senate_1",
+      "source": "legislator:90",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:91|member_of|org:arkansas_house",
+      "source": "legislator:91",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:91|member_of|committee:house_2",
+      "source": "legislator:91",
+      "target": "committee:house_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:92|member_of|org:arkansas_house",
+      "source": "legislator:92",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:92|member_of|committee:house_9",
+      "source": "legislator:92",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:93|member_of|org:arkansas_house",
+      "source": "legislator:93",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:93|member_of|committee:senate_3",
+      "source": "legislator:93",
+      "target": "committee:senate_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:94|member_of|org:arkansas_house",
+      "source": "legislator:94",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:94|member_of|committee:house_4",
+      "source": "legislator:94",
+      "target": "committee:house_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:95|member_of|org:arkansas_house",
+      "source": "legislator:95",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:95|member_of|committee:senate_0",
+      "source": "legislator:95",
+      "target": "committee:senate_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:96|member_of|org:arkansas_house",
+      "source": "legislator:96",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:96|member_of|committee:senate_2",
+      "source": "legislator:96",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:97|member_of|org:arkansas_house",
+      "source": "legislator:97",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:97|member_of|committee:senate_4",
+      "source": "legislator:97",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:98|member_of|org:arkansas_house",
+      "source": "legislator:98",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:98|member_of|committee:senate_1",
+      "source": "legislator:98",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:99|member_of|org:arkansas_house",
+      "source": "legislator:99",
+      "target": "org:arkansas_house",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:99|member_of|committee:house_3",
+      "source": "legislator:99",
+      "target": "committee:house_3",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:100|member_of|org:arkansas_senate",
+      "source": "legislator:100",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:100|member_of|committee:house_5",
+      "source": "legislator:100",
+      "target": "committee:house_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:101|member_of|org:arkansas_senate",
+      "source": "legislator:101",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:101|member_of|committee:house_8",
+      "source": "legislator:101",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:102|member_of|org:arkansas_senate",
+      "source": "legislator:102",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:102|member_of|committee:house_7",
+      "source": "legislator:102",
+      "target": "committee:house_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:103|member_of|org:arkansas_senate",
+      "source": "legislator:103",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:103|member_of|committee:house_7",
+      "source": "legislator:103",
+      "target": "committee:house_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:104|member_of|org:arkansas_senate",
+      "source": "legislator:104",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:104|member_of|committee:senate_4",
+      "source": "legislator:104",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:105|member_of|org:arkansas_senate",
+      "source": "legislator:105",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:105|member_of|committee:senate_5",
+      "source": "legislator:105",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:106|member_of|org:arkansas_senate",
+      "source": "legislator:106",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:106|member_of|committee:house_2",
+      "source": "legislator:106",
+      "target": "committee:house_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:107|member_of|org:arkansas_senate",
+      "source": "legislator:107",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:107|member_of|committee:senate_5",
+      "source": "legislator:107",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:108|member_of|org:arkansas_senate",
+      "source": "legislator:108",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:108|member_of|committee:senate_5",
+      "source": "legislator:108",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:109|member_of|org:arkansas_senate",
+      "source": "legislator:109",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:109|member_of|committee:senate_1",
+      "source": "legislator:109",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:110|member_of|org:arkansas_senate",
+      "source": "legislator:110",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:110|member_of|committee:house_2",
+      "source": "legislator:110",
+      "target": "committee:house_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:111|member_of|org:arkansas_senate",
+      "source": "legislator:111",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:111|member_of|committee:senate_5",
+      "source": "legislator:111",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:112|member_of|org:arkansas_senate",
+      "source": "legislator:112",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:112|member_of|committee:senate_6",
+      "source": "legislator:112",
+      "target": "committee:senate_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:113|member_of|org:arkansas_senate",
+      "source": "legislator:113",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:113|member_of|committee:senate_1",
+      "source": "legislator:113",
+      "target": "committee:senate_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:114|member_of|org:arkansas_senate",
+      "source": "legislator:114",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:114|member_of|committee:house_4",
+      "source": "legislator:114",
+      "target": "committee:house_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:115|member_of|org:arkansas_senate",
+      "source": "legislator:115",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:115|member_of|committee:house_9",
+      "source": "legislator:115",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:116|member_of|org:arkansas_senate",
+      "source": "legislator:116",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:116|member_of|committee:house_6",
+      "source": "legislator:116",
+      "target": "committee:house_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:117|member_of|org:arkansas_senate",
+      "source": "legislator:117",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:117|member_of|committee:house_1",
+      "source": "legislator:117",
+      "target": "committee:house_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:118|member_of|org:arkansas_senate",
+      "source": "legislator:118",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:118|member_of|committee:senate_2",
+      "source": "legislator:118",
+      "target": "committee:senate_2",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:119|member_of|org:arkansas_senate",
+      "source": "legislator:119",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:119|member_of|committee:house_9",
+      "source": "legislator:119",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:120|member_of|org:arkansas_senate",
+      "source": "legislator:120",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:120|member_of|committee:senate_5",
+      "source": "legislator:120",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:121|member_of|org:arkansas_senate",
+      "source": "legislator:121",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:121|member_of|committee:senate_5",
+      "source": "legislator:121",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:122|member_of|org:arkansas_senate",
+      "source": "legislator:122",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:122|member_of|committee:house_1",
+      "source": "legislator:122",
+      "target": "committee:house_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:123|member_of|org:arkansas_senate",
+      "source": "legislator:123",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:123|member_of|committee:senate_7",
+      "source": "legislator:123",
+      "target": "committee:senate_7",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:124|member_of|org:arkansas_senate",
+      "source": "legislator:124",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:124|member_of|committee:senate_5",
+      "source": "legislator:124",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:125|member_of|org:arkansas_senate",
+      "source": "legislator:125",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:125|member_of|committee:senate_0",
+      "source": "legislator:125",
+      "target": "committee:senate_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:126|member_of|org:arkansas_senate",
+      "source": "legislator:126",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:126|member_of|committee:house_8",
+      "source": "legislator:126",
+      "target": "committee:house_8",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:127|member_of|org:arkansas_senate",
+      "source": "legislator:127",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:127|member_of|committee:senate_6",
+      "source": "legislator:127",
+      "target": "committee:senate_6",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:128|member_of|org:arkansas_senate",
+      "source": "legislator:128",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:128|member_of|committee:house_9",
+      "source": "legislator:128",
+      "target": "committee:house_9",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:129|member_of|org:arkansas_senate",
+      "source": "legislator:129",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:129|member_of|committee:senate_4",
+      "source": "legislator:129",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:130|member_of|org:arkansas_senate",
+      "source": "legislator:130",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:130|member_of|committee:house_1",
+      "source": "legislator:130",
+      "target": "committee:house_1",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:131|member_of|org:arkansas_senate",
+      "source": "legislator:131",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:131|member_of|committee:house_4",
+      "source": "legislator:131",
+      "target": "committee:house_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:132|member_of|org:arkansas_senate",
+      "source": "legislator:132",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:132|member_of|committee:senate_0",
+      "source": "legislator:132",
+      "target": "committee:senate_0",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:133|member_of|org:arkansas_senate",
+      "source": "legislator:133",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:133|member_of|committee:senate_5",
+      "source": "legislator:133",
+      "target": "committee:senate_5",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:134|member_of|org:arkansas_senate",
+      "source": "legislator:134",
+      "target": "org:arkansas_senate",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:134|member_of|committee:senate_4",
+      "source": "legislator:134",
+      "target": "committee:senate_4",
+      "relationship_type": "member_of",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:0|introduced_in|org:arkansas",
+      "source": "bill:0",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:52|sponsors|bill:0",
+      "source": "legislator:52",
+      "target": "bill:0",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:0|about|policy:healthcare",
+      "source": "bill:0",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:0|referred_to|committee:senate_2",
+      "source": "bill:0",
+      "target": "committee:senate_2",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:1|introduced_in|org:arkansas",
+      "source": "bill:1",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:123|sponsors|bill:1",
+      "source": "legislator:123",
+      "target": "bill:1",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:1|about|policy:taxes",
+      "source": "bill:1",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:1|referred_to|committee:house_3",
+      "source": "bill:1",
+      "target": "committee:house_3",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:2|introduced_in|org:arkansas",
+      "source": "bill:2",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:68|sponsors|bill:2",
+      "source": "legislator:68",
+      "target": "bill:2",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:2|about|policy:taxes",
+      "source": "bill:2",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:2|referred_to|committee:house_1",
+      "source": "bill:2",
+      "target": "committee:house_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:3|introduced_in|org:arkansas",
+      "source": "bill:3",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:98|sponsors|bill:3",
+      "source": "legislator:98",
+      "target": "bill:3",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:3|about|policy:education",
+      "source": "bill:3",
+      "target": "policy:education",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:3|referred_to|committee:senate_0",
+      "source": "bill:3",
+      "target": "committee:senate_0",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:4|introduced_in|org:arkansas",
+      "source": "bill:4",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:62|sponsors|bill:4",
+      "source": "legislator:62",
+      "target": "bill:4",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:4|about|policy:healthcare",
+      "source": "bill:4",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:4|referred_to|committee:house_7",
+      "source": "bill:4",
+      "target": "committee:house_7",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:5|introduced_in|org:arkansas",
+      "source": "bill:5",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:93|sponsors|bill:5",
+      "source": "legislator:93",
+      "target": "bill:5",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:5|about|policy:education",
+      "source": "bill:5",
+      "target": "policy:education",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:5|referred_to|committee:house_9",
+      "source": "bill:5",
+      "target": "committee:house_9",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:6|introduced_in|org:arkansas",
+      "source": "bill:6",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:57|sponsors|bill:6",
+      "source": "legislator:57",
+      "target": "bill:6",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:6|about|policy:healthcare",
+      "source": "bill:6",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:6|referred_to|committee:senate_3",
+      "source": "bill:6",
+      "target": "committee:senate_3",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:7|introduced_in|org:arkansas",
+      "source": "bill:7",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:97|sponsors|bill:7",
+      "source": "legislator:97",
+      "target": "bill:7",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:7|about|policy:education",
+      "source": "bill:7",
+      "target": "policy:education",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:7|referred_to|committee:house_2",
+      "source": "bill:7",
+      "target": "committee:house_2",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:8|introduced_in|org:arkansas",
+      "source": "bill:8",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:77|sponsors|bill:8",
+      "source": "legislator:77",
+      "target": "bill:8",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:8|about|policy:healthcare",
+      "source": "bill:8",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:8|referred_to|committee:house_5",
+      "source": "bill:8",
+      "target": "committee:house_5",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:9|introduced_in|org:arkansas",
+      "source": "bill:9",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:18|sponsors|bill:9",
+      "source": "legislator:18",
+      "target": "bill:9",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:9|about|policy:education",
+      "source": "bill:9",
+      "target": "policy:education",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:9|referred_to|committee:house_0",
+      "source": "bill:9",
+      "target": "committee:house_0",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:10|introduced_in|org:arkansas",
+      "source": "bill:10",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:105|sponsors|bill:10",
+      "source": "legislator:105",
+      "target": "bill:10",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:10|about|policy:healthcare",
+      "source": "bill:10",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:10|referred_to|committee:senate_1",
+      "source": "bill:10",
+      "target": "committee:senate_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:11|introduced_in|org:arkansas",
+      "source": "bill:11",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:23|sponsors|bill:11",
+      "source": "legislator:23",
+      "target": "bill:11",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:11|about|policy:taxes",
+      "source": "bill:11",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:11|referred_to|committee:house_5",
+      "source": "bill:11",
+      "target": "committee:house_5",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:12|introduced_in|org:arkansas",
+      "source": "bill:12",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:46|sponsors|bill:12",
+      "source": "legislator:46",
+      "target": "bill:12",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:12|about|policy:healthcare",
+      "source": "bill:12",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:12|referred_to|committee:senate_3",
+      "source": "bill:12",
+      "target": "committee:senate_3",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:13|introduced_in|org:arkansas",
+      "source": "bill:13",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:122|sponsors|bill:13",
+      "source": "legislator:122",
+      "target": "bill:13",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:13|about|policy:healthcare",
+      "source": "bill:13",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:13|referred_to|committee:senate_4",
+      "source": "bill:13",
+      "target": "committee:senate_4",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:14|introduced_in|org:arkansas",
+      "source": "bill:14",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:38|sponsors|bill:14",
+      "source": "legislator:38",
+      "target": "bill:14",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:14|about|policy:education",
+      "source": "bill:14",
+      "target": "policy:education",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:14|referred_to|committee:house_8",
+      "source": "bill:14",
+      "target": "committee:house_8",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:15|introduced_in|org:arkansas",
+      "source": "bill:15",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:47|sponsors|bill:15",
+      "source": "legislator:47",
+      "target": "bill:15",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:15|about|policy:energy",
+      "source": "bill:15",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:15|referred_to|committee:house_3",
+      "source": "bill:15",
+      "target": "committee:house_3",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:16|introduced_in|org:arkansas",
+      "source": "bill:16",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:83|sponsors|bill:16",
+      "source": "legislator:83",
+      "target": "bill:16",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:16|about|policy:healthcare",
+      "source": "bill:16",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:16|referred_to|committee:senate_7",
+      "source": "bill:16",
+      "target": "committee:senate_7",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:17|introduced_in|org:arkansas",
+      "source": "bill:17",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:103|sponsors|bill:17",
+      "source": "legislator:103",
+      "target": "bill:17",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:17|about|policy:healthcare",
+      "source": "bill:17",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:17|referred_to|committee:senate_6",
+      "source": "bill:17",
+      "target": "committee:senate_6",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:18|introduced_in|org:arkansas",
+      "source": "bill:18",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:38|sponsors|bill:18",
+      "source": "legislator:38",
+      "target": "bill:18",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:18|about|policy:taxes",
+      "source": "bill:18",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:18|referred_to|committee:senate_4",
+      "source": "bill:18",
+      "target": "committee:senate_4",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:19|introduced_in|org:arkansas",
+      "source": "bill:19",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:60|sponsors|bill:19",
+      "source": "legislator:60",
+      "target": "bill:19",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:19|about|policy:infrastructure",
+      "source": "bill:19",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:19|referred_to|committee:house_1",
+      "source": "bill:19",
+      "target": "committee:house_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:20|introduced_in|org:arkansas",
+      "source": "bill:20",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:104|sponsors|bill:20",
+      "source": "legislator:104",
+      "target": "bill:20",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:20|about|policy:infrastructure",
+      "source": "bill:20",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:20|referred_to|committee:house_7",
+      "source": "bill:20",
+      "target": "committee:house_7",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:21|introduced_in|org:arkansas",
+      "source": "bill:21",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:66|sponsors|bill:21",
+      "source": "legislator:66",
+      "target": "bill:21",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:21|about|policy:energy",
+      "source": "bill:21",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:21|referred_to|committee:house_4",
+      "source": "bill:21",
+      "target": "committee:house_4",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:22|introduced_in|org:arkansas",
+      "source": "bill:22",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:97|sponsors|bill:22",
+      "source": "legislator:97",
+      "target": "bill:22",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:22|about|policy:healthcare",
+      "source": "bill:22",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:22|referred_to|committee:senate_7",
+      "source": "bill:22",
+      "target": "committee:senate_7",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:23|introduced_in|org:arkansas",
+      "source": "bill:23",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:92|sponsors|bill:23",
+      "source": "legislator:92",
+      "target": "bill:23",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:23|about|policy:healthcare",
+      "source": "bill:23",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:23|referred_to|committee:house_4",
+      "source": "bill:23",
+      "target": "committee:house_4",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:24|introduced_in|org:arkansas",
+      "source": "bill:24",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:48|sponsors|bill:24",
+      "source": "legislator:48",
+      "target": "bill:24",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:24|about|policy:infrastructure",
+      "source": "bill:24",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:24|referred_to|committee:senate_5",
+      "source": "bill:24",
+      "target": "committee:senate_5",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:25|introduced_in|org:arkansas",
+      "source": "bill:25",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:31|sponsors|bill:25",
+      "source": "legislator:31",
+      "target": "bill:25",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:25|about|policy:taxes",
+      "source": "bill:25",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:25|referred_to|committee:house_9",
+      "source": "bill:25",
+      "target": "committee:house_9",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:26|introduced_in|org:arkansas",
+      "source": "bill:26",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:74|sponsors|bill:26",
+      "source": "legislator:74",
+      "target": "bill:26",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:26|about|policy:taxes",
+      "source": "bill:26",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:26|referred_to|committee:house_0",
+      "source": "bill:26",
+      "target": "committee:house_0",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:27|introduced_in|org:arkansas",
+      "source": "bill:27",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:87|sponsors|bill:27",
+      "source": "legislator:87",
+      "target": "bill:27",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:27|about|policy:infrastructure",
+      "source": "bill:27",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:27|referred_to|committee:house_7",
+      "source": "bill:27",
+      "target": "committee:house_7",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:28|introduced_in|org:arkansas",
+      "source": "bill:28",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:67|sponsors|bill:28",
+      "source": "legislator:67",
+      "target": "bill:28",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:28|about|policy:infrastructure",
+      "source": "bill:28",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:28|referred_to|committee:house_6",
+      "source": "bill:28",
+      "target": "committee:house_6",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:29|introduced_in|org:arkansas",
+      "source": "bill:29",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:2|sponsors|bill:29",
+      "source": "legislator:2",
+      "target": "bill:29",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:29|about|policy:energy",
+      "source": "bill:29",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:29|referred_to|committee:senate_0",
+      "source": "bill:29",
+      "target": "committee:senate_0",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:30|introduced_in|org:arkansas",
+      "source": "bill:30",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:77|sponsors|bill:30",
+      "source": "legislator:77",
+      "target": "bill:30",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:30|about|policy:education",
+      "source": "bill:30",
+      "target": "policy:education",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:30|referred_to|committee:house_5",
+      "source": "bill:30",
+      "target": "committee:house_5",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:31|introduced_in|org:arkansas",
+      "source": "bill:31",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:121|sponsors|bill:31",
+      "source": "legislator:121",
+      "target": "bill:31",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:31|about|policy:energy",
+      "source": "bill:31",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:31|referred_to|committee:house_1",
+      "source": "bill:31",
+      "target": "committee:house_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:32|introduced_in|org:arkansas",
+      "source": "bill:32",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:54|sponsors|bill:32",
+      "source": "legislator:54",
+      "target": "bill:32",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:32|about|policy:energy",
+      "source": "bill:32",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:32|referred_to|committee:house_1",
+      "source": "bill:32",
+      "target": "committee:house_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:33|introduced_in|org:arkansas",
+      "source": "bill:33",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:17|sponsors|bill:33",
+      "source": "legislator:17",
+      "target": "bill:33",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:33|about|policy:infrastructure",
+      "source": "bill:33",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:33|referred_to|committee:house_5",
+      "source": "bill:33",
+      "target": "committee:house_5",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:34|introduced_in|org:arkansas",
+      "source": "bill:34",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:98|sponsors|bill:34",
+      "source": "legislator:98",
+      "target": "bill:34",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:34|about|policy:energy",
+      "source": "bill:34",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:34|referred_to|committee:house_1",
+      "source": "bill:34",
+      "target": "committee:house_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:35|introduced_in|org:arkansas",
+      "source": "bill:35",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:116|sponsors|bill:35",
+      "source": "legislator:116",
+      "target": "bill:35",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:35|about|policy:infrastructure",
+      "source": "bill:35",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:35|referred_to|committee:senate_3",
+      "source": "bill:35",
+      "target": "committee:senate_3",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:36|introduced_in|org:arkansas",
+      "source": "bill:36",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:51|sponsors|bill:36",
+      "source": "legislator:51",
+      "target": "bill:36",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:36|about|policy:healthcare",
+      "source": "bill:36",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:36|referred_to|committee:house_8",
+      "source": "bill:36",
+      "target": "committee:house_8",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:37|introduced_in|org:arkansas",
+      "source": "bill:37",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:64|sponsors|bill:37",
+      "source": "legislator:64",
+      "target": "bill:37",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:37|about|policy:energy",
+      "source": "bill:37",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:37|referred_to|committee:senate_7",
+      "source": "bill:37",
+      "target": "committee:senate_7",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:38|introduced_in|org:arkansas",
+      "source": "bill:38",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:79|sponsors|bill:38",
+      "source": "legislator:79",
+      "target": "bill:38",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:38|about|policy:taxes",
+      "source": "bill:38",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:38|referred_to|committee:senate_4",
+      "source": "bill:38",
+      "target": "committee:senate_4",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:39|introduced_in|org:arkansas",
+      "source": "bill:39",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:63|sponsors|bill:39",
+      "source": "legislator:63",
+      "target": "bill:39",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:39|about|policy:infrastructure",
+      "source": "bill:39",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:39|referred_to|committee:house_0",
+      "source": "bill:39",
+      "target": "committee:house_0",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:40|introduced_in|org:arkansas",
+      "source": "bill:40",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:6|sponsors|bill:40",
+      "source": "legislator:6",
+      "target": "bill:40",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:40|about|policy:healthcare",
+      "source": "bill:40",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:40|referred_to|committee:house_1",
+      "source": "bill:40",
+      "target": "committee:house_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:41|introduced_in|org:arkansas",
+      "source": "bill:41",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:63|sponsors|bill:41",
+      "source": "legislator:63",
+      "target": "bill:41",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:41|about|policy:taxes",
+      "source": "bill:41",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:41|referred_to|committee:senate_0",
+      "source": "bill:41",
+      "target": "committee:senate_0",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:42|introduced_in|org:arkansas",
+      "source": "bill:42",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:40|sponsors|bill:42",
+      "source": "legislator:40",
+      "target": "bill:42",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:42|about|policy:infrastructure",
+      "source": "bill:42",
+      "target": "policy:infrastructure",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:42|referred_to|committee:senate_4",
+      "source": "bill:42",
+      "target": "committee:senate_4",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:43|introduced_in|org:arkansas",
+      "source": "bill:43",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:55|sponsors|bill:43",
+      "source": "legislator:55",
+      "target": "bill:43",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:43|about|policy:education",
+      "source": "bill:43",
+      "target": "policy:education",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:43|referred_to|committee:house_5",
+      "source": "bill:43",
+      "target": "committee:house_5",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:44|introduced_in|org:arkansas",
+      "source": "bill:44",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:16|sponsors|bill:44",
+      "source": "legislator:16",
+      "target": "bill:44",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:44|about|policy:healthcare",
+      "source": "bill:44",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:44|referred_to|committee:senate_1",
+      "source": "bill:44",
+      "target": "committee:senate_1",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:45|introduced_in|org:arkansas",
+      "source": "bill:45",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:16|sponsors|bill:45",
+      "source": "legislator:16",
+      "target": "bill:45",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:45|about|policy:taxes",
+      "source": "bill:45",
+      "target": "policy:taxes",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:45|referred_to|committee:senate_7",
+      "source": "bill:45",
+      "target": "committee:senate_7",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:46|introduced_in|org:arkansas",
+      "source": "bill:46",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:130|sponsors|bill:46",
+      "source": "legislator:130",
+      "target": "bill:46",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:46|about|policy:healthcare",
+      "source": "bill:46",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:46|referred_to|committee:house_2",
+      "source": "bill:46",
+      "target": "committee:house_2",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:47|introduced_in|org:arkansas",
+      "source": "bill:47",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:98|sponsors|bill:47",
+      "source": "legislator:98",
+      "target": "bill:47",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:47|about|policy:energy",
+      "source": "bill:47",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:47|referred_to|committee:senate_5",
+      "source": "bill:47",
+      "target": "committee:senate_5",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:48|introduced_in|org:arkansas",
+      "source": "bill:48",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:50|sponsors|bill:48",
+      "source": "legislator:50",
+      "target": "bill:48",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:48|about|policy:energy",
+      "source": "bill:48",
+      "target": "policy:energy",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:48|referred_to|committee:senate_2",
+      "source": "bill:48",
+      "target": "committee:senate_2",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:49|introduced_in|org:arkansas",
+      "source": "bill:49",
+      "target": "org:arkansas",
+      "relationship_type": "introduced_in",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "legislator:9|sponsors|bill:49",
+      "source": "legislator:9",
+      "target": "bill:49",
+      "relationship_type": "sponsors",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:49|about|policy:healthcare",
+      "source": "bill:49",
+      "target": "policy:healthcare",
+      "relationship_type": "about",
+      "weight": 1.0,
+      "metadata": {}
+    },
+    {
+      "id": "bill:49|referred_to|committee:senate_6",
+      "source": "bill:49",
+      "target": "committee:senate_6",
+      "relationship_type": "referred_to",
+      "weight": 1.0,
+      "metadata": {}
+    }
+  ]
+}

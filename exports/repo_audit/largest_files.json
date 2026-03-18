@@ -1,15 +1,39 @@
 [
   {
-    "path": "exports\\repo_audit\\files.json",
+    "path": "exports\\knowledge_graph\\knowledge_graph.json",
     "suffix": ".json",
-    "size_bytes": 585370,
-    "line_count": 17960
+    "size_bytes": 2797311,
+    "line_count": 73088
+  },
+  {
+    "path": "exports\\system_map\\platform_kernel_snapshot.json",
+    "suffix": ".json",
+    "size_bytes": 1223537,
+    "line_count": 11912
+  },
+  {
+    "path": "exports\\lesson_player\\lesson_player_index.json",
+    "suffix": ".json",
+    "size_bytes": 1173854,
+    "line_count": 18109
+  },
+  {
+    "path": "exports\\civic_intelligence_map\\civic_intelligence_map.json",
+    "suffix": ".json",
+    "size_bytes": 1025579,
+    "line_count": 23538
   },
   {
     "path": "exports\\project_map\\project_files.json",
     "suffix": ".json",
-    "size_bytes": 547968,
-    "line_count": 16778
+    "size_bytes": 868568,
+    "line_count": 26242
+  },
+  {
+    "path": "exports\\repo_audit\\files.json",
+    "suffix": ".json",
+    "size_bytes": 618683,
+    "line_count": 17978
   },
   {
     "path": "exports\\book\\compiled_book.md",
@@ -20,14 +44,74 @@
   {
     "path": "exports\\project_map\\top_folder_report.md",
     "suffix": ".md",
-    "size_bytes": 216219,
-    "line_count": 2144
+    "size_bytes": 349772,
+    "line_count": 3359
+  },
+  {
+    "path": "exports\\repo_audit\\duplicate_filenames.json",
+    "suffix": ".json",
+    "size_bytes": 342467,
+    "line_count": 2945
+  },
+  {
+    "path": "apps\\editor-dashboard\\content-manifest.json",
+    "suffix": ".json",
+    "size_bytes": 316378,
+    "line_count": 6829
+  },
+  {
+    "path": "exports\\system_map\\project_tree.txt",
+    "suffix": ".txt",
+    "size_bytes": 237377,
+    "line_count": 6454
   },
   {
     "path": "exports\\project_map\\project_tree.txt",
     "suffix": ".txt",
-    "size_bytes": 145741,
-    "line_count": 2570
+    "size_bytes": 235078,
+    "line_count": 4102
+  },
+  {
+    "path": "exports\\repo_audit\\tree.txt",
+    "suffix": ".txt",
+    "size_bytes": 212780,
+    "line_count": 3676
+  },
+  {
+    "path": "exports\\system_map\\system_architecture.json",
+    "suffix": ".json",
+    "size_bytes": 165827,
+    "line_count": 1482
+  },
+  {
+    "path": "exports\\course_engine\\course_01_civic_awakening\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 112185,
+    "line_count": 1372
+  },
+  {
+    "path": "exports\\course_engine\\course_02_arkansas_civic_history\\course_package.json",
+    "suffix": ".json",
+    "size_bytes": 91695,
+    "line_count": 1372
+  },
+  {
+    "path": "exports\\lesson_player\\course_02_arkansas_civic_history\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 91559,
+    "line_count": 1501
+  },
+  {
+    "path": "exports\\lesson_player\\course_01_civic_awakening\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 88508,
+    "line_count": 1501
+  },
+  {
+    "path": "exports\\course_engine\\course_01_civic_awakening\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 82067,
+    "line_count": 3362
   },
   {
     "path": "exports\\articulate\\scorm\\course_01_civic_awakening_SCORM.zip",
@@ -36,117 +120,33 @@
     "line_count": null
   },
   {
+    "path": "exports\\course_engine\\course_02_arkansas_civic_history\\course_package.md",
+    "suffix": ".md",
+    "size_bytes": 63044,
+    "line_count": 2986
+  },
+  {
     "path": "exports\\articulate\\scorm\\course_02_arkansas_civic_history_SCORM.zip",
     "suffix": ".zip",
     "size_bytes": 55139,
     "line_count": null
   },
   {
-    "path": "exports\\course\\course_manifest.json",
+    "path": "exports\\lesson_player\\course_08_messaging_media_and_narrative\\lesson_player_course.json",
     "suffix": ".json",
-    "size_bytes": 49381,
-    "line_count": 1744
+    "size_bytes": 50870,
+    "line_count": 769
   },
   {
-    "path": "apps\\editor-dashboard\\content-manifest.json",
+    "path": "exports\\lesson_player\\course_04_voting_systems_and_representation\\lesson_player_course.json",
     "suffix": ".json",
-    "size_bytes": 48671,
-    "line_count": 1390
+    "size_bytes": 50777,
+    "line_count": 769
   },
   {
-    "path": "scripts\\upgrade_editor_dashboard_architecture.py",
-    "suffix": ".py",
-    "size_bytes": 34429,
-    "line_count": 1029
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_05_labor_and_collective_power_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 33719,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_11_opposition_and_pushback_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 33539,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_10_strategy_and_campaigns_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 33479,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_12_sustaining_movements_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 33359,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_09_messaging_and_media_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 33299,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_08_coalition_building_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 33239,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_03_direct_democracy_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 33119,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_04_voting_systems_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 32999,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_07_shared_purpose_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 32999,
-    "line_count": null
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_06_shared_pain_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 32819,
-    "line_count": null
-  },
-  {
-    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_01.html",
-    "suffix": ".html",
-    "size_bytes": 31754,
-    "line_count": 471
-  },
-  {
-    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_03.html",
-    "suffix": ".html",
-    "size_bytes": 26503,
-    "line_count": 401
-  },
-  {
-    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_02.html",
-    "suffix": ".html",
-    "size_bytes": 26282,
-    "line_count": 407
-  },
-  {
-    "path": "exports\\reader_site\\course_01_civic_awakening_chapter_04.html",
-    "suffix": ".html",
-    "size_bytes": 25144,
-    "line_count": 390
-  },
-  {
-    "path": "exports\\articulate\\scorm\\course_10_opposition_pushback_and_rule_changes_SCORM.zip",
-    "suffix": ".zip",
-    "size_bytes": 24099,
-    "line_count": null
+    "path": "exports\\lesson_player\\course_10_opposition_pushback_and_rule_changes\\lesson_player_course.json",
+    "suffix": ".json",
+    "size_bytes": 50701,
+    "line_count": 769
   }
 ]

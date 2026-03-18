@@ -1,0 +1,50 @@
+{
+  "project_name": "Arkansas Civics",
+  "environment": "local",
+  "paths": {
+    "project_name": "Arkansas Civics",
+    "environment": {
+      "name": "local",
+      "debug": true,
+      "log_level": "INFO",
+      "filesystem_source_of_truth": true,
+      "database_enabled": false,
+      "dashboard_enabled": true
+    },
+    "project_root": "C:\\Users\\User\\Desktop\\arkansas_civics",
+    "content_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\content",
+    "courses_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\content\\courses",
+    "exports_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\exports",
+    "data_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\data",
+    "docs_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\docs",
+    "scripts_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\scripts",
+    "apps_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\apps",
+    "dashboard_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\apps\\editor-dashboard",
+    "dashboard_content_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\apps\\editor-dashboard\\content",
+    "dashboard_manifest_path": "C:\\Users\\User\\Desktop\\arkansas_civics\\apps\\editor-dashboard\\content-manifest.json",
+    "netlify_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\netlify",
+    "config_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\config",
+    "engine_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\engine",
+    "logs_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\logs",
+    "temp_dir": "C:\\Users\\User\\Desktop\\arkansas_civics\\tmp"
+  },
+  "database_readiness": {
+    "database_connected": false,
+    "database_type": null,
+    "source_of_truth": "filesystem",
+    "environment": "local",
+    "future_role": [
+      "user progress tracking",
+      "dashboard multi-user state",
+      "analytics",
+      "search indexing",
+      "operational cache"
+    ]
+  },
+  "source_of_truth_rules": {
+    "content": "authoritative source of truth",
+    "apps/editor-dashboard/content": "generated mirror only",
+    "exports": "generated outputs only",
+    "archive": "inactive historical files only"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_directories": [
+    "data/civic_sources/legislators",
+    "data/civic_sources/committees",
+    "data/civic_sources/donors",
+    "data/civic_sources/policy_impacts"
+  ],
+  "future_extensions": [
+    "campaign finance filings",
+    "lobbyist registrations",
+    "bill histories",
+    "media influence mapping",
+    "county issue clustering"
+  ]
+}

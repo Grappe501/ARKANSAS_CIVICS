@@ -11,8 +11,116 @@
         "path": "engine\\ai_assistant.py"
       },
       {
+        "name": "api_server.py",
+        "path": "engine\\api_server.py"
+      },
+      {
+        "name": "auth_tokens.py",
+        "path": "engine\\auth_tokens.py"
+      },
+      {
+        "name": "certification_rules.py",
+        "path": "engine\\certification_rules.py"
+      },
+      {
+        "name": "civic_credential_engine.py",
+        "path": "engine\\civic_credential_engine.py"
+      },
+      {
+        "name": "civic_data_intelligence_engine.py",
+        "path": "engine\\civic_data_intelligence_engine.py"
+      },
+      {
+        "name": "civic_intelligence_map.py",
+        "path": "engine\\civic_intelligence_map.py"
+      },
+      {
+        "name": "civic_intelligence_system.py",
+        "path": "engine\\civic_intelligence_system.py"
+      },
+      {
+        "name": "civic_knowledge_graph_expansion_engine.py",
+        "path": "engine\\civic_knowledge_graph_expansion_engine.py"
+      },
+      {
+        "name": "civic_mentor_engine.py",
+        "path": "engine\\civic_mentor_engine.py"
+      },
+      {
+        "name": "course_engine.py",
+        "path": "engine\\course_engine.py"
+      },
+      {
+        "name": "database_engine.py",
+        "path": "engine\\database_engine.py"
+      },
+      {
+        "name": "identity_manager.py",
+        "path": "engine\\identity_manager.py"
+      },
+      {
+        "name": "kernel_config.py",
+        "path": "engine\\kernel_config.py"
+      },
+      {
+        "name": "kernel_contracts.py",
+        "path": "engine\\kernel_contracts.py"
+      },
+      {
+        "name": "kernel_health.py",
+        "path": "engine\\kernel_health.py"
+      },
+      {
+        "name": "kernel_logger.py",
+        "path": "engine\\kernel_logger.py"
+      },
+      {
+        "name": "knowledge_graph_engine.py",
+        "path": "engine\\knowledge_graph_engine.py"
+      },
+      {
+        "name": "learning_analytics_engine.py",
+        "path": "engine\\learning_analytics_engine.py"
+      },
+      {
+        "name": "learning_runtime.py",
+        "path": "engine\\learning_runtime.py"
+      },
+      {
+        "name": "lesson_player.py",
+        "path": "engine\\lesson_player.py"
+      },
+      {
         "name": "library_loader.py",
         "path": "engine\\library_loader.py"
+      },
+      {
+        "name": "migration_engine.py",
+        "path": "engine\\migration_engine.py"
+      },
+      {
+        "name": "permissions_engine.py",
+        "path": "engine\\permissions_engine.py"
+      },
+      {
+        "name": "platform_kernel.py",
+        "path": "engine\\platform_kernel.py"
+      },
+      {
+        "name": "progress_engine.py",
+        "path": "engine\\progress_engine.py"
+      },
+      {
+        "name": "progress_registry.py",
+        "path": "engine\\progress_registry.py"
+      },
+      {
+        "name": "track_engine.py",
+        "path": "engine\\track_engine.py"
+      },
+      {
+        "name": "user_identity_engine.py",
+        "path": "engine\\user_identity_engine.py"
       },
       {
         "name": "__init__.py",
@@ -28,7 +136,7 @@
       {
         "name": "build_all.py",
         "path": "scripts\\build_all.py",
-        "size": 3981
+        "size": 6713
       },
       {
         "name": "build_book.py",
@@ -36,14 +144,74 @@
         "size": 1158
       },
       {
+        "name": "build_civic_intelligence_map.py",
+        "path": "scripts\\build_civic_intelligence_map.py",
+        "size": 1964
+      },
+      {
+        "name": "build_civic_intelligence_system.py",
+        "path": "scripts\\build_civic_intelligence_system.py",
+        "size": 3291
+      },
+      {
         "name": "build_civic_library.py",
         "path": "scripts\\build_civic_library.py",
         "size": 10929
       },
       {
+        "name": "build_course_engine.py",
+        "path": "scripts\\build_course_engine.py",
+        "size": 2717
+      },
+      {
         "name": "build_course_exports.py",
         "path": "scripts\\build_course_exports.py",
         "size": 1314
+      },
+      {
+        "name": "build_knowledge_graph.py",
+        "path": "scripts\\build_knowledge_graph.py",
+        "size": 1985
+      },
+      {
+        "name": "build_learning_analytics.py",
+        "path": "scripts\\build_learning_analytics.py",
+        "size": 2347
+      },
+      {
+        "name": "build_lesson_player.py",
+        "path": "scripts\\build_lesson_player.py",
+        "size": 2277
+      },
+      {
+        "name": "build_phase_01_core_kernel.py",
+        "path": "scripts\\build_phase_01_core_kernel.py",
+        "size": 2439
+      },
+      {
+        "name": "build_phase_02_identity.py",
+        "path": "scripts\\build_phase_02_identity.py",
+        "size": 317
+      },
+      {
+        "name": "build_phase_03_progress_credentials.py",
+        "path": "scripts\\build_phase_03_progress_credentials.py",
+        "size": 4391
+      },
+      {
+        "name": "build_phase_04_database.py",
+        "path": "scripts\\build_phase_04_database.py",
+        "size": 1351
+      },
+      {
+        "name": "build_phase_06_graph_expansion.py",
+        "path": "scripts\\build_phase_06_graph_expansion.py",
+        "size": 2283
+      },
+      {
+        "name": "build_track_engine.py",
+        "path": "scripts\\build_track_engine.py",
+        "size": 2596
       },
       {
         "name": "cleanup_repo.py",
@@ -53,7 +221,7 @@
       {
         "name": "copy_dashboard_content.py",
         "path": "scripts\\copy_dashboard_content.py",
-        "size": 1625
+        "size": 3530
       },
       {
         "name": "editor_dashboard_generator.py",
@@ -76,9 +244,19 @@
         "size": 4485
       },
       {
+        "name": "kernel_health_check.py",
+        "path": "scripts\\kernel_health_check.py",
+        "size": 383
+      },
+      {
         "name": "map_root_project.py",
         "path": "scripts\\map_root_project.py",
         "size": 3698
+      },
+      {
+        "name": "master_system_mapper.py",
+        "path": "scripts\\master_system_mapper.py",
+        "size": 4446
       },
       {
         "name": "system_mapper.py",
@@ -102,24 +280,46 @@
       }
     ],
     "exports": [
+      "analytics",
       "articulate",
       "book",
+      "civic_intelligence",
+      "civic_intelligence_map",
       "course",
+      "course_engine",
       "course_factory",
+      "credentials",
+      "graph_expansion",
+      "identity",
+      "knowledge_graph",
+      "learning_runtime",
+      "lesson_player",
+      "mentor",
+      "progress_registry",
       "project_map",
       "reader_site",
       "repo_audit",
       "system_map",
+      "tracks",
       "web"
     ],
     "dashboard": [
       "apps\\editor-dashboard\\app.js",
       "apps\\editor-dashboard\\autonomous-course-panel.html",
+      "apps\\editor-dashboard\\civic-intelligence-dashboard.css",
+      "apps\\editor-dashboard\\civic-intelligence-dashboard.html",
+      "apps\\editor-dashboard\\civic-intelligence-dashboard.js",
+      "apps\\editor-dashboard\\civic-intelligence-map.js",
       "apps\\editor-dashboard\\content-manifest.json",
+      "apps\\editor-dashboard\\course-engine-viewer.js",
       "apps\\editor-dashboard\\generate-course.js",
       "apps\\editor-dashboard\\index.html",
+      "apps\\editor-dashboard\\knowledge-graph-viewer.js",
+      "apps\\editor-dashboard\\learning-runtime-viewer.js",
+      "apps\\editor-dashboard\\lesson-player.js",
       "apps\\editor-dashboard\\README.md",
       "apps\\editor-dashboard\\styles.css",
+      "apps\\editor-dashboard\\track-engine-viewer.js",
       "apps\\editor-dashboard\\functions\\chapter-context.js",
       "apps\\editor-dashboard\\functions\\commit-universal.js",
       "apps\\editor-dashboard\\functions\\export-rise.js",

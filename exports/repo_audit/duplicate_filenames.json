@@ -1,12 +1,15 @@
 {
   "README.md": [
     "README.md",
-    "arkansas_civics_engine\\README.md",
     "apps\\admin\\README.md",
     "apps\\api\\README.md",
     "apps\\course-player\\README.md",
     "apps\\editor-dashboard\\README.md",
     "apps\\web-reader\\README.md",
+    "archive\\arkansas_civics_engine\\README.md",
+    "archive\\engine_update\\arkansas_civics_engine\\README.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\README.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\README.md",
     "content\\courses\\course_01_civic_awakening\\README.md",
     "content\\courses\\course_02_arkansas_civic_history\\README.md",
     "content\\courses\\course_03_direct_democracy_and_the_ballot\\README.md",
@@ -20,22 +23,81 @@
     "content\\courses\\course_11_the_reader_becomes_the_organizer\\README.md",
     "content\\courses\\course_12_sustaining_the_ecosystem\\README.md",
     "data\\civic_library\\README.md",
-    "engine\\dashboard_templates\\README.md",
-    "engine_update\\arkansas_civics_engine\\README.md"
+    "engine\\dashboard_templates\\README.md"
   ],
-  "requirements.txt": [
-    "arkansas_civics_engine\\requirements.txt",
-    "engine_update\\arkansas_civics_engine\\requirements.txt"
+  "generate_autonomous_civic_course.py": [
+    "archive\\generate_autonomous_civic_course.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_autonomous_civic_course.py"
+  ],
+  "generate_chapter_context.py": [
+    "archive\\generate_chapter_context.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_chapter_context.py"
+  ],
+  "generate_civic_data_layer.py": [
+    "archive\\generate_civic_data_layer.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_civic_data_layer.py"
+  ],
+  "generate_course_factory_suite.py": [
+    "archive\\generate_course_factory_suite.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_course_factory_suite.py"
+  ],
+  "generate_course_plans.py": [
+    "archive\\generate_course_plans.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_course_plans.py"
+  ],
+  "generate_curriculum_intelligence_layer.py": [
+    "archive\\generate_curriculum_intelligence_layer.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_curriculum_intelligence_layer.py"
+  ],
+  "generate_full_course_factory.py": [
+    "archive\\generate_full_course_factory.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_full_course_factory.py"
+  ],
+  "generate_scorm_course.py": [
+    "archive\\generate_scorm_course.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_scorm_course.py"
+  ],
+  "scaffold_everything.py": [
+    "archive\\scaffold_everything.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\scaffold_everything.py"
+  ],
+  "scaffold_upgrade.py": [
+    "archive\\scaffold_upgrade.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\scaffold_upgrade.py"
+  ],
+  "seed_chapter_01.py": [
+    "archive\\seed_chapter_01.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_01.py"
+  ],
+  "seed_chapter_02.py": [
+    "archive\\seed_chapter_02.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_02.py"
+  ],
+  "seed_chapter_03.py": [
+    "archive\\seed_chapter_03.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_03.py"
+  ],
+  "seed_chapter_04.py": [
+    "archive\\seed_chapter_04.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\seed_chapter_04.py"
   ],
   "__init__.py": [
     "engine\\__init__.py",
-    "arkansas_civics_engine\\engine\\__init__.py",
-    "engine_update\\arkansas_civics_engine\\engine\\__init__.py"
+    "archive\\arkansas_civics_engine\\engine\\__init__.py",
+    "archive\\engine_update\\arkansas_civics_engine\\engine\\__init__.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\__init__.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\__init__.py"
   ],
   "build_all.py": [
     "scripts\\build_all.py",
-    "arkansas_civics_engine\\scripts\\build_all.py",
-    "engine_update\\arkansas_civics_engine\\scripts\\build_all.py"
+    "archive\\arkansas_civics_engine\\scripts\\build_all.py",
+    "archive\\engine_update\\arkansas_civics_engine\\scripts\\build_all.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\scripts\\build_all.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\scripts\\build_all.py"
+  ],
+  "generate_reader_site.py": [
+    "scripts\\generate_reader_site.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\generate_reader_site.py"
   ],
   "app.js": [
     "apps\\editor-dashboard\\app.js",
@@ -2426,115 +2488,175 @@
     "content\\courses\\course_12_sustaining_the_ecosystem\\chapter_03_the_long_tail_of_stories_data_and_training\\segments\\12_revision_notes.md",
     "content\\courses\\course_12_sustaining_the_ecosystem\\chapter_04_the_future_appendices_and_spawned_courses\\segments\\12_revision_notes.md"
   ],
+  "requirements.txt": [
+    "archive\\arkansas_civics_engine\\requirements.txt",
+    "archive\\engine_update\\arkansas_civics_engine\\requirements.txt",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\requirements.txt",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\requirements.txt"
+  ],
   "master_spine.yaml": [
-    "arkansas_civics_engine\\config\\master_spine.yaml",
-    "engine_update\\arkansas_civics_engine\\config\\master_spine.yaml"
+    "archive\\arkansas_civics_engine\\config\\master_spine.yaml",
+    "archive\\engine_update\\arkansas_civics_engine\\config\\master_spine.yaml",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\config\\master_spine.yaml",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\config\\master_spine.yaml"
   ],
   "project.yaml": [
-    "arkansas_civics_engine\\config\\project.yaml",
-    "engine_update\\arkansas_civics_engine\\config\\project.yaml"
+    "archive\\arkansas_civics_engine\\config\\project.yaml",
+    "archive\\engine_update\\arkansas_civics_engine\\config\\project.yaml",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\config\\project.yaml",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\config\\project.yaml"
   ],
   "schema.sql": [
-    "arkansas_civics_engine\\db\\schema.sql",
-    "engine_update\\arkansas_civics_engine\\db\\schema.sql"
+    "archive\\arkansas_civics_engine\\db\\schema.sql",
+    "archive\\engine_update\\arkansas_civics_engine\\db\\schema.sql",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\db\\schema.sql",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\db\\schema.sql"
   ],
   "full_suite_considerations.md": [
-    "arkansas_civics_engine\\docs\\full_suite_considerations.md",
-    "engine_update\\arkansas_civics_engine\\docs\\full_suite_considerations.md"
+    "archive\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
+    "archive\\engine_update\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\docs\\full_suite_considerations.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\docs\\full_suite_considerations.md"
   ],
   "builders.py": [
-    "arkansas_civics_engine\\engine\\builders.py",
-    "engine_update\\arkansas_civics_engine\\engine\\builders.py"
+    "archive\\arkansas_civics_engine\\engine\\builders.py",
+    "archive\\engine_update\\arkansas_civics_engine\\engine\\builders.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\builders.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\builders.py"
   ],
   "utils.py": [
-    "arkansas_civics_engine\\engine\\utils.py",
-    "engine_update\\arkansas_civics_engine\\engine\\utils.py"
+    "archive\\arkansas_civics_engine\\engine\\utils.py",
+    "archive\\engine_update\\arkansas_civics_engine\\engine\\utils.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\utils.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\utils.py"
   ],
   "watch_notes.md": [
-    "arkansas_civics_engine\\scripts\\watch_notes.md",
-    "engine_update\\arkansas_civics_engine\\scripts\\watch_notes.md"
+    "archive\\arkansas_civics_engine\\scripts\\watch_notes.md",
+    "archive\\engine_update\\arkansas_civics_engine\\scripts\\watch_notes.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\scripts\\watch_notes.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\scripts\\watch_notes.md"
   ],
   "segment_template.md": [
-    "arkansas_civics_engine\\templates\\segment_template.md",
-    "engine_update\\arkansas_civics_engine\\templates\\segment_template.md"
+    "archive\\arkansas_civics_engine\\templates\\segment_template.md",
+    "archive\\engine_update\\arkansas_civics_engine\\templates\\segment_template.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\templates\\segment_template.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\templates\\segment_template.md"
   ],
   "01_opening_scene.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\01_opening_scene.md"
   ],
   "02_the_empty_room.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\02_the_empty_room.md"
   ],
   "03_the_quiet_civic_crisis.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\03_the_quiet_civic_crisis.md"
   ],
   "04_pull_up_more_chairs.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_01_pulling_up_more_chairs\\segments\\04_pull_up_more_chairs.md"
   ],
   "01_where_power_lives.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\01_where_power_lives.md"
   ],
   "02_local_government_power.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\02_local_government_power.md"
   ],
   "03_direct_democracy.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\03_direct_democracy.md"
   ],
   "04_the_arkansas_civic_power_map.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_02_how_power_works\\segments\\04_the_arkansas_civic_power_map.md"
   ],
   "01_populists_and_farmers.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\01_populists_and_farmers.md"
   ],
   "02_elaine_massacre.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\02_elaine_massacre.md"
   ],
   "03_labor_unions_right_to_work.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\03_labor_unions_right_to_work.md"
   ],
   "04_modern_civic_awakening.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_03_arkansas_civic_story\\segments\\04_modern_civic_awakening.md"
   ],
   "01_ballot_initiatives_and_referendums.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\01_ballot_initiatives_and_referendums.md"
   ],
   "02_voting_systems.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\02_voting_systems.md"
   ],
   "03_at_large_and_jim_crow.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\03_at_large_and_jim_crow.md"
   ],
   "04_from_tools_to_movements.md": [
-    "arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
-    "engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md"
+    "archive\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
+    "archive\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\content\\courses\\course_01_civic_awakening\\chapter_04_tools_citizens_have\\segments\\04_from_tools_to_movements.md"
   ],
   "compiled_book.md": [
-    "arkansas_civics_engine\\exports\\book\\compiled_book.md",
-    "engine_update\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "archive\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "archive\\engine_update\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\book\\compiled_book.md",
     "exports\\book\\compiled_book.md"
   ],
   "course_manifest.json": [
-    "arkansas_civics_engine\\exports\\course\\course_manifest.json",
-    "engine_update\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "archive\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "archive\\engine_update\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\course\\course_manifest.json",
     "exports\\course\\course_manifest.json"
   ],
   "facilitator_guide.md": [
-    "arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
-    "engine_update\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "archive\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "archive\\engine_update\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\facilitator\\facilitator_guide.md",
     "exports\\articulate\\scorm\\course_01_civic_awakening\\facilitator_guide.md",
     "exports\\articulate\\scorm\\course_02_arkansas_civic_history\\facilitator_guide.md",
     "exports\\articulate\\scorm\\course_03_direct_democracy\\facilitator_guide.md",
@@ -2559,16 +2681,30 @@
     "exports\\articulate\\scorm\\course_12_sustaining_the_ecosystem\\facilitator_guide.md"
   ],
   "reader_manifest.json": [
-    "arkansas_civics_engine\\exports\\website\\reader_manifest.json",
-    "engine_update\\arkansas_civics_engine\\exports\\website\\reader_manifest.json"
+    "archive\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "archive\\engine_update\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\website\\reader_manifest.json",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\website\\reader_manifest.json"
   ],
   "participant_workbook.md": [
-    "arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
-    "engine_update\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md"
+    "archive\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
+    "archive\\engine_update\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\workbook\\participant_workbook.md"
   ],
   "live_workshop_guide.md": [
-    "arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
-    "engine_update\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md"
+    "archive\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
+    "archive\\engine_update\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md",
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\exports\\workshop\\live_workshop_guide.md"
+  ],
+  "editor_dashboard_generator_20260316_234229.py": [
+    "archive\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234229.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234229.py"
+  ],
+  "editor_dashboard_generator_20260316_234324.py": [
+    "archive\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234324.py",
+    "archive\\pre_cleanup_backup_20260317_190631\\backups\\dashboard_generator\\editor_dashboard_generator_20260316_234324.py"
   ],
   "course.yaml": [
     "content\\courses\\course_01_civic_awakening\\course.yaml",
@@ -2733,6 +2869,14 @@
     "content\\courses\\course_12_sustaining_the_ecosystem\\chapter_02_from_book_to_platform\\simulations\\simulation.yaml",
     "content\\courses\\course_12_sustaining_the_ecosystem\\chapter_03_the_long_tail_of_stories_data_and_training\\simulations\\simulation.yaml",
     "content\\courses\\course_12_sustaining_the_ecosystem\\chapter_04_the_future_appendices_and_spawned_courses\\simulations\\simulation.yaml"
+  ],
+  "learning_admin_snapshot.json": [
+    "data\\analytics\\admin\\learning_admin_snapshot.json",
+    "exports\\analytics\\learning_admin_snapshot.json"
+  ],
+  "project_tree.txt": [
+    "exports\\project_map\\project_tree.txt",
+    "exports\\system_map\\project_tree.txt"
   ],
   "build_plan.md": [
     "exports\\articulate\\scorm\\course_01_civic_awakening\\build_plan.md",
@@ -2941,5 +3085,95 @@
   "lesson_8.html": [
     "exports\\articulate\\scorm\\course_01_civic_awakening\\lessons\\lesson_8.html",
     "exports\\articulate\\scorm\\course_02_arkansas_civic_history\\lessons\\lesson_8.html"
+  ],
+  "course_package.json": [
+    "exports\\course_engine\\course_01_civic_awakening\\course_package.json",
+    "exports\\course_engine\\course_02_arkansas_civic_history\\course_package.json",
+    "exports\\course_engine\\course_03_direct_democracy\\course_package.json",
+    "exports\\course_engine\\course_03_direct_democracy_and_the_ballot\\course_package.json",
+    "exports\\course_engine\\course_04_voting_systems\\course_package.json",
+    "exports\\course_engine\\course_04_voting_systems_and_representation\\course_package.json",
+    "exports\\course_engine\\course_05_labor_and_collective_power\\course_package.json",
+    "exports\\course_engine\\course_05_labor_unions_and_collective_power\\course_package.json",
+    "exports\\course_engine\\course_06_shared_pain\\course_package.json",
+    "exports\\course_engine\\course_06_shared_pain_shared_story\\course_package.json",
+    "exports\\course_engine\\course_07_coalitions_and_leadership\\course_package.json",
+    "exports\\course_engine\\course_07_shared_purpose\\course_package.json",
+    "exports\\course_engine\\course_08_coalition_building\\course_package.json",
+    "exports\\course_engine\\course_08_messaging_media_and_narrative\\course_package.json",
+    "exports\\course_engine\\course_09_messaging_and_media\\course_package.json",
+    "exports\\course_engine\\course_09_strategy_petitions_and_campaigns\\course_package.json",
+    "exports\\course_engine\\course_10_opposition_pushback_and_rule_changes\\course_package.json",
+    "exports\\course_engine\\course_10_strategy_and_campaigns\\course_package.json",
+    "exports\\course_engine\\course_11_opposition_and_pushback\\course_package.json",
+    "exports\\course_engine\\course_11_the_reader_becomes_the_organizer\\course_package.json",
+    "exports\\course_engine\\course_12_sustaining_movements\\course_package.json",
+    "exports\\course_engine\\course_12_sustaining_the_ecosystem\\course_package.json"
+  ],
+  "course_package.md": [
+    "exports\\course_engine\\course_01_civic_awakening\\course_package.md",
+    "exports\\course_engine\\course_02_arkansas_civic_history\\course_package.md",
+    "exports\\course_engine\\course_03_direct_democracy\\course_package.md",
+    "exports\\course_engine\\course_03_direct_democracy_and_the_ballot\\course_package.md",
+    "exports\\course_engine\\course_04_voting_systems\\course_package.md",
+    "exports\\course_engine\\course_04_voting_systems_and_representation\\course_package.md",
+    "exports\\course_engine\\course_05_labor_and_collective_power\\course_package.md",
+    "exports\\course_engine\\course_05_labor_unions_and_collective_power\\course_package.md",
+    "exports\\course_engine\\course_06_shared_pain\\course_package.md",
+    "exports\\course_engine\\course_06_shared_pain_shared_story\\course_package.md",
+    "exports\\course_engine\\course_07_coalitions_and_leadership\\course_package.md",
+    "exports\\course_engine\\course_07_shared_purpose\\course_package.md",
+    "exports\\course_engine\\course_08_coalition_building\\course_package.md",
+    "exports\\course_engine\\course_08_messaging_media_and_narrative\\course_package.md",
+    "exports\\course_engine\\course_09_messaging_and_media\\course_package.md",
+    "exports\\course_engine\\course_09_strategy_petitions_and_campaigns\\course_package.md",
+    "exports\\course_engine\\course_10_opposition_pushback_and_rule_changes\\course_package.md",
+    "exports\\course_engine\\course_10_strategy_and_campaigns\\course_package.md",
+    "exports\\course_engine\\course_11_opposition_and_pushback\\course_package.md",
+    "exports\\course_engine\\course_11_the_reader_becomes_the_organizer\\course_package.md",
+    "exports\\course_engine\\course_12_sustaining_movements\\course_package.md",
+    "exports\\course_engine\\course_12_sustaining_the_ecosystem\\course_package.md"
+  ],
+  "lesson_player_course.json": [
+    "exports\\lesson_player\\course_01_civic_awakening\\lesson_player_course.json",
+    "exports\\lesson_player\\course_02_arkansas_civic_history\\lesson_player_course.json",
+    "exports\\lesson_player\\course_03_direct_democracy\\lesson_player_course.json",
+    "exports\\lesson_player\\course_03_direct_democracy_and_the_ballot\\lesson_player_course.json",
+    "exports\\lesson_player\\course_04_voting_systems\\lesson_player_course.json",
+    "exports\\lesson_player\\course_04_voting_systems_and_representation\\lesson_player_course.json",
+    "exports\\lesson_player\\course_05_labor_and_collective_power\\lesson_player_course.json",
+    "exports\\lesson_player\\course_05_labor_unions_and_collective_power\\lesson_player_course.json",
+    "exports\\lesson_player\\course_06_shared_pain\\lesson_player_course.json",
+    "exports\\lesson_player\\course_06_shared_pain_shared_story\\lesson_player_course.json",
+    "exports\\lesson_player\\course_07_coalitions_and_leadership\\lesson_player_course.json",
+    "exports\\lesson_player\\course_07_shared_purpose\\lesson_player_course.json",
+    "exports\\lesson_player\\course_08_coalition_building\\lesson_player_course.json",
+    "exports\\lesson_player\\course_08_messaging_media_and_narrative\\lesson_player_course.json",
+    "exports\\lesson_player\\course_09_messaging_and_media\\lesson_player_course.json",
+    "exports\\lesson_player\\course_09_strategy_petitions_and_campaigns\\lesson_player_course.json",
+    "exports\\lesson_player\\course_10_opposition_pushback_and_rule_changes\\lesson_player_course.json",
+    "exports\\lesson_player\\course_10_strategy_and_campaigns\\lesson_player_course.json",
+    "exports\\lesson_player\\course_11_opposition_and_pushback\\lesson_player_course.json",
+    "exports\\lesson_player\\course_11_the_reader_becomes_the_organizer\\lesson_player_course.json",
+    "exports\\lesson_player\\course_12_sustaining_movements\\lesson_player_course.json",
+    "exports\\lesson_player\\course_12_sustaining_the_ecosystem\\lesson_player_course.json"
+  ],
+  "track_definition.json": [
+    "exports\\tracks\\arkansas-constitution-and-ballot-path\\track_definition.json",
+    "exports\\tracks\\arkansas-history-scholar-path\\track_definition.json",
+    "exports\\tracks\\campaign-manager-path\\track_definition.json",
+    "exports\\tracks\\leadership-development-path\\track_definition.json",
+    "exports\\tracks\\messaging-and-narrative-path\\track_definition.json",
+    "exports\\tracks\\organizer-field-path\\track_definition.json",
+    "exports\\tracks\\stand-up-arkansas-civic-foundations\\track_definition.json"
+  ],
+  "track_definition.md": [
+    "exports\\tracks\\arkansas-constitution-and-ballot-path\\track_definition.md",
+    "exports\\tracks\\arkansas-history-scholar-path\\track_definition.md",
+    "exports\\tracks\\campaign-manager-path\\track_definition.md",
+    "exports\\tracks\\leadership-development-path\\track_definition.md",
+    "exports\\tracks\\messaging-and-narrative-path\\track_definition.md",
+    "exports\\tracks\\organizer-field-path\\track_definition.md",
+    "exports\\tracks\\stand-up-arkansas-civic-foundations\\track_definition.md"
   ]
 }

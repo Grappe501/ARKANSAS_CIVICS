@@ -1,75 +1,76 @@
 {
   "root": "C:\\Users\\User\\Desktop\\arkansas_civics",
-  "total_files": 2996,
+  "total_files": 3280,
   "extensions": {
     "": 1,
-    ".css": 2,
-    ".html": 195,
-    ".js": 18,
-    ".json": 11,
-    ".md": 2549,
-    ".py": 43,
-    ".sql": 3,
+    ".css": 3,
+    ".html": 196,
+    ".js": 25,
+    ".json": 102,
+    ".log": 1,
+    ".md": 2645,
+    ".py": 119,
+    ".sql": 7,
     ".toml": 1,
-    ".txt": 4,
+    ".txt": 7,
     ".xml": 22,
-    ".yaml": 125,
+    ".yaml": 129,
     ".zip": 22
   },
   "top_folders": {
     ".gitignore": 1,
+    "PHASE_01_MANIFEST.md": 1,
+    "PHASE_03_MANIFEST.md": 1,
+    "PHASE_06_MANIFEST.md": 1,
     "README.md": 1,
-    "apps": 1169,
-    "arkansas_civics_engine": 34,
-    "backups": 2,
-    "config": 2,
+    "apps": 1178,
+    "archive": 169,
+    "config": 9,
     "content": 1329,
-    "data": 14,
-    "docs": 28,
-    "engine": 12,
-    "engine_update": 34,
-    "exports": 333,
+    "data": 16,
+    "database": 2,
+    "docs": 34,
+    "engine": 46,
+    "exports": 451,
+    "logs": 1,
     "merge_engine_update.py": 1,
     "netlify": 6,
     "netlify.toml": 1,
-    "scripts": 29
+    "run_phase_05_engine.py": 1,
+    "scripts": 31
   },
   "largest_folders_bytes": [
     [
       "exports",
-      5466840
+      16377845
     ],
     [
       "apps",
-      585836
+      952035
+    ],
+    [
+      "archive",
+      665699
     ],
     [
       "content",
       547013
     ],
     [
+      "engine",
+      256041
+    ],
+    [
       "scripts",
-      226174
-    ],
-    [
-      "arkansas_civics_engine",
-      97885
-    ],
-    [
-      "engine_update",
-      97885
+      137945
     ],
     [
       "docs",
-      68077
-    ],
-    [
-      "engine",
-      22829
+      75739
     ],
     [
       "config",
-      10313
+      12743
     ],
     [
       "netlify",
@@ -77,11 +78,7 @@
     ],
     [
       "data",
-      6446
-    ],
-    [
-      "backups",
-      2271
+      6994
     ],
     [
       "merge_engine_update.py",
@@ -92,14 +89,38 @@
       1260
     ],
     [
+      "database",
+      1252
+    ],
+    [
+      "PHASE_06_MANIFEST.md",
+      796
+    ],
+    [
+      "PHASE_01_MANIFEST.md",
+      789
+    ],
+    [
+      "PHASE_03_MANIFEST.md",
+      620
+    ],
+    [
       ".gitignore",
       580
     ],
     [
       "netlify.toml",
       170
+    ],
+    [
+      "run_phase_05_engine.py",
+      170
+    ],
+    [
+      "logs",
+      0
     ]
   ],
-  "python_script_count": 43,
-  "duplicate_filename_count": 82
+  "python_script_count": 119,
+  "duplicate_filename_count": 106
 }

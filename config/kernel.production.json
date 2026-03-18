@@ -1,0 +1,6 @@
+{
+  "debug": false,
+  "log_level": "INFO",
+  "database_enabled": false,
+  "dashboard_enabled": true
+}

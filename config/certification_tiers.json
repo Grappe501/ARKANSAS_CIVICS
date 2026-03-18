@@ -1,0 +1,66 @@
+{
+  "tiers": [
+    {
+      "slug": "tier_0",
+      "rank": 0,
+      "min_completed_courses": 0,
+      "min_learning_hours": 0,
+      "min_approved_action_hours": 0
+    },
+    {
+      "slug": "tier_1",
+      "rank": 1,
+      "min_completed_courses": 1,
+      "min_learning_hours": 2,
+      "min_approved_action_hours": 0
+    },
+    {
+      "slug": "tier_2",
+      "rank": 2,
+      "min_completed_courses": 3,
+      "min_learning_hours": 10,
+      "min_approved_action_hours": 5
+    },
+    {
+      "slug": "tier_3",
+      "rank": 3,
+      "min_completed_courses": 6,
+      "min_learning_hours": 25,
+      "min_approved_action_hours": 15
+    }
+  ],
+  "badges": [
+    {
+      "slug": "first_course_completed",
+      "min_completed_courses": 1,
+      "min_learning_hours": 0,
+      "min_approved_action_hours": 0
+    },
+    {
+      "slug": "community_helper",
+      "min_completed_courses": 0,
+      "min_learning_hours": 0,
+      "min_approved_action_hours": 5
+    },
+    {
+      "slug": "civic_builder",
+      "min_completed_courses": 3,
+      "min_learning_hours": 10,
+      "min_approved_action_hours": 5
+    }
+  ],
+  "certifications": [
+    {
+      "slug": "civic_foundations_certificate",
+      "min_completed_courses": 3,
+      "min_learning_hours": 10,
+      "min_approved_action_hours": 0
+    },
+    {
+      "slug": "organizer_readiness_certificate",
+      "min_completed_courses": 6,
+      "min_learning_hours": 25,
+      "min_approved_action_hours": 15
+    }
+  ]
+}
