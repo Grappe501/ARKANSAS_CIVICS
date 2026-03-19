@@ -42,6 +42,8 @@
 
 - scripts\ai_course_designer.py
 - scripts\build_all.py
+- scripts\build_arkansas_civic_dataset.py
+- scripts\build_arkansas_offline_dataset.py
 - scripts\build_book.py
 - scripts\build_civic_intelligence_map.py
 - scripts\build_civic_intelligence_system.py
@@ -56,16 +58,25 @@
 - scripts\build_phase_03_progress_credentials.py
 - scripts\build_phase_04_database.py
 - scripts\build_phase_06_graph_expansion.py
+- scripts\build_phase_07_graph_persistence.py
 - scripts\build_track_engine.py
 - scripts\cleanup_repo.py
 - scripts\copy_dashboard_content.py
 - scripts\editor_dashboard_generator.py
 - scripts\export_rise_course.py
+- scripts\fix_phase07_future_imports_properly.py
+- scripts\fix_phase07_imports.py
 - scripts\full_repo_audit.py
 - scripts\generate_reader_site.py
+- scripts\influence_analyzer.py
 - scripts\kernel_health_check.py
+- scripts\load_graph_to_supabase.py
 - scripts\map_root_project.py
 - scripts\master_system_mapper.py
+- scripts\query_civic_graph.py
+- scripts\query_connections.py
+- scripts\query_influence.py
+- scripts\repair_future_imports.py
 - scripts\system_mapper.py
 - scripts\upgrade_editor_dashboard_architecture.py
 - scripts\validate_repo.py
@@ -83,6 +94,7 @@
 - exports/course_factory
 - exports/credentials
 - exports/graph_expansion
+- exports/graph_persistence
 - exports/identity
 - exports/knowledge_graph
 - exports/learning_runtime

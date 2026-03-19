@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Phase 13 AI Lesson Generator</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="shell">
+    <main class="panel">
+      <p class="eyebrow">Phase 13</p>
+      <h1>AI Lesson Generator Helper</h1>
+      <p class="muted">This helper builds prompts and shows the activation schema. Generation runs through the Python script in your repo.</p>
+
+      <section class="card">
+        <h2>Activation schema</h2>
+<pre>{
+  "title": "Lesson title",
+  "hook": "Short opening hook",
+  "reality": "Clear civic explanation",
+  "actions": ["Action 1", "Action 2", "Action 3"],
+  "reflection": "Reflection prompt",
+  "next_step": "Next lesson or next move",
+  "tags": ["tag1", "tag2"]
+}</pre>
+      </section>
+
+      <section class="card">
+        <h2>Recommended commands</h2>
+<pre>python scripts/generate_activation_lessons_ai.py --course course_01_civic_awakening --chapter chapter_01 --mode template
+python scripts/generate_activation_lessons_ai.py --course course_01_civic_awakening --chapter chapter_01 --mode openai
+python scripts/generate_activation_lessons_ai.py --all --mode template</pre>
+      </section>
+
+      <section class="card">
+        <h2>OpenAI mode requirements</h2>
+        <p>Set <code>OPENAI_API_KEY</code> and install the OpenAI Python package in your local environment.</p>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

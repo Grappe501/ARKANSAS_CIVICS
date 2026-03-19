@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Phase 12 Activation System</title>
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<div class="app">
+
+<header class="top">
+<h1>Activation Engine</h1>
+<p id="roleDisplay"></p>
+</header>
+
+<main class="layout">
+
+<section class="lesson">
+
+<h2 id="title">Loading...</h2>
+
+<div class="block hook" id="hook"></div>
+
+<div class="block reality" id="reality"></div>
+
+<div class="block action">
+<h3>Take Action</h3>
+<div id="actions"></div>
+<button id="completeAction">I did this</button>
+</div>
+
+<div class="block reflection">
+<h3>Reflection</h3>
+<textarea id="reflectionInput" placeholder="What did you notice?"></textarea>
+<button id="saveReflection">Save Reflection</button>
+</div>
+
+<div class="block next">
+<h3>Next Move</h3>
+<button id="nextBtn">Go to next lesson</button>
+</div>
+
+</section>
+
+<aside class="sidebar">
+
+<h3>Progress</h3>
+<p id="progress"></p>
+
+<h3>Missions Completed</h3>
+<ul id="missions"></ul>
+
+</aside>
+
+</main>
+
+</div>
+
+<script src="../../../exports/dashboard/phase12_content.js"></script>
+<script src="./app.js"></script>
+</body>
+</html>

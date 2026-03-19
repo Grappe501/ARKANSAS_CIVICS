@@ -139,6 +139,16 @@
         "size": 6713
       },
       {
+        "name": "build_arkansas_civic_dataset.py",
+        "path": "scripts\\build_arkansas_civic_dataset.py",
+        "size": 31411
+      },
+      {
+        "name": "build_arkansas_offline_dataset.py",
+        "path": "scripts\\build_arkansas_offline_dataset.py",
+        "size": 4726
+      },
+      {
         "name": "build_book.py",
         "path": "scripts\\build_book.py",
         "size": 1158
@@ -209,6 +219,11 @@
         "size": 2283
       },
       {
+        "name": "build_phase_07_graph_persistence.py",
+        "path": "scripts\\build_phase_07_graph_persistence.py",
+        "size": 1518
+      },
+      {
         "name": "build_track_engine.py",
         "path": "scripts\\build_track_engine.py",
         "size": 2596
@@ -234,6 +249,16 @@
         "size": 6347
       },
       {
+        "name": "fix_phase07_future_imports_properly.py",
+        "path": "scripts\\fix_phase07_future_imports_properly.py",
+        "size": 1620
+      },
+      {
+        "name": "fix_phase07_imports.py",
+        "path": "scripts\\fix_phase07_imports.py",
+        "size": 1390
+      },
+      {
         "name": "full_repo_audit.py",
         "path": "scripts\\full_repo_audit.py",
         "size": 5586
@@ -244,9 +269,19 @@
         "size": 4485
       },
       {
+        "name": "influence_analyzer.py",
+        "path": "scripts\\influence_analyzer.py",
+        "size": 1007
+      },
+      {
         "name": "kernel_health_check.py",
         "path": "scripts\\kernel_health_check.py",
         "size": 383
+      },
+      {
+        "name": "load_graph_to_supabase.py",
+        "path": "scripts\\load_graph_to_supabase.py",
+        "size": 1849
       },
       {
         "name": "map_root_project.py",
@@ -257,6 +292,26 @@
         "name": "master_system_mapper.py",
         "path": "scripts\\master_system_mapper.py",
         "size": 4446
+      },
+      {
+        "name": "query_civic_graph.py",
+        "path": "scripts\\query_civic_graph.py",
+        "size": 1141
+      },
+      {
+        "name": "query_connections.py",
+        "path": "scripts\\query_connections.py",
+        "size": 836
+      },
+      {
+        "name": "query_influence.py",
+        "path": "scripts\\query_influence.py",
+        "size": 3135
+      },
+      {
+        "name": "repair_future_imports.py",
+        "path": "scripts\\repair_future_imports.py",
+        "size": 1429
       },
       {
         "name": "system_mapper.py",
@@ -290,6 +345,7 @@
       "course_factory",
       "credentials",
       "graph_expansion",
+      "graph_persistence",
       "identity",
       "knowledge_graph",
       "learning_runtime",

@@ -1,41 +1,79 @@
 # Arkansas Civics Platform Architecture
 
-Generated: 2026-03-18T13:37:32.800136 UTC
+Generated: 2026-03-18T23:41:28.965433 UTC
 
 ## Engine Modules
 
 - ai_assistant.py
+- api_server.py
+- auth_tokens.py
+- certification_rules.py
+- civic_credential_engine.py
+- civic_data_intelligence_engine.py
 - civic_intelligence_map.py
+- civic_intelligence_system.py
+- civic_knowledge_graph_expansion_engine.py
+- civic_mentor_engine.py
 - course_engine.py
+- database_engine.py
+- identity_manager.py
+- kernel_config.py
+- kernel_contracts.py
+- kernel_health.py
+- kernel_logger.py
 - knowledge_graph_engine.py
+- learning_analytics_engine.py
 - learning_runtime.py
 - lesson_player.py
 - library_loader.py
+- migration_engine.py
+- permissions_engine.py
 - platform_kernel.py
 - progress_engine.py
+- progress_registry.py
 - track_engine.py
+- user_identity_engine.py
 - __init__.py
 
 ## Script Modules
 
 - ai_course_designer.py
 - build_all.py
+- build_arkansas_civic_dataset.py
+- build_arkansas_offline_dataset.py
 - build_book.py
 - build_civic_intelligence_map.py
+- build_civic_intelligence_system.py
 - build_civic_library.py
 - build_course_engine.py
 - build_course_exports.py
 - build_knowledge_graph.py
+- build_learning_analytics.py
 - build_lesson_player.py
+- build_phase_01_core_kernel.py
+- build_phase_02_identity.py
+- build_phase_03_progress_credentials.py
+- build_phase_04_database.py
+- build_phase_06_graph_expansion.py
+- build_phase_07_graph_persistence.py
 - build_track_engine.py
 - cleanup_repo.py
 - copy_dashboard_content.py
 - editor_dashboard_generator.py
 - export_rise_course.py
+- fix_phase07_future_imports_properly.py
+- fix_phase07_imports.py
 - full_repo_audit.py
 - generate_reader_site.py
+- influence_analyzer.py
+- kernel_health_check.py
+- load_graph_to_supabase.py
 - map_root_project.py
 - master_system_mapper.py
+- query_civic_graph.py
+- query_connections.py
+- query_influence.py
+- repair_future_imports.py
 - system_mapper.py
 - upgrade_editor_dashboard_architecture.py
 - validate_repo.py
@@ -45,6 +83,9 @@ Generated: 2026-03-18T13:37:32.800136 UTC
 
 - app.js
 - autonomous-course-panel.html
+- civic-intelligence-dashboard.css
+- civic-intelligence-dashboard.html
+- civic-intelligence-dashboard.js
 - civic-intelligence-map.js
 - content
 - content-manifest.json

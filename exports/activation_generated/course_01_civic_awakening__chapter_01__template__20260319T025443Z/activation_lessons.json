@@ -1,0 +1,272 @@
+{
+  "generated_at": "2026-03-19T02:54:43.988740+00:00",
+  "mode": "template",
+  "lesson_count": 12,
+  "lessons": [
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/01_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "01_segment",
+      "title": "Opening Scene: A Tuesday Night Meeting",
+      "hook": "# Opening Scene: A Tuesday Night Meeting ## Book Narrative On a Tuesday evening in a small Arkansas town, the lights inside city hall come on long before anyone arrives.",
+      "reality": "The building itself is not remarkable. Brick walls, fluorescent lights, and a modest meeting room that has hosted decades of council meetings.",
+      "actions": [
+        "Write down one key idea you learned from Opening Scene: A Tuesday Night Meeting.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of opening scene: a tuesday night meeting feels most relevant to your community or local experience?",
+      "next_step": "The Empty Room",
+      "tags": [
+        "civic_engagement",
+        "local_government",
+        "opening_scene"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/02_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "02_segment",
+      "title": "The Empty Room",
+      "hook": "# The Empty Room ## Book Narrative Scenes like this play out every week across Arkansas.",
+      "reality": "City councils meet. County quorum courts gather.",
+      "actions": [
+        "Write down one key idea you learned from The Empty Room.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of the empty room feels most relevant to your community or local experience?",
+      "next_step": "The Quiet Civic Crisis",
+      "tags": [
+        "empty_rooms",
+        "participation",
+        "recognition"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/03_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "03_segment",
+      "title": "The Quiet Civic Crisis",
+      "hook": "# The Quiet Civic Crisis ## Book Narrative Public conversations about community issues increasingly happen online — often in fragmented spaces that rarely translate into real-world collaboration.",
+      "reality": "Participation has shifted away from the places where decisions are actually made. And when participation fades, something predictable happens.",
+      "actions": [
+        "Write down one key idea you learned from The Quiet Civic Crisis.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of the quiet civic crisis feels most relevant to your community or local experience?",
+      "next_step": "How Power Flows When Rooms Are Empty",
+      "tags": [
+        "civic_crisis",
+        "withdrawal",
+        "arkansas"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/04_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "04_segment",
+      "title": "How Power Flows When Rooms Are Empty",
+      "hook": "# How Power Flows When Rooms Are Empty ## Book Narrative When participation fades, power does not disappear.",
+      "reality": "It shifts. When fewer citizens show up, leaders hear from fewer people.",
+      "actions": [
+        "Write down one key idea you learned from How Power Flows When Rooms Are Empty.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of how power flows when rooms are empty feels most relevant to your community or local experience?",
+      "next_step": "An Arkansas Example of Local Power",
+      "tags": [
+        "power",
+        "institutions",
+        "absence"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/05_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "05_segment",
+      "title": "An Arkansas Example of Local Power",
+      "hook": "# An Arkansas Example of Local Power ## Book Narrative In Arkansas, local power is often more immediate than people realize.",
+      "reality": "A school board can change the trajectory of a district. A city council can reshape development through zoning decisions.",
+      "actions": [
+        "Write down one key idea you learned from An Arkansas Example of Local Power.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of an arkansas example of local power feels most relevant to your community or local experience?",
+      "next_step": "Why People Stopped Showing Up",
+      "tags": [
+        "arkansas_example",
+        "city_council",
+        "school_board",
+        "quorum_court"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/06_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "06_segment",
+      "title": "Why People Stopped Showing Up",
+      "hook": "# Why People Stopped Showing Up ## Book Narrative People do not usually withdraw from civic life because they stop caring.",
+      "reality": "They withdraw because they become tired, frustrated, confused, or unconvinced that participation matters. Some have attended meetings and felt ignored.",
+      "actions": [
+        "Write down one key idea you learned from Why People Stopped Showing Up.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of why people stopped showing up feels most relevant to your community or local experience?",
+      "next_step": "Arkansas Is Not Empty of Civic History",
+      "tags": [
+        "disengagement",
+        "trust",
+        "fatigue"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/07_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "07_segment",
+      "title": "Arkansas Is Not Empty of Civic History",
+      "hook": "# Arkansas Is Not Empty of Civic History ## Book Narrative Arkansas is not a state without civic traditions.",
+      "reality": "Its history is full of organizing, public struggle, and democratic conflict. From populist movements and labor organizing to civil rights battles and ballot initiative campaigns, Arkansans have repeatedly shaped their future through collective action.",
+      "actions": [
+        "Write down one key idea you learned from Arkansas Is Not Empty of Civic History.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of arkansas is not empty of civic history feels most relevant to your community or local experience?",
+      "next_step": "The First Hint of Direct Democracy",
+      "tags": [
+        "history_bridge",
+        "arkansas_history",
+        "transition"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/08_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "08_segment",
+      "title": "The First Hint of Direct Democracy",
+      "hook": "# The First Hint of Direct Democracy ## Book Narrative Arkansas citizens possess a power many Americans do not fully understand.",
+      "reality": "Through the ballot initiative and referendum process, voters can do more than choose representatives. They can place laws and constitutional changes directly before the people.",
+      "actions": [
+        "Write down one key idea you learned from The First Hint of Direct Democracy.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of the first hint of direct democracy feels most relevant to your community or local experience?",
+      "next_step": "What an Empty Chair Means",
+      "tags": [
+        "direct_democracy",
+        "amendment_7",
+        "citizen_power"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/09_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "09_segment",
+      "title": "What an Empty Chair Means",
+      "hook": "# What an Empty Chair Means ## Book Narrative An empty chair in a civic room is never just furniture.",
+      "reality": "It represents a voice that is absent. A question that was never asked.",
+      "actions": [
+        "Write down one key idea you learned from What an Empty Chair Means.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of what an empty chair means feels most relevant to your community or local experience?",
+      "next_step": "The Reader Enters the Room",
+      "tags": [
+        "symbol",
+        "reader_reflection",
+        "belonging"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/10_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "10_segment",
+      "title": "The Reader Enters the Room",
+      "hook": "# The Reader Enters the Room ## Book Narrative At some point the question becomes personal.",
+      "reality": "If these rooms matter, where am I in relation to them? Am I outside them entirely?",
+      "actions": [
+        "Write down one key idea you learned from The Reader Enters the Room.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of the reader enters the room feels most relevant to your community or local experience?",
+      "next_step": "Pulling Up More Chairs",
+      "tags": [
+        "reader_insertion",
+        "agency",
+        "invitation"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/11_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "11_segment",
+      "title": "Pulling Up More Chairs",
+      "hook": "# Pulling Up More Chairs ## Book Narrative Imagine that meeting room again.",
+      "reality": "The folding chairs are still there. The agenda still lists routine items of local governance.",
+      "actions": [
+        "Write down one key idea you learned from Pulling Up More Chairs.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of pulling up more chairs feels most relevant to your community or local experience?",
+      "next_step": "Chapter 1 Bridge Forward",
+      "tags": [
+        "vision",
+        "participation",
+        "community"
+      ],
+      "generated_by": "template"
+    },
+    {
+      "source_path": "content/courses/course_01_civic_awakening/chapter_01/segments/12_segment.md",
+      "course_slug": "course_01_civic_awakening",
+      "chapter_slug": "chapter_01",
+      "segment_slug": "12_segment",
+      "title": "Chapter 1 Bridge Forward",
+      "hook": "# Chapter 1 Bridge Forward ## Book Narrative This book begins with empty rooms, but it does not stay there.",
+      "reality": "The chapters ahead will ask harder questions. How did Arkansas reach this point?",
+      "actions": [
+        "Write down one key idea you learned from Chapter 1 Bridge Forward.",
+        "Identify one local office, meeting, or public process connected to this topic.",
+        "Share or discuss one practical takeaway from this lesson with another person."
+      ],
+      "reflection": "What part of chapter 1 bridge forward feels most relevant to your community or local experience?",
+      "next_step": "Continue to the next lesson in this chapter.",
+      "tags": [
+        "chapter_bridge",
+        "foreshadowing",
+        "course_transition"
+      ],
+      "generated_by": "template"
+    }
+  ]
+}

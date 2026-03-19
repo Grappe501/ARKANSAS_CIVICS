@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arkansas Civics — Phase 10 Learning Portal</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="eyebrow">Stand Up Arkansas</div>
+        <h1>Learning Portal</h1>
+        <p class="muted">A progress-driven civic learning system built on your real course library.</p>
+      </div>
+
+      <section class="sidebar-card">
+        <div class="card-title-row">
+          <h2>Your Path</h2>
+          <span class="pill" id="learnerLevel">Level 1</span>
+        </div>
+        <div class="metric-grid compact">
+          <div class="metric">
+            <span class="metric-label">Completed</span>
+            <strong id="completedCount">0</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Bookmarks</span>
+            <strong id="bookmarkCount">0</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Reading Time</span>
+            <strong id="estimatedHours">0h</strong>
+          </div>
+          <div class="metric">
+            <span class="metric-label">Session</span>
+            <strong id="sessionMinutes">0m</strong>
+          </div>
+        </div>
+        <div class="progress-block">
+          <div class="progress-label-row">
+            <span>Course library progress</span>
+            <span id="completionBadge">0%</span>
+          </div>
+          <div class="progress-bar"><div id="progressFill"></div></div>
+        </div>
+      </section>
+
+      <section class="sidebar-card">
+        <div class="card-title-row">
+          <h2>Continue</h2>
+        </div>
+        <button id="resumeBtn">Resume where you left off</button>
+        <button id="nextRecommendedBtn" class="secondary">Suggested next lesson</button>
+        <div id="nextRecommendation" class="helper-copy">Your next recommendation will appear here.</div>
+      </section>
+
+      <section class="sidebar-card">
+        <div class="card-title-row">
+          <h2>Explore Library</h2>
+        </div>
+        <label for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="Search courses, chapters, segments, topics" />
+
+        <label for="courseSelect">Course</label>
+        <select id="courseSelect"></select>
+
+        <label for="chapterSelect">Chapter</label>
+        <select id="chapterSelect"></select>
+
+        <label for="segmentSelect">Segment</label>
+        <select id="segmentSelect"></select>
+
+        <div class="button-stack">
+          <button id="markCompleteBtn">Mark complete</button>
+          <button id="bookmarkBtn" class="secondary">Bookmark lesson</button>
+          <button id="clearProgressBtn" class="danger">Reset all progress</button>
+        </div>
+      </section>
+
+      <section class="sidebar-card">
+        <div class="card-title-row">
+          <h2>Search Results</h2>
+          <span class="pill" id="searchCount">0</span>
+        </div>
+        <div id="searchResults" class="results empty">Start typing to search the course library.</div>
+      </section>
+
+      <section class="sidebar-card">
+        <div class="card-title-row">
+          <h2>Bookmarks</h2>
+        </div>
+        <div id="bookmarkList" class="results empty">No bookmarks yet.</div>
+      </section>
+    </aside>
+
+    <main class="main">
+      <header class="hero">
+        <div>
+          <div class="eyebrow">Arkansas Civics Platform</div>
+          <h2 id="lessonTitle">Loading learning system…</h2>
+          <p class="muted" id="lessonMeta">Preparing real course content and progress state.</p>
+        </div>
+
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span class="stat-label">Courses</span>
+            <strong id="courseCount">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Chapters</span>
+            <strong id="chapterCount">0</strong>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Segments</span>
+            <strong id="segmentCount">0</strong>
+          </div>
+          <div class="stat-card highlight">
+            <span class="stat-label">Streak</span>
+            <strong id="streakCount">1 day</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="dashboard-grid">
+        <article class="panel reader-panel">
+          <div class="panel-header">
+            <div>
+              <div class="eyebrow">Lesson Reader</div>
+              <h3 id="segmentHeading">Loading content…</h3>
+            </div>
+            <div id="activePath" class="path"></div>
+          </div>
+
+          <div class="reader-meta">
+            <div id="segmentTags" class="tag-row"></div>
+            <div class="reader-stats">
+              <span id="wordCount" class="muted"></span>
+              <span id="readTime" class="muted"></span>
+            </div>
+          </div>
+
+          <div class="callout-grid">
+            <div class="callout">
+              <div class="callout-title">Why this matters</div>
+              <div id="whyItMatters">This lesson builds the civic vocabulary and context needed to understand how local power works.</div>
+            </div>
+            <div class="callout">
+              <div class="callout-title">Learning action</div>
+              <div id="learningAction">Finish this segment, bookmark it if it is useful, then move to the recommended next lesson.</div>
+            </div>
+          </div>
+
+          <div id="segmentContent" class="markdown-body"></div>
+        </article>
+
+        <aside class="panel right-rail">
+          <div class="panel-header">
+            <div>
+              <div class="eyebrow">Learning System</div>
+              <h3>Next Steps</h3>
+            </div>
+          </div>
+
+          <section class="rail-section">
+            <h4>Recommended Next</h4>
+            <div id="recommendedList" class="rail-list"></div>
+          </section>
+
+          <section class="rail-section">
+            <h4>Chapter Navigator</h4>
+            <div id="segmentList" class="rail-list"></div>
+          </section>
+
+          <section class="rail-section">
+            <h4>Pathway Tracks</h4>
+            <div id="trackList" class="rail-list"></div>
+          </section>
+        </aside>
+      </section>
+    </main>
+  </div>
+
+  <script src="../../../exports/dashboard/phase10_content.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

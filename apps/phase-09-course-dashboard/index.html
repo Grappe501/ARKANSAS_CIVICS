@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arkansas Civics — Activation Dashboard</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-kicker">Stand Up Arkansas</div>
+        <h1>Activation Portal</h1>
+        <p class="brand-copy">
+          Learn → Act → Reflect → Build Power
+        </p>
+      </div>
+
+      <div class="sidebar-block">
+        <label for="searchInput">Search</label>
+        <input id="searchInput" type="search" placeholder="Search lessons..." />
+      </div>
+
+      <div class="sidebar-grid">
+        <div class="sidebar-block">
+          <label for="courseSelect">Course</label>
+          <select id="courseSelect"></select>
+        </div>
+        <div class="sidebar-block">
+          <label for="chapterSelect">Chapter</label>
+          <select id="chapterSelect"></select>
+        </div>
+        <div class="sidebar-block">
+          <label for="segmentSelect">Lesson</label>
+          <select id="segmentSelect"></select>
+        </div>
+      </div>
+
+      <div class="button-grid">
+        <button id="markCompleteBtn">Complete Lesson</button>
+        <button id="bookmarkBtn" class="secondary">Bookmark</button>
+        <button id="resumeBtn" class="secondary">Resume</button>
+        <button id="clearProgressBtn" class="danger">Reset</button>
+      </div>
+
+      <!-- PROGRESS -->
+      <section class="sidebar-card">
+        <h2>Progress</h2>
+        <p id="completionBadge">0%</p>
+        <p id="missionCount">Missions: 0</p>
+      </section>
+
+      <!-- SEARCH -->
+      <section class="sidebar-card">
+        <h2>Search Results</h2>
+        <div id="searchResults" class="results empty"></div>
+      </section>
+
+      <!-- BOOKMARKS -->
+      <section class="sidebar-card">
+        <h2>Bookmarks</h2>
+        <div id="bookmarkList" class="results empty"></div>
+      </section>
+    </aside>
+
+    <!-- MAIN -->
+    <main class="main">
+
+      <!-- HEADER -->
+      <header class="hero">
+        <div>
+          <div class="brand-kicker">Arkansas Civics Platform</div>
+          <h2 id="lessonTitle">Loading lesson...</h2>
+          <p id="lessonMeta" class="muted"></p>
+        </div>
+
+        <div class="hero-stats">
+          <div class="stat-card">
+            <span>Courses</span>
+            <strong id="courseCount">0</strong>
+          </div>
+          <div class="stat-card">
+            <span>Chapters</span>
+            <strong id="chapterCount">0</strong>
+          </div>
+          <div class="stat-card">
+            <span>Lessons</span>
+            <strong id="segmentCount">0</strong>
+          </div>
+          <div class="stat-card highlight">
+            <span>Completed</span>
+            <strong id="completionStat">0</strong>
+          </div>
+        </div>
+      </header>
+
+      <!-- WORKSPACE -->
+      <section class="workspace">
+
+        <!-- ACTIVATION LESSON -->
+        <article class="panel reader-panel">
+
+          <div class="panel-header">
+            <h3 id="segmentHeading">Lesson</h3>
+            <div id="activePath" class="path"></div>
+          </div>
+
+          <!-- HOOK -->
+          <div class="activation-block hook">
+            <h4>Hook</h4>
+            <p id="hook"></p>
+          </div>
+
+          <!-- REALITY -->
+          <div class="activation-block reality">
+            <h4>Reality</h4>
+            <p id="reality"></p>
+          </div>
+
+          <!-- ACTION -->
+          <div class="activation-block action">
+            <h4>Take Action</h4>
+            <ul id="actions"></ul>
+            <button id="completeActionBtn">I Did This</button>
+          </div>
+
+          <!-- REFLECTION -->
+          <div class="activation-block reflection">
+            <h4>Reflection</h4>
+            <textarea id="reflectionInput" placeholder="Write your thoughts..."></textarea>
+            <button id="saveReflectionBtn">Save Reflection</button>
+          </div>
+
+          <!-- NEXT -->
+          <div class="activation-block next">
+            <h4>Next Step</h4>
+            <p id="nextStep"></p>
+            <button id="nextLessonBtn">Go to Next Lesson</button>
+          </div>
+
+        </article>
+
+        <!-- NAVIGATOR -->
+        <aside class="panel navigator-panel">
+          <h3>Lesson Navigator</h3>
+          <div id="segmentList" class="segment-list"></div>
+
+          <h3>Mission Log</h3>
+          <ul id="missionList"></ul>
+        </aside>
+
+      </section>
+
+    </main>
+  </div>
+
+  <script src="../../../exports/dashboard/phase12_content.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

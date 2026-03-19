@@ -1,4 +1,8 @@
 {
+  ".env": [
+    ".env",
+    "config\\.env"
+  ],
   "README.md": [
     "README.md",
     "apps\\admin\\README.md",
@@ -86,7 +90,9 @@
     "archive\\arkansas_civics_engine\\engine\\__init__.py",
     "archive\\engine_update\\arkansas_civics_engine\\engine\\__init__.py",
     "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\__init__.py",
-    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\__init__.py"
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\__init__.py",
+    "engine\\graph_persistence\\__init__.py",
+    "engine\\query_engine\\__init__.py"
   ],
   "build_all.py": [
     "scripts\\build_all.py",
@@ -98,6 +104,10 @@
   "generate_reader_site.py": [
     "scripts\\generate_reader_site.py",
     "archive\\pre_cleanup_backup_20260317_190631\\generate_reader_site.py"
+  ],
+  "influence_analyzer.py": [
+    "scripts\\influence_analyzer.py",
+    "engine\\query_engine\\influence_analyzer.py"
   ],
   "app.js": [
     "apps\\editor-dashboard\\app.js",
@@ -2528,7 +2538,8 @@
     "archive\\arkansas_civics_engine\\engine\\utils.py",
     "archive\\engine_update\\arkansas_civics_engine\\engine\\utils.py",
     "archive\\pre_cleanup_backup_20260317_190631\\arkansas_civics_engine\\engine\\utils.py",
-    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\utils.py"
+    "archive\\pre_cleanup_backup_20260317_190631\\engine_update\\arkansas_civics_engine\\engine\\utils.py",
+    "engine\\graph_persistence\\utils.py"
   ],
   "watch_notes.md": [
     "archive\\arkansas_civics_engine\\scripts\\watch_notes.md",

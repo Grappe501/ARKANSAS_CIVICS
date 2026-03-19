@@ -1,5 +1,11 @@
 [
   {
+    "path": ".env",
+    "suffix": "",
+    "size_bytes": 450,
+    "line_count": null
+  },
+  {
     "path": ".gitignore",
     "suffix": "",
     "size_bytes": 580,
@@ -38,8 +44,8 @@
   {
     "path": "README.md",
     "suffix": ".md",
-    "size_bytes": 1260,
-    "line_count": 32
+    "size_bytes": 2243,
+    "line_count": 71
   },
   {
     "path": "run_phase_05_engine.py",
@@ -130,6 +136,12 @@
     "suffix": ".py",
     "size_bytes": 10223,
     "line_count": 281
+  },
+  {
+    "path": "config\\.env",
+    "suffix": "",
+    "size_bytes": 450,
+    "line_count": null
   },
   {
     "path": "config\\api_strategy.md",
@@ -232,6 +244,12 @@
     "suffix": ".md",
     "size_bytes": 1658,
     "line_count": 54
+  },
+  {
+    "path": "docs\\PHASE_07_IMPLEMENTATION.md",
+    "suffix": ".md",
+    "size_bytes": 1658,
+    "line_count": 47
   },
   {
     "path": "engine\\ai_assistant.py",
@@ -414,6 +432,18 @@
     "line_count": 0
   },
   {
+    "path": "exports\\graph_persistence_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 696,
+    "line_count": 29
+  },
+  {
+    "path": "exports\\graph_schema.sql",
+    "suffix": ".sql",
+    "size_bytes": 3947,
+    "line_count": 118
+  },
+  {
     "path": "logs\\platform_kernel.log",
     "suffix": ".log",
     "size_bytes": 0,
@@ -430,6 +460,18 @@
     "suffix": ".py",
     "size_bytes": 6713,
     "line_count": 216
+  },
+  {
+    "path": "scripts\\build_arkansas_civic_dataset.py",
+    "suffix": ".py",
+    "size_bytes": 31411,
+    "line_count": 886
+  },
+  {
+    "path": "scripts\\build_arkansas_offline_dataset.py",
+    "suffix": ".py",
+    "size_bytes": 4726,
+    "line_count": 168
   },
   {
     "path": "scripts\\build_book.py",
@@ -516,6 +558,12 @@
     "line_count": 78
   },
   {
+    "path": "scripts\\build_phase_07_graph_persistence.py",
+    "suffix": ".py",
+    "size_bytes": 1518,
+    "line_count": 60
+  },
+  {
     "path": "scripts\\build_track_engine.py",
     "suffix": ".py",
     "size_bytes": 2596,
@@ -546,6 +594,18 @@
     "line_count": 328
   },
   {
+    "path": "scripts\\fix_phase07_future_imports_properly.py",
+    "suffix": ".py",
+    "size_bytes": 1620,
+    "line_count": 62
+  },
+  {
+    "path": "scripts\\fix_phase07_imports.py",
+    "suffix": ".py",
+    "size_bytes": 1390,
+    "line_count": 59
+  },
+  {
     "path": "scripts\\full_repo_audit.py",
     "suffix": ".py",
     "size_bytes": 5586,
@@ -558,10 +618,22 @@
     "line_count": 157
   },
   {
+    "path": "scripts\\influence_analyzer.py",
+    "suffix": ".py",
+    "size_bytes": 1007,
+    "line_count": 30
+  },
+  {
     "path": "scripts\\kernel_health_check.py",
     "suffix": ".py",
     "size_bytes": 383,
     "line_count": 20
+  },
+  {
+    "path": "scripts\\load_graph_to_supabase.py",
+    "suffix": ".py",
+    "size_bytes": 1849,
+    "line_count": 67
   },
   {
     "path": "scripts\\map_root_project.py",
@@ -574,6 +646,30 @@
     "suffix": ".py",
     "size_bytes": 4446,
     "line_count": 192
+  },
+  {
+    "path": "scripts\\query_civic_graph.py",
+    "suffix": ".py",
+    "size_bytes": 1141,
+    "line_count": 46
+  },
+  {
+    "path": "scripts\\query_connections.py",
+    "suffix": ".py",
+    "size_bytes": 836,
+    "line_count": 34
+  },
+  {
+    "path": "scripts\\query_influence.py",
+    "suffix": ".py",
+    "size_bytes": 3135,
+    "line_count": 111
+  },
+  {
+    "path": "scripts\\repair_future_imports.py",
+    "suffix": ".py",
+    "size_bytes": 1429,
+    "line_count": 63
   },
   {
     "path": "scripts\\seed_postgres_schema.sql",
@@ -16890,6 +16986,48 @@
     "line_count": 64
   },
   {
+    "path": "engine\\graph_persistence\\edge_builder.py",
+    "suffix": ".py",
+    "size_bytes": 1763,
+    "line_count": 48
+  },
+  {
+    "path": "engine\\graph_persistence\\graph_indexer.py",
+    "suffix": ".py",
+    "size_bytes": 1100,
+    "line_count": 37
+  },
+  {
+    "path": "engine\\graph_persistence\\graph_ingestor.py",
+    "suffix": ".py",
+    "size_bytes": 2583,
+    "line_count": 73
+  },
+  {
+    "path": "engine\\graph_persistence\\node_builder.py",
+    "suffix": ".py",
+    "size_bytes": 1312,
+    "line_count": 34
+  },
+  {
+    "path": "engine\\graph_persistence\\supabase_connector.py",
+    "suffix": ".py",
+    "size_bytes": 2552,
+    "line_count": 72
+  },
+  {
+    "path": "engine\\graph_persistence\\utils.py",
+    "suffix": ".py",
+    "size_bytes": 968,
+    "line_count": 37
+  },
+  {
+    "path": "engine\\graph_persistence\\__init__.py",
+    "suffix": ".py",
+    "size_bytes": 261,
+    "line_count": 11
+  },
+  {
     "path": "engine\\ingestors\\hearing_ingestor.py",
     "suffix": ".py",
     "size_bytes": 533,
@@ -16906,6 +17044,24 @@
     "suffix": ".py",
     "size_bytes": 519,
     "line_count": 23
+  },
+  {
+    "path": "engine\\query_engine\\graph_query_engine.py",
+    "suffix": ".py",
+    "size_bytes": 1137,
+    "line_count": 40
+  },
+  {
+    "path": "engine\\query_engine\\influence_analyzer.py",
+    "suffix": ".py",
+    "size_bytes": 1018,
+    "line_count": 32
+  },
+  {
+    "path": "engine\\query_engine\\__init__.py",
+    "suffix": ".py",
+    "size_bytes": 0,
+    "line_count": 0
   },
   {
     "path": "engine\\dashboard_templates\\functions\\chapter-context.js",
@@ -17018,8 +17174,8 @@
   {
     "path": "exports\\graph_expansion\\civic_graph_expansion.json",
     "suffix": ".json",
-    "size_bytes": 812,
-    "line_count": 38
+    "size_bytes": 147173,
+    "line_count": 5704
   },
   {
     "path": "exports\\graph_expansion\\civic_graph_expansion.md",
@@ -17032,6 +17188,30 @@
     "suffix": ".json",
     "size_bytes": 942,
     "line_count": 42
+  },
+  {
+    "path": "exports\\graph_persistence\\phase_07_build_manifest.json",
+    "suffix": ".json",
+    "size_bytes": 211,
+    "line_count": 10
+  },
+  {
+    "path": "exports\\graph_persistence\\phase_07_edges.json",
+    "suffix": ".json",
+    "size_bytes": 288656,
+    "line_count": 8825
+  },
+  {
+    "path": "exports\\graph_persistence\\phase_07_indexes.json",
+    "suffix": ".json",
+    "size_bytes": 752,
+    "line_count": 37
+  },
+  {
+    "path": "exports\\graph_persistence\\phase_07_nodes.json",
+    "suffix": ".json",
+    "size_bytes": 117870,
+    "line_count": 4631
   },
   {
     "path": "exports\\identity\\identity_index.json",
@@ -17090,26 +17270,26 @@
   {
     "path": "exports\\project_map\\project_files.json",
     "suffix": ".json",
-    "size_bytes": 868568,
-    "line_count": 26242
+    "size_bytes": 874472,
+    "line_count": 26482
   },
   {
     "path": "exports\\project_map\\project_summary.json",
     "suffix": ".json",
-    "size_bytes": 758,
-    "line_count": 42
+    "size_bytes": 771,
+    "line_count": 43
   },
   {
     "path": "exports\\project_map\\project_tree.txt",
     "suffix": ".txt",
-    "size_bytes": 235078,
-    "line_count": 4102
+    "size_bytes": 236505,
+    "line_count": 4138
   },
   {
     "path": "exports\\project_map\\top_folder_report.md",
     "suffix": ".md",
-    "size_bytes": 349772,
-    "line_count": 3359
+    "size_bytes": 350981,
+    "line_count": 3393
   },
   {
     "path": "exports\\reader_site\\course_01_civic_awakening_chapter_01.html",
@@ -17690,44 +17870,44 @@
   {
     "path": "exports\\repo_audit\\duplicate_filenames.json",
     "suffix": ".json",
-    "size_bytes": 342467,
-    "line_count": 2945
+    "size_bytes": 363852,
+    "line_count": 3179
   },
   {
     "path": "exports\\repo_audit\\files.json",
     "suffix": ".json",
-    "size_bytes": 618683,
-    "line_count": 17978
+    "size_bytes": 669216,
+    "line_count": 19682
   },
   {
     "path": "exports\\repo_audit\\largest_files.json",
     "suffix": ".json",
-    "size_bytes": 3982,
+    "size_bytes": 4013,
     "line_count": 152
   },
   {
     "path": "exports\\repo_audit\\python_scripts.json",
     "suffix": ".json",
-    "size_bytes": 1888,
-    "line_count": 45
+    "size_bytes": 6243,
+    "line_count": 121
   },
   {
     "path": "exports\\repo_audit\\summary.json",
     "suffix": ".json",
-    "size_bytes": 1569,
-    "line_count": 105
+    "size_bytes": 1902,
+    "line_count": 126
   },
   {
     "path": "exports\\repo_audit\\tree.txt",
     "suffix": ".txt",
-    "size_bytes": 212780,
-    "line_count": 3676
+    "size_bytes": 235078,
+    "line_count": 4102
   },
   {
     "path": "exports\\system_map\\architecture_report.md",
     "suffix": ".md",
-    "size_bytes": 6485,
-    "line_count": 181
+    "size_bytes": 7681,
+    "line_count": 222
   },
   {
     "path": "exports\\system_map\\course_inventory.json",
@@ -17738,14 +17918,14 @@
   {
     "path": "exports\\system_map\\dashboard_inventory.json",
     "suffix": ".json",
-    "size_bytes": 363,
-    "line_count": 17
+    "size_bytes": 480,
+    "line_count": 20
   },
   {
     "path": "exports\\system_map\\engine_inventory.json",
     "suffix": ".json",
-    "size_bytes": 275,
-    "line_count": 13
+    "size_bytes": 822,
+    "line_count": 32
   },
   {
     "path": "exports\\system_map\\kernel_health_report.json",
@@ -17768,26 +17948,26 @@
   {
     "path": "exports\\system_map\\project_tree.txt",
     "suffix": ".txt",
-    "size_bytes": 237377,
-    "line_count": 6454
+    "size_bytes": 252582,
+    "line_count": 6849
   },
   {
     "path": "exports\\system_map\\script_inventory.json",
     "suffix": ".json",
-    "size_bytes": 629,
-    "line_count": 24
+    "size_bytes": 1284,
+    "line_count": 43
   },
   {
     "path": "exports\\system_map\\system_architecture.json",
     "suffix": ".json",
-    "size_bytes": 165827,
-    "line_count": 1482
+    "size_bytes": 167441,
+    "line_count": 1538
   },
   {
     "path": "exports\\system_map\\system_architecture.md",
     "suffix": ".md",
-    "size_bytes": 3708,
-    "line_count": 121
+    "size_bytes": 4156,
+    "line_count": 133
   },
   {
     "path": "exports\\tracks\\track_index.json",

@@ -1,6 +1,9 @@
 [
   "app.js",
   "autonomous-course-panel.html",
+  "civic-intelligence-dashboard.css",
+  "civic-intelligence-dashboard.html",
+  "civic-intelligence-dashboard.js",
   "civic-intelligence-map.js",
   "content",
   "content-manifest.json",

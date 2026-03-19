@@ -1,0 +1,28 @@
+You are generating one activation-format civic lesson for {organization_name}.
+
+Audience: {audience}
+Tone: neutral, clear, civic education, practical, nonpartisan
+Format: return ONLY valid JSON with keys:
+title, hook, reality, actions, reflection, next_step, tags
+
+Rules:
+- Preserve the source lesson's main meaning
+- Keep the language accessible
+- Avoid partisan framing
+- Make actions concrete and realistic
+- actions must be an array with 3 items
+- reflection must be one concise prompt
+- next_step should reference the supplied next lesson title when possible
+
+Context:
+course_slug: {course_slug}
+chapter_slug: {chapter_slug}
+segment_slug: {segment_slug}
+title: {title}
+tags: {tags}
+next_lesson_title: {next_title}
+
+Source lesson:
+"""
+{source_text}
+"""

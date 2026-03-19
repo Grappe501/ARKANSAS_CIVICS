@@ -26,14 +26,14 @@
   {
     "path": "exports\\project_map\\project_files.json",
     "suffix": ".json",
-    "size_bytes": 868568,
-    "line_count": 26242
+    "size_bytes": 874472,
+    "line_count": 26482
   },
   {
     "path": "exports\\repo_audit\\files.json",
     "suffix": ".json",
-    "size_bytes": 618683,
-    "line_count": 17978
+    "size_bytes": 669216,
+    "line_count": 19682
   },
   {
     "path": "exports\\book\\compiled_book.md",
@@ -42,16 +42,16 @@
     "line_count": 29244
   },
   {
-    "path": "exports\\project_map\\top_folder_report.md",
-    "suffix": ".md",
-    "size_bytes": 349772,
-    "line_count": 3359
-  },
-  {
     "path": "exports\\repo_audit\\duplicate_filenames.json",
     "suffix": ".json",
-    "size_bytes": 342467,
-    "line_count": 2945
+    "size_bytes": 363852,
+    "line_count": 3179
+  },
+  {
+    "path": "exports\\project_map\\top_folder_report.md",
+    "suffix": ".md",
+    "size_bytes": 350981,
+    "line_count": 3393
   },
   {
     "path": "apps\\editor-dashboard\\content-manifest.json",
@@ -60,28 +60,46 @@
     "line_count": 6829
   },
   {
+    "path": "exports\\graph_persistence\\phase_07_edges.json",
+    "suffix": ".json",
+    "size_bytes": 288656,
+    "line_count": 8825
+  },
+  {
     "path": "exports\\system_map\\project_tree.txt",
     "suffix": ".txt",
-    "size_bytes": 237377,
-    "line_count": 6454
+    "size_bytes": 252582,
+    "line_count": 6849
   },
   {
     "path": "exports\\project_map\\project_tree.txt",
+    "suffix": ".txt",
+    "size_bytes": 236505,
+    "line_count": 4138
+  },
+  {
+    "path": "exports\\repo_audit\\tree.txt",
     "suffix": ".txt",
     "size_bytes": 235078,
     "line_count": 4102
   },
   {
-    "path": "exports\\repo_audit\\tree.txt",
-    "suffix": ".txt",
-    "size_bytes": 212780,
-    "line_count": 3676
-  },
-  {
     "path": "exports\\system_map\\system_architecture.json",
     "suffix": ".json",
-    "size_bytes": 165827,
-    "line_count": 1482
+    "size_bytes": 167441,
+    "line_count": 1538
+  },
+  {
+    "path": "exports\\graph_expansion\\civic_graph_expansion.json",
+    "suffix": ".json",
+    "size_bytes": 147173,
+    "line_count": 5704
+  },
+  {
+    "path": "exports\\graph_persistence\\phase_07_nodes.json",
+    "suffix": ".json",
+    "size_bytes": 117870,
+    "line_count": 4631
   },
   {
     "path": "exports\\course_engine\\course_01_civic_awakening\\course_package.json",
@@ -130,23 +148,5 @@
     "suffix": ".zip",
     "size_bytes": 55139,
     "line_count": null
-  },
-  {
-    "path": "exports\\lesson_player\\course_08_messaging_media_and_narrative\\lesson_player_course.json",
-    "suffix": ".json",
-    "size_bytes": 50870,
-    "line_count": 769
-  },
-  {
-    "path": "exports\\lesson_player\\course_04_voting_systems_and_representation\\lesson_player_course.json",
-    "suffix": ".json",
-    "size_bytes": 50777,
-    "line_count": 769
-  },
-  {
-    "path": "exports\\lesson_player\\course_10_opposition_pushback_and_rule_changes\\lesson_player_course.json",
-    "suffix": ".json",
-    "size_bytes": 50701,
-    "line_count": 769
   }
 ]

@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Overview",
+    "hook": "Many people want to participate in civic life but aren\u2019t sure where to start.",
+    "reality": "Civic systems can seem complex, but they are made up of structured processes that are accessible once understood.",
+    "actions": [
+      "Identify one local government body in your area",
+      "Visit their website",
+      "Write down what they are responsible for"
+    ],
+    "reflection": "What part of local government feels most unfamiliar to you?",
+    "next": "Reader Psychology"
+  },
+  {
+    "title": "Reader Psychology",
+    "hook": "Understanding how people think about government helps explain participation gaps.",
+    "reality": "Many people feel their voice doesn\u2019t matter, which reduces engagement over time.",
+    "actions": [
+      "Ask someone if they feel their vote matters",
+      "Compare answers",
+      "Reflect on why"
+    ],
+    "reflection": "Why do you think people disengage from civic processes?",
+    "next": "Arkansas Story Anchor"
+  },
+  {
+    "title": "Arkansas Story Anchor",
+    "hook": "Local stories often reflect broader civic patterns.",
+    "reality": "Individual experiences with government can reveal how systems function in practice.",
+    "actions": [
+      "Write a personal experience with government",
+      "Identify level (city/state)",
+      "Find related office"
+    ],
+    "reflection": "What did you learn about how decisions are made?",
+    "next": "Historical Context"
+  },
+  {
+    "title": "Historical Context",
+    "hook": "Today\u2019s systems are shaped by past decisions.",
+    "reality": "Policies and structures evolve over time and influence current outcomes.",
+    "actions": [
+      "Research one local policy history",
+      "Identify key changes",
+      "Note impacts"
+    ],
+    "reflection": "How does history affect current decisions?",
+    "next": "Data and Demographics"
+  },
+  {
+    "title": "Data and Demographics",
+    "hook": "Numbers help explain trends in communities.",
+    "reality": "Population, income, and voting data influence policy priorities.",
+    "actions": [
+      "Look up local census data",
+      "Identify 3 trends",
+      "Compare to perception"
+    ],
+    "reflection": "Did the data match your expectations?",
+    "next": "Framework or Model"
+  },
+  {
+    "title": "Framework or Model",
+    "hook": "Frameworks help organize complex systems.",
+    "reality": "Civic processes follow patterns that can be learned and repeated.",
+    "actions": [
+      "Map a decision process",
+      "Identify steps",
+      "Find who is involved"
+    ],
+    "reflection": "What step surprised you most?",
+    "next": "Power Mapping Basics"
+  },
+  {
+    "title": "Power Mapping Basics",
+    "hook": "Power is distributed across roles and relationships.",
+    "reality": "Understanding who influences decisions is key to engagement.",
+    "actions": [
+      "List decision makers",
+      "Identify influencers",
+      "Map connections"
+    ],
+    "reflection": "Who has the most influence and why?",
+    "next": "Who Actually Decides"
+  },
+  {
+    "title": "Who Actually Decides",
+    "hook": "Decisions are made by specific individuals and groups.",
+    "reality": "Formal roles and informal influence both shape outcomes.",
+    "actions": [
+      "Identify a recent decision",
+      "Find who voted",
+      "Look for influences"
+    ],
+    "reflection": "Did anything surprise you about the decision process?",
+    "next": "Public Meetings Reality"
+  },
+  {
+    "title": "Public Meetings Reality",
+    "hook": "Public meetings are where decisions happen openly.",
+    "reality": "Attendance and participation can influence outcomes.",
+    "actions": [
+      "Find next meeting",
+      "Attend or watch",
+      "Take notes"
+    ],
+    "reflection": "How accessible was the meeting?",
+    "next": "First Civic Action"
+  },
+  {
+    "title": "First Civic Action",
+    "hook": "Taking action builds confidence.",
+    "reality": "Small steps lead to greater civic engagement over time.",
+    "actions": [
+      "Contact one official",
+      "Ask one question",
+      "Record response"
+    ],
+    "reflection": "How did taking action feel?",
+    "next": "Continue Learning"
+  }
+]

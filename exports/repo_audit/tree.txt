@@ -1681,6 +1681,7 @@ ARKANSAS_CIVICS
 │   ├── seed_chapter_03.py
 │   └── seed_chapter_04.py
 ├── config
+│   ├── .env
 │   ├── api_strategy.md
 │   ├── certification_tiers.json
 │   ├── database.json
@@ -3377,6 +3378,9 @@ ARKANSAS_CIVICS
 │   │   └── policy_impacts
 │   ├── identity
 │   │   └── learners
+│   ├── openstates_arkansas
+│   │   ├── normalized
+│   │   └── raw
 │   ├── processed
 │   ├── raw
 │   └── registry
@@ -3425,7 +3429,8 @@ ARKANSAS_CIVICS
 │   ├── PHASE_02_INSTALL.md
 │   ├── PHASE_03_PROGRESS_CREDENTIALS_INSTALL.md
 │   ├── PHASE_04_DATABASE_LAYER.md
-│   └── PHASE_06_CIVIC_KNOWLEDGE_GRAPH_EXPANSION_INSTALL.md
+│   ├── PHASE_06_CIVIC_KNOWLEDGE_GRAPH_EXPANSION_INSTALL.md
+│   └── PHASE_07_IMPLEMENTATION.md
 ├── engine
 │   ├── dashboard_templates
 │   │   ├── functions
@@ -3443,10 +3448,22 @@ ARKANSAS_CIVICS
 │   │   ├── donor_influence_expander.py
 │   │   ├── legislator_graph_expander.py
 │   │   └── policy_impact_expander.py
+│   ├── graph_persistence
+│   │   ├── __init__.py
+│   │   ├── edge_builder.py
+│   │   ├── graph_indexer.py
+│   │   ├── graph_ingestor.py
+│   │   ├── node_builder.py
+│   │   ├── supabase_connector.py
+│   │   └── utils.py
 │   ├── ingestors
 │   │   ├── hearing_ingestor.py
 │   │   ├── legislation_ingestor.py
 │   │   └── pdf_ingestor.py
+│   ├── query_engine
+│   │   ├── __init__.py
+│   │   ├── graph_query_engine.py
+│   │   └── influence_analyzer.py
 │   ├── __init__.py
 │   ├── ai_assistant.py
 │   ├── api_server.py
@@ -3844,6 +3861,11 @@ ARKANSAS_CIVICS
 │   │   ├── civic_graph_expansion.json
 │   │   ├── civic_graph_expansion.md
 │   │   └── civic_graph_manifest.json
+│   ├── graph_persistence
+│   │   ├── phase_07_build_manifest.json
+│   │   ├── phase_07_edges.json
+│   │   ├── phase_07_indexes.json
+│   │   └── phase_07_nodes.json
 │   ├── identity
 │   │   └── identity_index.json
 │   ├── knowledge_graph
@@ -4047,7 +4069,9 @@ ARKANSAS_CIVICS
 │   │   │   ├── track_definition.json
 │   │   │   └── track_definition.md
 │   │   └── track_index.json
-│   └── web
+│   ├── web
+│   ├── graph_persistence_manifest.json
+│   └── graph_schema.sql
 ├── logs
 │   └── platform_kernel.log
 ├── netlify
@@ -4061,6 +4085,8 @@ ARKANSAS_CIVICS
 ├── scripts
 │   ├── ai_course_designer.py
 │   ├── build_all.py
+│   ├── build_arkansas_civic_dataset.py
+│   ├── build_arkansas_offline_dataset.py
 │   ├── build_book.py
 │   ├── build_civic_intelligence_map.py
 │   ├── build_civic_intelligence_system.py
@@ -4075,16 +4101,25 @@ ARKANSAS_CIVICS
 │   ├── build_phase_03_progress_credentials.py
 │   ├── build_phase_04_database.py
 │   ├── build_phase_06_graph_expansion.py
+│   ├── build_phase_07_graph_persistence.py
 │   ├── build_track_engine.py
 │   ├── cleanup_repo.py
 │   ├── copy_dashboard_content.py
 │   ├── editor_dashboard_generator.py
 │   ├── export_rise_course.py
+│   ├── fix_phase07_future_imports_properly.py
+│   ├── fix_phase07_imports.py
 │   ├── full_repo_audit.py
 │   ├── generate_reader_site.py
+│   ├── influence_analyzer.py
 │   ├── kernel_health_check.py
+│   ├── load_graph_to_supabase.py
 │   ├── map_root_project.py
 │   ├── master_system_mapper.py
+│   ├── query_civic_graph.py
+│   ├── query_connections.py
+│   ├── query_influence.py
+│   ├── repair_future_imports.py
 │   ├── seed_postgres_schema.sql
 │   ├── system_mapper.py
 │   ├── upgrade_editor_dashboard_architecture.py
@@ -4092,6 +4127,7 @@ ARKANSAS_CIVICS
 │   └── watch_content.py
 ├── tests
 ├── tmp
+├── .env
 ├── .gitignore
 ├── merge_engine_update.py
 ├── netlify.toml
